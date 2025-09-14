@@ -1,7 +1,25 @@
 {
-  "count": 20,
-  "lastUpdated": "2025-09-14T11:56:30.740678Z",
+  "count": 21,
+  "lastUpdated": "2025-09-14T23:52:09.584562Z",
   "recent": [
+    {
+      "canonical_hash": "cb3ebbf6473442c452bd96d76ebfce45249a633b7fbb72632ea572abba9966f2",
+      "fetched_at": "2025-09-14T23:52:09.565287Z",
+      "id": "cebda1033223b0c2c5d58f3bbfbebf3305d1407ec2cc2e32f66422b13bb04f9d",
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10a/live/fec88e30-8fe3-11f0-b391-6936825093bd.jpg"
+      ],
+      "published_at": "2025-09-14T20:59:49Z",
+      "source": {
+        "domain": "bbc.com",
+        "id": "bbc-world-asia",
+        "name": "BBC News - World Asia"
+      },
+      "store_path": "domains/_store/ce/cebda1033223b0c2c5d58f3bbfbebf3305d1407ec2cc2e32f66422b13bb04f9d.json",
+      "title": "'My wife died giving birth after Trump cut funding to our clinic'",
+      "url": "https://www.bbc.com/news/articles/ckgqdneev1no?at_medium=RSS&at_campaign=rss",
+      "version": 1
+    },
     {
       "canonical_hash": "54d9906cdb72b588bd57de142fc8c27a66526c954525389623939e5fdb8d6f95",
       "fetched_at": "2025-09-14T11:56:30.590327Z",
