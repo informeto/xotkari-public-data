@@ -1,7 +1,531 @@
 {
-  "count": 340,
-  "lastUpdated": "2025-09-15T06:36:12.445364Z",
+  "count": 374,
+  "lastUpdated": "2025-09-15T06:57:20.562703Z",
   "recent": [
+    {
+      "canonical_hash": "1d1de0a1d8a9282f1818a7693a3d1b063a935e6570716d2345f40c0506414305",
+      "fetched_at": "2025-09-15T06:56:48.600302Z",
+      "id": "bf9f568ad1f71887aa59a28a85dbf01d946b53f19e415068e659261b0121d407",
+      "images": [],
+      "published_at": "2025-09-15T06:56:48.600302Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/bf/bf9f568ad1f71887aa59a28a85dbf01d946b53f19e415068e659261b0121d407.json",
+      "title": "नवनियुक्त मन्त्रीहरूले लिए शपथ",
+      "url": "https://thahakhabar.com/news/235470",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-15T06:56:48.575716Z",
+      "id": "6ad63e60ca49220f09be217c026f4c3c56135336a027c4e05ae203c3b92d5abd",
+      "images": [],
+      "published_at": "2025-09-15T06:56:48.575716Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/6a/6ad63e60ca49220f09be217c026f4c3c56135336a027c4e05ae203c3b92d5abd.json",
+      "title": "कार्टून",
+      "url": "https://thahakhabar.com/news/235471",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6424bfb2b96d912215a4efe95519fc61698ff752c24e8a6f36260e8facb79102",
+      "fetched_at": "2025-09-15T06:56:50.218510Z",
+      "id": "955068cb0037cdfc4a3b2b6c426f61de13e9275affa4a655b15eaaf2ee03c9ce",
+      "images": [],
+      "published_at": "2025-09-15T06:56:38Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/95/955068cb0037cdfc4a3b2b6c426f61de13e9275affa4a655b15eaaf2ee03c9ce.json",
+      "title": "अर्थमन्त्री खनाललाई प्रधानमन्त्री पछिको वरीयता",
+      "url": "https://lokaantar.com/story/299194/2025/9/15/main-news/rameshwar-khanal-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f96ef3adf82b78af5aa73a9ca3c11ae24900be8faa428b714246aeeb081c7f7d",
+      "fetched_at": "2025-09-15T06:56:53.894949Z",
+      "id": "108932906dd9f4c3a1793d8b467b29a5c4d1612ea9d79205df9d080533bdef56",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2022/07/नगदसहित-पक्राउ-1-150x150.jpg"
+      ],
+      "published_at": "2025-09-15T06:55:49Z",
+      "source": {
+        "domain": "newsofnepal.com",
+        "id": "newsofnepal",
+        "name": "नेपाल समाचारपत्र"
+      },
+      "store_path": "domains/_store/10/108932906dd9f4c3a1793d8b467b29a5c4d1612ea9d79205df9d080533bdef56.json",
+      "title": "स्रोत नखुलेको नगद सहित तीन जना पक्राउ",
+      "url": "https://newsofnepal.com/2025/09/15/731310/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "2a5b214e28e28dbdf87c3ae57f21c7fa5cdfd8c19889b2e3fd5dd584e181d30f",
+      "fetched_at": "2025-09-15T06:57:14.564362Z",
+      "id": "bd8344e714cb870953183781c13e15d6e4ee5990cbde8cbb6b0a4944fd5c0dcf",
+      "images": [
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15123618/Mantri_sapath-6.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15123638/Mantri_sapath-1.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15123637/Mantri_sapath-8.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15123637/Mantri_sapath-7.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15123621/Mantri_sapath-2.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15123620/Mantri_sapath-1.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15123619/Mantri_sapath-8.jpg"
+      ],
+      "published_at": "2025-09-15T06:54:17Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/bd/bd8344e714cb870953183781c13e15d6e4ee5990cbde8cbb6b0a4944fd5c0dcf.json",
+      "title": "यस्तो छ नयाँ सरकारका तीन मन्त्रीको शपथको माहोल (तस्बिरहरू)",
+      "url": "https://deshsanchar.com/2025/09/15/1093597/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8d2a14caae5145dca5cfebe4b9660bb896b58532f46f849513db218ae1e612b7",
+      "fetched_at": "2025-09-15T06:57:17.162318Z",
+      "id": "c1ab19108e4b67852a96414bf67dd8a2649cb31292d494d7b382a36799f6883c",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2021/05/pakrau-arrest-3-400x220.jpg"
+      ],
+      "published_at": "2025-09-15T06:53:51Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/c1/c1ab19108e4b67852a96414bf67dd8a2649cb31292d494d7b382a36799f6883c.json",
+      "title": "स्रोत नखुलेको नगदसहित तीन जना पक्राउ",
+      "url": "https://khabarhub.com/2025/15/852061/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "48e1d14e8d8270037e34974d1bea81e8bbb439e6c941743d1fb004642beffc57",
+      "fetched_at": "2025-09-15T06:56:40.092309Z",
+      "id": "8fb1d9e24d31f2da6769387042247c8ef8bd805767aba82611da58da799596d4",
+      "images": [],
+      "published_at": "2025-09-15T06:53:08Z",
+      "source": {
+        "domain": "ujyaaloonline.com",
+        "id": "ujyaaloonline",
+        "name": "उज्यालो अनलाइन"
+      },
+      "store_path": "domains/_store/8f/8fb1d9e24d31f2da6769387042247c8ef8bd805767aba82611da58da799596d4.json",
+      "title": "नवनियुक्त अर्थ, ऊर्जा र गृहमन्त्रीले शपथ लिए",
+      "url": "https://ujyaaloonline.com/story/120066/2025/9/15/Finance-energy-and-home-ministers-sworn-in",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9b1619dec94ce6aee73db310cac474749a17994c1032cc55692ee3aa7f971708",
+      "fetched_at": "2025-09-15T06:56:38.006245Z",
+      "id": "05c2669998e71433fd942844231fea2ac786983a91c392e8e3a4d93eaa76eb71",
+      "images": [],
+      "published_at": "2025-09-15T06:53:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/05/05c2669998e71433fd942844231fea2ac786983a91c392e8e3a4d93eaa76eb71.json",
+      "title": "मन्त्रीहरूमा रामेश्वर खनाललाई पहिलो वरीयता",
+      "url": "https://www.setopati.com/politics/369366",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f87d36d51875f28f4f9f9ac84981b0175a7843e8c666f779d692e4de1a6e320d",
+      "fetched_at": "2025-09-15T06:56:38.034719Z",
+      "id": "972bfb1a074469e112aee15e508d0a44e4bc2b71080d972d2e05ac9ccf02c1ad",
+      "images": [],
+      "published_at": "2025-09-15T06:52:54Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/97/972bfb1a074469e112aee15e508d0a44e4bc2b71080d972d2e05ac9ccf02c1ad.json",
+      "title": "युनिभर्सल पावरको लाभांश घोषणा, हकप्रद पनि दिने",
+      "url": "https://www.setopati.com/kinmel/banking/369367",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ebfbb229cc2c20628bd7bf7da64c0258d028d200300d1a95e53dbda870d2ea02",
+      "fetched_at": "2025-09-15T06:56:53.920960Z",
+      "id": "62db7faa24df9d0a3d2dbb72f892821ab78446b59fa2f639a364b70b8aaf7413",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2021/09/ipo1618982538_768-150x150.jpg"
+      ],
+      "published_at": "2025-09-15T06:52:31Z",
+      "source": {
+        "domain": "newsofnepal.com",
+        "id": "newsofnepal",
+        "name": "नेपाल समाचारपत्र"
+      },
+      "store_path": "domains/_store/62/62db7faa24df9d0a3d2dbb72f892821ab78446b59fa2f639a364b70b8aaf7413.json",
+      "title": "सागर डिष्टिलरीको आइपिओ खुला",
+      "url": "https://newsofnepal.com/2025/09/15/731308/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d3580657f6f1c80ca18d49e8b204f065a67f98a0532b0d083f15b2e636c08135",
+      "fetched_at": "2025-09-15T06:57:17.505974Z",
+      "id": "f1641df0e9a15928022693a3a6113604ae1d8b4652dfcf17eb359862c487e92f",
+      "images": [],
+      "published_at": "2025-09-15T06:51:44Z",
+      "source": {
+        "domain": "hamrokhelkud.com",
+        "id": "hamrokhelkud",
+        "name": "Hamro Khelkud"
+      },
+      "store_path": "domains/_store/f1/f1641df0e9a15928022693a3a6113604ae1d8b4652dfcf17eb359862c487e92f.json",
+      "title": "साफ यु १७ – नेपाल र श्रीलंका खेल्दै",
+      "url": "https://www.hamrokhelkud.com/football/165706.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "33b4d7f2d42e152f39f2d949d611c19aea69a427edb39e9920c8b891c7149a3b",
+      "fetched_at": "2025-09-15T06:57:17.189299Z",
+      "id": "ab273843b8c28088f6dba8002b6e6ce3242593b39569dff9764d3b9b997aca58",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1-400x220.jpg"
+      ],
+      "published_at": "2025-09-15T06:50:31Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/ab/ab273843b8c28088f6dba8002b6e6ce3242593b39569dff9764d3b9b997aca58.json",
+      "title": "जापानिज इन्सेफ्लाइटिसका कारण पाँच जनाको मृत्यु",
+      "url": "https://khabarhub.com/2025/15/852080/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "081c24557ac3fc1ee49887bd8d7973e749ad79b75d100d91e1be6d798b4301a3",
+      "fetched_at": "2025-09-15T06:57:06.027532Z",
+      "id": "5115e8a57f2a3eea31df67dde666180ea1938321e9ae96ca8dd68b3c14e844b8",
+      "images": [],
+      "published_at": "2025-09-15T06:48:05Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/51/5115e8a57f2a3eea31df67dde666180ea1938321e9ae96ca8dd68b3c14e844b8.json",
+      "title": "नवनियुक्त तीन मन्त्रीले लिए शपथ",
+      "url": "https://www.prasashan.com/2025/09/15/701281/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a605bd8f226f915cda0a88c7b23bdf56b2f7ff737aaa6bd5323359a50395aa40",
+      "fetched_at": "2025-09-15T06:56:58.867172Z",
+      "id": "1e3a9a20d59471262068826cb593d176104e61758d9d643a6ad47b0bbb5b4592",
+      "images": [],
+      "published_at": "2025-09-15T06:46:54Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/1e/1e3a9a20d59471262068826cb593d176104e61758d9d643a6ad47b0bbb5b4592.json",
+      "title": "अख्तियारद्वारा लुटपाट एवं चोरी गरिएका सामान बुझाउन आग्रह",
+      "url": "https://www.reportersnepal.com/2025/09/1128585/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6df1b1e968523fbd6f916e6fe3a300aae387dc69abc9130b33c025e44343d91c",
+      "fetched_at": "2025-09-15T06:56:50.245848Z",
+      "id": "2449a7a315cf47a5534042d87c158e493e2ee973a632f3c41192ffca2d172e76",
+      "images": [],
+      "published_at": "2025-09-15T06:46:07Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/24/2449a7a315cf47a5534042d87c158e493e2ee973a632f3c41192ffca2d172e76.json",
+      "title": "सागर डिस्टिलरीको आईपीओ खुला",
+      "url": "https://lokaantar.com/story/299192/2025/9/15/bank-share/ipo-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-15T06:56:54.879284Z",
+      "id": "319eba18bd0ad469d317028a8a9955334a9d1fab46eaf4f7aea66087447985df",
+      "images": [],
+      "published_at": "2025-09-15T06:46:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/31/319eba18bd0ad469d317028a8a9955334a9d1fab46eaf4f7aea66087447985df.json",
+      "title": "नवनियुक्त तीन मन्त्रीले लिए पद तथा गोपनीयताको शपथ",
+      "url": "https://shilapatra.com/detail/167998",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9604c0cae3bc6493ba8e4ac56b89cce1aba3b6eab24aecc3596c887f19cdb27a",
+      "fetched_at": "2025-09-15T06:57:13.345507Z",
+      "id": "1698809def0f824aca7b0843e690215ba74d6dc136765dfb3c8973e2c2fb03bd",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/08/Gold-silver-price-image-channel.jpg"
+      ],
+      "published_at": "2025-09-15T06:45:10Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/16/1698809def0f824aca7b0843e690215ba74d6dc136765dfb3c8973e2c2fb03bd.json",
+      "title": "नेपाली बजारमा सुनचाँदीकाे मूल्य बढ्याे, कतिमा हुँदैछ काराेबार ?",
+      "url": "https://www.imagekhabar.com/news/507196/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d664316fdfb90c15b1130ac595addf3c7a9f8368a9568f314cd11bbb457144af",
+      "fetched_at": "2025-09-15T06:56:53.946124Z",
+      "id": "f23a0d4e18b410c598924de6b3a3a1c0d3d38d52982af132b91eb57a9694d11a",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2025/09/mantri-150x150.jpg"
+      ],
+      "published_at": "2025-09-15T06:44:54Z",
+      "source": {
+        "domain": "newsofnepal.com",
+        "id": "newsofnepal",
+        "name": "नेपाल समाचारपत्र"
+      },
+      "store_path": "domains/_store/f2/f23a0d4e18b410c598924de6b3a3a1c0d3d38d52982af132b91eb57a9694d11a.json",
+      "title": "तीन मन्त्रीले लिए सपथ",
+      "url": "https://newsofnepal.com/2025/09/15/731305/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "fdf0f0779f2590dd6f60fb4bee77f731653278c588d892feec86d0a9f77688b6",
+      "fetched_at": "2025-09-15T06:57:13.369881Z",
+      "id": "9d5edd71034c3f4768b81980ce501d7a5c9a475f75b44a6e38453d7fcf4e18e4",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/09/sapattt.jpg"
+      ],
+      "published_at": "2025-09-15T06:44:04Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/9d/9d5edd71034c3f4768b81980ce501d7a5c9a475f75b44a6e38453d7fcf4e18e4.json",
+      "title": "नवनियुक्त ऊर्जामन्त्री घिसिङसहित ३ जना मन्त्रीले लिए सपथ",
+      "url": "https://www.imagekhabar.com/news/507202/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "70d0ca830e56d9e9b819c4e546bd925b67b914bbb300b45444805c03a61eaf1c",
+      "fetched_at": "2025-09-15T06:57:20.551856Z",
+      "id": "da79bfdda14146422afe2c59e841d5d6c1d8ccd5d614715d6d5b311dee391b87",
+      "images": [],
+      "published_at": "2025-09-15T06:44:04Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/da/da79bfdda14146422afe2c59e841d5d6c1d8ccd5d614715d6d5b311dee391b87.json",
+      "title": "नवनियुक्त मन्त्रीहरूले लिए सपथ",
+      "url": "https://nepalnews.com/2025/09/15/newly-appointed-ministers-take-oath/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "0ef7a3e1bfef74cf7c7749f2654e36d51cc81b1f4f1784fb24f5940e6c03e188",
+      "fetched_at": "2025-09-15T06:57:14.589642Z",
+      "id": "d85f11a30af398596b05c8934486cc77a3fc38fb98fb0560ca9eff686309a68d",
+      "images": [],
+      "published_at": "2025-09-15T06:43:04Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/d8/d85f11a30af398596b05c8934486cc77a3fc38fb98fb0560ca9eff686309a68d.json",
+      "title": "शीतल निवासमा नवनियुक्त मन्त्रीहरूले लिए शपथ, कार्की मन्त्रिपरिषद् विस्तारको सुरुवात",
+      "url": "https://deshsanchar.com/2025/09/15/1093591/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "91d839a9bbc1aea563cb2a5db682e5d0e87a57eef0eb8f2d7084d73a75231a6b",
+      "fetched_at": "2025-09-15T06:56:58.892758Z",
+      "id": "5295a9b0a47e3f42368fc925134ec6e4df63a274e88a695d43b84b6c6a1bbc3f",
+      "images": [],
+      "published_at": "2025-09-15T06:42:43Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/52/5295a9b0a47e3f42368fc925134ec6e4df63a274e88a695d43b84b6c6a1bbc3f.json",
+      "title": "कारागारबाट भागेका ५२ कैदीबन्दी प्रहरीको नियन्त्रणमा",
+      "url": "https://www.reportersnepal.com/2025/09/1128581/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d3cf6f7b5e73b5236369e04d04709608e866cd429b64867a27f7a4cd18da557b",
+      "fetched_at": "2025-09-15T06:57:06.054841Z",
+      "id": "b3d98b3c6a8c357359fe8bbe04ea8e193c3906683c81a57f0a71bfe9de1a3b09",
+      "images": [],
+      "published_at": "2025-09-15T06:42:43Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/b3/b3d98b3c6a8c357359fe8bbe04ea8e193c3906683c81a57f0a71bfe9de1a3b09.json",
+      "title": "कारागारबाट भागेका ५२ कैदी बन्दी प्रहरीको नियन्त्रणमा",
+      "url": "https://www.prasashan.com/2025/09/15/701278/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d071ccbd3962df4104a754933a1e4ed5117ac1d71655e40e0ddd31e255189540",
+      "fetched_at": "2025-09-15T06:57:17.216184Z",
+      "id": "6481e8386a3c58f328bbe3d183f7abd2d874b827661954d4ddde601e9347b4fa",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/sapattt-400x220.jpg"
+      ],
+      "published_at": "2025-09-15T06:42:40Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/64/6481e8386a3c58f328bbe3d183f7abd2d874b827661954d4ddde601e9347b4fa.json",
+      "title": "तीन मन्त्रीले लिए पद तथा गोपनीयताको सपथ",
+      "url": "https://khabarhub.com/2025/15/852038/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "5360363b3b2de817ce6969ad1b8ffef34e9274340391b42bedf3f6f8d3cedfa8",
+      "fetched_at": "2025-09-15T06:56:50.273042Z",
+      "id": "82c7e92f5b9f9a2543f7df1ddfe993e8a46b4592f00cf47149a1ad9d6ede38f8",
+      "images": [],
+      "published_at": "2025-09-15T06:42:23Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/82/82c7e92f5b9f9a2543f7df1ddfe993e8a46b4592f00cf47149a1ad9d6ede38f8.json",
+      "title": "नवनियुक्त तीन मन्त्रीले शपथ लिए",
+      "url": "https://lokaantar.com/story/299191/2025/9/15/current-affairs/sapath-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-15T06:56:54.903700Z",
+      "id": "b29a508fda082f641bd31af1e15a1bef3b7634c76e043977b08fe1dbaf122382",
+      "images": [],
+      "published_at": "2025-09-15T06:42:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/b2/b29a508fda082f641bd31af1e15a1bef3b7634c76e043977b08fe1dbaf122382.json",
+      "title": "गृह मन्त्रालय अब सामान्य प्रशासन मन्त्रालय रहेको भवनमा, मन्त्रीको पदबहालीका लागि सामान सार्न कर्मचारीलाई भ्याइनभ्याइ (तस्वीरहरू)",
+      "url": "https://shilapatra.com/detail/167997",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c78f2505bc0dc9237cf3cad2450912bf4f50babdd6c1601b3044add652ba4676",
+      "fetched_at": "2025-09-15T06:57:17.244727Z",
+      "id": "521dd692242daae4fe4dc4c1ba8fb1a5c0e9412f33198d4e4d35f4dfa790fadb",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2024/06/Devraj-Ghimire-400x220.jpg"
+      ],
+      "published_at": "2025-09-15T06:40:38Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/52/521dd692242daae4fe4dc4c1ba8fb1a5c0e9412f33198d4e4d35f4dfa790fadb.json",
+      "title": "सभामुख घिमिरेले गरे अन्तरिम सरकारका मन्त्रीहरूको शपथ समारोह बहिष्कार",
+      "url": "https://khabarhub.com/2025/15/852075/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "2adc00b8effe826b449f212e58e87adb792eaeba16395bead3b9ba225643a912",
+      "fetched_at": "2025-09-15T06:56:58.918426Z",
+      "id": "06f8871af36b12ba6412d1ba2997efc0194bd34c5ff74bee185cd2dcdd9b460a",
+      "images": [],
+      "published_at": "2025-09-15T06:40:14Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/06/06f8871af36b12ba6412d1ba2997efc0194bd34c5ff74bee185cd2dcdd9b460a.json",
+      "title": "कतारको आह्वानः ‘दोहोरो मापदण्ड’ अस्वीकार गर, इजरायललाई सजाय देऊ",
+      "url": "https://www.reportersnepal.com/2025/09/1128573/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-15T06:56:49.137989Z",
+      "id": "9f74ba858da3398138bec5b708e5e5daeb8ddabf30286bb171586ee8f0ec9dcd",
+      "images": [],
+      "published_at": "2025-09-15T06:39:19Z",
+      "source": {
+        "domain": "swasthyakhabar.com",
+        "id": "swasthyakhabar",
+        "name": "स्वास्थ्य साप्ताहिक"
+      },
+      "store_path": "domains/_store/9f/9f74ba858da3398138bec5b708e5e5daeb8ddabf30286bb171586ee8f0ec9dcd.json",
+      "title": "जलेका संरचना-सामग्री व्यवस्थापनका सम्भावित जोखिम, कदम र सुझाव",
+      "url": "https://swasthyakhabar.com/story/60869",
+      "version": 1
+    },
+    {
+      "canonical_hash": "4397b8141837420190c250cc81a9d41b197ae08efb73b5a1cdb134827f6e4e59",
+      "fetched_at": "2025-09-15T06:56:35.920675Z",
+      "id": "e2f1028936696a17389f80acb6efbdf8889d0567f9e652002fb221ffb2bed3df",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1757918283_Sapath.jpg"
+      ],
+      "published_at": "2025-09-15T06:38:28Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/e2/e2f1028936696a17389f80acb6efbdf8889d0567f9e652002fb221ffb2bed3df.json",
+      "title": "नवगठित मन्त्रिमण्डलका तीन मन्त्रीले लिए शपथ",
+      "url": "https://nagariknews.nagariknetwork.com/politics/three-ministers-of-the-newly-formed-cabinet-take-oath-nbsp-47-21.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a7cd77f9d1c6dc87f9a8986befa0f5d82e8a67b94d6a628f69132c85b665df5f",
+      "fetched_at": "2025-09-15T06:56:38.061179Z",
+      "id": "bccb75385ffdcbf1c76d29ecc6116318487a483f36bdec7961e158f9e305797f",
+      "images": [],
+      "published_at": "2025-09-15T06:38:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/bc/bccb75385ffdcbf1c76d29ecc6116318487a483f36bdec7961e158f9e305797f.json",
+      "title": "एकसाथ देखिए नवनियुक्त तीन मन्त्री",
+      "url": "https://www.setopati.com/politics/369364",
+      "version": 1
+    },
     {
       "canonical_hash": "47fb9efe601408b340fff271451511b9183afb76acdc756f220d2612c5de6945",
       "fetched_at": "2025-09-15T06:36:07.410628Z",
@@ -34,6 +558,22 @@
       "store_path": "domains/_store/39/39b146b168b6771a7670c2b31eafdd4915389ab657fc224ade98c7b7d23d41c6.json",
       "title": "टिकटकको भविष्य चीनमा निर्भर : राष्ट्रपति  ट्रम्प",
       "url": "https://www.reportersnepal.com/2025/09/1128565/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "87ceec42e6edc780d1e8f51863286e1292c724500bb53b8d2b43671f76c82410",
+      "fetched_at": "2025-09-15T06:56:38.087440Z",
+      "id": "9fcd9399446e2180e5a12be65343715d2ebe915aad887709bd65dc135f7b1c46",
+      "images": [],
+      "published_at": "2025-09-15T06:35:15Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/9f/9fcd9399446e2180e5a12be65343715d2ebe915aad887709bd65dc135f7b1c46.json",
+      "title": "सागर डिष्टिलरीको आइपिओ खुल्यो",
+      "url": "https://www.setopati.com/kinmel/banking/369363",
       "version": 1
     },
     {
@@ -86,6 +626,22 @@
       "store_path": "domains/_store/a8/a8adbff615f79f479d8f21763dfa110e2df797fa2f998daac7cdc2dfb397e1e1.json",
       "title": "टिकटकको भविष्य ‘चीनमा निर्भर’ रहने ट्रम्पको धारणा",
       "url": "https://khabarhub.com/2025/15/852066/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "abb031ea627cdc2e4696e8222434e1fea2585841318c785cd0e2bc69111d003a",
+      "fetched_at": "2025-09-15T06:56:50.299588Z",
+      "id": "3891498ae4ede79de1b7250519b728468f9c263cb109019b1abfe8e3560de481",
+      "images": [],
+      "published_at": "2025-09-15T06:33:41Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/38/3891498ae4ede79de1b7250519b728468f9c263cb109019b1abfe8e3560de481.json",
+      "title": "बलात्कार आरोपमा १ जना पक्राउ",
+      "url": "https://lokaantar.com/story/299190/2025/9/15/crime/rape-",
       "version": 1
     },
     {
@@ -240,6 +796,22 @@
       "store_path": "domains/_store/3f/3fd793323f286f30b35ab6b73c993eca740583cff974baab49df0a13b07798a4.json",
       "title": "त्रिपालमुनि तीन मन्त्रीको शपथ",
       "url": "https://lokaantar.com/story/299189/2025/9/15/main-news/sapath-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8347a56f4f77167de3f11bc7ea14b512c3aa6d53fc14cbf993c597d6117a256c",
+      "fetched_at": "2025-09-15T06:56:38.113381Z",
+      "id": "6a8b10d5f29e912d6a221e9b9ae5efaa46a9a6689727c73bb5b67217eea69e59",
+      "images": [],
+      "published_at": "2025-09-15T06:27:36Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/6a/6a8b10d5f29e912d6a221e9b9ae5efaa46a9a6689727c73bb5b67217eea69e59.json",
+      "title": "तोडफोड र आगजनी हुनबाट यसरी जोगियो थापाथली प्रहरी बिट",
+      "url": "https://www.setopati.com/social/369362",
       "version": 1
     },
     {
@@ -1122,586 +1694,6 @@
       "store_path": "domains/_store/3b/3b86fc757c856bcedb6ba04e03ad3f719d5a342f66cc0de988f8f0c19dde4587.json",
       "title": "संसद् सचिवालयद्वारा प्रदर्शन क्रममा घर लगिएका सामान फिर्ता गर्न आग्रह",
       "url": "https://deshsanchar.com/2025/09/15/1093570/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "92be0f16e29356562ebc70f03a7da228d53aea0f1f9aa020b30a4cdc5b6c2077",
-      "fetched_at": "2025-09-15T05:54:28.049848Z",
-      "id": "e7b534e2927cd0fd96ca6020377b8937a36d2503f93a9e21b96d592d9fa770e7",
-      "images": [],
-      "published_at": "2025-09-15T05:48:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/e7/e7b534e2927cd0fd96ca6020377b8937a36d2503f93a9e21b96d592d9fa770e7.json",
-      "title": "संसद् सचिवालयद्वारा प्रदर्शन क्रममा घर लगिएका सामान फिर्ता गर्न आग्रह",
-      "url": "https://shilapatra.com/detail/167993",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d0e3ede9da7e1b543f7fdfc7c9a316d4f1895a186c1e44d5d587d83448a33d42",
-      "fetched_at": "2025-09-15T05:54:17.467921Z",
-      "id": "c432066a394513eb51f41999975a6d107b948cbf73cecbfd5a3913f2a55daf1a",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2025/09/News-Sarkari-Office-400x220.jpg"
-      ],
-      "published_at": "2025-09-15T05:47:38Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/c4/c432066a394513eb51f41999975a6d107b948cbf73cecbfd5a3913f2a55daf1a.json",
-      "title": "कैलालीमा १२० सरकारी कार्यालयमा क्षति",
-      "url": "https://www.karobardaily.com/news/300660",
-      "version": 1
-    },
-    {
-      "canonical_hash": "32c73b73f8cfbb3d9d17bafcfaaa859e27527ebb99ee4fe43cf1cd37617b87d0",
-      "fetched_at": "2025-09-15T05:54:09.542493Z",
-      "id": "9ce7c90879311ce13b1b3afc41e18e2bfa1904ffa0c427383823fd7583d7313e",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1757915339_Pani%2045.jpg"
-      ],
-      "published_at": "2025-09-15T05:46:08Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/9c/9ce7c90879311ce13b1b3afc41e18e2bfa1904ffa0c427383823fd7583d7313e.json",
-      "title": "भैरहवामा भारी वर्षाले जनजीवन प्रभावित",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/heavy-rains-affect-normal-life-in-bhairahawa-48-55.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "f8dbd3e13e06e344e36ae4569826f80089ac88914e3768b7bce81191f92570e7",
-      "fetched_at": "2025-09-15T05:54:09.572104Z",
-      "id": "6c2ca3d5b887bfbf2feea239c5327fb468914497c770584447e3b6440eee82bb",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1757915103_khel.jpg"
-      ],
-      "published_at": "2025-09-15T05:45:12Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/6c/6c2ca3d5b887bfbf2feea239c5327fb468914497c770584447e3b6440eee82bb.json",
-      "title": "साफ यू-१७ पुरुष च्याम्पियनसिप नेपाल र श्रीलंका खेल्दै",
-      "url": "https://nagariknews.nagariknetwork.com/sports/nepal-and-sri-lanka-to-play-in-saff-u-17-men-s-championship-34-25.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2d5d72a9d9d6c2e42a498ab642bb420dce1d3181f1eabc3dc7b1f9c2b68dd07f",
-      "fetched_at": "2025-09-15T05:54:22.916919Z",
-      "id": "27570dff92348e79bd80741a59b51704448a68a4ed8962c7a49ee7dc0c47d884",
-      "images": [],
-      "published_at": "2025-09-15T05:43:57Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/27/27570dff92348e79bd80741a59b51704448a68a4ed8962c7a49ee7dc0c47d884.json",
-      "title": "नेपालमा विकसित राजनीतिक घटनाक्रमबारे रञ्जित रेको विश्लेषण",
-      "url": "https://lokaantar.com/story/299185/2025/9/15/aalekh/ranjit-rae",
-      "version": 1
-    },
-    {
-      "canonical_hash": "48731c68333bdd57f990d3d67f0f3b7c039af39df123889f7e648b2d364b6f74",
-      "fetched_at": "2025-09-15T05:54:22.945336Z",
-      "id": "7eef3ca407a5d38e234ecd5f74626d41268062db35d280827ac0edeaa60b5bce",
-      "images": [],
-      "published_at": "2025-09-15T05:43:47Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/7e/7eef3ca407a5d38e234ecd5f74626d41268062db35d280827ac0edeaa60b5bce.json",
-      "title": "पहिरोले अवरुद्ध मुग्लिन-नारायणगढ सडक दुईतर्फी सञ्चालनमा",
-      "url": "https://lokaantar.com/story/299184/2025/9/15/current-affairs/mugling-narayanghat-road-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "79cfe4e6e867b106aef1c64f4933b8c372fce962478d5bdc3d8df7b6d394d87b",
-      "fetched_at": "2025-09-15T05:54:39.616295Z",
-      "id": "af9295bebe10d84aeba029b1d9e50349d718071b0874ea5abcc4e1dcf8f077c1",
-      "images": [],
-      "published_at": "2025-09-15T05:43:01Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/af/af9295bebe10d84aeba029b1d9e50349d718071b0874ea5abcc4e1dcf8f077c1.json",
-      "title": "लुटिएका सामान फिर्ता गर्न अख्तियारको आग्रह",
-      "url": "https://www.prasashan.com/2025/09/15/701246/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b17166bafafd27d0ab286bf44366362666ba73cfc8abe60eb7ea1f7210752e4e",
-      "fetched_at": "2025-09-15T05:54:26.497719Z",
-      "id": "c7ec56b8719d1b805e82b3013357378abe9965061cb192e9c68a0e17050b12d7",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/bima-pradhikaran-150x150.jpg"
-      ],
-      "published_at": "2025-09-15T05:42:42Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/c7/c7ec56b8719d1b805e82b3013357378abe9965061cb192e9c68a0e17050b12d7.json",
-      "title": "बीमा दाबी भुक्तानी सहज बनाउने नीति आउँदै",
-      "url": "https://newsofnepal.com/2025/09/15/731302/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "f255d61809e4da574550a0c3f9403f38533d997f6965f47e5d4c642cd1d49e3b",
-      "fetched_at": "2025-09-15T05:54:17.493653Z",
-      "id": "d1acf2700ffa081cdb51681791dceed914da25e8cda707438543b5cbb33768f8",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2025/09/Dang-Hospital-Construction-400x220.jpg"
-      ],
-      "published_at": "2025-09-15T05:42:29Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/d1/d1acf2700ffa081cdb51681791dceed914da25e8cda707438543b5cbb33768f8.json",
-      "title": "दाङमा चार अर्ब लगानीमा पाँच सय शैयाको अस्पताल",
-      "url": "https://www.karobardaily.com/news/300657",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "fetched_at": "2025-09-15T05:42:10.114076Z",
-      "id": "779a389e6e063ede8a59b8267af3e049c4194de2baa5b0e640b575f1b5e45c6f",
-      "images": [],
-      "published_at": "2025-09-15T05:40:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/77/779a389e6e063ede8a59b8267af3e049c4194de2baa5b0e640b575f1b5e45c6f.json",
-      "title": "जेन–जी आन्दोलनका घाइतेको आवाज: भविष्यमा फेरि त्यस्तो नहोस्",
-      "url": "https://shilapatra.com/detail/167991",
-      "version": 1
-    },
-    {
-      "canonical_hash": "1b6110e5b5885e4e9f893bbf74bad7a295e56f328bf6090a5ed245b948bec382",
-      "fetched_at": "2025-09-15T05:42:23.473003Z",
-      "id": "d38fb61f905db64545b095e4e96d635adfbd9a718742641ed6fa70c8df58aecb",
-      "images": [],
-      "published_at": "2025-09-15T05:37:04Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/d3/d38fb61f905db64545b095e4e96d635adfbd9a718742641ed6fa70c8df58aecb.json",
-      "title": "मन्त्री खड्काको अनियमित सरुवा कार्यान्वयन नगर्न मुख्यसचिवको निर्देशन",
-      "url": "https://www.prasashan.com/2025/09/15/701239/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "6961a7689f75a2d8dc46a1c29ad63b845affaa24e4937711be9ab942457707ce",
-      "fetched_at": "2025-09-15T05:41:51.724995Z",
-      "id": "b53fd352532659291226392fb464374f27851ba76acd59f67f9818f3dbfd357d",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1749361032_gold.jpg"
-      ],
-      "published_at": "2025-09-15T05:36:38Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/b5/b53fd352532659291226392fb464374f27851ba76acd59f67f9818f3dbfd357d.json",
-      "title": "सुनको मूल्य सामान्य वृद्धि",
-      "url": "https://nagariknews.nagariknetwork.com/economy/gold-price-general-increase-33-15.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "77a37c0813d931973d8a86c69e1143cda46b5e06a11706ee77cd04a24f4cc971",
-      "fetched_at": "2025-09-15T05:41:59.537912Z",
-      "id": "0342da4f6bbfa7b1ae14e68dcf6659e3077fd2e89c6c7404406376411c5284f5",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2023/08/Sampadakiya_Karobardaily-400x220.jpg"
-      ],
-      "published_at": "2025-09-15T05:35:49Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/03/0342da4f6bbfa7b1ae14e68dcf6659e3077fd2e89c6c7404406376411c5284f5.json",
-      "title": "निजी क्षेत्रलाई सुरक्षा खोइ ?",
-      "url": "https://www.karobardaily.com/news/300655",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d9214dd0e3ba5129c603754ab4b01b059c6e5dd41bee14f8604390996ad359a1",
-      "fetched_at": "2025-09-15T05:42:31.442622Z",
-      "id": "6ad103110e047f6981600f2765dc460fbffef114423853c06f081a7a67061a96",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/duwan-400x220.jpg"
-      ],
-      "published_at": "2025-09-15T05:35:27Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/6a/6ad103110e047f6981600f2765dc460fbffef114423853c06f081a7a67061a96.json",
-      "title": "भैरहवामा ठूलो वर्षा, जनजीवन प्रभावित",
-      "url": "https://khabarhub.com/2025/15/852034/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3ec03ecb1e36b7ac7b049452d1143b7038d02c5a3695ab235d65e58fa17b2350",
-      "fetched_at": "2025-09-15T05:42:23.500141Z",
-      "id": "c64868fb26ca57ac3d284f1b08b1e29553887cdad695fb66a84ec0971fc952b3",
-      "images": [],
-      "published_at": "2025-09-15T05:35:14Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/c6/c64868fb26ca57ac3d284f1b08b1e29553887cdad695fb66a84ec0971fc952b3.json",
-      "title": "भैरहवामा भारी वर्षाले जनजीवन प्रभावित",
-      "url": "https://www.prasashan.com/2025/09/15/701241/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "64bc2c4a4ed3f4d75a1e1eb4a070cdd47ce56a37d96f59ed7436c633a66d29f0",
-      "fetched_at": "2025-09-15T05:42:16.330780Z",
-      "id": "274405a40b0b5747007e2a70f403dd7e96a9cb315dde339a95e36fdb7f849b53",
-      "images": [],
-      "published_at": "2025-09-15T05:34:45Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/27/274405a40b0b5747007e2a70f403dd7e96a9cb315dde339a95e36fdb7f849b53.json",
-      "title": "संवैधानिक प्रावधान नहेरी दलहरुले अहिलेको सरकारलाई मन, वचन र कर्मले सहयोग गर्नुपर्छः वरिष्ठ अधिवक्ता बिडारी (भिडिओसहित)",
-      "url": "https://www.reportersnepal.com/2025/09/1128510/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "bb5618997286dd56bd1bc2c5fcf955de22a2356aca4901d7fca3e2240c0f433d",
-      "fetched_at": "2025-09-15T05:41:51.754770Z",
-      "id": "e97e3b78c5a374a65f881c7ae0b4c667c95b515a32a492da359f111544d8fa13",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1757914245_no%2046.jpg"
-      ],
-      "published_at": "2025-09-15T05:34:33Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/e9/e97e3b78c5a374a65f881c7ae0b4c667c95b515a32a492da359f111544d8fa13.json",
-      "title": "‘अभिमन्यु : च्याप्टर १’ अब फूलपातीमा",
-      "url": "https://nagariknews.nagariknetwork.com/arts/abhimanyu-chapter-1-now-in-phulpati-30-15.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "f2374f4b0a518addbffbdd2f23a42e0c6f1c042ff534df49430a22d5fe2677e9",
-      "fetched_at": "2025-09-15T05:42:29.416559Z",
-      "id": "eb8ac3d1023ae3e89ab7955ab27699145e9ba4c58bcb276a21b3a55d250b92fc",
-      "images": [],
-      "published_at": "2025-09-15T05:33:10Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/eb/eb8ac3d1023ae3e89ab7955ab27699145e9ba4c58bcb276a21b3a55d250b92fc.json",
-      "title": "गोकुल बाँस्कोटाको प्रस्ताव: “एमाले पुनःगठन गरौँ”",
-      "url": "https://deshsanchar.com/2025/09/15/1093563/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "bfcb63400b8cbaa91738e578fe28ab43023ee656ff99494ed247c7d26c2c9250",
-      "fetched_at": "2025-09-15T05:42:05.306454Z",
-      "id": "ed2feec50d55806929c162131ccc6bbc9edc8e00c120035fb479bee36bf5184c",
-      "images": [],
-      "published_at": "2025-09-15T05:32:45Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/ed/ed2feec50d55806929c162131ccc6bbc9edc8e00c120035fb479bee36bf5184c.json",
-      "title": "भारी वर्षाले भैरहवाको जनजीवन प्रभावित",
-      "url": "https://lokaantar.com/story/299183/2025/9/15/current-affairs/bwa-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "00d8ab63f7d5704177133a628ed626522e801b8556c76b142f8f0526892ee7b4",
-      "fetched_at": "2025-09-15T05:42:16.356826Z",
-      "id": "8925b90a62fe2951b99cf9d7cf3582d6195401e6578ba2eec22473e3d3b79057",
-      "images": [],
-      "published_at": "2025-09-15T05:32:12Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/89/8925b90a62fe2951b99cf9d7cf3582d6195401e6578ba2eec22473e3d3b79057.json",
-      "title": "भैरहवामा भारी वर्षाले जनजीवन प्रभावित",
-      "url": "https://www.reportersnepal.com/2025/09/1128505/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "baadc1a1208c6fc8066ece23b5b521ab67c8451e26893038ee9eb93d98d3937d",
-      "fetched_at": "2025-09-15T05:42:08.842800Z",
-      "id": "ac7008fbf75399d6f312bc236893cb7f4d1548d3f807235ac6ead9142911c285",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-15-at-10.17.24-150x150.jpeg"
-      ],
-      "published_at": "2025-09-15T05:31:59Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/ac/ac7008fbf75399d6f312bc236893cb7f4d1548d3f807235ac6ead9142911c285.json",
-      "title": "‘रोटरी एक्सन ग्रुप’ गठन",
-      "url": "https://newsofnepal.com/2025/09/15/731297/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "282a168d9ad2210ff199e92fef9afaacc4042e6cd2789fe2303f11a0c3dea3d3",
-      "fetched_at": "2025-09-15T05:42:31.470063Z",
-      "id": "97133f4c9314b2e4f30bcc0b3435dd5d6cdfa653bdfb1b74e07d404a5793f562",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/04/Gold-Shop-Newroad-2-400x220.jpg"
-      ],
-      "published_at": "2025-09-15T05:30:29Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/97/97133f4c9314b2e4f30bcc0b3435dd5d6cdfa653bdfb1b74e07d404a5793f562.json",
-      "title": "सुनचाँदीको मूल्य बढ्यो, कतिमा हँदैछ कारोबार ?",
-      "url": "https://khabarhub.com/2025/15/852030/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9b03eb8490eb2e7081d02780932105961d1e0473c2134295ca86d1c0daa9dc3d",
-      "fetched_at": "2025-09-15T05:41:51.784811Z",
-      "id": "fb631394f468e215b3b56ec94042d42ff14d6ed160b793b27b84f80d74e71f73",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1757914127_kachanpur.jpg"
-      ],
-      "published_at": "2025-09-15T05:28:57Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/fb/fb631394f468e215b3b56ec94042d42ff14d6ed160b793b27b84f80d74e71f73.json",
-      "title": "जिल्ला प्रशासन कार्यालय कञ्चनपुरको सेवा पुनः नियमित",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/services-at-district-administration-office-kanchanpur-resumed-47-93.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d2e8a33dc6144eb4e4b6ce1778d4a1d770f1da5a6de208faa7ea12e0ba256e29",
-      "fetched_at": "2025-09-15T05:41:55.124659Z",
-      "id": "cb959cf81d0fc3e92a6e335ae403a7f82eac9b3d610acea22b54f083378ac8a4",
-      "images": [],
-      "published_at": "2025-09-15T05:28:46Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/cb/cb959cf81d0fc3e92a6e335ae403a7f82eac9b3d610acea22b54f083378ac8a4.json",
-      "title": "सुनको भाउ आज तोलामा १ सय रुपैयाँले बढ्यो",
-      "url": "https://ujyaaloonline.com/story/120065/2025/9/15/gold-price-increased-by-rs-100-per-tola-today",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5c5eb7e7a1e2755a58955c31f1c7fa99e115c97b0aa858f07b5715753d02fc0a",
-      "fetched_at": "2025-09-15T05:41:59.564458Z",
-      "id": "e35c1e8eae679db94b6ee744ed0331c4e289697fbcded20a1bd49ffbd581b563",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2022/09/school-1-400x220.jpg"
-      ],
-      "published_at": "2025-09-15T05:28:44Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/e3/e35c1e8eae679db94b6ee744ed0331c4e289697fbcded20a1bd49ffbd581b563.json",
-      "title": "काठमाडौं उपत्यकाका विद्यालयमा पठनपाठन सुरु",
-      "url": "https://www.karobardaily.com/news/300652",
-      "version": 1
-    },
-    {
-      "canonical_hash": "da426592d75219d5a4dfb3528d13b529ea9d5b5925147781e013daa0fd4f065b",
-      "fetched_at": "2025-09-15T05:42:28.803571Z",
-      "id": "8a7b64d8fba9b5d9d85765003f628b49e1ca8aec3ffa394f0271f7c9cb41856f",
-      "images": [
-        "https://www.imagekhabar.com/wp-content/uploads/2025/09/mantri.jpg"
-      ],
-      "published_at": "2025-09-15T05:28:28Z",
-      "source": {
-        "domain": "imagekhabar.com",
-        "id": "imagekhabar",
-        "name": "Image Khabar"
-      },
-      "store_path": "domains/_store/8a/8a7b64d8fba9b5d9d85765003f628b49e1ca8aec3ffa394f0271f7c9cb41856f.json",
-      "title": "नवनियुक्त ३ जना मन्त्रीले आज सपथ लिंदै",
-      "url": "https://www.imagekhabar.com/news/507179/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "4cbedbda64de997b861e99f2189f6b54b0a8494ab75db13c75b582b242827264",
-      "fetched_at": "2025-09-15T05:42:34.604211Z",
-      "id": "164e660aa5630fba46a82bbb658cbbbfcd9fdaee917c147629d1de165f88a8b0",
-      "images": [],
-      "published_at": "2025-09-15T05:28:24Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/16/164e660aa5630fba46a82bbb658cbbbfcd9fdaee917c147629d1de165f88a8b0.json",
-      "title": "सुनको मूल्यमा सामान्य वृद्धि",
-      "url": "https://nepalnews.com/2025/09/15/general-increase-in-gold-prices/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "dc1182fdff05cbb2c1d4cb9f4f36af32f0dea518f5bca2317ff122633f18e25e",
-      "fetched_at": "2025-09-15T05:42:10.139526Z",
-      "id": "b946fa5103ff9857a00a120dd141e2579c12dc6b0023ac4d72b316b0e048171a",
-      "images": [],
-      "published_at": "2025-09-15T05:28:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/b9/b946fa5103ff9857a00a120dd141e2579c12dc6b0023ac4d72b316b0e048171a.json",
-      "title": "भैरहवामा भारी वर्षाले जनजीवन प्रभावित",
-      "url": "https://shilapatra.com/detail/167992",
-      "version": 1
-    },
-    {
-      "canonical_hash": "25a1cef87422221c9975d0ac0fc88b97188984ebd50ee1d028c0b2b2f8e92874",
-      "fetched_at": "2025-09-15T05:41:50.842733Z",
-      "id": "6f77c58a133aedb1f1987bfeef5f34c30897f18835cf9485f9923a2164a07323",
-      "images": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468b/live/32446a30-91e8-11f0-a576-4558a4f7f884.jpg"
-      ],
-      "published_at": "2025-09-15T05:25:52Z",
-      "source": {
-        "domain": "bbc.com",
-        "id": "bbc-world-asia",
-        "name": "BBC News - World Asia"
-      },
-      "store_path": "domains/_store/6f/6f77c58a133aedb1f1987bfeef5f34c30897f18835cf9485f9923a2164a07323.json",
-      "title": "South Korea to probe potential human rights abuses in US raid",
-      "url": "https://www.bbc.com/news/articles/cz9j585g23go?at_medium=RSS&at_campaign=rss",
-      "version": 1
-    },
-    {
-      "canonical_hash": "8ab571c0ed4e5dbd79df683d95f5fc756c44983afa8565d0338b354bca80338b",
-      "fetched_at": "2025-09-15T05:42:04.807905Z",
-      "id": "5c2cbe259308e2c0829d1ef8dc3014f0d3a11a6852f5dfae13fe1d6efa67050c",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/5686e1d9-8b7e-4981-80a2-59c7ee260b02.jpg"
-      ],
-      "published_at": "2025-09-15T05:25:06Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/5c/5c2cbe259308e2c0829d1ef8dc3014f0d3a11a6852f5dfae13fe1d6efa67050c.json",
-      "title": "बससेवाबाट टिकट काट्ने दुईजनालाई खसी उपहार",
-      "url": "https://rajdhanidaily.com/id/121846/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5d2615f2abd894771e221a4ef389c63b7e5ebbe8388fc268ccdb5a8e0ddd30b1",
-      "fetched_at": "2025-09-15T05:42:04.833440Z",
-      "id": "213fba9d02e18b385f9d4a5e40a764d69123c7b9afcb2ac02527358baaf84193",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/india-vs-pak_r-768x512-1.webp"
-      ],
-      "published_at": "2025-09-15T05:23:08Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/21/213fba9d02e18b385f9d4a5e40a764d69123c7b9afcb2ac02527358baaf84193.json",
-      "title": "एसिया कप: भारतद्वारा पाकिस्तान पराजीत",
-      "url": "https://rajdhanidaily.com/id/121844/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "76a4bbc586e413554577f36e9b532be6c6ca74adc4bfbcebc1c43f6ab1096a4f",
-      "fetched_at": "2025-09-15T05:42:08.869244Z",
-      "id": "6df29673150e6748342572a55a8a944d10f70de2342ab357e2b895b4ded38937",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/rameshwar-khanal-150x150.jpg"
-      ],
-      "published_at": "2025-09-15T05:22:48Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/6d/6df29673150e6748342572a55a8a944d10f70de2342ab357e2b895b4ded38937.json",
-      "title": "रामेश्वर खनालले, मन्त्री क्वार्टर, गाडी लगायतका कुनै सुविधा नलिने",
-      "url": "https://newsofnepal.com/2025/09/15/731289/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "79321104933055442f57e82b78a5c63ffeec72455329bf85162b4d4ace6b421a",
-      "fetched_at": "2025-09-15T05:22:16.774400Z",
-      "id": "e910d6ca2c48b9a9cef4f1b0899b9c96eca0a364e014c0a965bc5a92c9f04fb9",
-      "images": [],
-      "published_at": "2025-09-15T05:22:16.774400Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/e9/e910d6ca2c48b9a9cef4f1b0899b9c96eca0a364e014c0a965bc5a92c9f04fb9.json",
-      "title": "ताप्लेजुङमा मनाइयो रेडपाण्डा दिवस",
-      "url": "https://thahakhabar.com/news/235466",
-      "version": 1
-    },
-    {
-      "canonical_hash": "62aa3bc4215cb35bc5f505d16577a08fdef7527f93e7337955c2f698562d5b02",
-      "fetched_at": "2025-09-15T05:22:16.748650Z",
-      "id": "f0b16362d8d62a79f0880252212f399ffcc29aa87cceb0280f55a6d4c9dd4684",
-      "images": [],
-      "published_at": "2025-09-15T05:22:16.748650Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/f0/f0b16362d8d62a79f0880252212f399ffcc29aa87cceb0280f55a6d4c9dd4684.json",
-      "title": "इतिहास बोकेर फेरि उभिनेछ सिंहदरबार",
-      "url": "https://thahakhabar.com/news/235467",
       "version": 1
     }
   ]
