@@ -1,6 +1,6 @@
 {
-  "count": 204,
-  "lastUpdated": "2025-09-15T06:56:35.940026Z",
+  "count": 221,
+  "lastUpdated": "2025-09-15T07:25:39.455591Z",
   "recent": [
     {
       "canonical_hash": "4397b8141837420190c250cc81a9d41b197ae08efb73b5a1cdb134827f6e4e59",
@@ -1781,6 +1781,24 @@
       "version": 1
     },
     {
+      "canonical_hash": "036db244e15bbb033db4a5e62e39d1f325adf73b6e8aebcbbed9318d903bd030",
+      "fetched_at": "2025-09-15T07:25:38.965834Z",
+      "id": "e10b51f0389f984165b0aa207f235849024847db6904826aa6e7b9781b9215d9",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1757836044_Gaza.jpg"
+      ],
+      "published_at": "2025-09-14T07:47:39Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/e1/e10b51f0389f984165b0aa207f235849024847db6904826aa6e7b9781b9215d9.json",
+      "title": "गाजामा इजरायली हवाई आक्रमण, दर्जनौंको मृत्यु",
+      "url": "https://nagariknews.nagariknetwork.com/international/israeli-airstrikes-in-gaza-kill-dozens-47-94.html",
+      "version": 1
+    },
+    {
       "canonical_hash": "fb54fc00d1cbb42db43300a1721df01592e002bd129005a191759c61d6f83d41",
       "fetched_at": "2025-09-14T11:56:31.814014Z",
       "id": "fe5c10b05520069eb9d7c8fbdb15a2624f6ecab7a42d419ec923a8812ea6756d",
@@ -1815,24 +1833,6 @@
       "store_path": "domains/_store/83/83c3cacc890d9c3b501609e4b1eafefd3b3b0f3575f55193a5160de4a6ca0f7a.json",
       "title": "रास्वपा छोड्दै सुमनाले भनिन्: नेतालाई पूजा गर्न बन्द गर्नुस्",
       "url": "https://nagariknews.nagariknetwork.com/politics/sumana-leaves-rsp-says-stop-worshipping-leaders-53-87.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "8c0ad99f05fb30ced65a2307119eca755ad95d60e053cf9968da8b29dedfac70",
-      "fetched_at": "2025-09-14T11:56:31.837437Z",
-      "id": "00272fc6268e5a3f48efc2bb9beb5e754e6ed5bac168c0966637543aa92d67e7",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1744810296_sumana.jpg"
-      ],
-      "published_at": "2025-09-14T06:50:11Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/00/00272fc6268e5a3f48efc2bb9beb5e754e6ed5bac168c0966637543aa92d67e7.json",
-      "title": "पार्टी छाड्दै सुमनाले भनिन् : रास्वपाले देशभन्दा माथि पार्टी र नेतालाई राख्यो",
-      "url": "https://nagariknews.nagariknetwork.com/politics/leaving-the-party-sumana-said-the-rashtriya-swayamsevak-sangh-rss-put-the-party-and-its-leaders-above-the-country-51-44.html",
       "version": 1
     }
   ]
