@@ -1,7 +1,384 @@
 {
-  "count": 2878,
-  "lastUpdated": "2025-09-16T14:56:36.519877Z",
+  "count": 2902,
+  "lastUpdated": "2025-09-16T15:26:40.886810Z",
   "recent": [
+    {
+      "canonical_hash": "1ffd3b43f138409cf31fb1649dede7ff5276e89f7a85208922ae9a4c94c99bcc",
+      "fetched_at": "2025-09-16T15:25:59.529424Z",
+      "id": "6123fe0e891644d393e16e31c791fbae0e2f2733e249ef877a6be66fa8157a59",
+      "images": [],
+      "published_at": "2025-09-16T15:25:59.529424Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/61/6123fe0e891644d393e16e31c791fbae0e2f2733e249ef877a6be66fa8157a59.json",
+      "title": "ऊर्जामन्त्री घिसिङले गरे खण्डहर बनेको प्रधानमन्त्री कार्यालय र गृह मन्त्रालयको अनुगमन",
+      "url": "https://thahakhabar.com/news/235551",
+      "version": 1
+    },
+    {
+      "canonical_hash": "0dd5d33610d2aaf23696550d58723f131d3e8104d5feedf1bf5f9cc84c992650",
+      "fetched_at": "2025-09-16T15:25:48.359876Z",
+      "id": "d6abad8de3d227ae1ea9a506e0855b2f52c72676f87720c27361aed02bd05c6f",
+      "images": [],
+      "published_at": "2025-09-16T15:24:21Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/d6/d6abad8de3d227ae1ea9a506e0855b2f52c72676f87720c27361aed02bd05c6f.json",
+      "title": "कति बजे छ यसपालि दसैं टीकाको उत्तम साइत?",
+      "url": "https://www.setopati.com/social/369510",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b9998b2a9450b409f2078c66db4014d62fc14f2e58d4ae7593ee3e25a65f3823",
+      "fetched_at": "2025-09-16T15:26:40.853480Z",
+      "id": "77ab24b9243b67c700274d5f81e14c4d8fc7a652bf86c9d4a3bf5ae3c6deebff",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/KISUN-JI-HOME-BURN-BY-JEN-Z-BANDEGAUN-7-400x220.jpg"
+      ],
+      "published_at": "2025-09-16T15:23:59Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/77/77ab24b9243b67c700274d5f81e14c4d8fc7a652bf86c9d4a3bf5ae3c6deebff.json",
+      "title": "‘जेनजी’ आन्दोलनका क्रममा कर्णालीमा ५२ वटा भौतिक संरचना र ४५ सवारीसाधनमा आगजनी",
+      "url": "https://khabarhub.com/2025/16/852875/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "52bee355a8e3ef99b3e631362944dbe61c8863828a4a7789dd0b5c102163985e",
+      "fetched_at": "2025-09-16T15:26:35.279540Z",
+      "id": "993dde406d494369f4f6b0aca6f6ef78a67253509a847d03ecf70391582f3378",
+      "images": [],
+      "published_at": "2025-09-16T15:23:47Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/99/993dde406d494369f4f6b0aca6f6ef78a67253509a847d03ecf70391582f3378.json",
+      "title": "कर्णालीमा ५२ वटा भौतिक संरचना र ४५ सवारीसाधनमा आगजनी",
+      "url": "https://www.prasashan.com/2025/09/16/701792/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8cd5977e5d7278e2c5ed53855528dc57301368c8f46e71ca96e896195810ef1e",
+      "fetched_at": "2025-09-16T15:25:55.901042Z",
+      "id": "ead3d008890ea64cef36da909a13c847c06d7e9fb3d8725e757a269301876922",
+      "images": [],
+      "published_at": "2025-09-16T15:23:38Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/ea/ead3d008890ea64cef36da909a13c847c06d7e9fb3d8725e757a269301876922.json",
+      "title": "अर्थमन्त्रीद्वारा निजी क्षेत्रसँग छलफल",
+      "url": "https://www.nepaljapan.com/09/17/681190/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "3f715238cee1960c39b7c4d56f26735d24e8553a174cfc4a9966e390d6ae8020",
+      "fetched_at": "2025-09-16T15:26:17.462018Z",
+      "id": "5be651a861e07c48ee4d6951fe06e105eaf9aaa6f3c5b3b6f77482d6e007c34f",
+      "images": [],
+      "published_at": "2025-09-16T15:19:03Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/5b/5be651a861e07c48ee4d6951fe06e105eaf9aaa6f3c5b3b6f77482d6e007c34f.json",
+      "title": "मधेशका दुई मन्त्रीले दिए राजीनामा",
+      "url": "https://shilapatra.com/detail/168098",
+      "version": 1
+    },
+    {
+      "canonical_hash": "734126a7ca104e474a8d4c62af0a0998800dcf67cbab1dfdcf5e1ec23336b146",
+      "fetched_at": "2025-09-16T15:26:36.348308Z",
+      "id": "336b07ad65c46b686a58870210f9e62325585685225c151f4ae435a1269de44f",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-4.jpg"
+      ],
+      "published_at": "2025-09-16T15:17:44Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/33/336b07ad65c46b686a58870210f9e62325585685225c151f4ae435a1269de44f.json",
+      "title": "निजामती कर्मचारीकाे दरबन्दी २० प्रतिशतले कटाैती गर्ने सरकारकाे तयारी",
+      "url": "https://www.imagekhabar.com/news/507489/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-16T15:25:48.390765Z",
+      "id": "37906f6268d674399ea034701f22e03d26bd30968a89226fe04265a34e8a0692",
+      "images": [],
+      "published_at": "2025-09-16T15:17:26Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/37/37906f6268d674399ea034701f22e03d26bd30968a89226fe04265a34e8a0692.json",
+      "title": "नारायणघाट–मुग्लिन सडकमा भिरबाट खसेको ढुंगा लागेर एकको मृत्यु",
+      "url": "https://www.setopati.com/social/369509",
+      "version": 1
+    },
+    {
+      "canonical_hash": "3127b2f1e2aa311f5c478bc14c7a5dde2dcabc92e1e49376cc67c1767152ffbd",
+      "fetched_at": "2025-09-16T15:25:55.931062Z",
+      "id": "8aa37d68b3d8ca42065e2cdbdce0b18d84f1d92ae5299e2ecbb6f130c5e6240f",
+      "images": [],
+      "published_at": "2025-09-16T15:14:04Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/8a/8aa37d68b3d8ca42065e2cdbdce0b18d84f1d92ae5299e2ecbb6f130c5e6240f.json",
+      "title": "घटस्थापनादेखि असोज २२ सम्म सार्वजनिक यातायातलाई रुट परमिट खुला",
+      "url": "https://www.nepaljapan.com/09/17/681192/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e353c39d11e7bc2407c42c0d5155906a32c1aea5fef4abc73b04c6f613fe84aa",
+      "fetched_at": "2025-09-16T15:26:38.384935Z",
+      "id": "8335530d8dcdfdec6f1cf67716dfeb0bb4e29e68b6bbb97b25ee351e0cbbd07c",
+      "images": [],
+      "published_at": "2025-09-16T15:11:25Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/83/8335530d8dcdfdec6f1cf67716dfeb0bb4e29e68b6bbb97b25ee351e0cbbd07c.json",
+      "title": "सनातन हिन्दु राष्ट्र कायम हुनुपर्ने साधुसन्तको माग",
+      "url": "https://deshsanchar.com/2025/09/16/1094604/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "0ce4a8f9268d9c787edb42c43c18877b01b3763e43b4b48677bf7cab31161ff3",
+      "fetched_at": "2025-09-16T15:26:01.152508Z",
+      "id": "52caa5a1b96c0b4f8bc90de0cf10d45669b38c233235725265bc6bad4f546379",
+      "images": [],
+      "published_at": "2025-09-16T15:10:01Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/52/52caa5a1b96c0b4f8bc90de0cf10d45669b38c233235725265bc6bad4f546379.json",
+      "title": "मधेस प्रदेशसभामा ४० करोड बराबरको क्षति",
+      "url": "https://lokaantar.com/story/299348/2025/9/16/current-affairs/madhes-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "7354ec1339931c8b262837143370794415b6ff1ebfff5700b18958a991d58807",
+      "fetched_at": "2025-09-16T15:26:01.184715Z",
+      "id": "d3426617c91f3b7191e070d0b11c88734792fd4205ba6d7a9a8a9b0977b935f7",
+      "images": [],
+      "published_at": "2025-09-16T15:09:16Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/d3/d3426617c91f3b7191e070d0b11c88734792fd4205ba6d7a9a8a9b0977b935f7.json",
+      "title": "मधेश प्रदेशसभामा ४० करोड बराबरको क्षति",
+      "url": "https://lokaantar.com/story/299347/2025/9/16/crime/madhesh-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "579549025e25a673db4cfe6adc1979a3f8d136e85aa2e38a1df13b02b5260761",
+      "fetched_at": "2025-09-16T15:26:01.214368Z",
+      "id": "dd54ade08527aa8f526e5a682b418e77e435363e568f7cac2891ea0e04f260f6",
+      "images": [],
+      "published_at": "2025-09-16T15:08:44Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/dd/dd54ade08527aa8f526e5a682b418e77e435363e568f7cac2891ea0e04f260f6.json",
+      "title": "वीरगञ्ज महानगरमा एक अर्बभन्दा बढीको क्षति",
+      "url": "https://lokaantar.com/story/299346/2025/9/16/current-affairs/birgunj-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "0cf8f786580f2b7c91c2490486f7f0450fc70fbb083b41a27d51a552ccd00c4f",
+      "fetched_at": "2025-09-16T15:25:46.137685Z",
+      "id": "70e2e4a357a91ecbe470e86e52b53a8267ec9fd005b34f633f02628409bad73b",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/photos/1758030207_Koshi%20Chyati.jpg"
+      ],
+      "published_at": "2025-09-16T15:07:10Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/70/70e2e4a357a91ecbe470e86e52b53a8267ec9fd005b34f633f02628409bad73b.json",
+      "title": "जेन-जी आन्दोलनः कोशीमा ५७ वटा प्रहरी भवन क्षतिग्रस्त, एक सय १४ प्रहरी घाइते",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/gen-g-movement-57-police-buildings-damaged-114-police-injured-in-koshi-76-77.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "4196eda4df90c1d6e4f32edbf57d02d1c3757d7b5882de7b386f6890465055e3",
+      "fetched_at": "2025-09-16T15:26:39.021864Z",
+      "id": "18c8c69037efeb34c6f94df045773fbd0010b7fbb9c208afb98e52a1bf74b4d1",
+      "images": [],
+      "published_at": "2025-09-16T15:06:43Z",
+      "source": {
+        "domain": "khasokhas.com",
+        "id": "khasokhas",
+        "name": "khasokhas.com"
+      },
+      "store_path": "domains/_store/18/18c8c69037efeb34c6f94df045773fbd0010b7fbb9c208afb98e52a1bf74b4d1.json",
+      "title": "अमेरिकामा गैरकानूनी रूपमा पुन: प्रवेश गरे १० वर्ष जेल सजाय हुने बिल प्रतिनिधिसभाबाट पारित",
+      "url": "https://www.khasokhas.com/224600",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cccffd244ea3fdf033b98819ee0d9cde14439909307fcc9a4e48d4b4ee864821",
+      "fetched_at": "2025-09-16T15:26:38.414706Z",
+      "id": "8b424461960a30a4335216787098d5c4bd734f191906b03ff5ff9344bad44b71",
+      "images": [
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16183002/Bishwakarma-Murti_Nepal-Photo-Library-11-1024x683.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16183003/Bishwakarma-Murti_Nepal-Photo-Library-12-1024x682.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16183003/Bishwakarma-Murti_Nepal-Photo-Library-13-1024x683.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16183004/Bishwakarma-Murti_Nepal-Photo-Library-14-1024x683.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16182947/Bishwakarma-Murti_Nepal-Photo-Library-9-1024x683.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16182947/Bishwakarma-Murti_Nepal-Photo-Library-8-1024x682.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16182946/Bishwakarma-Murti_Nepal-Photo-Library-7-1024x683.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16182946/Bishwakarma-Murti_Nepal-Photo-Library-6-1024x683.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16182931/Bishwakarma-Murti_Nepal-Photo-Library-5-1024x683.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/16182931/Bishwakarma-Murti_Nepal-Photo-Library-4-1024x683.jpeg"
+      ],
+      "published_at": "2025-09-16T15:06:22Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/8b/8b424461960a30a4335216787098d5c4bd734f191906b03ff5ff9344bad44b71.json",
+      "title": "कालिगढलाई विश्वकर्माको मूर्ति बनाउन भ्याइनभ्याइ (तस्बिरहरू)",
+      "url": "https://deshsanchar.com/2025/09/16/1094568/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a3f9d1c0e314c15c3fadddf829c4eef61aea4b93cf8752fce2a35d21098a74ac",
+      "fetched_at": "2025-09-16T15:26:35.311068Z",
+      "id": "745992046b341cdefe96d6950e685879ce78fed26538b883a05b3f651db36f1b",
+      "images": [],
+      "published_at": "2025-09-16T15:05:59Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/74/745992046b341cdefe96d6950e685879ce78fed26538b883a05b3f651db36f1b.json",
+      "title": "सबैले पद छोडेर संयोजक तोकेर चुनावमा जानुपर्ने काँग्रेस पुनर्गठनबारे प्रदीप पौडेलको प्रस्ताव",
+      "url": "https://www.prasashan.com/2025/09/16/701790/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a54bb0b4c907c17f2c5c9caadfbb45a9fae35ea7bc971058899658631bd656dc",
+      "fetched_at": "2025-09-16T15:25:46.171665Z",
+      "id": "90faf8f5c54f53fa32b67435e6b4c19b1a4d540d259a4355c2075cf26a956778",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758035437_Untitled-1.jpg"
+      ],
+      "published_at": "2025-09-16T15:05:09Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/90/90faf8f5c54f53fa32b67435e6b4c19b1a4d540d259a4355c2075cf26a956778.json",
+      "title": "तोडफोड तथा आगजनी गर्नेलाई खोज्दै प्रहरी",
+      "url": "https://nagariknews.nagariknetwork.com/politics/police-searching-for-vandalism-and-arsonists-62-89.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "24cd631994d5ae9c0b92fba33758d0a7879cefb3e09467b9b09c22d98a692ecf",
+      "fetched_at": "2025-09-16T15:26:40.884533Z",
+      "id": "b6de58bc57d32189264d18360fcdede48606ce443dde3f4ba9445a951af8b47b",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/08/District-Police-Office-Chitwan-400x220.jpg"
+      ],
+      "published_at": "2025-09-16T15:03:42Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/b6/b6de58bc57d32189264d18360fcdede48606ce443dde3f4ba9445a951af8b47b.json",
+      "title": "तोडफोड तथा आगजनी गर्नेलाई खोज्दै प्रहरी",
+      "url": "https://khabarhub.com/2025/16/852873/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "188a1fc0a436f63bdf73c97eaf488fad1d488acf2f55f743f2e5be194363a075",
+      "fetched_at": "2025-09-16T15:26:36.376086Z",
+      "id": "f246815638e4bb595ab6971ef638f6d1fb32eabe58f023d9ec2a4d8491ce5de8",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/09/Sarbajanik-bida-Holiday-Image-channel.jpg"
+      ],
+      "published_at": "2025-09-16T15:03:20Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/f2/f246815638e4bb595ab6971ef638f6d1fb32eabe58f023d9ec2a4d8491ce5de8.json",
+      "title": "जेनजीको आन्दाेलनका क्रममा मृत्यु भएका व्यक्तिकाे सम्मान स्वरूप भाेलि सार्वजनिक बिदा, राष्ट्रिय झण्डा आधा झुकाउने (सूचनासहित)",
+      "url": "https://www.imagekhabar.com/news/507485/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c1de1da64761ad6684b51f6982e0bff5ae0b22f06967959f6aee3ec5901bcbd2",
+      "fetched_at": "2025-09-16T15:25:55.960432Z",
+      "id": "55725a5fde41e4a39d49a84946149acc7b3b063aa67ca3431f7899e1f9443f35",
+      "images": [
+        "https://www.nepaljapan.com/wp-content/uploads/2025/09/pr-11-e1758034551166.jpg"
+      ],
+      "published_at": "2025-09-16T15:01:19Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/55/55725a5fde41e4a39d49a84946149acc7b3b063aa67ca3431f7899e1f9443f35.json",
+      "title": "दशैं टीकाको उत्तम साइत असोज १६ गते बिहान ११ः५३ बजे",
+      "url": "https://www.nepaljapan.com/09/17/681187/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c01c6837562057852ef7515f0030cf183d666d74748277525eea12dfaeb46115",
+      "fetched_at": "2025-09-16T15:26:38.443499Z",
+      "id": "c4d88d5101164e2ebf4371b6be98dedb9f6fe286d13e8e56f58c8422e4e7d1e8",
+      "images": [],
+      "published_at": "2025-09-16T14:56:57Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/c4/c4d88d5101164e2ebf4371b6be98dedb9f6fe286d13e8e56f58c8422e4e7d1e8.json",
+      "title": "गण्डकीः तोडफोडमा र लुटपाटमा संलग्नलाई कारबाही गर्ने सुरक्षा समितिको निर्णय",
+      "url": "https://deshsanchar.com/2025/09/16/1094608/",
+      "version": 1
+    },
     {
       "canonical_hash": "57fe144b8d4854cd6243825323cd97c26ec4ebc7888263cc8d43785daa4754f7",
       "fetched_at": "2025-09-16T14:56:30.653677Z",
@@ -32,6 +409,40 @@
       "store_path": "domains/_store/da/da968eadbbd02b782675d726f42734777948b5b5d1564d77e4a468a799b7a110.json",
       "title": "नेपाली सेना सवार ट्रक दुर्घटना हुँदा १६ जना घाइते",
       "url": "https://www.nepaljapan.com/09/16/681183/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6ba3206d7c7a95c3a94c7416b7b8c3559746baa4559b6dc55542ec2b7fe384a1",
+      "fetched_at": "2025-09-16T15:26:01.244125Z",
+      "id": "fed6c07aa7956f39e1f5a3288f9d9400c470f9b1a2a7451db12ca29c036d88b1",
+      "images": [],
+      "published_at": "2025-09-16T14:55:33Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/fe/fed6c07aa7956f39e1f5a3288f9d9400c470f9b1a2a7451db12ca29c036d88b1.json",
+      "title": "घटस्थापनादेखि असोज २२ सम्म सार्वजनिक यातायातलाई देशभर रुट परमिट खुला",
+      "url": "https://lokaantar.com/story/299345/2025/9/16/general-news/yatayat-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "eadd3efbac63c6487d2291d235b6655f3453b612736dffbe080401aacf969ddf",
+      "fetched_at": "2025-09-16T15:25:46.204418Z",
+      "id": "ebdd73eebb7fdf7b4544fae626515f7a7e61d3319a816dbd2d7233d9b8f278ac",
+      "images": [
+        "https://images.nagariknewscdn.com/2024/third-party/1663329492_Dashain_Nagarik.jpg"
+      ],
+      "published_at": "2025-09-16T14:55:05Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/eb/ebdd73eebb7fdf7b4544fae626515f7a7e61d3319a816dbd2d7233d9b8f278ac.json",
+      "title": "बडादसैं: टीकाको उत्तम साइत असोज १६ गते बिहान ११ः५३ बजे",
+      "url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/bada-dashain-the-best-time-for-tika-is-11-53-am-on-asoj-16-94-48.html",
       "version": 1
     },
     {
@@ -1277,416 +1688,6 @@
       "store_path": "domains/_store/63/637445723f4b01bdb74e65af6f445786c6f97f9859f146c97cf4732e77f6c33e.json",
       "title": "भारतीय राजदूतको अन्तरिम सरकारप्रति सहयोग प्रतिबद्धता",
       "url": "https://newsofnepal.com/2025/09/16/731598/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b23dbfaa08ae0e24429c3c21c24be3eeef919aebb4dca5cf98d606e8b48436e8",
-      "fetched_at": "2025-09-16T13:53:46.222878Z",
-      "id": "5eefbb6d5a9d82c576cc9d015fc4927ab34952f29cb70c9a75534abe2545c4b5",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2024/07/hikmat-karki-400x220.jpg"
-      ],
-      "published_at": "2025-09-16T13:36:05Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/5e/5eefbb6d5a9d82c576cc9d015fc4927ab34952f29cb70c9a75534abe2545c4b5.json",
-      "title": "जेन-जी आन्दोलनमा भएको घटनाको छानबिन हुनुपर्छ : मुख्यमन्त्री कार्की",
-      "url": "https://khabarhub.com/2025/16/852849/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "bbb4bf654e4a0348b3062df96f7d46943fb007c6a01920f3f2d6fde86068dd3e",
-      "fetched_at": "2025-09-16T13:53:44.694998Z",
-      "id": "5d67b99cf342e3d77289cc0b1de95f5459781dba0f26f7f1541a4d850bf6d75b",
-      "images": [],
-      "published_at": "2025-09-16T13:34:27Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/5d/5d67b99cf342e3d77289cc0b1de95f5459781dba0f26f7f1541a4d850bf6d75b.json",
-      "title": "झापामा आन्दोलनले ठूलो क्षति, मंगलबारसम्मको प्रारम्भिक विवरण सार्वजनिक",
-      "url": "https://deshsanchar.com/2025/09/16/1094611/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "97b14402569f99172547d6084c92b1fd5cfc7df161f420cac71311bf8d0d3995",
-      "fetched_at": "2025-09-16T13:53:46.252454Z",
-      "id": "e22b70a33228d662b3c33957b9db8c778d7926ab8e755239892155a2d4d1a066",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2024/12/rabi-lamichhane-4-400x220.jpg"
-      ],
-      "published_at": "2025-09-16T13:33:28Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/e2/e22b70a33228d662b3c33957b9db8c778d7926ab8e755239892155a2d4d1a066.json",
-      "title": "रविलाई जेलभित्रै राखेर रास्वपा महाधिवेशनको तयारी",
-      "url": "https://khabarhub.com/2025/16/852846/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "860d683d73b4384a374ee92052d20ed170b0e072605cce8782bc11e7844369ea",
-      "fetched_at": "2025-09-16T13:53:40.984494Z",
-      "id": "ad8b6ad7dbff13875e55f68ae72d64871da4967ab22122e5164be371c659e8c5",
-      "images": [],
-      "published_at": "2025-09-16T13:32:39Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/ad/ad8b6ad7dbff13875e55f68ae72d64871da4967ab22122e5164be371c659e8c5.json",
-      "title": "राष्ट्रिय सभाको चालु अधिवेशन अन्त्य",
-      "url": "https://www.prasashan.com/2025/09/16/701771/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "1b3a0ff9ffff816e4329b1a78be7516fe03a40ee01b0980e7313b1c90abcbd87",
-      "fetched_at": "2025-09-16T13:32:11.065586Z",
-      "id": "53481cc2a94716596dd5dcfa1e1a2b3ee11dd4270ad8e290f62d9c985b5e3c7a",
-      "images": [],
-      "published_at": "2025-09-16T13:32:03Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/53/53481cc2a94716596dd5dcfa1e1a2b3ee11dd4270ad8e290f62d9c985b5e3c7a.json",
-      "title": "विश्व रेडक्रसका नेपाली अभियन्ता",
-      "url": "https://deshsanchar.com/2025/09/16/1094595/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "342f6d51dfcbcd15a6662ac37849a32917ed3eed781c1574de0c4f9e1bee361f",
-      "fetched_at": "2025-09-16T13:31:44.017364Z",
-      "id": "ce5f12f74e89361592cc98e552f3c5e2bea621a6b7f0056b4a65656ef559fe3a",
-      "images": [],
-      "published_at": "2025-09-16T13:31:44.017364Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/ce/ce5f12f74e89361592cc98e552f3c5e2bea621a6b7f0056b4a65656ef559fe3a.json",
-      "title": "जेनजी प्रदर्शनमा मृत्यु भएका छ जनाको शव हेलिकप्टरमार्फत जिल्ला पुर्याइयो",
-      "url": "https://thahakhabar.com/news/235546",
-      "version": 1
-    },
-    {
-      "canonical_hash": "687acafb95adb4c12b783a522eddd72ceca64513564dfa227e6fc9689d496857",
-      "fetched_at": "2025-09-16T13:31:49.392507Z",
-      "id": "3467785a1c90c0ea8c58c2825adfbb78bbfa05bad626c53271404ca0b0f60938",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/07/rastiya-sabha-123-150x150.jpg"
-      ],
-      "published_at": "2025-09-16T13:29:47Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/34/3467785a1c90c0ea8c58c2825adfbb78bbfa05bad626c53271404ca0b0f60938.json",
-      "title": "राष्ट्रिय सभाको अधिवेशन अन्त्य",
-      "url": "https://newsofnepal.com/2025/09/16/731596/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b8309956fc35b7a80eaf5b1bf9c47024ccf5a0ce12a200de6eba33ccd325d9fe",
-      "fetched_at": "2025-09-16T13:31:58.749960Z",
-      "id": "c9d5ddb4d2f97bb8547a63052a161f6b326720785c1413e7cbb32a2f462b2c47",
-      "images": [],
-      "published_at": "2025-09-16T13:29:10Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/c9/c9d5ddb4d2f97bb8547a63052a161f6b326720785c1413e7cbb32a2f462b2c47.json",
-      "title": "सेनाको हेलिकोप्टरमार्फत जेन–जी आन्दोलनको क्रममा मृत्यु भएका छ जनाको शव सम्बन्धित जिल्लामा पुर्‍याइयो",
-      "url": "https://www.reportersnepal.com/2025/09/1129316/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "fee09ba366a81f9d27cfc7b5b0a57634d102281eb34e65fa1cf7bca415936aa3",
-      "fetched_at": "2025-09-16T13:53:08.054856Z",
-      "id": "f8b59dca93bb16a51af037b117c7de534ac5236a8aa21dc868d53ec476093e4b",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758028984_harka_balen.png"
-      ],
-      "published_at": "2025-09-16T13:28:46Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/f8/f8b59dca93bb16a51af037b117c7de534ac5236a8aa21dc868d53ec476093e4b.json",
-      "title": "बालेनलाई हर्कको अर्को ‘अट्याक’: विदेशीको कठपुतली बनेर ‘लभ’ को कुरा !",
-      "url": "https://nagariknews.nagariknetwork.com/politics/hark-s-another-attack-on-balen-talk-of-love-by-becoming-a-puppet-of-a-foreigner-69-45.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "458acc973334d16dce3803ed427ed7afeade7a7e66a24c321031136647dc5ad8",
-      "fetched_at": "2025-09-16T13:53:08.086344Z",
-      "id": "01f29313abe14dca18a7e44b6d112e306e09ac2ccce41c1e3c3cb5c1fa89eb74",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758029112_Banke%20Prahari.jpg"
-      ],
-      "published_at": "2025-09-16T13:25:20Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/01/01f29313abe14dca18a7e44b6d112e306e09ac2ccce41c1e3c3cb5c1fa89eb74.json",
-      "title": "जेनजी आन्दोलन: आगजनी, तोडफोड र लुटपाटमा संलग्न दुईजना पक्राउ",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/genji-movement-two-arrested-for-arson-vandalism-and-looting-78-53.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a94cf3c45ce86dca1f08e91dfcf8f2304a2d744e1a33163468ee8bc5777c822f",
-      "fetched_at": "2025-09-16T13:32:11.094861Z",
-      "id": "1ae49ed813f49d73f48a7cc3c51919c27e9fddc779112acca005746469bf749b",
-      "images": [],
-      "published_at": "2025-09-16T13:23:15Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/1a/1ae49ed813f49d73f48a7cc3c51919c27e9fddc779112acca005746469bf749b.json",
-      "title": "झापाका तीन पालिकामा घोषणा गरिएको निषेधित क्षेत्र आज पनि",
-      "url": "https://deshsanchar.com/2025/09/16/1094609/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3ed15042a01eadea2b825581b94a9f3ee82e81f49517b7d15ab92aa61fc78318",
-      "fetched_at": "2025-09-16T13:31:58.779011Z",
-      "id": "ca9b15d7564d5d0882e6aca93bd47ddd4b6da831fd39ffa14432baf1ffeac81f",
-      "images": [],
-      "published_at": "2025-09-16T13:22:30Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/ca/ca9b15d7564d5d0882e6aca93bd47ddd4b6da831fd39ffa14432baf1ffeac81f.json",
-      "title": "नेपाली सेना सवार ट्रक दुर्घटना हुँदा १६ जना घाइते",
-      "url": "https://www.reportersnepal.com/2025/09/1129314/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "858ce5fa668aff159956647f45d81ed9fb05fcb75a19fc28357809f5dce3177c",
-      "fetched_at": "2025-09-16T13:32:06.355839Z",
-      "id": "e5b474dbd5bc50b3730caee2489663a6cab32ab69490ee8dc147877c1bc2d8dc",
-      "images": [],
-      "published_at": "2025-09-16T13:22:01Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/e5/e5b474dbd5bc50b3730caee2489663a6cab32ab69490ee8dc147877c1bc2d8dc.json",
-      "title": "कर्मचारीको बैठक भत्ता खारेज, कार्यक्रम सरकारी हलमै",
-      "url": "https://www.prasashan.com/2025/09/16/701769/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "18425e1d69167f2874c097cb695ce8150b31afc7e62df133d53ec21ec3c6e687",
-      "fetched_at": "2025-09-16T13:31:33.336734Z",
-      "id": "b66ba345beaad6e1f5cc266bfcaa11a8e18b8cf2f5422c2d11b0443aee390647",
-      "images": [],
-      "published_at": "2025-09-16T13:20:34Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/b6/b66ba345beaad6e1f5cc266bfcaa11a8e18b8cf2f5422c2d11b0443aee390647.json",
-      "title": "आन्दोलनका घाइतेको सबभन्दा जटिल अपरेसन!",
-      "url": "https://www.setopati.com/social/369498",
-      "version": 1
-    },
-    {
-      "canonical_hash": "bd64621872524f71889457be5ceee48b5adde29e117642919985ef5ce63e5f57",
-      "fetched_at": "2025-09-16T13:31:58.808449Z",
-      "id": "d906a223d6fe053c69146b6a1629a4fff97b2be5d00f90a30f7248e924908384",
-      "images": [],
-      "published_at": "2025-09-16T13:19:56Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/d9/d906a223d6fe053c69146b6a1629a4fff97b2be5d00f90a30f7248e924908384.json",
-      "title": "मुख्यमन्त्री पाण्डेद्वारा क्षतिग्रस्त संरचनाको अवलोकन",
-      "url": "https://www.reportersnepal.com/2025/09/1129311/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a924befa63394d214e83f4beecd856a109be9841a5fcd43c1c0a8930b324e458",
-      "fetched_at": "2025-09-16T13:32:11.123861Z",
-      "id": "3397b647148c054c0f2ff447c2e1ac984190ad49fd42dbc9f7aceea5323766eb",
-      "images": [],
-      "published_at": "2025-09-16T13:17:19Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/33/3397b647148c054c0f2ff447c2e1ac984190ad49fd42dbc9f7aceea5323766eb.json",
-      "title": "निर्वाचन एक दिन पनि धकेल्न मिल्दैनः नारायणकाजी",
-      "url": "https://deshsanchar.com/2025/09/16/1094598/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c1d1b5cb38b4361be2c90b92d5c2177079c224374187deeb7269cc0af84feeea",
-      "fetched_at": "2025-09-16T13:53:08.118404Z",
-      "id": "c54225166312799c606462267526a39dc6b98be71c4de444a8618ec2a20619a2",
-      "images": [
-        "https://images.nagariknewscdn.com/authors/1758028473_Lakeside%20%20(2).jpg"
-      ],
-      "published_at": "2025-09-16T13:17:04Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/c5/c54225166312799c606462267526a39dc6b98be71c4de444a8618ec2a20619a2.json",
-      "title": "पर्यटक आगमन: दैनिक ३१ सय बाट १३ सयमा झर्यो",
-      "url": "https://nagariknews.nagariknetwork.com/economy/tourist-arrivals-dropped-from-3100-to-1300-daily-44-74.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "710d4ea25cc03884f92ce40a14b396add315d14833462ae716afd87161f08831",
-      "fetched_at": "2025-09-16T13:53:08.150345Z",
-      "id": "9766912ecb264e941a20e1ce1925baa5e57a67843fa1218d30e2302462e2356a",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758028568_Trump.JPG"
-      ],
-      "published_at": "2025-09-16T13:16:34Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/97/9766912ecb264e941a20e1ce1925baa5e57a67843fa1218d30e2302462e2356a.json",
-      "title": "१५ अर्ब डलर क्षतिपूर्ति मागसहित ट्रम्पले हाले न्यूयोर्क टाइम्समाथि मानहानी मुद्दा",
-      "url": "https://nagariknews.nagariknetwork.com/international/trump-files-defamation-lawsuit-against-new-york-times-seeking-15-billion-in-damages-33-60.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "baa1c003cb6015acf371981f1b3b520b417b42a92ce22765b2495d559d072cc9",
-      "fetched_at": "2025-09-16T13:32:23.705846Z",
-      "id": "247322e7985d6cd32b79abbe9ace43353ee3ba0433c57343521cb1d19207eb76",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/kamal-shah-400x220.jpg"
-      ],
-      "published_at": "2025-09-16T13:16:08Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/24/247322e7985d6cd32b79abbe9ace43353ee3ba0433c57343521cb1d19207eb76.json",
-      "title": "मुख्यमन्त्री शाहद्वारा क्षतिग्रस्त संरचनाको अनुगमन",
-      "url": "https://khabarhub.com/2025/16/852840/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "67d71c60ead3ca8a8c27a6e907317501f4cf3efb920465663e7a53e01901c3c7",
-      "fetched_at": "2025-09-16T13:32:23.736457Z",
-      "id": "da73c2263ec37e8b8933d7f478b2d53e8dd9889ad18ac520920cf99ec7adbbc7",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/07/sherbahadur-deuba-400x220.jpg"
-      ],
-      "published_at": "2025-09-16T13:15:38Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/da/da73c2263ec37e8b8933d7f478b2d53e8dd9889ad18ac520920cf99ec7adbbc7.json",
-      "title": "कांग्रेसको ‘रोडम्याप’, विश्लेषकहरू भन्छन् : देउवाले ढिलो नगरी नेतृत्व हस्तान्तरण गर्नुपर्छ",
-      "url": "https://khabarhub.com/2025/16/852824/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9273db304314fd4ce5ff4c8e4b561ea99b372438f3210e027a3abecc6bc6d3f8",
-      "fetched_at": "2025-09-16T13:32:23.766401Z",
-      "id": "190042049ee0c3ffbff04f4a23e2f3f89473b6b8331a17d96cbe41e743191721",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/image-90-400x220.png"
-      ],
-      "published_at": "2025-09-16T13:15:01Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/19/190042049ee0c3ffbff04f4a23e2f3f89473b6b8331a17d96cbe41e743191721.json",
-      "title": "अर्थसंक्षेप : अर्थमन्त्रीले पुँजीबजारमा रोक्लान् बिचौलिया ?, स्रोत खोज्दै अन्तरिम सरकार : शहरी विकासका कयौँ योजना काटिन सक्ने र विदेशबाट आयो एक खर्ब ७७ अर्ब विप्रेषण",
-      "url": "https://khabarhub.com/2025/16/852819/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3cbe0604b2715034cfe8ec328a33c32c5e21e68f304b3ec5677202cc5aa18ce8",
-      "fetched_at": "2025-09-16T13:31:49.421921Z",
-      "id": "b33c153712ab305fefecb290134bf083ca355b1a3c3c6ef5269fe8a3df878aa3",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/Dashain-555-123-150x150.png",
-        "https://newsofnepal.com/wp-content/uploads/2025/09/sahita-1-588x768.jpg"
-      ],
-      "published_at": "2025-09-16T13:14:12Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/b3/b33c153712ab305fefecb290134bf083ca355b1a3c3c6ef5269fe8a3df878aa3.json",
-      "title": "वि.सं. २०८२ सालको बडादशैंका साइत सार्वजनिक",
-      "url": "https://newsofnepal.com/2025/09/16/731591/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "06e3ef495213ddfb5545b9363ecf059dec29fcfb138999670dbfb8e9bdaabf2e",
-      "fetched_at": "2025-09-16T13:32:28.144845Z",
-      "id": "d7430ee345f923c9ebd34e6b10196b9417e30a015ff53ed5d70abd3cb594f970",
-      "images": [
-        "https://nepalnews.com/wp-content/uploads/2025/09/shital-niwas-768x410.jpg",
-        "https://nepalnews.com/wp-content/uploads/2025/09/Mantri_quarter-768x576.jpeg"
-      ],
-      "published_at": "2025-09-16T13:14:03Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/d7/d7430ee345f923c9ebd34e6b10196b9417e30a015ff53ed5d70abd3cb594f970.json",
-      "title": "क्षतिग्रस्त सरकारी भवनको छैन बीमा, पुनःनिर्माणमा राज्यकोषकै लगानी",
-      "url": "https://nepalnews.com/2025/09/16/damaged-government-buildings-not-insured-state-treasury-to-invest-in-reconstruction/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5b39a21b2046edcd95c33cc1d6226ef1e1e3545cb86adbbc550f6512c4689947",
-      "fetched_at": "2025-09-16T13:32:28.174163Z",
-      "id": "21fe12693eec387b2fbc1e6475e0fbd06fd9f327919a29e3494a4d58f7b63c1b",
-      "images": [],
-      "published_at": "2025-09-16T13:14:01Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/21/21fe12693eec387b2fbc1e6475e0fbd06fd9f327919a29e3494a4d58f7b63c1b.json",
-      "title": "यस वर्षको दशैंको टीकाको उत्तम साइत ११ बजेर ५३ मा",
-      "url": "https://nepalnews.com/2025/09/16/the-best-time-for-this-years-dashain-tika-is-at-1153-am/",
       "version": 1
     }
   ]
