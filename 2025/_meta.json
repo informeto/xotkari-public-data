@@ -1,7 +1,406 @@
 {
-  "count": 4028,
-  "lastUpdated": "2025-09-17T15:54:19.016739Z",
+  "count": 4055,
+  "lastUpdated": "2025-09-17T16:28:44.815083Z",
   "recent": [
+    {
+      "canonical_hash": "84fedffa3825559cabc34db6d809cbce0f1f5a4a9354db3105ccf18df4721e72",
+      "fetched_at": "2025-09-17T16:28:15.492315Z",
+      "id": "f5387038218483565c6d3b71a51c235467acf23d9083eaea73aaab54fb63e075",
+      "images": [],
+      "published_at": "2025-09-17T16:28:15.492315Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/f5/f5387038218483565c6d3b71a51c235467acf23d9083eaea73aaab54fb63e075.json",
+      "title": "मोदीको जन्मदिनमा ट्रम्पको फोन, रुस र युक्रेन युद्ध अन्त्यका लागि सहयोग गरेकामा दिए धन्यवाद",
+      "url": "https://thahakhabar.com/news/235618",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ae73033b44b7f0e0ee1adfb188a6139688e43ae3174ade14b82186dc8dabbc78",
+      "fetched_at": "2025-09-17T16:28:15.461991Z",
+      "id": "dd765d5fd2267447d487261d155e91120a5eb6772b85547bf9c320687b2a3e92",
+      "images": [],
+      "published_at": "2025-09-17T16:28:15.461991Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/dd/dd765d5fd2267447d487261d155e91120a5eb6772b85547bf9c320687b2a3e92.json",
+      "title": "रुकुमपूर्व र बागलुङको सिमानामा भूकम्प",
+      "url": "https://thahakhabar.com/news/235619",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e533ca755bf0bdfedfa329789b1b8cb88f9530f78e78a6bf50dd9dc41afc67ba",
+      "fetched_at": "2025-09-17T16:28:44.783503Z",
+      "id": "81e5bd4b97ac44600291f69633f37d22d385a440dcb8d06f510167265686e1cb",
+      "images": [],
+      "published_at": "2025-09-17T16:26:38Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/81/81e5bd4b97ac44600291f69633f37d22d385a440dcb8d06f510167265686e1cb.json",
+      "title": "मन्त्रीद्वयद्वारा मन्त्री आवास अवलोकन",
+      "url": "https://nepalnews.com/2025/09/17/ministers-inspect-ministerial-residence/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "bf70b6bd29eaa191a1abef95a06d203c26a0cd32b559df9c5d212fafbf35a326",
+      "fetched_at": "2025-09-17T16:28:34.685946Z",
+      "id": "4d78ed28f28f10115367bbd3c15f4f27277096d5204b9923be45b9023a456dd1",
+      "images": [],
+      "published_at": "2025-09-17T16:25:39Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/4d/4d78ed28f28f10115367bbd3c15f4f27277096d5204b9923be45b9023a456dd1.json",
+      "title": "४८ एसपीको सरुवा(सूचीसहित)",
+      "url": "https://www.prasashan.com/2025/09/17/702094/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9b348e8311b90dd9777313ce8cd18b27155fc8642224383d636d3d0e5bf1dc55",
+      "fetched_at": "2025-09-17T16:28:11.581059Z",
+      "id": "a3d21d02c36655feee680bbce9783139a904edada545442f36cd0cd56dd50a20",
+      "images": [],
+      "published_at": "2025-09-17T16:24:20Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/a3/a3d21d02c36655feee680bbce9783139a904edada545442f36cd0cd56dd50a20.json",
+      "title": "रुकुमपूर्व र बागलुङको सिमानामा भूकम्पको धक्का",
+      "url": "https://www.nepaljapan.com/09/18/681357/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "48dec161b6fac0a743fc13af4dba19c8a6e240e950ee6d81dd6706612bb50f69",
+      "fetched_at": "2025-09-17T16:28:03.395590Z",
+      "id": "508e416de466c007fac72b2a453f2ec1f54743a9c73aecec9afb0c77b8fffea1",
+      "images": [
+        "https://images.nagariknewscdn.com/authors/1758125945_Nepal%20Army.jpg"
+      ],
+      "published_at": "2025-09-17T16:19:25Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/50/508e416de466c007fac72b2a453f2ec1f54743a9c73aecec9afb0c77b8fffea1.json",
+      "title": "संविधानविद्ले देखेको आवश्यकता: सेनासहितका तीन विषयमा गम्भीर छानबिन",
+      "url": "https://nagariknews.nagariknetwork.com/politics/constitutional-scholar-sees-need-for-serious-investigation-into-three-issues-including-the-military-57-69.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e11f58b232eb616dfebb0462306158b5ba385961cded7727cdcc502c3e91a2e3",
+      "fetched_at": "2025-09-17T16:28:17.507162Z",
+      "id": "439d1158777c0c643ad1dc691859d54a864c4df83c954628c771d3e09f80eb3d",
+      "images": [],
+      "published_at": "2025-09-17T16:19:06Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/43/439d1158777c0c643ad1dc691859d54a864c4df83c954628c771d3e09f80eb3d.json",
+      "title": "नेपालमा ५५ वर्षदेखि पश्चिमी शक्तिहरूको हस्तक्षेप चलिरहेको दुर्गा प्रसाईंको दाबी",
+      "url": "https://lokaantar.com/story/299434/2025/9/17/main-news/durga-prasain-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "2e2db8e6ad5a7d84ee1ce01322cf7f90cbfeb83674cbf332b8c736c217cc970b",
+      "fetched_at": "2025-09-17T16:28:05.715505Z",
+      "id": "aa9db93c81e711a6dfd1c090e757f2258053209fff892600d1e6cf23c919e0d1",
+      "images": [],
+      "published_at": "2025-09-17T16:19:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/aa/aa9db93c81e711a6dfd1c090e757f2258053209fff892600d1e6cf23c919e0d1.json",
+      "title": "निर्वाचनको समय हेरफेरले अब प्रतिनिधिसभा र राष्ट्रियसभाको 'म्यान्डेट' हुनसक्छ फरक",
+      "url": "https://www.setopati.com/politics/369591",
+      "version": 1
+    },
+    {
+      "canonical_hash": "08bd2100e32d4aeada8d923454c9fd6192f8eb490bbf68db0c91910b7ccd3007",
+      "fetched_at": "2025-09-17T16:28:20.570064Z",
+      "id": "b8d819f3d43e65b2ccb58a636939807af1351c3b15827ee61b5ba99dc83bd8af",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2025/09/juventus-150x150.webp"
+      ],
+      "published_at": "2025-09-17T16:18:36Z",
+      "source": {
+        "domain": "newsofnepal.com",
+        "id": "newsofnepal",
+        "name": "नेपाल समाचारपत्र"
+      },
+      "store_path": "domains/_store/b8/b8d819f3d43e65b2ccb58a636939807af1351c3b15827ee61b5ba99dc83bd8af.json",
+      "title": "डर्टमन्डविरुद्ध युभेन्टस: पहिलो दिनको रोमाञ्चक खेल",
+      "url": "https://newsofnepal.com/2025/09/17/731844/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "60d4ea3c061322fc164fa5863691ef46d54eb8194349a6efe2688258d8df88a7",
+      "fetched_at": "2025-09-17T16:28:34.716924Z",
+      "id": "2451d297d1d478be96db6a5fc1d64e6f254f968475e27d70fa8ee6c3d32100ea",
+      "images": [],
+      "published_at": "2025-09-17T16:18:30Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/24/2451d297d1d478be96db6a5fc1d64e6f254f968475e27d70fa8ee6c3d32100ea.json",
+      "title": "तोडफोड र लुटपाटमा संलग्न दुई पक्राउ",
+      "url": "https://www.prasashan.com/2025/09/17/702092/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "71eaa0964989ab5fd11ff9f397ad8430eea8b0b5eca8e50148ddeb0ccf5c29eb",
+      "fetched_at": "2025-09-17T16:28:11.610584Z",
+      "id": "dc1a566a4f57e22dd73638157f723dd081b9f1ed0d15d007fd19b012736817f0",
+      "images": [],
+      "published_at": "2025-09-17T16:16:17Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/dc/dc1a566a4f57e22dd73638157f723dd081b9f1ed0d15d007fd19b012736817f0.json",
+      "title": "गण्डकीमा क्षतिको विवरण सङ्कलनपछि सेवा प्रवाहको तयारी",
+      "url": "https://www.nepaljapan.com/09/18/681353/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "27dfa8615dcda0ed7e898abd2cd7dcbaa4e4cfd8c669216ff0c21e70e7f5dd27",
+      "fetched_at": "2025-09-17T16:28:38.711383Z",
+      "id": "bee052ca6af4ea8a060e3585448b2234bf930053fa94fa85fadc3e7d78b5db30",
+      "images": [],
+      "published_at": "2025-09-17T16:15:56Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/be/bee052ca6af4ea8a060e3585448b2234bf930053fa94fa85fadc3e7d78b5db30.json",
+      "title": "सिद्धबाबा सुरुङमार्गको काम ६१ प्रतिशत सम्पन्न",
+      "url": "https://deshsanchar.com/2025/09/17/1095012/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "fd433404668314dbe63fa94291015ed6e43c6484ce5be2952c886945d84e83a2",
+      "fetched_at": "2025-09-17T16:28:03.429914Z",
+      "id": "2056495c5f355e125c5f2d82523a39faca08d9def45720c7c526ab8462e263a8",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758125790_kaidi.png"
+      ],
+      "published_at": "2025-09-17T16:10:19Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/20/2056495c5f355e125c5f2d82523a39faca08d9def45720c7c526ab8462e263a8.json",
+      "title": "जेलबाट भागेका करिब १० हजार कैदी सम्पर्कबाहिर",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/nearly-10-000-prison-escapees-remain-out-of-contact-92-72.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "61bd5e9273d2d54c390a328028202f6954023cac09fcbf9332c3c07cec7ef170",
+      "fetched_at": "2025-09-17T16:28:21.648420Z",
+      "id": "111174fb3b197951161f6d7484cea0327c4394a88cb18cc8856e3455c4b70012",
+      "images": [],
+      "published_at": "2025-09-17T16:09:43Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/11/111174fb3b197951161f6d7484cea0327c4394a88cb18cc8856e3455c4b70012.json",
+      "title": "बाँकेमा तोडफोड र लुटपाटमा संलग्न दुई जना पक्राउ",
+      "url": "https://shilapatra.com/detail/168154",
+      "version": 1
+    },
+    {
+      "canonical_hash": "df48b20a9dd7a10fc9b986b19466ddfd855906a081215778b839937ddb31ef3c",
+      "fetched_at": "2025-09-17T16:28:34.748533Z",
+      "id": "34ff651de4e37a4f480e69f48d773f91dcea662250fd0f86bbff6c2c52ce3a5f",
+      "images": [],
+      "published_at": "2025-09-17T16:08:14Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/34/34ff651de4e37a4f480e69f48d773f91dcea662250fd0f86bbff6c2c52ce3a5f.json",
+      "title": "आज राती यी स्थानमा भारी वर्षाको सम्भावना",
+      "url": "https://www.prasashan.com/2025/09/17/702090/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "7f6ab7c7fe86d709783342922ff01cc003afd1cf84eb47d59926c52926314da0",
+      "fetched_at": "2025-09-17T16:28:44.812759Z",
+      "id": "64f47fb7db6675cfbb2e9b1cc146856571ad193fdda22d2bbe555296978d8b87",
+      "images": [],
+      "published_at": "2025-09-17T16:01:34Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/64/64f47fb7db6675cfbb2e9b1cc146856571ad193fdda22d2bbe555296978d8b87.json",
+      "title": "तोडफोड र लुटपाटमा संलग्न दुई पक्राउ",
+      "url": "https://nepalnews.com/2025/09/17/two-arrested-for-vandalism-and-robbery/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f4b57630040a05e7d004b0d3392eb91408f9e0c34f6dcc88fc6e8bab01d7e14a",
+      "fetched_at": "2025-09-17T16:28:20.599928Z",
+      "id": "5f4db73dc299c4c553c658f92a447d08e46b4d5f28d100404b872f82cfa2adc5",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2025/09/kalimchok-lokarpan1-150x150.jpg",
+        "https://newsofnepal.com/wp-content/uploads/2025/09/lokarpan2-768x511.jpg"
+      ],
+      "published_at": "2025-09-17T16:00:20Z",
+      "source": {
+        "domain": "newsofnepal.com",
+        "id": "newsofnepal",
+        "name": "नेपाल समाचारपत्र"
+      },
+      "store_path": "domains/_store/5f/5f4db73dc299c4c553c658f92a447d08e46b4d5f28d100404b872f82cfa2adc5.json",
+      "title": "‘उत्कृष्ट गन्तव्य कालिन्चोक’ लोकार्पण",
+      "url": "https://newsofnepal.com/2025/09/17/731840/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "97b57ebad9100e329f7296a0ced9445d55e7a15c6822f12fa8fc482b0894e261",
+      "fetched_at": "2025-09-17T16:28:34.780075Z",
+      "id": "eb615b30d74c5abf707b02965eee53a961640deb024fbf12479e6ea5d620ce57",
+      "images": [],
+      "published_at": "2025-09-17T16:00:08Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/eb/eb615b30d74c5abf707b02965eee53a961640deb024fbf12479e6ea5d620ce57.json",
+      "title": "गण्डकीमा क्षतिको विवरण संकलनपछि सेवा प्रवाहको तयारी",
+      "url": "https://www.prasashan.com/2025/09/17/702088/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f0f4fab0b87d974380e9b8da4aa103cce44e3725eee949b1c6472ef3f7d64f69",
+      "fetched_at": "2025-09-17T16:28:03.465083Z",
+      "id": "4e7f097ff82e7e6a64e077651057dd36161429232afb1d696387eba52675c33d",
+      "images": [
+        "https://images.nagariknewscdn.com/authors/1758124782_Deep.jpg"
+      ],
+      "published_at": "2025-09-17T16:00:03Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/4e/4e7f097ff82e7e6a64e077651057dd36161429232afb1d696387eba52675c33d.json",
+      "title": "जेन-जी शहीदप्रति श्रद्धाञ्जली अपर्ण",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/paying-tribute-to-the-gen-g-martyrs-53-95.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e0297919441d770223b3d0e3158362e5c5597d76541df20ea85549ee76a531e2",
+      "fetched_at": "2025-09-17T16:28:40.970850Z",
+      "id": "01ce7b98c34d7cacea24ea441e295272428345b739694c13dda1478220258f5b",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/08/durga-prasain-3-400x220.jpg"
+      ],
+      "published_at": "2025-09-17T15:59:47Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/01/01ce7b98c34d7cacea24ea441e295272428345b739694c13dda1478220258f5b.json",
+      "title": "दुर्गा प्रसाईंले भने : नेपाललाई भूराजनीतिक खेलमा धकेल्ने प्रयास भइरहेको छ",
+      "url": "https://khabarhub.com/2025/17/853235/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "283418c2dfa21d5b71e07a837533484381849700a5ea8ba158c3db3c67654345",
+      "fetched_at": "2025-09-17T16:28:41.492212Z",
+      "id": "4a27d64dad6ad2561a12456f0c7645c021a3f78ec5f970b406d2c9626c9fb2b9",
+      "images": [],
+      "published_at": "2025-09-17T15:59:23Z",
+      "source": {
+        "domain": "hamrokhelkud.com",
+        "id": "hamrokhelkud",
+        "name": "Hamro Khelkud"
+      },
+      "store_path": "domains/_store/4a/4a27d64dad6ad2561a12456f0c7645c021a3f78ec5f970b406d2c9626c9fb2b9.json",
+      "title": "बाबरको स्थान लिएका सैम लगातार तेस्रो खेलमा डक आउट",
+      "url": "https://www.hamrokhelkud.com/cricket/165758.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "51174f1589f79e86ca4d0bd5d1c7c2f75f04726ecab2286705f53ca6175ce074",
+      "fetched_at": "2025-09-17T16:28:11.639937Z",
+      "id": "972f5a529b37ff2b42d45c63ed2ee352340568adfdb85af51043e5cac9ae6d79",
+      "images": [],
+      "published_at": "2025-09-17T15:58:47Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/97/972f5a529b37ff2b42d45c63ed2ee352340568adfdb85af51043e5cac9ae6d79.json",
+      "title": "तोडफोड र लुटपाटमा संलग्न दुई पक्राउ",
+      "url": "https://www.nepaljapan.com/09/18/681352/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "527b70244bf6f3efdcaa5f3db13308a9c29ba7c9de6e75a8bec3ef48174e183d",
+      "fetched_at": "2025-09-17T16:28:20.629738Z",
+      "id": "1d7fb5fabea2fccc41795c39cd83f07b21a5e7cde3e90e0f567af9e7245b859c",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2025/09/ambappe-150x150.jpg"
+      ],
+      "published_at": "2025-09-17T15:54:26Z",
+      "source": {
+        "domain": "newsofnepal.com",
+        "id": "newsofnepal",
+        "name": "नेपाल समाचारपत्र"
+      },
+      "store_path": "domains/_store/1d/1d7fb5fabea2fccc41795c39cd83f07b21a5e7cde3e90e0f567af9e7245b859c.json",
+      "title": "एम्बाप्पेको ५० गोल",
+      "url": "https://newsofnepal.com/2025/09/17/731837/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "492ef4e96c08d7cd97f8e80ab71e66235aaa459246a5529397d9c827db4b3b01",
+      "fetched_at": "2025-09-17T16:28:17.538726Z",
+      "id": "566fda3d5e8109883414de74a42f3025b639a1abf7a4d7fc5041a7c0f6705dc3",
+      "images": [],
+      "published_at": "2025-09-17T15:53:58Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/56/566fda3d5e8109883414de74a42f3025b639a1abf7a4d7fc5041a7c0f6705dc3.json",
+      "title": "अमेरिकी केन्द्रीय बैंकद्वारा ब्याजदर कटौतीको तयारी",
+      "url": "https://lokaantar.com/story/299433/2025/9/17/international/us-flag-",
+      "version": 1
+    },
     {
       "canonical_hash": "24ece693a44dfa2cdfee6ab0e907ca0fdff8a58fb78b8286570504e9ae679ba8",
       "fetched_at": "2025-09-17T15:53:51.310529Z",
@@ -16,6 +415,22 @@
       "store_path": "domains/_store/b1/b1034b3821c28ee8c28dbbcd6a5f475f1be321a15f3b39ad8e59562a538e7d56.json",
       "title": "चाडपर्वलाई लक्षित गरी उपत्यकाका १५ स्थानमा यात्रु सहायता कक्ष",
       "url": "https://www.nepaljapan.com/09/18/681348/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cf7c7df94ddb055afebf43ba1dc9ce5b4e0b1d22eb313f81d2877e5fc44d627c",
+      "fetched_at": "2025-09-17T16:28:17.569252Z",
+      "id": "d20ac4d6b968693f3d1e16a0fe25e03cb6f4444aa887eef7a76de6c3cf2b2a94",
+      "images": [],
+      "published_at": "2025-09-17T15:51:47Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/d2/d20ac4d6b968693f3d1e16a0fe25e03cb6f4444aa887eef7a76de6c3cf2b2a94.json",
+      "title": "गण्डकीमा क्षतिको विवरण सङ्कलनपछि सेवा प्रवाहको तयारी",
+      "url": "https://lokaantar.com/story/299432/2025/9/17/current-affairs/gandaki-",
       "version": 1
     },
     {
@@ -80,6 +495,22 @@
       "store_path": "domains/_store/7a/7aa5ce8ff382dd6e715c76d8e98720e1844882bd4525e03fa720b42bf2f06baa.json",
       "title": "भ्रष्टाचार रोक्न नोटबन्दी: जेन जेड आन्दोलनसँगै छेडिएको बहस",
       "url": "https://www.prasashan.com/2025/09/17/702058/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cdcf36ca00a9777fd1be28a19ffc65f2421e2437e06fb8c0a31541a86cec878e",
+      "fetched_at": "2025-09-17T16:28:41.518203Z",
+      "id": "8a86bca7f0e08cc17fb2c0e16ef8e2e1abdf86aa989ca10b7855715774f7ed5b",
+      "images": [],
+      "published_at": "2025-09-17T15:46:29Z",
+      "source": {
+        "domain": "hamrokhelkud.com",
+        "id": "hamrokhelkud",
+        "name": "Hamro Khelkud"
+      },
+      "store_path": "domains/_store/8a/8a86bca7f0e08cc17fb2c0e16ef8e2e1abdf86aa989ca10b7855715774f7ed5b.json",
+      "title": "एन्फाले फुटसल प्रशिक्षण सुरु गरेर रोकेको थियो",
+      "url": "https://www.hamrokhelkud.com/others/165757.html",
       "version": 1
     },
     {
@@ -228,6 +659,22 @@
       "store_path": "domains/_store/57/572d432f9828cf6c38984368060c5d68239e86f0645bf3d3bee63b8230c906dc.json",
       "title": "एएफसीले एन्फालाई कारबाही गर्‍यो",
       "url": "https://nagariknews.nagariknetwork.com/sports/afc-takes-action-against-anfa-18-77.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b7c2f656d5c8707439d6cc5db11e3ef729dbc84a6310154abe276284f634cfe4",
+      "fetched_at": "2025-09-17T16:28:41.543552Z",
+      "id": "0983a4f730bdc91e0715cfb3c849baaa11f5794edbe2faa5ceda535b492ffae5",
+      "images": [],
+      "published_at": "2025-09-17T15:32:26Z",
+      "source": {
+        "domain": "hamrokhelkud.com",
+        "id": "hamrokhelkud",
+        "name": "Hamro Khelkud"
+      },
+      "store_path": "domains/_store/09/0983a4f730bdc91e0715cfb3c849baaa11f5794edbe2faa5ceda535b492ffae5.json",
+      "title": "भारतविरुद्ध खेलका म्याच रेफ्रीले पाकिस्तानसँग मागे माफी",
+      "url": "https://www.hamrokhelkud.com/cricket/165754.html",
       "version": 1
     },
     {
@@ -1226,455 +1673,6 @@
       "store_path": "domains/_store/c7/c7ffb52f6cbb5013bb2b26cdc16775799fa48e0a5a789d8d66559fbd7929b726.json",
       "title": "डोल्पा र जुम्लाका भेडाच्याङ्ग्रा मुस्ताङमा",
       "url": "https://deshsanchar.com/2025/09/17/1093471/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c073566acb86932c79b0acd3dbab2e5fa977dd9f6124a338c0fc28dbc80e9d39",
-      "fetched_at": "2025-09-17T14:44:00.202701Z",
-      "id": "0772f36a84ec76b0e44bfe46df5d9b93119733c68f05324865b2cae5c2632e1e",
-      "images": [],
-      "published_at": "2025-09-17T14:27:11Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/07/0772f36a84ec76b0e44bfe46df5d9b93119733c68f05324865b2cae5c2632e1e.json",
-      "title": "बाढीले मध्यपहाडी लोकमार्गको बुर्तिबाङ–पूर्वी रुकुम खण्ड अवरुद्ध",
-      "url": "https://deshsanchar.com/2025/09/17/1093760/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5562d1cac6256f06252b22510d17a72231a306f6ad7437849ca2e95dec534217",
-      "fetched_at": "2025-09-17T14:43:11.103225Z",
-      "id": "53e1f2b1bfef2aa883f6775a5368e8f639c28dffc90b97cc59be7f77406df229",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758119565_governer.png"
-      ],
-      "published_at": "2025-09-17T14:26:36Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/53/53e1f2b1bfef2aa883f6775a5368e8f639c28dffc90b97cc59be7f77406df229.json",
-      "title": "गभर्नरले भने: संसद भवनभित्रको वाणिज्य बैंकबाट ५ करोड नगद र १८ किलो सुन लुटियो",
-      "url": "https://nagariknews.nagariknetwork.com/politics/governor-says-rs-50-million-in-cash-and-18-kg-of-gold-were-looted-from-a-commercial-bank-inside-the-parliament-building-56-76.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "404fbb6729c2e2a5832f6f5e7fd42a619f6104be0bdba8354c5416638b6719f0",
-      "fetched_at": "2025-09-17T14:44:00.232401Z",
-      "id": "20285f8bd0e4ed315a800332dfdc4d0aab82637142f2fe585b566911e04feb3b",
-      "images": [
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15190541/10-1024x768.jpeg",
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15190616/11-1024x768.jpeg",
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15190617/12-1024x768.jpeg",
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/15190558/12-1024x768.jpeg"
-      ],
-      "published_at": "2025-09-17T14:25:56Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/20/20285f8bd0e4ed315a800332dfdc4d0aab82637142f2fe585b566911e04feb3b.json",
-      "title": "शिवम् सिमेन्टद्वारा जिल्ला प्रशासन कार्यालय, काठमाडौंमा सरसफाइ",
-      "url": "https://deshsanchar.com/2025/09/17/1093865/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "86582964360f4e2cd17254e3f8a0d583d98d0b75a7bde259886a07dfa13189c7",
-      "fetched_at": "2025-09-17T14:43:24.910676Z",
-      "id": "f86ad8c71301355edefdd12da9bdc9b352f3d6a7b286a388ccc238135b81438f",
-      "images": [],
-      "published_at": "2025-09-17T14:23:38Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/f8/f86ad8c71301355edefdd12da9bdc9b352f3d6a7b286a388ccc238135b81438f.json",
-      "title": "एमाले युवाहरुको पार्टी हो : महासचिव पोखरेल",
-      "url": "https://lokaantar.com/story/299420/2025/9/17/current-affairs/shankar-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "140d694272c15f5c53eaa73ac5b71c2e1d37509d805fc2273bdaf9085457b3d1",
-      "fetched_at": "2025-09-17T14:44:06.647679Z",
-      "id": "9921767cca171166d263682504f9311b06de197a238ccd1d8e923fd5731a9a74",
-      "images": [],
-      "published_at": "2025-09-17T14:23:31Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/99/9921767cca171166d263682504f9311b06de197a238ccd1d8e923fd5731a9a74.json",
-      "title": "जेनजी प्रदर्शनमा ज्यान गुमाएकाहरूको सम्झनामा दीप प्रज्वलन",
-      "url": "https://nepalnews.com/2025/09/17/candle-lighting-in-memory-of-those-who-lost-their-lives-in-the-genji-demonstration/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "93595d0e4735fca092b00643eb62d54241038d2a0321f467c23115dc54c43c93",
-      "fetched_at": "2025-09-17T14:43:24.940009Z",
-      "id": "c7dfffe6c815e95dc2c7924d49fbe0ab78b022a5b1ee684e925eeff6f2829bef",
-      "images": [],
-      "published_at": "2025-09-17T14:22:01Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/c7/c7dfffe6c815e95dc2c7924d49fbe0ab78b022a5b1ee684e925eeff6f2829bef.json",
-      "title": "जेनजी प्रदर्शनमा ज्यान गुमाएकाहरूको सम्झनामा दीप प्रज्वलन",
-      "url": "https://lokaantar.com/story/299419/2025/9/17/current-affairs/genz-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b302593df8a5c03befd81c2d5d7d429cae83b96e3686b655dec1de577fed392e",
-      "fetched_at": "2025-09-17T14:21:37.128918Z",
-      "id": "ced4154ebef0be599671fd88d88f17253b95f353a7e88af29ea386b4fb7d5e8e",
-      "images": [],
-      "published_at": "2025-09-17T14:21:37.128918Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/ce/ced4154ebef0be599671fd88d88f17253b95f353a7e88af29ea386b4fb7d5e8e.json",
-      "title": "उद्योग व्यवसायमा आगजनी, तोडफोड र लुटपाट गर्नेमाथि कडा कारबाही गर्नुपर्छ : चन्द्र ढकाल",
-      "url": "https://thahakhabar.com/news/235611",
-      "version": 1
-    },
-    {
-      "canonical_hash": "4bdb74029d377aaa07207a86abcbedb3f8fcc0eca1ae89cd9da21d8548006ac8",
-      "fetched_at": "2025-09-17T14:21:57.974892Z",
-      "id": "99de15e90783fae1a52a2483b5f3fb1b4d971e6cd7aeaa927263d6aa2ec09605",
-      "images": [],
-      "published_at": "2025-09-17T14:19:36Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/99/99de15e90783fae1a52a2483b5f3fb1b4d971e6cd7aeaa927263d6aa2ec09605.json",
-      "title": "सशस्त्र प्रहरी वरिष्ठ उपरीक्षक श्रेष्ठ हिल्सादेखि लाप्चासम्म",
-      "url": "https://deshsanchar.com/2025/09/17/1094868/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "4dffd7febf92974fed405b17459ac6b7ad49b7fed03f152afce944546abd198f",
-      "fetched_at": "2025-09-17T14:22:18.584631Z",
-      "id": "6697aa7adb70a7bc5c7a32aed0fdf7a0c2c09396daa71e41ae1f3e02fc044b61",
-      "images": [],
-      "published_at": "2025-09-17T14:17:19Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/66/6697aa7adb70a7bc5c7a32aed0fdf7a0c2c09396daa71e41ae1f3e02fc044b61.json",
-      "title": "सुदूरपश्चिमका पहाडी जिल्लामा मनाइयो बूढी पोल्ने पर्व",
-      "url": "https://nepalnews.com/2025/09/17/the-festival-of-burning-old-people-was-celebrated-in-the-hilly-districts-of-the-far-west/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e6d93eae658f2cae2828febfdfd0caf3dbc5113a1875a098c96faf306d6da35a",
-      "fetched_at": "2025-09-17T14:21:58.005006Z",
-      "id": "7bb8431d6b93c938416294a6bf8285ddd2ee75372b8e8e87ea114570761f0516",
-      "images": [],
-      "published_at": "2025-09-17T14:16:07Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/7b/7bb8431d6b93c938416294a6bf8285ddd2ee75372b8e8e87ea114570761f0516.json",
-      "title": "डोङफेङ मोटरद्वारा इजिप्टमा नौ वटा नयाँ मोडेल सार्वजनिक",
-      "url": "https://deshsanchar.com/2025/09/17/1094869/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "46e2136cedce44837fb97a57d03462051da53eb0f262310c709d266987164706",
-      "fetched_at": "2025-09-17T14:21:38.895105Z",
-      "id": "26c939f68daefe33c374a90f809cbad4757178d38f65441d576655a8b459cfda",
-      "images": [],
-      "published_at": "2025-09-17T14:15:28Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/26/26c939f68daefe33c374a90f809cbad4757178d38f65441d576655a8b459cfda.json",
-      "title": "आईजेएमडी एसएस पाइप्सका लागि रवीन्द्र ढाँट ब्रान्ड एम्बेस्डर नियुक्त",
-      "url": "https://lokaantar.com/story/299418/2025/9/17/market/rabindra-dhat-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "83e5fbcdd337b56b0cbaf5cb117cc677e3497818fb1169e9ccab84e52b4d7f25",
-      "fetched_at": "2025-09-17T14:21:26.675658Z",
-      "id": "0f7c9dfae83b449169a619b6d300d3b9d6b67d53710fdbd639ba0cb31d118add",
-      "images": [
-        "https://images.nagariknewscdn.com/authors/1758116279_bipin.jpg"
-      ],
-      "published_at": "2025-09-17T14:13:21Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/0f/0f7c9dfae83b449169a619b6d300d3b9d6b67d53710fdbd639ba0cb31d118add.json",
-      "title": "ओलीलाई भारतीयहरू मन पराउँदैनथे, सेनाको मौनतामा गम्भीर प्रश्न: संविधानविद्",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/army-s-silence-a-serious-question-constitutional-expert-85-59.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ebd6498bc62a548ae7cf51ddb880bb08bf7aec2c320b41820fcfd2a850e204e5",
-      "fetched_at": "2025-09-17T14:21:33.882763Z",
-      "id": "66825f5c936ada60c5f0786c145bd9e3dc5cfcdcd8c3408ee44916b03319857a",
-      "images": [],
-      "published_at": "2025-09-17T14:12:26Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/66/66825f5c936ada60c5f0786c145bd9e3dc5cfcdcd8c3408ee44916b03319857a.json",
-      "title": "‘निकै जतन गरी चलाएका सवारीसाधन खरानी भए’",
-      "url": "https://www.nepaljapan.com/09/17/681324/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b8f24cedf2d6611f63f30f1376d692b4087f06ee6f838b26196597cb3c2c0176",
-      "fetched_at": "2025-09-17T14:21:38.924678Z",
-      "id": "4ffe3dbbc361c256f18a4c248599214fd8ad759463e69a89f349bc4909f46a8d",
-      "images": [],
-      "published_at": "2025-09-17T14:12:03Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/4f/4ffe3dbbc361c256f18a4c248599214fd8ad759463e69a89f349bc4909f46a8d.json",
-      "title": "नेपाल टेलिकमले संविधान दिवस अवसरमा विशेष अफर घोषणा",
-      "url": "https://lokaantar.com/story/299417/2025/9/17/current-affairs/telecom-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "97c7991348eb70be584895a378399fe92926f7fe79d4ab231703c00939684453",
-      "fetched_at": "2025-09-17T14:21:26.707904Z",
-      "id": "2d332aba1246f47a6f274222fbdc818805567709f64118f45e281f8b8e359191",
-      "images": [
-        "https://images.nagariknewscdn.com/authors/1758118275_Budi.jpg"
-      ],
-      "published_at": "2025-09-17T14:11:32Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/2d/2d332aba1246f47a6f274222fbdc818805567709f64118f45e281f8b8e359191.json",
-      "title": "यसरी मनाइयो ‘बूढी पोल्ने’ पर्व",
-      "url": "https://nagariknews.nagariknetwork.com/Dharma-Saskriti/this-is-how-the-burning-of-the-old-festival-was-celebrated-56-62.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9c225b2a814dfcc0ae8121891d518fc11c286b55439c28f2bb3950f928571d25",
-      "fetched_at": "2025-09-17T14:21:54.881382Z",
-      "id": "f462c61ab2144f5cf8b12fe24753d88ab5379cc3f856ba334a8e4fec51de08a6",
-      "images": [],
-      "published_at": "2025-09-17T14:09:50Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/f4/f462c61ab2144f5cf8b12fe24753d88ab5379cc3f856ba334a8e4fec51de08a6.json",
-      "title": "पुन:निर्माणमा सहयोग गर्ने निजी क्षेत्रको प्रतिबद्धता",
-      "url": "https://www.prasashan.com/2025/09/17/702064/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "f53974a4fe62f16484bd2a699bc285287547c96b5ee163038ce9a792379f411f",
-      "fetched_at": "2025-09-17T14:21:58.034583Z",
-      "id": "9f8739e8b59984df90fe30366f9e59880595e19f3b41bf8d8de1c1b39dedac55",
-      "images": [],
-      "published_at": "2025-09-17T14:08:34Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/9f/9f8739e8b59984df90fe30366f9e59880595e19f3b41bf8d8de1c1b39dedac55.json",
-      "title": "पेरिसको म्युजियमबाट सुनबाट निर्मित बहुमूल्य कला चोरी",
-      "url": "https://deshsanchar.com/2025/09/17/1095104/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "fetched_at": "2025-09-17T14:21:28.767263Z",
-      "id": "31cd0b09330a82f5ab3a481f82bf83f8ea9822b3c8c3fe26a6ecd548272ae529",
-      "images": [],
-      "published_at": "2025-09-17T14:08:01Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/31/31cd0b09330a82f5ab3a481f82bf83f8ea9822b3c8c3fe26a6ecd548272ae529.json",
-      "title": "आजका तस्बिर- असोज १",
-      "url": "https://www.setopati.com/photo-detail/369592",
-      "version": 1
-    },
-    {
-      "canonical_hash": "76d736e261de866ecb6f2bf3e71559c12809206f71e7e1552b3d9cd3aa6b0717",
-      "fetched_at": "2025-09-17T14:43:13.815724Z",
-      "id": "9880b9b8d1f841e32390894401b27c6abb76ccdf67ddf429433a0253be4f2887",
-      "images": [],
-      "published_at": "2025-09-17T14:08:00Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/98/9880b9b8d1f841e32390894401b27c6abb76ccdf67ddf429433a0253be4f2887.json",
-      "title": "थलापति विजयको 'जन नायकन' को क्लाइमेक्सबारे यस्तो चर्चा",
-      "url": "https://www.setopati.com/art/bollywood/369593",
-      "version": 1
-    },
-    {
-      "canonical_hash": "433103cffc0f75d79051c56e9774f6aded8d82bb5bc6aaedd587ace96fdace1d",
-      "fetched_at": "2025-09-17T14:21:26.740440Z",
-      "id": "90e33d001afe8e0e62c00b2f59256e3b5b8598df4e3e1a727a4014de65a3f42f",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758117086_bipin_adhikari.jpg"
-      ],
-      "published_at": "2025-09-17T14:05:05Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/90/90e33d001afe8e0e62c00b2f59256e3b5b8598df4e3e1a727a4014de65a3f42f.json",
-      "title": "नेपालमा संविधान प्रयोग गर्ने तर संकटमा छाडिहिँड्ने परम्परा छ: संविधानविद् डा. अधिकारी",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/nepal-has-a-tradition-of-using-the-constitution-but-abandoning-it-in-times-of-crisis-constitutional-expert-dr-adhikari-68-82.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "6771b0994abd11e7c20d858a153f7411f90955c8db97a253afbb7300ad947b71",
-      "fetched_at": "2025-09-17T14:22:14.752700Z",
-      "id": "5e7d4a0d16f862457d02ff4f277ef3d13fc7d66d6fa1ece1caeebfaf055c68bc",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/Mantri-Quarter-Bhaisepati_NPL-2-copy-1-400x220.jpg"
-      ],
-      "published_at": "2025-09-17T14:04:51Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/5e/5e7d4a0d16f862457d02ff4f277ef3d13fc7d66d6fa1ece1caeebfaf055c68bc.json",
-      "title": "आजका समाचार : मन्त्रीहरूद्वारा क्षतिग्रस्त संरचनाको निरीक्षण, सीके राउतको राजीनामा माग र गाजा छोड्न नयाँ मार्ग खुला",
-      "url": "https://khabarhub.com/2025/17/853188/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "fetched_at": "2025-09-17T14:21:43.754261Z",
-      "id": "656bc9e0da239e12b5a24e011d5147e3d59e06ad523b31853bbeab19d8bdd43b",
-      "images": [],
-      "published_at": "2025-09-17T14:04:22Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/65/656bc9e0da239e12b5a24e011d5147e3d59e06ad523b31853bbeab19d8bdd43b.json",
-      "title": "जेन–जी आन्दोलनमा सेलेब्रिटीको भूमिका : शान्तिदूत कि भड्काउ पात्र ?",
-      "url": "https://shilapatra.com/detail/168137",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9c11015308520ab4119025875bba2b4d5b63ab09c8851a21ff6004185a484b18",
-      "fetched_at": "2025-09-17T14:21:33.911505Z",
-      "id": "08f64ebac27d09048b3f73917ab95938a04ab6d64ae2e19c861680a0d62fac78",
-      "images": [],
-      "published_at": "2025-09-17T14:02:59Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/08/08f64ebac27d09048b3f73917ab95938a04ab6d64ae2e19c861680a0d62fac78.json",
-      "title": "तीन मन्त्रीद्वारा सङ्घीय संसद् भवन निरीक्षण (भिडियोसहित)",
-      "url": "https://www.nepaljapan.com/09/17/681321/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ab67bc5754f2c1b52661a4fb257fc45f19429cc84071c899f8201cfac288a742",
-      "fetched_at": "2025-09-17T14:21:54.913553Z",
-      "id": "a6aed62d6696a1dbb243d86a60c9548b5d13db345b828d69adf4b56d02c12447",
-      "images": [],
-      "published_at": "2025-09-17T14:01:44Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/a6/a6aed62d6696a1dbb243d86a60c9548b5d13db345b828d69adf4b56d02c12447.json",
-      "title": "‘पार्टी छोड्न चाहनेलाई मौका यही हो, सदुपयोग गर्नुस्’ भन्दै राजीनामा माग्नेलाई सीके राउतले फर्काए जवाफ",
-      "url": "https://www.prasashan.com/2025/09/17/702062/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "8bf582bc2857880b5d30052f54e7e6be7df72893620ed18a3c5050b09178077d",
-      "fetched_at": "2025-09-17T14:21:33.939978Z",
-      "id": "12eafbe90c9b9b129a8b5d035631947faab9acdc02a0babd5ec24a317536dee5",
-      "images": [],
-      "published_at": "2025-09-17T13:59:10Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/12/12eafbe90c9b9b129a8b5d035631947faab9acdc02a0babd5ec24a317536dee5.json",
-      "title": "एमाले युवाहरुको पार्टी हो : महासचिव पोखरेल",
-      "url": "https://www.nepaljapan.com/09/17/681319/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "609e8a04c07ee138f09433bcb4052d089b791f35653396ddbec37b47646b9c11",
-      "fetched_at": "2025-09-17T14:21:26.773215Z",
-      "id": "8810f8285ac266203b25029b937cf05137c591eef39d7dd99e3f92c54a311c74",
-      "images": [
-        "https://images.nagariknewscdn.com/authors/1758117503_Shankar_Pradip.jpg"
-      ],
-      "published_at": "2025-09-17T13:58:30Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/88/8810f8285ac266203b25029b937cf05137c591eef39d7dd99e3f92c54a311c74.json",
-      "title": "‘एमाले युवाको पार्टी हो’",
-      "url": "https://nagariknews.nagariknetwork.com/politics/uml-is-a-party-of-youth-77-52.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "fetched_at": "2025-09-17T14:21:28.796547Z",
-      "id": "6d8b66dc2ac3f4bedb1c08481dbb187773c2105d34b08bb4db5ddbaa03abbc1c",
-      "images": [],
-      "published_at": "2025-09-17T13:58:06Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/6d/6d8b66dc2ac3f4bedb1c08481dbb187773c2105d34b08bb4db5ddbaa03abbc1c.json",
-      "title": "जेनजी आन्दोलनको क्रममा भएका क्षतिको आँकडा चाँडै सार्वजनिक हुन्छः मन्त्री घिसिङ",
-      "url": "https://www.setopati.com/politics/369590",
       "version": 1
     }
   ]
