@@ -1,7 +1,394 @@
 {
-  "count": 3203,
-  "lastUpdated": "2025-09-17T03:48:39.819612Z",
+  "count": 3228,
+  "lastUpdated": "2025-09-17T04:26:36.281126Z",
   "recent": [
+    {
+      "canonical_hash": "970d09d33d9997ccd550b4455ff2fdf04d4601f42356265df1c5c6d487987160",
+      "fetched_at": "2025-09-17T04:26:00.041741Z",
+      "id": "7a85b0735e66b8d3383716a4fb43a2e33ee2d397634a13a5c433423533b11eaa",
+      "images": [],
+      "published_at": "2025-09-17T04:26:00.041741Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/7a/7a85b0735e66b8d3383716a4fb43a2e33ee2d397634a13a5c433423533b11eaa.json",
+      "title": "पहिरो पन्छाएसँगै सञ्चालनमा आयो नारायणगढ-मुग्लिन सडक",
+      "url": "https://thahakhabar.com/news/235571",
+      "version": 1
+    },
+    {
+      "canonical_hash": "949e2c6b90aa9b71506ec7ae81add3656f0b7028b8be2ffccc42fc5d12859f98",
+      "fetched_at": "2025-09-17T04:26:00.012312Z",
+      "id": "ab5539cf87a2cac920865b6b458b0f4149a2b83bebb0ecea0055607531151e0b",
+      "images": [],
+      "published_at": "2025-09-17T04:26:00.012312Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/ab/ab5539cf87a2cac920865b6b458b0f4149a2b83bebb0ecea0055607531151e0b.json",
+      "title": "शेयर कारोबार भोलिदेखि",
+      "url": "https://thahakhabar.com/news/235572",
+      "version": 1
+    },
+    {
+      "canonical_hash": "62547bc820341fab61bd6bbcecf7cd5b3ae6498b8e753655046c82915fd20ce5",
+      "fetched_at": "2025-09-17T04:26:36.219777Z",
+      "id": "b889bdd934a4f226258ff856b3bad1b3ba7429510ac6d35f80ca8e50174188e4",
+      "images": [],
+      "published_at": "2025-09-17T04:25:25Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/b8/b889bdd934a4f226258ff856b3bad1b3ba7429510ac6d35f80ca8e50174188e4.json",
+      "title": "च्याम्पियन्स लिगमा रियलको विजयी सुरुआत",
+      "url": "https://nepalnews.com/2025/09/17/real-madrids-winning-start-in-the-champions-league/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a9b8ed3ddf7fbfacb76b7fa94e6f5a5b63f1df402cc489be2008dbaa8fa18ab3",
+      "fetched_at": "2025-09-17T04:26:17.909244Z",
+      "id": "66c05dae51be4f71dd498a89752daeb330297e75bf9610d2f87853bab469e592",
+      "images": [],
+      "published_at": "2025-09-17T04:21:57Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/66/66c05dae51be4f71dd498a89752daeb330297e75bf9610d2f87853bab469e592.json",
+      "title": "पहिरो पन्छाएसँगै नारायणगढ-मुग्लिन सडक सञ्चालनमा",
+      "url": "https://www.prasashan.com/2025/09/17/701867/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "443d8ffebcfa8319e570b4980f251b52498555394bdc0a0752dc1e00ccfe8fd0",
+      "fetched_at": "2025-09-17T04:25:51.676125Z",
+      "id": "81c888e2059e2f40d1fe76371c7083357b1f4e1dc7e2592934ebd0e1c46fad95",
+      "images": [],
+      "published_at": "2025-09-17T04:12:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/81/81c888e2059e2f40d1fe76371c7083357b1f4e1dc7e2592934ebd0e1c46fad95.json",
+      "title": "कक्षा १२ को मौका परीक्षा असोज ७ र ८ गते",
+      "url": "https://www.setopati.com/social/369533",
+      "version": 1
+    },
+    {
+      "canonical_hash": "189d67350bcc0f6f24c9eace9d875888c1b404e94968c7182dd71ef1fed57304",
+      "fetched_at": "2025-09-17T04:25:54.474309Z",
+      "id": "a9f778555fbf57c0854f9e3550b37e6a7d486f231dab12b1b1dbd972fa0e1f89",
+      "images": [],
+      "published_at": "2025-09-17T04:09:24Z",
+      "source": {
+        "domain": "ujyaaloonline.com",
+        "id": "ujyaaloonline",
+        "name": "उज्यालो अनलाइन"
+      },
+      "store_path": "domains/_store/a9/a9f778555fbf57c0854f9e3550b37e6a7d486f231dab12b1b1dbd972fa0e1f89.json",
+      "title": "एशिया कप टी–२० क्रिकेटमा आज पाकिस्तान र यूएई खेल्दै",
+      "url": "https://ujyaaloonline.com/story/120143/2025/9/17/pakistan-uae-playing-today-in-asia-cup-t20-cricket",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b0c59785a628fac0924543d579edcfc063f302eb62893a03523ecef063009712",
+      "fetched_at": "2025-09-17T04:26:36.249277Z",
+      "id": "764204d99a48f4761b092e39e16d205c1c429b142a1b0a99056aac7a8bb8bff0",
+      "images": [],
+      "published_at": "2025-09-17T04:09:13Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/76/764204d99a48f4761b092e39e16d205c1c429b142a1b0a99056aac7a8bb8bff0.json",
+      "title": "लुटिएका सामान खोज्दै प्रहरी",
+      "url": "https://nepalnews.com/2025/09/17/police-searching-for-stolen-goods/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b23ef4642ec99b67e1f5c6bc37a6dc6ad99233753c6c0e917256ccf7e9c7017c",
+      "fetched_at": "2025-09-17T04:25:56.757751Z",
+      "id": "46c4d6ed3c305930e029fd232bbea63f69aeaeb7767569395a4b4d2ea35eb73e",
+      "images": [],
+      "published_at": "2025-09-17T04:09:06Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/46/46c4d6ed3c305930e029fd232bbea63f69aeaeb7767569395a4b4d2ea35eb73e.json",
+      "title": "आजदेखि बिपी राजमार्ग २४सै घण्टा सञ्चालन",
+      "url": "https://www.nepaljapan.com/09/17/681240/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "7dbf6203044f437d36170bd9545e0161a20b9e72dd3c1a1f3feea5557eff81b0",
+      "fetched_at": "2025-09-17T04:25:49.631470Z",
+      "id": "7aac6492112e0527c887e56cd6fec78648ae81931f765d7f556e4f89f3d82055",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758082881_boo%20k.jpg"
+      ],
+      "published_at": "2025-09-17T04:08:32Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/7a/7aac6492112e0527c887e56cd6fec78648ae81931f765d7f556e4f89f3d82055.json",
+      "title": "बजगाईंले ल्याए ‘लन्डिनियम’ नियात्रासङ्ग्रह",
+      "url": "https://nagariknews.nagariknetwork.com/economy/tax-filing-deadline-extended-by-one-month-76-46.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "60068f57d1bb345b0cbc10fea52fbf22429a2520210c573dbfafa841112d0417",
+      "fetched_at": "2025-09-17T04:26:06.652268Z",
+      "id": "17fae2d1b25225b311d6bfa0d8f8c3b5527286cf0c5930659a1bd29da8783031",
+      "images": [],
+      "published_at": "2025-09-17T04:07:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/17/17fae2d1b25225b311d6bfa0d8f8c3b5527286cf0c5930659a1bd29da8783031.json",
+      "title": "पहिरो पन्छाएसँगै नारायणगढ–मुग्लिन सडक सञ्चालनमा",
+      "url": "https://shilapatra.com/detail/168114",
+      "version": 1
+    },
+    {
+      "canonical_hash": "429a8b264e9acfb739901b8cdcd422668b830bbd91832a588c4378ddb56c3274",
+      "fetched_at": "2025-09-17T04:26:31.334365Z",
+      "id": "bd9f94d6a90343b946dc906e44f471689af193d85197428e2725f8383b26dc6f",
+      "images": [
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/17095049/madhesh_pardesh_sava.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/17095048/madhesh_pardesh_sava1.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/17095046/madhesh_pardesh_sava3.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/17095044/madhesh_pardesh_sava4.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/17095042/madhesh_pardesh_sava-5.jpg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/17095041/madhesh_pardesh_sava6.jpg"
+      ],
+      "published_at": "2025-09-17T04:06:35Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/bd/bd9f94d6a90343b946dc906e44f471689af193d85197428e2725f8383b26dc6f.json",
+      "title": "जेनजी आन्दोलन: मधेस प्रदेशसभामा ४० करोडको क्षति भएको अनुमान",
+      "url": "https://deshsanchar.com/2025/09/17/1094741/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "1a3c4408a4f677c1c8120d7685c919267ac0022d2c4a0bbc6d34d834f05d52d1",
+      "fetched_at": "2025-09-17T04:26:17.942076Z",
+      "id": "406fa518fbf48a88c389845950135707a25cedc576bd3b741a40726b29a70c44",
+      "images": [],
+      "published_at": "2025-09-17T04:03:55Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/40/406fa518fbf48a88c389845950135707a25cedc576bd3b741a40726b29a70c44.json",
+      "title": "धादिङमा बस र टिपर एक आपसमा ठोक्किँदा ६ जना घाइते",
+      "url": "https://www.prasashan.com/2025/09/17/701863/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9e7891005b03b38fccfaa07882d842b2065d3555a115c6833cc452a57505a3b6",
+      "fetched_at": "2025-09-17T04:26:06.679972Z",
+      "id": "52645de104fbcc9627f5b53071930d2e75830a36a944e1b246050274ff6e205f",
+      "images": [],
+      "published_at": "2025-09-17T04:01:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/52/52645de104fbcc9627f5b53071930d2e75830a36a944e1b246050274ff6e205f.json",
+      "title": "कक्षा १२ को मौका परीक्षा ७ र ८ असोजमा",
+      "url": "https://shilapatra.com/detail/168113",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e20e4399e92e711221d0985f4cbf12fc1780cc5b1b1079ea146d5120785b2f01",
+      "fetched_at": "2025-09-17T04:26:31.973700Z",
+      "id": "16b446b19d7fb22b722e84801a90c741ef9c7b24c7e4a2d62b27acbbe70b2d68",
+      "images": [],
+      "published_at": "2025-09-17T04:00:55Z",
+      "source": {
+        "domain": "khasokhas.com",
+        "id": "khasokhas",
+        "name": "khasokhas.com"
+      },
+      "store_path": "domains/_store/16/16b446b19d7fb22b722e84801a90c741ef9c7b24c7e4a2d62b27acbbe70b2d68.json",
+      "title": "अमेरिकाका ८ राज्यमा चागस रोगको संक्रमण पुष्टि, यस्ता छन् जोगिने उपायहरू",
+      "url": "https://www.khasokhas.com/224611",
+      "version": 1
+    },
+    {
+      "canonical_hash": "580f3cacf2e91c3c6bb22fb09600a8292891e8dcb14695fe0b398427fe1a2c9e",
+      "fetched_at": "2025-09-17T04:26:36.278735Z",
+      "id": "12b2734cd49702ae0b64ad6a16500ae254dc179b75def20c177095b7c7d493cd",
+      "images": [],
+      "published_at": "2025-09-17T03:59:49Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/12/12b2734cd49702ae0b64ad6a16500ae254dc179b75def20c177095b7c7d493cd.json",
+      "title": "कक्षा १२ को मौका परीक्षा असोज ७ र ८ गतेदेखि",
+      "url": "https://nepalnews.com/2025/09/17/class-12-mock-exams-from-asoj-7-and-8/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "03faed7995b0a248bc5bc3e47f1b86d32158e93adc3e672cc8a17209d2f3b331",
+      "fetched_at": "2025-09-17T04:26:05.865000Z",
+      "id": "4b2bdca35bf603eb12b0079e62f040d1a5687407d41f518ed693ef049f13a5ca",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2025/09/nada-arthamantri_khanal-150x150.jpg"
+      ],
+      "published_at": "2025-09-17T03:59:46Z",
+      "source": {
+        "domain": "newsofnepal.com",
+        "id": "newsofnepal",
+        "name": "नेपाल समाचारपत्र"
+      },
+      "store_path": "domains/_store/4b/4b2bdca35bf603eb12b0079e62f040d1a5687407d41f518ed693ef049f13a5ca.json",
+      "title": "निजी क्षेत्रका लागि सरकारले प्याकेज ल्याउँदै",
+      "url": "https://newsofnepal.com/2025/09/17/731717/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cd50ba4c09593b10969b1377eb7e891fdf68e10c175c7fefc386f3fb185c3c0b",
+      "fetched_at": "2025-09-17T04:25:49.662144Z",
+      "id": "31762a1d90c7f2e5cce3dd1df9d199e2c45ad5644127ade3988fa10259ad68ea",
+      "images": [
+        "https://images.nagariknewscdn.com/authors/1758081323_1696077699_makawanpur_police-1200x560.jpg"
+      ],
+      "published_at": "2025-09-17T03:55:51Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/31/31762a1d90c7f2e5cce3dd1df9d199e2c45ad5644127ade3988fa10259ad68ea.json",
+      "title": "आन्दोलनका क्रममा चोरी तथा लुटिएका सामान खोज्दै प्रहरी",
+      "url": "https://nagariknews.nagariknetwork.com/Aparadh/police-searching-for-stolen-and-looted-items-during-protests-61-67.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "1aeac6753e5dd661458db2b3781b58d7a5ddce91a456f59c2a1759ef6bcbd6df",
+      "fetched_at": "2025-09-17T04:25:49.692167Z",
+      "id": "7ccf1a6cb8e7dd42beeeead8b20ec987d3829a1aa9baa5395d5edaf921a82642",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758081309_new%20nepal.jpg"
+      ],
+      "published_at": "2025-09-17T03:55:14Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/7c/7ccf1a6cb8e7dd42beeeead8b20ec987d3829a1aa9baa5395d5edaf921a82642.json",
+      "title": "‘संकट अस्थायी हो, आशा स्थायी’",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/crisis-may-be-temporary-hope-may-be-permanent-93-31.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b032a0ef401b7eb6e4f12c78d98faec22388497c0f92bde6ed669659d68ed5a5",
+      "fetched_at": "2025-09-17T04:25:51.704038Z",
+      "id": "f00bb505d462e563fc1beaa9ddad3434ea3cbdb3fa12529a96c47ca32b1d8ef1",
+      "images": [],
+      "published_at": "2025-09-17T03:54:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/f0/f00bb505d462e563fc1beaa9ddad3434ea3cbdb3fa12529a96c47ca32b1d8ef1.json",
+      "title": "इसराइलले जमिन र आकाशबाट आक्रमण तीव्र पारेपछि प्यालेस्टिनीहरूले छाड्न थाले घर",
+      "url": "https://www.setopati.com/social/369532",
+      "version": 1
+    },
+    {
+      "canonical_hash": "88d710662226030d70507dc5f8cf269617e5ce2329b1b66e9a0846fc51ad105d",
+      "fetched_at": "2025-09-17T04:25:54.503189Z",
+      "id": "85f13ce47d389515cac1c332794808e630a858962e0de4f0deaa39261c280fe0",
+      "images": [],
+      "published_at": "2025-09-17T03:51:12Z",
+      "source": {
+        "domain": "ujyaaloonline.com",
+        "id": "ujyaaloonline",
+        "name": "उज्यालो अनलाइन"
+      },
+      "store_path": "domains/_store/85/85f13ce47d389515cac1c332794808e630a858962e0de4f0deaa39261c280fe0.json",
+      "title": "आज विश्व बिरामी सुरक्षा दिवस र राष्ट्रिय विज्ञान दिवस",
+      "url": "https://ujyaaloonline.com/story/120142/2025/9/17/world-patient-safety-day-and-national-science-day",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9259530bd323e209566f2dcf7bef7504edb3d14254b9042ba2f6aaacbebfbba4",
+      "fetched_at": "2025-09-17T04:26:17.971184Z",
+      "id": "c443bedca6695bfc02fc069fd98a063868cf1157f80a4d635817f76e8f82c894",
+      "images": [],
+      "published_at": "2025-09-17T03:50:54Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/c4/c443bedca6695bfc02fc069fd98a063868cf1157f80a4d635817f76e8f82c894.json",
+      "title": "कक्षा १२ को मौका परीक्षा असोज ७ र ८ गतेदेखि",
+      "url": "https://www.prasashan.com/2025/09/17/701861/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "70fc7d41efa79d673b294853eb648b31dae39eebb986221c1e506d128b6c25b5",
+      "fetched_at": "2025-09-17T04:25:49.724585Z",
+      "id": "bc6df2247415f1a1c47a572d4abfed8905aa425cbaf2c7752781c62aaa6ce6d7",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1745331578_exam-board-2242025114315.jpg"
+      ],
+      "published_at": "2025-09-17T03:50:00Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/bc/bc6df2247415f1a1c47a572d4abfed8905aa425cbaf2c7752781c62aaa6ce6d7.json",
+      "title": "कक्षा १२ को मौका परीक्षा असोज ७ र ८ गते",
+      "url": "https://nagariknews.nagariknetwork.com/education/class-12-mock-exams-from-asoj-7-and-8-22-16.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ddbe117d9fc677efc867ce06b5d4811c0e6453c911d212d5cef7537fd1b4a1e3",
+      "fetched_at": "2025-09-17T04:25:49.753673Z",
+      "id": "29dbaf6ce0a6b956ae27039ddbc574854a12d5378f30161fd02bf6f1fec4f800",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758081200_new%20foto%20565.jpg"
+      ],
+      "published_at": "2025-09-17T03:48:44Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/29/29dbaf6ce0a6b956ae27039ddbc574854a12d5378f30161fd02bf6f1fec4f800.json",
+      "title": "नेपालसँग सम्बन्ध सुधार्दै भारत",
+      "url": "https://nagariknews.nagariknetwork.com/politics/india-improving-relations-with-nepal-65-66.html",
+      "version": 1
+    },
     {
       "canonical_hash": "a0524b42f146ac4fed73325a9a64731336ebfdea62f2ca85cb3d344f96b0adbb",
       "fetched_at": "2025-09-17T03:48:07.852974Z",
@@ -32,6 +419,38 @@
       "store_path": "domains/_store/3f/3ff3a756ecfa8cfe6858531f6659f894b2af826465f1805bf04ff54dc9144f37.json",
       "title": "धादिङमा बस र टिपर ठोक्किँदा ६ जना घाइते",
       "url": "https://thahakhabar.com/news/235570",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cad49e109c47b346009bcfae67c9330a1cf2aefce108d7a245d7c87114126dc1",
+      "fetched_at": "2025-09-17T04:26:00.502014Z",
+      "id": "4165251ab81d820539b1513539128b5c08504809cc2ed1889af4ed08b556e3f2",
+      "images": [],
+      "published_at": "2025-09-17T03:48:00Z",
+      "source": {
+        "domain": "swasthyakhabar.com",
+        "id": "swasthyakhabar",
+        "name": "स्वास्थ्य साप्ताहिक"
+      },
+      "store_path": "domains/_store/41/4165251ab81d820539b1513539128b5c08504809cc2ed1889af4ed08b556e3f2.json",
+      "title": "डब्ल्यूएचओले स्वास्थ्य मन्त्रालयलाई पुनर्निर्माणमा सहयोग गर्ने",
+      "url": "https://swasthyakhabar.com/story/60890",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d9a924495cf6f4f765a3ea5efb4f323e9470532c0a0a308d9861879f066cb9e7",
+      "fetched_at": "2025-09-17T04:26:06.708767Z",
+      "id": "07000c37933cecc2014e12d7a1730e1018c1685de061761d7cd5b38b1c8c20ef",
+      "images": [],
+      "published_at": "2025-09-17T03:47:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/07/07000c37933cecc2014e12d7a1730e1018c1685de061761d7cd5b38b1c8c20ef.json",
+      "title": "काठमाडौंको नयाँ बसपार्कमा विश्वकर्मा पूजा (तस्वीरहरू)",
+      "url": "https://shilapatra.com/detail/168112",
       "version": 1
     },
     {
@@ -1269,434 +1688,6 @@
       "store_path": "domains/_store/ad/ad4900fe972f7a8a4e29d1bb86928ec2aa20744d0156e9e4983d8830962ef985.json",
       "title": "आन्दोलनको भावनालाई संस्थागत गर्ने दायित्व",
       "url": "https://newsofnepal.com/2025/09/17/731689/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2eda5af00de2248ac4b015fbe140a627d9179a46abe7b080e0c7936a03123f7d",
-      "fetched_at": "2025-09-17T02:46:58.460787Z",
-      "id": "46c0b45ca4b9452a7a0a4dc232709f59e23540e81df914985223503409070fb6",
-      "images": [],
-      "published_at": "2025-09-17T02:30:30Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/46/46c0b45ca4b9452a7a0a4dc232709f59e23540e81df914985223503409070fb6.json",
-      "title": "सबै सेवा सञ्चालन हुन अझै केही समय लाग्ने",
-      "url": "https://www.nepaljapan.com/09/17/681224/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "50b2c911fca7dcca4e9203cff2714a288131452fdd29481425464d4f715dbd3e",
-      "fetched_at": "2025-09-17T02:47:27.291765Z",
-      "id": "b66b7e39cfc667815e995a9d17fbd1995656685a23c48ebf1bfd28e26b748c54",
-      "images": [],
-      "published_at": "2025-09-17T02:28:22Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/b6/b66b7e39cfc667815e995a9d17fbd1995656685a23c48ebf1bfd28e26b748c54.json",
-      "title": "यस्तो छ बुधवारको लागि सागसब्जी र फलफूलको मूल्य",
-      "url": "https://www.prasashan.com/2025/09/17/701836/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "42eeb9f805eac0132b9d2bfdd36f38855ba3bfffd5749e8d77d4c47e7b877b41",
-      "fetched_at": "2025-09-17T02:47:33.689223Z",
-      "id": "1512135dee2cdad0d09745ef4a5d2f9dc65111f822623a1fc1eea96b8e668611",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2023/05/tulsipur-upamahanagar-400x220.jpg"
-      ],
-      "published_at": "2025-09-17T02:28:19Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/15/1512135dee2cdad0d09745ef4a5d2f9dc65111f822623a1fc1eea96b8e668611.json",
-      "title": "तुलसीपुर उपमहानगरपालिकामा त्रिपालबाट सेवा सुरु",
-      "url": "https://khabarhub.com/2025/17/848585/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "377ecca75d972f4ee2683d5129d734ce5d2f153d10032181f84096facc4a0a68",
-      "fetched_at": "2025-09-17T02:45:55.579901Z",
-      "id": "f69823b60781ce4052bf21ceb9e26434093b441e1ede9d1bfe81158b0026c405",
-      "images": [],
-      "published_at": "2025-09-17T02:27:04Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/f6/f69823b60781ce4052bf21ceb9e26434093b441e1ede9d1bfe81158b0026c405.json",
-      "title": "यू-१७ साफ च्याम्पियनसिपमा नेपालले आज बङ्गलादेशसँग खेल्दै",
-      "url": "https://ujyaaloonline.com/story/120132/2025/9/17/nepal-play-bangladesh-in-saff-u-17-championship",
-      "version": 1
-    },
-    {
-      "canonical_hash": "eaacc77c7c6ea2b381f217966f1ab2405fe5ef723db496b4d5f813e407a98f87",
-      "fetched_at": "2025-09-17T02:47:34.210709Z",
-      "id": "551c2b29768f6891d984f6b3d01b5f1bb4165eb6be36ce588d81d8bb7a0ba639",
-      "images": [
-        "https://www.hamrokhelkud.com/wp-content/uploads/2025/09/20250917_080336-819x1024.jpg",
-        "https://www.hamrokhelkud.com/wp-content/uploads/2025/09/20250917_080937-819x1024.jpg"
-      ],
-      "published_at": "2025-09-17T02:25:48Z",
-      "source": {
-        "domain": "hamrokhelkud.com",
-        "id": "hamrokhelkud",
-        "name": "Hamro Khelkud"
-      },
-      "store_path": "domains/_store/55/551c2b29768f6891d984f6b3d01b5f1bb4165eb6be36ce588d81d8bb7a0ba639.json",
-      "title": "टोटेनहम जित, युभेन्टस र डर्टमुन्डको रोमाञ्चक बराबरी",
-      "url": "https://www.hamrokhelkud.com/football/165745.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d799ac093b4034b1f6a827663853718d94cd4659b9c253ff1fa94e267583c3f5",
-      "fetched_at": "2025-09-17T02:47:07.854900Z",
-      "id": "65e23531e2fbbcaaee62e36c0c62b5bc114ec9fa376ddc5f7113e6b0af1f8bca",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/police-bhawan-150x150.png",
-        "https://newsofnepal.com/wp-content/uploads/2025/09/second.png",
-        "https://newsofnepal.com/wp-content/uploads/2025/09/police-bhawan.PNG-2.png"
-      ],
-      "published_at": "2025-09-17T02:24:18Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/65/65e23531e2fbbcaaee62e36c0c62b5bc114ec9fa376ddc5f7113e6b0af1f8bca.json",
-      "title": "सजनको अगुवाईमा तयार भयो,डल्लुको प्रहरी भवन",
-      "url": "https://newsofnepal.com/2025/09/17/731684/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b91303b784a54ea0c25b0da4dd4d6dd2e0bcf4cc3963e782f9c37f54fa8de36c",
-      "fetched_at": "2025-09-17T02:47:03.892251Z",
-      "id": "d34e678b187e6b4fe322be16cdf157b5d6621eaa1b8eca92895f38ec20ddfb6c",
-      "images": [],
-      "published_at": "2025-09-17T02:22:15Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/d3/d34e678b187e6b4fe322be16cdf157b5d6621eaa1b8eca92895f38ec20ddfb6c.json",
-      "title": "पहिरोले नारायणगढ–मुग्लिन र कर्णाली राजमार्ग अवरुद्ध, पृथ्वी राजमार्ग एकतर्फी",
-      "url": "https://lokaantar.com/story/299366/2025/9/17/current-affairs/muglin-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5e68a042241adcc0f06689c743d309d423b8284a9a1127c6562e5d01e6d7fff7",
-      "fetched_at": "2025-09-17T02:45:55.606891Z",
-      "id": "c41295c6dd8c685d59de59914ee115a2b25cad723dadb5bebd08d484293a4deb",
-      "images": [],
-      "published_at": "2025-09-17T02:19:40Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/c4/c41295c6dd8c685d59de59914ee115a2b25cad723dadb5bebd08d484293a4deb.json",
-      "title": "आज पनि देशका धेरै ठाउँमा पानी पर्ने सम्भावना",
-      "url": "https://ujyaaloonline.com/story/120137/2025/9/17/rain-likely-in-many-parts-of-the-country-today",
-      "version": 1
-    },
-    {
-      "canonical_hash": "cfc0e28e6582094ffcd2a73e543dfb050df27a04acf88fe5163c99cc7a8da5af",
-      "fetched_at": "2025-09-17T03:29:49.293867Z",
-      "id": "75a937c12d12c9fb4dc064ad1fdcad5808637b2a6598c4885dad3898969e548e",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1736825650_Kalimati%20Tarkari.jpg"
-      ],
-      "published_at": "2025-09-17T02:19:38Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/75/75a937c12d12c9fb4dc064ad1fdcad5808637b2a6598c4885dad3898969e548e.json",
-      "title": "यस्तो छ आजको सागसब्जी र फलफूलको थोक मूल्य",
-      "url": "https://nagariknews.nagariknetwork.com/Bazar/this-is-today-s-wholesale-price-of-vegetables-and-fruits-65-46.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "82cd65dd1519d7823cefc1cebed15c2b36b0ea4d842cab6e5b235ebc4cebe04a",
-      "fetched_at": "2025-09-17T02:47:31.260265Z",
-      "id": "14ddd18527c9603de38b4967689756d04e4c288a641513ebc3307abae5b3bee3",
-      "images": [],
-      "published_at": "2025-09-17T02:19:37Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/14/14ddd18527c9603de38b4967689756d04e4c288a641513ebc3307abae5b3bee3.json",
-      "title": "जेनजी आन्दोलनः लुम्बिनीमा भौतिक क्षति बढी",
-      "url": "https://deshsanchar.com/2025/09/17/1094689/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "66da9b7869317f41715cd24ed337137b3d91a7f8949890771ed157e66d7496bd",
-      "fetched_at": "2025-09-17T02:47:33.716274Z",
-      "id": "2763f2f7768c2c241cf0706952822103cd04ff0579ddd0e067614ca979bb3b50",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2020/07/narayangadh-mugling-sadak-400x220.jpg"
-      ],
-      "published_at": "2025-09-17T02:18:22Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/27/2763f2f7768c2c241cf0706952822103cd04ff0579ddd0e067614ca979bb3b50.json",
-      "title": "पहिरोले नारायणगढ–मुग्लिन र कर्णाली राजमार्ग अवरुद्ध",
-      "url": "https://khabarhub.com/2025/17/852917/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "fa37d54ccba635b7740e8867fc0f0d6d12a9404314422f1ec5eaa7d83a3667d0",
-      "fetched_at": "2025-09-17T02:45:51.663349Z",
-      "id": "9f6a49c2096a6f904f9d2b9ec68e1486432ae0ffd91ce8da7094684964a3574d",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1754208398_shankar%20pokhrel.jpg"
-      ],
-      "published_at": "2025-09-17T02:17:37Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/9f/9f6a49c2096a6f904f9d2b9ec68e1486432ae0ffd91ce8da7094684964a3574d.json",
-      "title": "संविधान दिवस भव्यतापूर्वक मनाउन एमालेको आह्वान",
-      "url": "https://nagariknews.nagariknetwork.com/politics/uml-calls-for-grand-celebration-of-constitution-day-41-37.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ab683e997b09e1ae39cfe359f7766a30e56ed9280989569dea03c00fe0394091",
-      "fetched_at": "2025-09-17T02:47:31.286466Z",
-      "id": "e2127d3f63f3605976d47ee0fce0a9d5738b8a82c1c61f51c193b0223c086125",
-      "images": [
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/17080105/Naya_sewa.jpg"
-      ],
-      "published_at": "2025-09-17T02:16:57Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/e2/e2127d3f63f3605976d47ee0fce0a9d5738b8a82c1c61f51c193b0223c086125.json",
-      "title": "२१ जिल्लामा न्यायाधीश पदको लागि दरखास्त आह्वान",
-      "url": "https://deshsanchar.com/2025/09/17/1094702/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ac35238a122c06914dbe89245a9b359bebce923c41ca3465250236b5977c037b",
-      "fetched_at": "2025-09-17T02:47:27.318174Z",
-      "id": "9e95894fc904b0b2094a2973a0f3b5edfb1e3dcea7dc1e6fd1e28bfa4ea5bfac",
-      "images": [],
-      "published_at": "2025-09-17T02:16:54Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/9e/9e95894fc904b0b2094a2973a0f3b5edfb1e3dcea7dc1e6fd1e28bfa4ea5bfac.json",
-      "title": "पहिरोले नारायणगढ-मुग्लिन र कर्णाली राजमार्ग अवरुद्ध",
-      "url": "https://www.prasashan.com/2025/09/17/701834/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2df8d19da9c9e9876863dbd3dd59614207a1f09f384cd1e3f765dcede8629bd6",
-      "fetched_at": "2025-09-17T02:47:09.982847Z",
-      "id": "a5ba8892f9bc1e00c386741839aaff8b1548a6a7d1269e0bce802b1afa6e8e78",
-      "images": [],
-      "published_at": "2025-09-17T02:16:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/a5/a5ba8892f9bc1e00c386741839aaff8b1548a6a7d1269e0bce802b1afa6e8e78.json",
-      "title": "नारायणगढ–मुग्लिन सडकखण्डमा ढुङ्गा खसेर लाग्दा बसमा सवार यात्रुको मृत्यु",
-      "url": "https://shilapatra.com/detail/168107",
-      "version": 1
-    },
-    {
-      "canonical_hash": "cecd6352afe21363d2f285fb23a5dd58c947afaacbbc3ca34bc6b0eca466f366",
-      "fetched_at": "2025-09-17T03:29:49.340061Z",
-      "id": "69ad022c7cc4207141da2681fdd4a1fac5b3baff08e469f30fed3252b4aa69d6",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758075510_dd%20%20ku%2045.jpg"
-      ],
-      "published_at": "2025-09-17T02:15:53Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/69/69ad022c7cc4207141da2681fdd4a1fac5b3baff08e469f30fed3252b4aa69d6.json",
-      "title": "नेतातन्त्र विरुद्ध जेन-जी महाआन्दोलन",
-      "url": "https://nagariknews.nagariknetwork.com/opinion/the-gen-g-movement-against-leadership-18-41.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "16191f886a52e9a1b92d0fd8b01626a2d6fd10d32089214b0a13c434d5ffac72",
-      "fetched_at": "2025-09-17T02:47:07.881740Z",
-      "id": "762593450b622870c2a001f1e37d881a957b917c910312c49595a5f576a650e0",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/chitwan-1-150x150.jpg"
-      ],
-      "published_at": "2025-09-17T02:15:46Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/76/762593450b622870c2a001f1e37d881a957b917c910312c49595a5f576a650e0.json",
-      "title": "नारायणगढ–मुग्लिन सडकखण्डमा ढुङ्गा खस्दा एक यात्रुको मृत्यु",
-      "url": "https://newsofnepal.com/2025/09/17/731681/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3b603e7575fd20abbf020e5e66d955b4df65cb91aeca77ca1c15d17581febbae",
-      "fetched_at": "2025-09-17T02:46:58.488248Z",
-      "id": "ac71cb21e80b53fa25495945ebb42a2c5c520a95eda97fe0e75b371081524198",
-      "images": [],
-      "published_at": "2025-09-17T02:12:57Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/ac/ac71cb21e80b53fa25495945ebb42a2c5c520a95eda97fe0e75b371081524198.json",
-      "title": "बिहीबारदेखि पुनः शेयर कारोबार हुने",
-      "url": "https://www.nepaljapan.com/09/17/681222/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "87fbb24331f7e6d113ac7fdfffd8fb7609e59d2e8f414aa626f67c6f4588b094",
-      "fetched_at": "2025-09-17T02:47:33.742609Z",
-      "id": "eb555cfb6a32134fb499261b455efc7ee77e89f9876f5ffd1d385d3efa3667e4",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/suntale-bagkhor-400x220.jpg"
-      ],
-      "published_at": "2025-09-17T02:12:18Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/eb/eb555cfb6a32134fb499261b455efc7ee77e89f9876f5ffd1d385d3efa3667e4.json",
-      "title": "पर्यटक लोभ्याउँदै भोजपुरको ‘सुन्तले–बाघखोर’",
-      "url": "https://khabarhub.com/2025/17/852914/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "59f09decb7df9303a178eb8732db6e24e6e3357d7563e94fca29b05d0d5540ec",
-      "fetched_at": "2025-09-17T02:47:37.088857Z",
-      "id": "fe55b8dce4061d69cd80ad248dcc8905e47a75f587c5b77c343d25cb78e02ef2",
-      "images": [],
-      "published_at": "2025-09-17T02:11:59Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/fe/fe55b8dce4061d69cd80ad248dcc8905e47a75f587c5b77c343d25cb78e02ef2.json",
-      "title": "पहिरोले नारायणगढ–मुग्लिन र कर्णाली राजमार्ग अवरुद्ध",
-      "url": "https://nepalnews.com/2025/09/17/landslide-blocks-narayangadh-muglin-and-karnali-highways/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "df5c5badf0a0cf89e19f8645d5bb21d3745552d56f61e3fda5679234062f75fe",
-      "fetched_at": "2025-09-17T03:29:49.374070Z",
-      "id": "e38e12d8ee620d28fac4861599d18a528b6225f8ec95705281c7b9d7821e8c38",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758075061_baghkhair.jpg"
-      ],
-      "published_at": "2025-09-17T02:11:06Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/e3/e38e12d8ee620d28fac4861599d18a528b6225f8ec95705281c7b9d7821e8c38.json",
-      "title": "पर्यटक लोभ्याउँदै भोजपुरको ‘सुन्तले–बाघखोर’",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/bhojpur-s-suntale-baghkhor-is-luring-tourists-60-67.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5533bf414fc141d728ad822525b95a100127ef88f3e586aa063524f56d343e23",
-      "fetched_at": "2025-09-17T02:47:31.312135Z",
-      "id": "033553433e66e806cda332b9b1f5b8936cc9606a07b02269807e0e117777b338",
-      "images": [],
-      "published_at": "2025-09-17T02:10:42Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/03/033553433e66e806cda332b9b1f5b8936cc9606a07b02269807e0e117777b338.json",
-      "title": "च्याम्पियन्स लिग: आर्सनल र रियलको विजयी सुरुवात",
-      "url": "https://deshsanchar.com/2025/09/17/1094698/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "74dfc843086c43e9e93292ec17e491266999f74dd3146863986f4d513fc116cf",
-      "fetched_at": "2025-09-17T02:47:10.010519Z",
-      "id": "15a3a0b929cae09a4467413f13920391d219236cf5ff04d0bb7464da541b55d7",
-      "images": [],
-      "published_at": "2025-09-17T02:10:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/15/15a3a0b929cae09a4467413f13920391d219236cf5ff04d0bb7464da541b55d7.json",
-      "title": "पहिरोले नारायणगढ–मुग्लिन र कर्णाली राजमार्ग अवरुद्ध",
-      "url": "https://shilapatra.com/detail/168106",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a744b2601d1639aa19b9b26dea6410bc90cd4a5eda30a3459ec639c6e8e7c7f1",
-      "fetched_at": "2025-09-17T02:47:07.908620Z",
-      "id": "8b27d4ff59ab6d541b1294366eafa5a804d4b00811ec62b29a65a79127fdc73e",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/saughat-1-6-150x150.png",
-        "https://newsofnepal.com/wp-content/uploads/2025/09/sofiya-1.png"
-      ],
-      "published_at": "2025-09-17T02:09:50Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/8b/8b27d4ff59ab6d541b1294366eafa5a804d4b00811ec62b29a65a79127fdc73e.json",
-      "title": "जुबामा सौगातसँग सोफी",
-      "url": "https://newsofnepal.com/2025/09/17/731677/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "479c9a58ed5e1aa78713b6e47cc1abfedde931f8423eba7b2a4b8c8a56aeed2d",
-      "fetched_at": "2025-09-17T02:47:31.337736Z",
-      "id": "c9a9aec23f3bc2a98965b398cef359808a9b429205aab212c30eec8ae01a6347",
-      "images": [],
-      "published_at": "2025-09-17T02:07:55Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/c9/c9a9aec23f3bc2a98965b398cef359808a9b429205aab212c30eec8ae01a6347.json",
-      "title": "राष्ट्रपतिले अन्त्य गरे राष्ट्रियसभाको चालु अधिवेशन",
-      "url": "https://deshsanchar.com/2025/09/17/1094696/",
       "version": 1
     }
   ]
