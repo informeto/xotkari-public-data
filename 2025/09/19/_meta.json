@@ -1,7 +1,811 @@
 {
-  "count": 374,
-  "lastUpdated": "2025-09-19T05:53:57.528687Z",
+  "count": 428,
+  "lastUpdated": "2025-09-19T06:34:06.064142Z",
   "recent": [
+    {
+      "canonical_hash": "69d83dd9dd23d72f3e998d960e0de07cb5e8f7f8be4b676c74234a13308b6fa9",
+      "fetched_at": "2025-09-19T06:33:28.287302Z",
+      "id": "e56a114b7e5981086727d29bd6946c30d8fcef27546658a853749ef8351a7a09",
+      "images": [],
+      "published_at": "2025-09-19T06:33:22Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/e5/e56a114b7e5981086727d29bd6946c30d8fcef27546658a853749ef8351a7a09.json",
+      "title": "रुस र इन्डोनेसियामा शक्तिशाली भूकम्प, सुनामीको चेतावनी जारी",
+      "url": "https://www.reportersnepal.com/2025/09/1130326/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "bbeaf476f3b0550fb8764c4a8043f364b939eef3a4073eba459a48ba4a7db68d",
+      "fetched_at": "2025-09-19T06:33:18.372946Z",
+      "id": "0ebe7b688e8d814f387a2bdbde1fde2df77b588a8521b7018ccbe680bbfdca48",
+      "images": [],
+      "published_at": "2025-09-19T06:33:18.372946Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/0e/0ebe7b688e8d814f387a2bdbde1fde2df77b588a8521b7018ccbe680bbfdca48.json",
+      "title": "जीर्ण आयोजनाको ठेक्का तोड्न सूची बन्दै",
+      "url": "https://thahakhabar.com/news/235705",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e2671119623c2681c38a940d29e3cf879d955d2f9bb4b840884377df0141d7ef",
+      "fetched_at": "2025-09-19T06:33:18.345969Z",
+      "id": "e3804c3d2443482b1b300a9b89bc6047f155eb4a1a45acfa9173e17b1e7c34df",
+      "images": [],
+      "published_at": "2025-09-19T06:33:18.345969Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/e3/e3804c3d2443482b1b300a9b89bc6047f155eb4a1a45acfa9173e17b1e7c34df.json",
+      "title": "अब राजश्व तिर्न मास्टर कार्ड, भिजा कार्ड र अलिपे जस्ता कार्डहरू प्रयोग गर्न सकिने",
+      "url": "https://thahakhabar.com/news/235706",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cc4114d7923be66eb03c43dad265a0e79ee09850d862897e23b3b80d9440eeed",
+      "fetched_at": "2025-09-19T06:33:18.318103Z",
+      "id": "4e6149c51a6d079d579b728df6a603525c141e23266d37015e9a230e4f097cb5",
+      "images": [],
+      "published_at": "2025-09-19T06:33:18.318103Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/4e/4e6149c51a6d079d579b728df6a603525c141e23266d37015e9a230e4f097cb5.json",
+      "title": "माओवादी केन्द्र फरक धातुले बनेका मान्छेहरूको पार्टी होः अध्यक्ष दाहाल",
+      "url": "https://thahakhabar.com/news/235707",
+      "version": 1
+    },
+    {
+      "canonical_hash": "2d41dd7c2f8720727fe925c37ee3a22be00e92261ea043362af70ccc68a7d53e",
+      "fetched_at": "2025-09-19T06:33:18.289828Z",
+      "id": "2025aa9832007e38b21d1008d602962fe82f88ab7c4cfa0f6a94f4ed688d2b7c",
+      "images": [],
+      "published_at": "2025-09-19T06:33:18.289828Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/20/2025aa9832007e38b21d1008d602962fe82f88ab7c4cfa0f6a94f4ed688d2b7c.json",
+      "title": "कांग्रेस कार्यसम्पादन समिति बैठक जारी",
+      "url": "https://thahakhabar.com/news/235708",
+      "version": 1
+    },
+    {
+      "canonical_hash": "752c6ea8ca01c5cf97d95833b6b3548b69e6d66f57c81d41b4d5190109e31f66",
+      "fetched_at": "2025-09-19T06:34:00.609457Z",
+      "id": "d510abc8d17fc44ffe40db1e8afa54f37b3b4a67c6a8bf0154164c3a70691f23",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/congress-meeting-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:32:41Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/d5/d510abc8d17fc44ffe40db1e8afa54f37b3b4a67c6a8bf0154164c3a70691f23.json",
+      "title": "कांग्रेस कार्यसम्पादन समिति बैठक जारी",
+      "url": "https://khabarhub.com/2025/19/854006/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "42d649e4111999d24713cb9d54d46ec51443e91227b7c5fefe4bbb1372ac9af9",
+      "fetched_at": "2025-09-19T06:34:05.994993Z",
+      "id": "9277585a826ced2bb3719154df64aa4040e1f41a67d2be0a3b1e771782f8d373",
+      "images": [],
+      "published_at": "2025-09-19T06:31:30Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/92/9277585a826ced2bb3719154df64aa4040e1f41a67d2be0a3b1e771782f8d373.json",
+      "title": "जेनजी प्रदर्शन भ्रष्टाचारप्रतिको असन्तुष्टिको प्रतिविम्ब हो- प्रधानमन्त्री कार्की",
+      "url": "https://nepalnews.com/2025/09/19/genji-protest-is-a-reflection-of-dissatisfaction-with-corruption-prime-minister-karki/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c0ce4b796d53162aa10bb04087fb69ff29f43f731b97b9da816e3108679c2a78",
+      "fetched_at": "2025-09-19T06:33:37.491607Z",
+      "id": "d853943e1865e78f86c3fefac4d71ecc5de1ccd5b7606faf1d21e9f10282ed4a",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/09/prachanda-5-1536x864.jpg"
+      ],
+      "published_at": "2025-09-19T06:31:25Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/d8/d853943e1865e78f86c3fefac4d71ecc5de1ccd5b7606faf1d21e9f10282ed4a.json",
+      "title": "‘संविधान दिवस फरक परिस्थितिले मनाउनुपर्ने अवस्था आयो’",
+      "url": "https://www.imagekhabar.com/news/507893/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6d52be6f1a7783cf6714a0e15c42f532dab41253f2ca321007ff5515303bebfc",
+      "fetched_at": "2025-09-19T06:34:06.023993Z",
+      "id": "1c6ed7353f8bfb12f648779e8921776953c8fa93b5442a4df4ee357ac2fd1b88",
+      "images": [
+        "https://nepalnews.com/wp-content/uploads/2025/09/NagarikAguwa-768x511.jpg"
+      ],
+      "published_at": "2025-09-19T06:30:59Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/1c/1c6ed7353f8bfb12f648779e8921776953c8fa93b5442a4df4ee357ac2fd1b88.json",
+      "title": "‘प्रधानमन्त्री नियुक्त गर्दा संविधानमा अलिकति छेडखानी भएको छ’",
+      "url": "https://nepalnews.com/2025/09/19/the-constitution-has-been-slightly-tampered-with-when-appointing-the-prime-minister/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "06677fd458c6aff36e111cae0cf24f9ee26f3f01b6db582c1d84f6754f629947",
+      "fetched_at": "2025-09-19T06:33:19.684006Z",
+      "id": "ee3576f3dd4fd1efef7ed1a41116924b99138c767028437d9de4d8fad2b1706f",
+      "images": [],
+      "published_at": "2025-09-19T06:30:28Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/ee/ee3576f3dd4fd1efef7ed1a41116924b99138c767028437d9de4d8fad2b1706f.json",
+      "title": "एक लाख घुससहित गाउँपालिकाका लेखा अधिकृत पक्राउ",
+      "url": "https://lokaantar.com/story/299547/2025/9/19/governance/akhtiyar-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c219bbdea0799984093ca9ae66288fd7398aa60b8561aec1df93f8d797b8c1d5",
+      "fetched_at": "2025-09-19T06:34:00.637298Z",
+      "id": "adc0054880c30daadb834bd2c55532184446cc1127d5473e0ea40b1604632c4f",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/sambidhan-diwas-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:30:15Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/ad/adc0054880c30daadb834bd2c55532184446cc1127d5473e0ea40b1604632c4f.json",
+      "title": "टुँडिखेलमा यसरी मनाइयो संविधान दिवस (तस्बिरहरू)",
+      "url": "https://khabarhub.com/2025/19/853928/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ecbb84d582595bed8859fe575a5904f0de8749eb9d00630a36c5b58d5a0c7640",
+      "fetched_at": "2025-09-19T06:33:12.400187Z",
+      "id": "393ac6a2ef1ca8bf53bce454762e05c82fb6d7b8cb580314236a534ded12878c",
+      "images": [],
+      "published_at": "2025-09-19T06:29:31Z",
+      "source": {
+        "domain": "ujyaaloonline.com",
+        "id": "ujyaaloonline",
+        "name": "उज्यालो अनलाइन"
+      },
+      "store_path": "domains/_store/39/393ac6a2ef1ca8bf53bce454762e05c82fb6d7b8cb580314236a534ded12878c.json",
+      "title": "ऊर्जा, सिंचाइ, भौतिक पूर्वाधार र शहरी विकासका जीर्ण आयोजनाको ठेक्का तोडिने",
+      "url": "https://ujyaaloonline.com/story/120219/2025/9/19/dilapidated-development-projects-terminated",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6bdede6cf53c6b50a7e5f889f69b5881bd14d757aa7acfd80f40e09e3c37abff",
+      "fetched_at": "2025-09-19T06:33:15.147618Z",
+      "id": "17fdc3eab0e2d1c38734019626bdd615e646ec7286b0ea2e94df7bdfa4c74eb1",
+      "images": [],
+      "published_at": "2025-09-19T06:28:44Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/17/17fdc3eab0e2d1c38734019626bdd615e646ec7286b0ea2e94df7bdfa4c74eb1.json",
+      "title": "‘संविधानभित्रै लोकतान्त्रिक गणतन्त्रको भविष्य निहित छ’",
+      "url": "https://www.nepaljapan.com/09/19/681602/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "10c67442a19dcfb0988c301781c4515142a8942d8c847fa0ca6e4f8b04fe6b90",
+      "fetched_at": "2025-09-19T06:33:36.481972Z",
+      "id": "cbe1696aac368d93dacc1e2b12a527ad28d22b1e363878c678e5359b39a0e92e",
+      "images": [],
+      "published_at": "2025-09-19T06:28:04Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/cb/cbe1696aac368d93dacc1e2b12a527ad28d22b1e363878c678e5359b39a0e92e.json",
+      "title": "‘प्रचण्ड’को दाबी : ‘संविधान खारेज गरिँदै थियो, मै बचाउन सहजीकरण गरे’",
+      "url": "https://www.prasashan.com/2025/09/19/702496/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8ac0e36b9a6977838b0a587818ad18b3b954570cd288df71a3ea87b3de278f6d",
+      "fetched_at": "2025-09-19T06:34:00.665050Z",
+      "id": "26bb0f97015c664e6d4915c8b7f71d12fcb4c195865e360a37db7a405c7fdf21",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/UML-upadhyxy-pokharel-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:27:11Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/26/26bb0f97015c664e6d4915c8b7f71d12fcb4c195865e360a37db7a405c7fdf21.json",
+      "title": "च्यासलबाट एमालेको उद्घोष- चुनौतीको सामना गर्दै हामी फेरि उठ्नेछौँ",
+      "url": "https://khabarhub.com/2025/19/853931/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "3c27064290eea04ec3ff730d49df0858ad9169a7ecfe8d8b28c2b1cdcb401a2d",
+      "fetched_at": "2025-09-19T06:33:28.316009Z",
+      "id": "c64093d8964f038cd57b9f876e1e1b00ae3705f9b8fed4b9abde35dbfe08fb57",
+      "images": [],
+      "published_at": "2025-09-19T06:26:26Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/c6/c64093d8964f038cd57b9f876e1e1b00ae3705f9b8fed4b9abde35dbfe08fb57.json",
+      "title": "जेनजी प्रदर्शन भ्रष्टाचारप्रतिको असन्तुष्टिको प्रतिविम्ब होः प्रधानमन्त्री कार्की",
+      "url": "https://www.reportersnepal.com/2025/09/1130321/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "2f97476d6c5201f141f9e4bc84ffd01cc713d468e5e61af2fa1c9e22362bc576",
+      "fetched_at": "2025-09-19T06:33:13.499100Z",
+      "id": "9f2222c92145b64ed6f009c833f2dfea6b135ef1cd743a15fe95c2c770cb3241",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/wdddf-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:25:19Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/9f/9f2222c92145b64ed6f009c833f2dfea6b135ef1cd743a15fe95c2c770cb3241.json",
+      "title": "नर्भिकको सेयर बिक्री प्रबन्धक सन्राइज क्यापिटल",
+      "url": "https://www.karobardaily.com/news/301063",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f0b26fd0f19b5cc2a6210e7bc10df8e599b7aad83e83e228bab410052b988241",
+      "fetched_at": "2025-09-19T06:33:24.018866Z",
+      "id": "78b6b1dccac8af25eb3841b3d77924b615ae891ee5e1e415465bc6f8b88be8c1",
+      "images": [],
+      "published_at": "2025-09-19T06:24:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/78/78b6b1dccac8af25eb3841b3d77924b615ae891ee5e1e415465bc6f8b88be8c1.json",
+      "title": "सत्ता ढलेपछि पहिलोपल्ट बस्यो कांग्रेस केन्द्रीय समिति बैठक",
+      "url": "https://shilapatra.com/detail/168236",
+      "version": 1
+    },
+    {
+      "canonical_hash": "415d328daaf05bf299bfc5eba83dadf955624ce223e6310459ad169d3e815933",
+      "fetched_at": "2025-09-19T06:33:40.226246Z",
+      "id": "9218133fd1944a49258990aa9abd16a744d03a84e98371e18858319894c359a3",
+      "images": [],
+      "published_at": "2025-09-19T06:24:00Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/92/9218133fd1944a49258990aa9abd16a744d03a84e98371e18858319894c359a3.json",
+      "title": "सामाजिक सञ्जालको दुरुपयोगले उपलब्धिमाथि प्रहार भयो : मुख्यमन्त्री पाण्डे",
+      "url": "https://deshsanchar.com/2025/09/19/1095837/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "72de7f286bd680c1c1003b40f92aff7f40d80282635bd559cf32ae765dbb952c",
+      "fetched_at": "2025-09-19T06:33:19.711636Z",
+      "id": "2c93829c0e86886e0d0738e953fd16f5766b26630ffefe4f6a02937c0252cad1",
+      "images": [],
+      "published_at": "2025-09-19T06:23:38Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/2c/2c93829c0e86886e0d0738e953fd16f5766b26630ffefe4f6a02937c0252cad1.json",
+      "title": "जेनजी आन्दोलनमा प्रहरी हिरासत खाली– 'मिर्गौला तस्करदेखि खुकुरी हान्ने'सम्म फरार !",
+      "url": "https://lokaantar.com/story/299546/2025/9/19/crime/police-hirasat",
+      "version": 1
+    },
+    {
+      "canonical_hash": "64097c39fbba2c7797e159d0e20f717659fa94642705d42db026f4836be9cf50",
+      "fetched_at": "2025-09-19T06:33:13.528717Z",
+      "id": "7d210b698682d3da5d923c193d4dbf85cf25a61e4431a7a5cfa9d11b1d486502",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/citizen-capital-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:21:36Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/7d/7d210b698682d3da5d923c193d4dbf85cf25a61e4431a7a5cfa9d11b1d486502.json",
+      "title": "सिटिजन्स क्यापिटलको १६ प्रतिशत नगद लाभांश",
+      "url": "https://www.karobardaily.com/news/301060",
+      "version": 1
+    },
+    {
+      "canonical_hash": "4c0b0566c7145e660d337bf73cf083c97f0e80d2e4c7bcb7b35956683939f9b3",
+      "fetched_at": "2025-09-19T06:33:19.740041Z",
+      "id": "2b8cf4819663228c7f2ff5873cd1f6262d20c362f690b7200f8dbab716842117",
+      "images": [],
+      "published_at": "2025-09-19T06:20:23Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/2b/2b8cf4819663228c7f2ff5873cd1f6262d20c362f690b7200f8dbab716842117.json",
+      "title": "यस्तो छ ‘सुपर–४’ चरणको तालिका, आइतबार फेरि भिड्दै भारत–पाकिस्तान",
+      "url": "https://lokaantar.com/story/299545/2025/9/19/sports/india-pakistan-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-19T06:33:04.581325Z",
+      "id": "e908ee5350cb191fe2f55624c1ce64971b9b5e607d20501425315a7eefaab24b",
+      "images": [],
+      "published_at": "2025-09-19T06:20:18Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/e9/e908ee5350cb191fe2f55624c1ce64971b9b5e607d20501425315a7eefaab24b.json",
+      "title": "आइजेएमडी एसएस पाइप्सको ब्रान्ड एम्बासडरमा रविन्द्र ढाँट",
+      "url": "https://www.setopati.com/kinmel/others/369734",
+      "version": 1
+    },
+    {
+      "canonical_hash": "86dbeebffec206f44197500705417041bf69f2c368dacebc1b6ba02764737b1f",
+      "fetched_at": "2025-09-19T06:33:13.555840Z",
+      "id": "fbc8ac0ba1a559417fab121959efb15c5681d28fbe3dca67f3812725c8deebca",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/05/Muktinath_bank_karobardaily-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:18:38Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/fb/fbc8ac0ba1a559417fab121959efb15c5681d28fbe3dca67f3812725c8deebca.json",
+      "title": "मुक्तिनाथ विकास बैंकको लाभांश प्रस्ताव",
+      "url": "https://www.karobardaily.com/news/301058",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9b23ff079945cc91adde26f6f46a623e633cd6daa95d17f2c0fb209e852de5e0",
+      "fetched_at": "2025-09-19T06:33:04.609985Z",
+      "id": "74c071552360663990202f01733afaae6faa4e686b2c7bbeeb5a2c533d4c4176",
+      "images": [],
+      "published_at": "2025-09-19T06:18:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/74/74c071552360663990202f01733afaae6faa4e686b2c7bbeeb5a2c533d4c4176.json",
+      "title": "गायिका शान्तिश्री परियारद्वारा जेनजी आन्दोलनका घाइतेहरूका लागि आर्थिक सहयोग",
+      "url": "https://www.setopati.com/art/music/369735",
+      "version": 1
+    },
+    {
+      "canonical_hash": "bb00ed6e0877f44e917e9dddff7f48a8e23933c7d4d06e757276cffceebc7d5b",
+      "fetched_at": "2025-09-19T06:33:28.344832Z",
+      "id": "d123c5e0003f82bd16aacbd261c6699cfb4d7c1de1ac6ff1ac500ce620ba86c0",
+      "images": [],
+      "published_at": "2025-09-19T06:17:25Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/d1/d123c5e0003f82bd16aacbd261c6699cfb4d7c1de1ac6ff1ac500ce620ba86c0.json",
+      "title": "संविधान जोगाउन र सार्वभौमसत्ताको रक्षा गर्न एमाले अध्यक्ष ओलीको अपिल",
+      "url": "https://www.reportersnepal.com/2025/09/1130317/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "7a059681775eee8a5a34a67996ee7e216b78f7b0d8d33578407162768260dafb",
+      "fetched_at": "2025-09-19T06:33:40.254921Z",
+      "id": "8bc38b251700687ee1afa185b61475a48f7876cb5a616100af322b34ce4fdd2d",
+      "images": [
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19120031/IMG_7170-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19120029/IMG_7171-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19120025/IMG_7172-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19120022/IMG_7173-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19120019/IMG_7175-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19120018/IMG_7177-1-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19115803/IMG_7162-1-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19115759/IMG_7161-2-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19115756/IMG_7164-scaled.jpeg",
+        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19115750/IMG_7166-scaled.jpeg"
+      ],
+      "published_at": "2025-09-19T06:16:56Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/8b/8bc38b251700687ee1afa185b61475a48f7876cb5a616100af322b34ce4fdd2d.json",
+      "title": "एमालेका नेताहरुद्वारा कांग्रेसको पार्टी कार्यालय अवलोकन (तस्बिरहरू)",
+      "url": "https://deshsanchar.com/2025/09/19/1095810/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6b53679cd4a48b1a4212c758c1a0240c6efa60dd5919a8ee68ee5ba32188d324",
+      "fetched_at": "2025-09-19T06:33:18.808451Z",
+      "id": "6469ccb790a0eeb7e0b808b52db922841141a58cdd5cd8f09f5a0b8562ca48d1",
+      "images": [],
+      "published_at": "2025-09-19T06:16:00Z",
+      "source": {
+        "domain": "swasthyakhabar.com",
+        "id": "swasthyakhabar",
+        "name": "स्वास्थ्य साप्ताहिक"
+      },
+      "store_path": "domains/_store/64/6469ccb790a0eeb7e0b808b52db922841141a58cdd5cd8f09f5a0b8562ca48d1.json",
+      "title": "ग्रान्डी सिटीमा अत्याधुनिक सुविधासहित एनआईसीयू विस्तार",
+      "url": "https://swasthyakhabar.com/story/60901",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6dcee5f6ee4cad2f9f7f2738ecaa88bf892b26b2cfeafd10f3119e429ba06429",
+      "fetched_at": "2025-09-19T06:33:13.582793Z",
+      "id": "b9e9a26a2e2b58d46f901d839e8f05f2daf93e7db327026efd98bcafb50d8ba5",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/himalayan-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:15:45Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/b9/b9e9a26a2e2b58d46f901d839e8f05f2daf93e7db327026efd98bcafb50d8ba5.json",
+      "title": "हिमालयन बैंकको चावहिल शाखा बालुवाटारमा",
+      "url": "https://www.karobardaily.com/news/301055",
+      "version": 1
+    },
+    {
+      "canonical_hash": "64f6593224f8ab60989e61e46d4e649d38f2ac3c265f048341e7717fab83f63a",
+      "fetched_at": "2025-09-19T06:34:00.693947Z",
+      "id": "fd1853ce2eeffa71364a6e7ec6031e5a35441b56bc99ee0b3d6d99b7e295ddc7",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-3-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:15:28Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/fd/fd1853ce2eeffa71364a6e7ec6031e5a35441b56bc99ee0b3d6d99b7e295ddc7.json",
+      "title": "जेन-जी प्रदर्शन भ्रष्टाचारप्रतिको असन्तुष्टिको प्रतिविम्ब हो : प्रधानमन्त्री कार्की",
+      "url": "https://khabarhub.com/2025/19/853926/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "2a07d748155308068ae044e2e857a25f1c0daa3c6005e3144e2bcae8ea634bea",
+      "fetched_at": "2025-09-19T06:33:37.519603Z",
+      "id": "af079b5bb40598be7eee17d3fb3547223f2012d162cb7d3f8591d7fce77532be",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/08/Gold-silver-price-image-channel.jpg"
+      ],
+      "published_at": "2025-09-19T06:14:37Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/af/af079b5bb40598be7eee17d3fb3547223f2012d162cb7d3f8591d7fce77532be.json",
+      "title": "सुनचाँदीको मूल्य बढ्यो, प्रतिताेला कतिमा हुँदैछ काराेबार ?",
+      "url": "https://www.imagekhabar.com/news/507891/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "81064f0b16f0640dffddc5ebe18c6a91ce963362373dc173b43f64e39ef5c330",
+      "fetched_at": "2025-09-19T06:33:36.510802Z",
+      "id": "f6442dd22cd3106fc811f4ef89791e42dea1e8f53aa6225c0bb90d1453bae27c",
+      "images": [],
+      "published_at": "2025-09-19T06:14:24Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/f6/f6442dd22cd3106fc811f4ef89791e42dea1e8f53aa6225c0bb90d1453bae27c.json",
+      "title": "‘जेन जेड प्रदर्शन भ्रष्टाचारप्रतिको असन्तुष्टिको प्रतिविम्ब हो’ : प्रधानमन्त्री कार्की",
+      "url": "https://www.prasashan.com/2025/09/19/702493/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "7d5345447a0b5887ef659411db24030577a0328e95b0dda4452d44eefda8ca3f",
+      "fetched_at": "2025-09-19T06:33:28.372690Z",
+      "id": "c442a651ca17283a275b02f5531d7b7a3d16ed8c9a8050cf89d646c13fe6a57e",
+      "images": [],
+      "published_at": "2025-09-19T06:12:33Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/c4/c442a651ca17283a275b02f5531d7b7a3d16ed8c9a8050cf89d646c13fe6a57e.json",
+      "title": "संविधानको दस वर्षे यात्राः आन्दोलनपछि पुनरावलोकन अपरिहार्य",
+      "url": "https://www.reportersnepal.com/2025/09/1130310/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "4515d1e238e1100bef943105ebe854ffb76155a26008d892c4e71b6a27514fb3",
+      "fetched_at": "2025-09-19T06:34:00.722947Z",
+      "id": "1b91d04cb696d62c48352c11cb48882bc7d9d22f24dcb74fd2414849b2d550d5",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/omprakash-aryal-chandrakuber-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:11:24Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/1b/1b91d04cb696d62c48352c11cb48882bc7d9d22f24dcb74fd2414849b2d550d5.json",
+      "title": "गृहमन्त्रीले भने- प्रहरीको मनोबल बढाउन सरकार तत्पर छ",
+      "url": "https://khabarhub.com/2025/19/853919/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d56b930c0133ce975d16dc7c6ffa88cc57a19e14c6933b5660c9de68ca994e34",
+      "fetched_at": "2025-09-19T06:34:00.752156Z",
+      "id": "492fd3d08115b8d06bfc4a443e9af4ac1eeb1088cc83ec073a88e661dc8ab722",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-3-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T06:10:47Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/49/492fd3d08115b8d06bfc4a443e9af4ac1eeb1088cc83ec073a88e661dc8ab722.json",
+      "title": "जनआकांक्षा अनुसार दृढ संकल्पका साथ काम गर्छु : प्रधानमन्त्री कार्की",
+      "url": "https://khabarhub.com/2025/19/853902/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ea6a0d5c80d0abaae4867e8972613a5ee15f80f3075684c814788ac69a1280b8",
+      "fetched_at": "2025-09-19T06:34:06.052749Z",
+      "id": "d39bab85f5e8433d463338df0c33c5a2aeab86db3eeb09cbc0b9077cfa94cf28",
+      "images": [],
+      "published_at": "2025-09-19T06:10:31Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/d3/d39bab85f5e8433d463338df0c33c5a2aeab86db3eeb09cbc0b9077cfa94cf28.json",
+      "title": "सबै अलपत्र आयोजनाको ठेक्का तोड्ने तयारी, कुलमानले मागे सूची",
+      "url": "https://nepalnews.com/2025/09/19/preparations-to-terminate-contracts-of-all-stalled-projects-kulman-asks-for-list/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b47b208b80ca19e1f948bce84fe272baacc75f3e81b70d5a2a77f293650f7378",
+      "fetched_at": "2025-09-19T06:33:19.061961Z",
+      "id": "12d5d37cc1f4f135ee31d952388de1af8d1eb8cd08adf11bfa33e3f5b3bec05a",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2025/09/Depression2021-02-01-08-21-25.jpeg",
+        "https://rajdhanidaily.com/wp-content/uploads/2025/09/dr..jpg"
+      ],
+      "published_at": "2025-09-19T06:09:54Z",
+      "source": {
+        "domain": "rajdhanidaily.com",
+        "id": "rajdhanidaily",
+        "name": "राजधानी दैनिक"
+      },
+      "store_path": "domains/_store/12/12d5d37cc1f4f135ee31d952388de1af8d1eb8cd08adf11bfa33e3f5b3bec05a.json",
+      "title": "जेनजी आन्दोलनः उत्तेजक तस्बिर र बीभत्स भिडियोले मानसिक स्वास्थ्यमा समस्या",
+      "url": "https://rajdhanidaily.com/id/122129/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b25be9a6e927e4009ac29401b60c3293843bc6e67772298b9feacbb1344520e3",
+      "fetched_at": "2025-09-19T06:33:04.636856Z",
+      "id": "c2676346742d3a7390ed53a0e147933efc22fa553081dca79fa43582a6489de0",
+      "images": [],
+      "published_at": "2025-09-19T06:09:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/c2/c2676346742d3a7390ed53a0e147933efc22fa553081dca79fa43582a6489de0.json",
+      "title": "पार्टी पुनर्गठनका लागि तोसिमा कार्कीको चार बुँदे प्रस्ताव",
+      "url": "https://www.setopati.com/politics/369733",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c5864fa00be8e547af2c738abaeeba82be31976c8fedc15daab8180fac513a57",
+      "fetched_at": "2025-09-19T06:34:00.781217Z",
+      "id": "2b0739bea7b832bbb6ba45fe3386ca501e57c2e3ca4f76ce74baca9d5ae9b4f7",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/08/kp-sharma-oli-5-400x220.jpeg"
+      ],
+      "published_at": "2025-09-19T06:08:51Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/2b/2b0739bea7b832bbb6ba45fe3386ca501e57c2e3ca4f76ce74baca9d5ae9b4f7.json",
+      "title": "संविधान जोगाउन र सार्वभौमसत्ताको रक्षा गर्न एमाले अध्यक्ष ओलीको अपिल",
+      "url": "https://khabarhub.com/2025/19/853917/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "188904d4bed261dc71ad3bddce000cd19384741416cae6dfab7d4031b8f5f652",
+      "fetched_at": "2025-09-19T06:33:22.678439Z",
+      "id": "ad8c06e56c55d364fe8b87b88de85c250e9319dc2c58312f0378ef8b23f7d721",
+      "images": [
+        "https://newsofnepal.com/wp-content/uploads/2025/09/kulman-ghising-1-1-150x150.png"
+      ],
+      "published_at": "2025-09-19T06:05:43Z",
+      "source": {
+        "domain": "newsofnepal.com",
+        "id": "newsofnepal",
+        "name": "नेपाल समाचारपत्र"
+      },
+      "store_path": "domains/_store/ad/ad8c06e56c55d364fe8b87b88de85c250e9319dc2c58312f0378ef8b23f7d721.json",
+      "title": "अलपत्र आयोजनाका ठेक्का तोड्ने तयारी",
+      "url": "https://newsofnepal.com/2025/09/19/732174/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "aa448f0d47073dc894e2f0ac216753e69390ed9940717f1948be58f02d7642ec",
+      "fetched_at": "2025-09-19T06:33:36.539326Z",
+      "id": "45371277066e47e0568ae12a7e09d5b8fd7f0cf2ee19de1ffd9e5e87d29b1022",
+      "images": [],
+      "published_at": "2025-09-19T06:04:08Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/45/45371277066e47e0568ae12a7e09d5b8fd7f0cf2ee19de1ffd9e5e87d29b1022.json",
+      "title": "रुस र इन्डोनेसियामा शक्तिशाली भूकम्प",
+      "url": "https://www.prasashan.com/2025/09/19/702491/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "06a49ab2fd1e016bcd12936b6426e8f69709335392f6a9b0025abe7c1e529624",
+      "fetched_at": "2025-09-19T06:33:19.090625Z",
+      "id": "a0694f9d9afd81b892f89e62d75067cf6ebee4a2c8f245d78e6c922097106e68",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2025/09/9fac68b8-7c5b-4776-8bb5-61fe6187eb03.jpeg"
+      ],
+      "published_at": "2025-09-19T06:03:58Z",
+      "source": {
+        "domain": "rajdhanidaily.com",
+        "id": "rajdhanidaily",
+        "name": "राजधानी दैनिक"
+      },
+      "store_path": "domains/_store/a0/a0694f9d9afd81b892f89e62d75067cf6ebee4a2c8f245d78e6c922097106e68.json",
+      "title": "संविधान मरिसक्यो, यसलाई बोकेर हिँड्नु समाजलाई दुषित बनाउनु हो : प्रभु साह",
+      "url": "https://rajdhanidaily.com/id/122128/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e8eefa8afb15462af1fec9ec48bc0f033de1a4f7ed58c2baa494d057125852d5",
+      "fetched_at": "2025-09-19T06:33:19.118850Z",
+      "id": "5522b1016efc1e91f77972ad3e110afddf04813242f81f5be23bc02c08e80c7d",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2025/09/gold-1-1.jpg"
+      ],
+      "published_at": "2025-09-19T06:02:03Z",
+      "source": {
+        "domain": "rajdhanidaily.com",
+        "id": "rajdhanidaily",
+        "name": "राजधानी दैनिक"
+      },
+      "store_path": "domains/_store/55/5522b1016efc1e91f77972ad3e110afddf04813242f81f5be23bc02c08e80c7d.json",
+      "title": "बढ्यो सुनको मूल्य, कतिमा हुँदैछ कारोबार ?",
+      "url": "https://rajdhanidaily.com/id/122127/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9cddb8a4ad38b33d3cb971c79da020995998c6ce9c44ea382f08fbb09e65ef97",
+      "fetched_at": "2025-09-19T06:33:19.147754Z",
+      "id": "611802273b8b126edadcce7936b224bdf99c654815b10f1205dc82faf2e64675",
+      "images": [
+        "https://rajdhanidaily.com/wp-content/uploads/2025/09/1000054523.jpg"
+      ],
+      "published_at": "2025-09-19T06:01:12Z",
+      "source": {
+        "domain": "rajdhanidaily.com",
+        "id": "rajdhanidaily",
+        "name": "राजधानी दैनिक"
+      },
+      "store_path": "domains/_store/61/611802273b8b126edadcce7936b224bdf99c654815b10f1205dc82faf2e64675.json",
+      "title": "जेएनजीले रोक्यो देशको लुटतन्त्र, बारामा सुरक्षा संयन्त्र तस्करीको रकममै लिप्त",
+      "url": "https://rajdhanidaily.com/id/122125/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e61da359fe2d793a1ccd0d43d1ab08144b35ccea8b272e512905600689b3233d",
+      "fetched_at": "2025-09-19T06:33:13.610048Z",
+      "id": "ab2c266842ba6b598550c360daa5c34f9a40582d4ae01dda3b2c2e1c094e3362",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/06/Gold_Silver_sunchandi_karobardaily_BBG-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T05:56:00Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/ab/ab2c266842ba6b598550c360daa5c34f9a40582d4ae01dda3b2c2e1c094e3362.json",
+      "title": "आठ सय बढ्यो सुनको मूल्य",
+      "url": "https://www.karobardaily.com/news/301052",
+      "version": 1
+    },
+    {
+      "canonical_hash": "eb3623cff587aa99ec48e5cf4ad460a2e0776256db4dd6e3baf8e5168d668092",
+      "fetched_at": "2025-09-19T06:33:28.401460Z",
+      "id": "bbc5547b48ba71ceed17570c77cb9978ff8d2eb5d66117b2d77bacb3448bf723",
+      "images": [],
+      "published_at": "2025-09-19T05:54:46Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/bb/bbc5547b48ba71ceed17570c77cb9978ff8d2eb5d66117b2d77bacb3448bf723.json",
+      "title": "‘नेपालको संविधान नेपाली जनताको सङ्घर्ष र बलिदानको प्रतिफल’",
+      "url": "https://www.reportersnepal.com/2025/09/1130292/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "859e1d59144cc74f7ab4735d735ada6d9d5d13f5486f74ebb6afb175758e99d6",
+      "fetched_at": "2025-09-19T06:33:04.672396Z",
+      "id": "2111d5669414b8da6f593f8a2e59f7babe1b015e22b63ebd360bc5b3ea4b09b5",
+      "images": [],
+      "published_at": "2025-09-19T05:54:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/21/2111d5669414b8da6f593f8a2e59f7babe1b015e22b63ebd360bc5b3ea4b09b5.json",
+      "title": "संविधान खारेज र राष्ट्रपतिलाई हटाउन भएका कसरत नजिकबाट हेर्न पाएँ: प्रचण्ड",
+      "url": "https://www.setopati.com/politics/369732",
+      "version": 1
+    },
     {
       "canonical_hash": "fcc2ffbc755368b1e860d1f00fe0065c64dfd58420f099273f00157491cb7668",
       "fetched_at": "2025-09-19T05:53:34.657620Z",
@@ -69,6 +873,22 @@
       "version": 1
     },
     {
+      "canonical_hash": "405fc9a6be46de9614c9f7fb8a4555069a27f49cb22c60f30b8e6dfd59f8db1a",
+      "fetched_at": "2025-09-19T06:33:04.711709Z",
+      "id": "cc97c9dd79d471d1f6f5bf7a972912883236482d4eb782831599e5065769287c",
+      "images": [],
+      "published_at": "2025-09-19T05:52:29Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/cc/cc97c9dd79d471d1f6f5bf7a972912883236482d4eb782831599e5065769287c.json",
+      "title": "बलिदान गरेर आएका दलहरूलाई निषेध गर्ने कुरा स्वीकार्य हुँदैनः शंकर पोखरेल",
+      "url": "https://www.setopati.com/politics/369730",
+      "version": 1
+    },
+    {
       "canonical_hash": "b4914d672da08d767c1ef29d845168efc1d3f9076d82b9f9d1e1129a770e586e",
       "fetched_at": "2025-09-19T05:53:38.231398Z",
       "id": "0519ffe0e49c1e8bb29947554016c721f7a8e6febcdcd181ae51dd0efc2eae46",
@@ -102,6 +922,22 @@
       "store_path": "domains/_store/9c/9c8c2a5c16b11e5b9b21011ff4382cb7fc085f46445f2c618c653a2b11384fd2.json",
       "title": "दलहरूको अहंकारले देश भयानक परिस्थितिमा पुग्यो : प्रचण्ड",
       "url": "https://khabarhub.com/2025/19/853907/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "5b0e8c64d82966de8e095cef4577625769576619979f9db80455bde19ee56bf5",
+      "fetched_at": "2025-09-19T06:33:24.046402Z",
+      "id": "d8252c128641b49e262a92137e3861dde4cb9c7ff97d3895c678babc09c66d27",
+      "images": [],
+      "published_at": "2025-09-19T05:51:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/d8/d8252c128641b49e262a92137e3861dde4cb9c7ff97d3895c678babc09c66d27.json",
+      "title": "संविधानबमोजिम ६ महिनाभित्र चुनाव गराउन प्रधानमन्त्री बनेकी हुँ-  सुशीला कार्की",
+      "url": "https://shilapatra.com/detail/168234",
       "version": 1
     },
     {
@@ -175,6 +1011,24 @@
       "store_path": "domains/_store/54/543f2578e65033683586f85406fc7e4dab224294300d04776a93db8280ad39d0.json",
       "title": "तस्वीरहरुमा संविधान दिवस २०८२",
       "url": "https://www.nepaljapan.com/09/19/681593/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "1bdc748494fe8d8ad13af9205f6f5007a305bb0613fd0d7498a67ecbdfa183ab",
+      "fetched_at": "2025-09-19T06:33:13.637339Z",
+      "id": "5694c8010bd8cc129dbd48be9ce49b14bffc50e2c830e7f3d528e01e6c181d03",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/kulman_-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T05:48:00Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/56/5694c8010bd8cc129dbd48be9ce49b14bffc50e2c830e7f3d528e01e6c181d03.json",
+      "title": "जिर्ण आयोजनाको ठेक्का तोड्न सूचि बन्दै",
+      "url": "https://www.karobardaily.com/news/301049",
       "version": 1
     },
     {
@@ -853,842 +1707,6 @@
       "store_path": "domains/_store/f5/f514d56e72945057bc2ab031afa116b2c8730019415cb3c5295e460ee9cdee17.json",
       "title": "च्याम्पियन्स लिगमा सिटी र बार्सिलोनाको विजयी शुरूआत",
       "url": "https://ujyaaloonline.com/story/120216/2025/9/19/city-and-barcelona-make-winning-starts",
-      "version": 1
-    },
-    {
-      "canonical_hash": "745ae9bb71abbcf8d879c9be54a5af04f6c08bc62b8a00c6f7c762876c3662d0",
-      "fetched_at": "2025-09-19T05:23:39.607988Z",
-      "id": "3258f956cf89924e791e98ca420860210d1295828013b77b5b0481de18f25f2d",
-      "images": [],
-      "published_at": "2025-09-19T05:17:26Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/32/3258f956cf89924e791e98ca420860210d1295828013b77b5b0481de18f25f2d.json",
-      "title": "जिपी कोइराला उपचार केन्द्रमा डायलासिस क्षमता विस्तार",
-      "url": "https://www.reportersnepal.com/2025/09/1130237/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "6ae9c25dcbaaf357d40573da6ee1c091084f38e4060dcfd5c1e7fbf1a3fd2402",
-      "fetched_at": "2025-09-19T05:23:30.016226Z",
-      "id": "c806733fb61fffed1642c8afcb556a0417083ba0aa9a43cfe1af38d4fe312838",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/6-6.png"
-      ],
-      "published_at": "2025-09-19T05:17:17Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/c8/c806733fb61fffed1642c8afcb556a0417083ba0aa9a43cfe1af38d4fe312838.json",
-      "title": "Various Jobs In Qatar",
-      "url": "https://rajdhanidaily.com/id/122121/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a22304b6efd3a4f128da2d750fd129693b3946f2c464562169d9d79f4f34a81f",
-      "fetched_at": "2025-09-19T05:23:50.378688Z",
-      "id": "5296d7cbeeff2d91601ece85f1bda05c39fc9647856125896fbd9b1d3c42d37c",
-      "images": [],
-      "published_at": "2025-09-19T05:16:52Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/52/5296d7cbeeff2d91601ece85f1bda05c39fc9647856125896fbd9b1d3c42d37c.json",
-      "title": "लोकतन्त्र जनताको आवाज सुन्ने, संवाद गर्ने र समाधान खोज्ने प्रणाली होः प्रधानमन्त्री कार्की",
-      "url": "https://deshsanchar.com/2025/09/19/1095788/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "42c682f53d95bb4d70b6795af3526185128481407f4807eb7cc187a132c28b16",
-      "fetched_at": "2025-09-19T05:23:25.999682Z",
-      "id": "67be48d195b3486aa3000e0e135f0991dbfa317cc58f04a4d9c17f9e1b6d008b",
-      "images": [],
-      "published_at": "2025-09-19T05:16:22Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/67/67be48d195b3486aa3000e0e135f0991dbfa317cc58f04a4d9c17f9e1b6d008b.json",
-      "title": "सुधार र निर्माणतर्फ सिरहा प्रशासन",
-      "url": "https://www.nepaljapan.com/09/19/681576/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "bfed120b21cb1a370704f9bb2ceb9105f3d500b38aa16d32258d63dadf011c7d",
-      "fetched_at": "2025-09-19T05:23:39.635289Z",
-      "id": "ce4f6aaa1a2763a3005d5b6f1c681693fa3d72752f51504f2fcc8c852abb5af4",
-      "images": [],
-      "published_at": "2025-09-19T05:16:18Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/ce/ce4f6aaa1a2763a3005d5b6f1c681693fa3d72752f51504f2fcc8c852abb5af4.json",
-      "title": "प्रतिनिधिसभा नरहेको अवस्थामा राष्ट्रियसभालाई अझ जिम्मेवार बनाउनुपर्छः  राष्ट्रियसभा उपाध्यक्ष घिमिरे",
-      "url": "https://www.reportersnepal.com/2025/09/1130239/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "f8b384bf951559d2b5fbf72c39fda0b2f00bc852feffec5ad2b4c81c9141288c",
-      "fetched_at": "2025-09-19T05:23:26.028825Z",
-      "id": "05eacfec94528853665e001f1aee09a7c4f7cff0c518306ee94e807819e07d71",
-      "images": [],
-      "published_at": "2025-09-19T05:16:08Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/05/05eacfec94528853665e001f1aee09a7c4f7cff0c518306ee94e807819e07d71.json",
-      "title": "जेनजी आन्दोलनमा स्वचालित हतियारले गोली हानियो, यसका छानबिन हुनुपर्छ : ओली",
-      "url": "https://www.nepaljapan.com/09/19/681579/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "38863b7701aec4e287d37bc3d4b03fb16c08fd5b3b198de1828fb560e37dc5ff",
-      "fetched_at": "2025-09-19T05:23:30.043952Z",
-      "id": "892b4816b21071135a5ac24c7d14125c0217cb52415cc7ab2d236e97380ab448",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/5-7.png"
-      ],
-      "published_at": "2025-09-19T05:16:04Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/89/892b4816b21071135a5ac24c7d14125c0217cb52415cc7ab2d236e97380ab448.json",
-      "title": "Various Jobs in UAE",
-      "url": "https://rajdhanidaily.com/id/122119/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2ea22b27ac31b5a26b23d1cb6152166aaf86efcd52d6fb74cf9bbc72fef47cf8",
-      "fetched_at": "2025-09-19T05:23:36.559025Z",
-      "id": "c436a2bd22e603815c6577ea65be7588e7e15d9f1968a7b03845e14643fa56c0",
-      "images": [
-        "https://encdn.ratopati.com/media/setting/default-banner_2uD78e1iMP.jpg"
-      ],
-      "published_at": "2025-09-19T05:16:00Z",
-      "source": {
-        "domain": "english.ratopati.com",
-        "id": "ratopati-english",
-        "name": "Ratopati English"
-      },
-      "store_path": "domains/_store/c4/c436a2bd22e603815c6577ea65be7588e7e15d9f1968a7b03845e14643fa56c0.json",
-      "title": "Commitment for full compliance of inclusive principle inevitable: Vice President",
-      "url": "http://english.ratopati.com/story/40939?npatro=1",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ee12a23898726a468d044867ec8a641b2d48aaa59ea54153e9339fc5778dfb39",
-      "fetched_at": "2025-09-19T05:23:19.419031Z",
-      "id": "281ce7a9acf51396aa646091b51fb13a17600e1624026d1c06fe82c083261749",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758258897_Asia%20Cup%20New.jpg"
-      ],
-      "published_at": "2025-09-19T05:15:30Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/28/281ce7a9acf51396aa646091b51fb13a17600e1624026d1c06fe82c083261749.json",
-      "title": "एसिया कप : सुपर ४ मा भारत, पाकिस्तान, श्रीलंका र बंगलादेश",
-      "url": "https://nagariknews.nagariknetwork.com/sports/asia-cup-india-pakistan-sri-lanka-and-bangladesh-in-super-4-90-84.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "816d67e8a68e2f32d4eb33ab7a006ecb4d796893ff65676b2d41d6a7439a2a93",
-      "fetched_at": "2025-09-19T05:23:36.588891Z",
-      "id": "f1aa4668fe83338f3e344aaae60e1f46bc4a058dc149ef3d1d0a8f0c0e5942da",
-      "images": [
-        "https://encdn.ratopati.com/media/setting/default-banner_2uD78e1iMP.jpg"
-      ],
-      "published_at": "2025-09-19T05:15:00Z",
-      "source": {
-        "domain": "english.ratopati.com",
-        "id": "ratopati-english",
-        "name": "Ratopati English"
-      },
-      "store_path": "domains/_store/f1/f1aa4668fe83338f3e344aaae60e1f46bc4a058dc149ef3d1d0a8f0c0e5942da.json",
-      "title": "Heavy rainfall likely in some places",
-      "url": "http://english.ratopati.com/story/40938?npatro=1",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2326038804fe0264ae7870422b71be942749ab4697c07f92e2e8a15c5b6a897f",
-      "fetched_at": "2025-09-19T05:23:30.071548Z",
-      "id": "024b16c1fb6821b06b0c01ed0f3c49527084a46eb574f3fd9155fe14741d7180",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/4-7.png"
-      ],
-      "published_at": "2025-09-19T05:14:58Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/02/024b16c1fb6821b06b0c01ed0f3c49527084a46eb574f3fd9155fe14741d7180.json",
-      "title": "Male : CLEANER GENERAL in UAE , 48 no",
-      "url": "https://rajdhanidaily.com/id/122117/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9516909d141db3b715ed994a15e96df68b19dca150d5594800885e1ac3600f62",
-      "fetched_at": "2025-09-19T05:23:39.662581Z",
-      "id": "f77043527f51f2520e9018bfdba2aef422a95590664afc014d59b03ac85fcf65",
-      "images": [],
-      "published_at": "2025-09-19T05:13:53Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/f7/f77043527f51f2520e9018bfdba2aef422a95590664afc014d59b03ac85fcf65.json",
-      "title": "एक–दुई स्थानमा भारी वर्षाको सम्भावना",
-      "url": "https://www.reportersnepal.com/2025/09/1130225/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "0099c6ad33838763758892387d734c12b270ac04758cc6e56b4afb843ddbb01c",
-      "fetched_at": "2025-09-19T05:23:36.615943Z",
-      "id": "867b72cf468865422329903ca41972711419ea6bcc7597f0324be630c402acf1",
-      "images": [
-        "https://encdn.ratopati.com/media/setting/default-banner_2uD78e1iMP.jpg"
-      ],
-      "published_at": "2025-09-19T05:13:00Z",
-      "source": {
-        "domain": "english.ratopati.com",
-        "id": "ratopati-english",
-        "name": "Ratopati English"
-      },
-      "store_path": "domains/_store/86/867b72cf468865422329903ca41972711419ea6bcc7597f0324be630c402acf1.json",
-      "title": "Constitution Day and National Day, 2025 being marked today",
-      "url": "http://english.ratopati.com/story/40937?npatro=1",
-      "version": 1
-    },
-    {
-      "canonical_hash": "38863b7701aec4e287d37bc3d4b03fb16c08fd5b3b198de1828fb560e37dc5ff",
-      "fetched_at": "2025-09-19T05:23:30.098321Z",
-      "id": "e64913ce12b4161b774307476fe2184bafbdb1d770695f6964cf3c8b06179873",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/3-7.png"
-      ],
-      "published_at": "2025-09-19T05:12:31Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/e6/e64913ce12b4161b774307476fe2184bafbdb1d770695f6964cf3c8b06179873.json",
-      "title": "Various Jobs in UAE",
-      "url": "https://rajdhanidaily.com/id/122115/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "1f5b77f3e194e6b0acd31bfce59a324de6c6e114f61934d787384ff0c29e400b",
-      "fetched_at": "2025-09-19T05:23:39.690489Z",
-      "id": "c4eb0ff0435a8e4f881df48e8dd25d751c3bff077a4c1eaf9b17be8bccdf2209",
-      "images": [],
-      "published_at": "2025-09-19T05:11:37Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/c4/c4eb0ff0435a8e4f881df48e8dd25d751c3bff077a4c1eaf9b17be8bccdf2209.json",
-      "title": "पेरिसडाँडामा माओवादीले यसरी मनायो संविधान दिवस (फोटोफिचर)",
-      "url": "https://www.reportersnepal.com/2025/09/1130221/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "13b3e60a01187cf7009739dd120775971a1e457e2b08704f2164878d81837af3",
-      "fetched_at": "2025-09-19T05:23:30.125549Z",
-      "id": "a4b647700c2eaed088ff5727ed53e73139a854e4d2c102b88f24f5d42d3e7585",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/2-7.png"
-      ],
-      "published_at": "2025-09-19T05:11:26Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/a4/a4b647700c2eaed088ff5727ed53e73139a854e4d2c102b88f24f5d42d3e7585.json",
-      "title": "Male : JOINER in Qatar , 5 no",
-      "url": "https://rajdhanidaily.com/id/122113/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "522b1a7781b536e6c4c5c06525497020ca18724d6de70b078bda07eeba6bdac1",
-      "fetched_at": "2025-09-19T05:23:39.717536Z",
-      "id": "bd92a5bd21b305c966e434c16f1c673aa8d92160da83399387f85b25a5895618",
-      "images": [],
-      "published_at": "2025-09-19T05:10:34Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/bd/bd92a5bd21b305c966e434c16f1c673aa8d92160da83399387f85b25a5895618.json",
-      "title": "जनताले पटकपटक गरेको क्रान्ति, सङ्घर्ष र लोकतान्त्रिक आन्दोलनको एउटा महत्त्वपूर्ण उपलब्धि संविधान : सभापति देउवा",
-      "url": "https://www.reportersnepal.com/2025/09/1130220/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d4fb27a7423e88559577b5759678bd5c4c53935635184464d0e857b327398bd9",
-      "fetched_at": "2025-09-19T05:23:30.643937Z",
-      "id": "1019f1b261fa6c080bc762fbcc7564553f5d5f15a879771f669e53a839e71a4b",
-      "images": [],
-      "published_at": "2025-09-19T05:10:31Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/10/1019f1b261fa6c080bc762fbcc7564553f5d5f15a879771f669e53a839e71a4b.json",
-      "title": "एमालेमा विग्रह हुन दिँन्नौं, आत्मालोचित हुँदै धुलो टकटकाएर फेरि उठ्छौं– ईश्वर पोखरेल",
-      "url": "https://lokaantar.com/news/299543/2025/9/19/cpn-uml-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "994afdeb06bc4a5222b3618da8725661e866fb65d112705bd11d72696630404e",
-      "fetched_at": "2025-09-19T05:23:30.152453Z",
-      "id": "038b137004fe498fada6ab32c6b883590be6d763fdff7a9acdb83117e0742521",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/1-7.png"
-      ],
-      "published_at": "2025-09-19T05:10:03Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/03/038b137004fe498fada6ab32c6b883590be6d763fdff7a9acdb83117e0742521.json",
-      "title": "Male : LIGHT EQUIPMENT DRIVER in Kuwait , 15 no",
-      "url": "https://rajdhanidaily.com/id/122111/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "87117ac514cd73440d8d5f95459531f0235e218713c056be0b438b11282099d8",
-      "fetched_at": "2025-09-19T05:23:39.744706Z",
-      "id": "6e04f31dc2813463418aac294ad4fba2fc40ef2cdd5867f1e8318d3120c2369b",
-      "images": [],
-      "published_at": "2025-09-19T05:09:51Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/6e/6e04f31dc2813463418aac294ad4fba2fc40ef2cdd5867f1e8318d3120c2369b.json",
-      "title": "परिवर्तनप्रेमी शक्तिबीच दह्रो एकताको आवश्यकता छ :  अध्यक्ष प्रचण्ड",
-      "url": "https://www.reportersnepal.com/2025/09/1130217/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "fetched_at": "2025-09-19T05:23:35.628696Z",
-      "id": "1e3a6c8f96331b1b4a94ac9eb5449f23c272c6839fadb695eef33ddfd1ab192c",
-      "images": [],
-      "published_at": "2025-09-19T05:09:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/1e/1e3a6c8f96331b1b4a94ac9eb5449f23c272c6839fadb695eef33ddfd1ab192c.json",
-      "title": "‘संविधानभित्रै लोकतान्त्रिक गणतन्त्रको भविष्य निहित छ’",
-      "url": "https://shilapatra.com/detail/168232",
-      "version": 1
-    },
-    {
-      "canonical_hash": "45936117e3a814504c77f3630bd7e94a249d3ff96201a1037684ddeda819d6c2",
-      "fetched_at": "2025-09-19T05:23:36.642642Z",
-      "id": "ef02771df47e5e7571ba808feb06fd7400139917055f56b272a8c2a014f26a6f",
-      "images": [
-        "https://encdn.ratopati.com/media/setting/default-banner_2uD78e1iMP.jpg"
-      ],
-      "published_at": "2025-09-19T05:09:00Z",
-      "source": {
-        "domain": "english.ratopati.com",
-        "id": "ratopati-english",
-        "name": "Ratopati English"
-      },
-      "store_path": "domains/_store/ef/ef02771df47e5e7571ba808feb06fd7400139917055f56b272a8c2a014f26a6f.json",
-      "title": "Constitution has integrated Nepali society into broader national unity: President",
-      "url": "http://english.ratopati.com/story/40936?npatro=1",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3dff7852d68c8343fc044e67d8df39e6bd1723dc69afa3d812a1fd23650c8426",
-      "fetched_at": "2025-09-19T05:23:56.105636Z",
-      "id": "b3ff928652e8d5631b3cfed6afb2a6bf171169a20673dae33ead1cea7a3a2c20",
-      "images": [],
-      "published_at": "2025-09-19T05:08:36Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/b3/b3ff928652e8d5631b3cfed6afb2a6bf171169a20673dae33ead1cea7a3a2c20.json",
-      "title": "सुनको मूल्य बढ्यो",
-      "url": "https://nepalnews.com/2025/09/19/gold-prices-rose/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "63c2f8e8bf89401c08d10c9494cc22819888c56598d6f57525b822193fb00d40",
-      "fetched_at": "2025-09-19T05:23:26.057429Z",
-      "id": "d945e075090bfc3865d47178fe31381e6e3968b25d8eb7f57d1c01d1d00cd13c",
-      "images": [],
-      "published_at": "2025-09-19T05:08:24Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/d9/d945e075090bfc3865d47178fe31381e6e3968b25d8eb7f57d1c01d1d00cd13c.json",
-      "title": "आठ सयले बढ्यो सुनको मूल्य, आज कति छ तोलाको ?",
-      "url": "https://www.nepaljapan.com/09/19/681574/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "66b3323bd45e44d8af2630a39c754c0ccf1d3b779ff7aa5aee9636afce988690",
-      "fetched_at": "2025-09-19T05:23:46.794665Z",
-      "id": "d79913ad4efc00036baf4b2ab178681680cd288c4ca9e02ac5a80ac8731cad9d",
-      "images": [],
-      "published_at": "2025-09-19T05:07:22Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/d7/d79913ad4efc00036baf4b2ab178681680cd288c4ca9e02ac5a80ac8731cad9d.json",
-      "title": "सुनचाँदीको मूल्य बढ्यो, आज कतिमा हुँदैछ कारोबार?",
-      "url": "https://www.prasashan.com/2025/09/19/702482/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3bf8c72aab6ae23e417927c85be9ca043ce835afab962962aa197d091117cd84",
-      "fetched_at": "2025-09-19T05:23:19.448051Z",
-      "id": "d96888d32fb7d1a35701f8d75e35d0ff27740babb415a663ff944b5ec6a6e2e2",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758258735_Tre%20lar%2045.jpg"
-      ],
-      "published_at": "2025-09-19T05:06:24Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/d9/d96888d32fb7d1a35701f8d75e35d0ff27740babb415a663ff944b5ec6a6e2e2.json",
-      "title": "‘माइतीघर’ फिल्मको ट्रेलर सार्वजनिक",
-      "url": "https://nagariknews.nagariknetwork.com/arts/trailer-of-the-film-maitighar-released-95-23.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "44ddfeda5b80a8e8a3ce9e85f9158fbac859083066cdffdf71deca89755db085",
-      "fetched_at": "2025-09-19T05:23:21.219042Z",
-      "id": "015db4dad680804a93d95d95a9a0c9c4ceef4e5342f624f5e5a3e0622f527bc3",
-      "images": [],
-      "published_at": "2025-09-19T05:05:44Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/01/015db4dad680804a93d95d95a9a0c9c4ceef4e5342f624f5e5a3e0622f527bc3.json",
-      "title": "टुँडिखेलमा संविधान दिवस (तस्बिरहरू)",
-      "url": "https://www.setopati.com/politics/369723",
-      "version": 1
-    },
-    {
-      "canonical_hash": "4224e3abd33f57f0c16a418776f1efb392cd5a72a8e0a8d91a59eb22d1daba75",
-      "fetched_at": "2025-09-19T05:23:23.534605Z",
-      "id": "e8239f2ed9def11734a5d0f4e379f3d52ba841732b23917336dc10047e1696fc",
-      "images": [],
-      "published_at": "2025-09-19T05:05:18Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/e8/e8239f2ed9def11734a5d0f4e379f3d52ba841732b23917336dc10047e1696fc.json",
-      "title": "फागुन २१ का लागि तय भएको चुनाव सफल बनाउन प्रधानमन्त्री कार्कीको अपिल",
-      "url": "https://ujyaaloonline.com/story/120217/2025/9/19/prime-minister-karki-appeals-to-make-the-elections",
-      "version": 1
-    },
-    {
-      "canonical_hash": "7bf6696103e1c7b1041ee041599ef204da0eb0c39817815d277e1b5d63d22a0a",
-      "fetched_at": "2025-09-19T05:23:19.479517Z",
-      "id": "4e653f16fdd3eca4fd53cb8ffe6a4daa405f067b914402d69cc069c7890fdfc8",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758258234_Bijaya.jpg"
-      ],
-      "published_at": "2025-09-19T05:04:17Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/4e/4e653f16fdd3eca4fd53cb8ffe6a4daa405f067b914402d69cc069c7890fdfc8.json",
-      "title": "जेन-जी आन्दोलनका मृतक परिवारलाई नगरपालिकाको राहत",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/municipality-provides-relief-to-families-of-gen-g-movement-victims-47-73.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "27f71cc968988f4e1e1619eca61eb0250f994b59bd9284b3d7dc3b12b09afbaf",
-      "fetched_at": "2025-09-19T05:23:34.236198Z",
-      "id": "8da1bdd91490c982fe6e43e44e3b8151f37cd333306d950a72545c5a9e82af0f",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/IMAGE-on-appointment-of-Santosh-K-Rathi-as-DCEO1653398976-150x150.jpg"
-      ],
-      "published_at": "2025-09-19T05:02:40Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/8d/8da1bdd91490c982fe6e43e44e3b8151f37cd333306d950a72545c5a9e82af0f.json",
-      "title": "एनआइसीको कामु सिइओमा राठी",
-      "url": "https://newsofnepal.com/2025/09/19/732165/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b00a9aec07d42639b479a386520bc57cc8d5d5ed7cb358803f5c8a9641646e7f",
-      "fetched_at": "2025-09-19T05:23:46.822337Z",
-      "id": "d12de8f5d26acd09e1f3aa3d7c405ca8ff617b42fa498362321fb3a88fa73eab",
-      "images": [],
-      "published_at": "2025-09-19T05:01:44Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/d1/d12de8f5d26acd09e1f3aa3d7c405ca8ff617b42fa498362321fb3a88fa73eab.json",
-      "title": "‘एजेण्डालाई आत्मसाथ गर्दै जनअपेक्षा अनुसार काम गर्न यो सरकार प्रतिबद्ध’ : प्रधानमन्त्री कार्की",
-      "url": "https://www.prasashan.com/2025/09/19/702479/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b4da69bd8c71db03d8b018b53323db65221d952a376ba43a76b97f45b73220cc",
-      "fetched_at": "2025-09-19T04:56:56.286139Z",
-      "id": "7f6d359d5c48e06094cc76dd75c682fd3bd9881bb7a52a169a0de9a953018047",
-      "images": [],
-      "published_at": "2025-09-19T04:56:04Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/7f/7f6d359d5c48e06094cc76dd75c682fd3bd9881bb7a52a169a0de9a953018047.json",
-      "title": "यस्तो छ आजका लागि सागसब्जी र फलफूलको थोकमूल्य",
-      "url": "https://deshsanchar.com/2025/09/19/1095736/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2018dee87adbccb850af74a799112dcdb2541dde4c98d77dc9d636b7da78dc3e",
-      "fetched_at": "2025-09-19T04:56:45.296968Z",
-      "id": "4036bd5f9509cad5765a139b36af64eee2aac399a115a7168371c710e1e1470d",
-      "images": [],
-      "published_at": "2025-09-19T04:55:17Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/40/4036bd5f9509cad5765a139b36af64eee2aac399a115a7168371c710e1e1470d.json",
-      "title": "यस्तो छ आजका लागि विदेशी मुद्राको विनिमयदर",
-      "url": "https://www.reportersnepal.com/2025/09/1130205/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e02d6b039d2e637a246e76f301fd997dc2837fe0fd4cb99268c0ef1d3ca2bcd2",
-      "fetched_at": "2025-09-19T04:56:45.324747Z",
-      "id": "bbedb4a782f6359791d89cc72dc39b0b1962cb3e718161af43ad7d0898a24c59",
-      "images": [],
-      "published_at": "2025-09-19T04:54:07Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/bb/bbedb4a782f6359791d89cc72dc39b0b1962cb3e718161af43ad7d0898a24c59.json",
-      "title": "शुक्लाफाँटामा गाईको बाच्छीमा लम्पी स्किन रोग सङ्क्रमण पुष्टि",
-      "url": "https://www.reportersnepal.com/2025/09/1130200/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9ca4f27e56691b03144baa2a1586ae9997d9e08c5c0460bb0b3bdf58a1d2929d",
-      "fetched_at": "2025-09-19T04:56:45.352418Z",
-      "id": "501799498e2f28c22803032a1fe5878abd6e1142141b993303d1831c60415ac0",
-      "images": [],
-      "published_at": "2025-09-19T04:53:01Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/50/501799498e2f28c22803032a1fe5878abd6e1142141b993303d1831c60415ac0.json",
-      "title": "बजार झरे लेकाली भेडाच्याङ्ग्रा",
-      "url": "https://www.reportersnepal.com/2025/09/1130199/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "43431d627d12f82f744f003d703c7cc9f10e4b5009d0d99c5ae5ed6110da564e",
-      "fetched_at": "2025-09-19T04:58:27.194387Z",
-      "id": "9a5d76c1599af47a6899b531fb9fba0cf6b50b0ceb25edc177422fdaf8cdc3d6",
-      "images": [],
-      "published_at": "2025-09-19T04:53:01Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/9a/9a5d76c1599af47a6899b531fb9fba0cf6b50b0ceb25edc177422fdaf8cdc3d6.json",
-      "title": "म्यानचेस्टर सिटीको सहज जित",
-      "url": "https://nepalnews.com/2025/09/19/manchester-citys-easy-win/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "4b42ffb25e2b38a42f9ecbc0b11f80c9396e196b723f2fb4ff524e27da05fa39",
-      "fetched_at": "2025-09-19T04:58:23.615394Z",
-      "id": "e3d5648edd87162b02263cfc71a393b3503c1a3341e7f1ff1c1137ee6fcf5cf3",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2024/09/Nepal-ko-Sambidhan-2072-400x220.jpg"
-      ],
-      "published_at": "2025-09-19T04:52:40Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/e3/e3d5648edd87162b02263cfc71a393b3503c1a3341e7f1ff1c1137ee6fcf5cf3.json",
-      "title": "‘संविधानलाई धक्का लागेको छ, समयमै निर्वाचन गरेर ट्रयाकमा ल्याउनुपर्छ’",
-      "url": "https://khabarhub.com/2025/19/853898/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a1adcee0ffca0413ad4c9dc03d69f6dd17b3d95d72ac1a8c052fa5b2f5eb8b52",
-      "fetched_at": "2025-09-19T04:56:53.630624Z",
-      "id": "2eda07d02554e2c1377d657d9d7d302b390f356fe95396d8aa14e508eb56b6f9",
-      "images": [
-        "https://www.imagekhabar.com/wp-content/uploads/2025/09/Tarkari-bazar-vegitable-Imagekhabar.jpg"
-      ],
-      "published_at": "2025-09-19T04:51:47Z",
-      "source": {
-        "domain": "imagekhabar.com",
-        "id": "imagekhabar",
-        "name": "Image Khabar"
-      },
-      "store_path": "domains/_store/2e/2eda07d02554e2c1377d657d9d7d302b390f356fe95396d8aa14e508eb56b6f9.json",
-      "title": "यस्तो छ आजका लागि सागसब्जी र फलफूलको मूल्य",
-      "url": "https://www.imagekhabar.com/news/507883/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "807a06c49896cdf386c98ebfd8e6b5b7c963f6b10cfe8ba4ae8c9bf1cc9da91a",
-      "fetched_at": "2025-09-19T04:56:28.424561Z",
-      "id": "c1a43e73d2496ddeddfc4ecda72605c4657043517fc6b32452decf06f940155d",
-      "images": [],
-      "published_at": "2025-09-19T04:50:31Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/c1/c1a43e73d2496ddeddfc4ecda72605c4657043517fc6b32452decf06f940155d.json",
-      "title": "फ्रान्समा बजेट कटौतीको विरोधमा लाखौं नागरिक सडकमा",
-      "url": "https://ujyaaloonline.com/story/120215/2025/9/19/millions-take-to-the-streets-in-france-to-protest",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ce33a11ecbb652299037cac2bd626b70f7815924fcd278b6c613896d048cb861",
-      "fetched_at": "2025-09-19T04:56:45.380076Z",
-      "id": "ddcfbc62964529e912ada3e2759fe029492330ddc697297cf81323f4e5fac228",
-      "images": [],
-      "published_at": "2025-09-19T04:49:11Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/dd/ddcfbc62964529e912ada3e2759fe029492330ddc697297cf81323f4e5fac228.json",
-      "title": "दिक्तेल रूपाकोट मझुवागढीका भूमिहीन र अव्यवस्थित बसोवासीलाई जग्गाको निस्सा",
-      "url": "https://www.reportersnepal.com/2025/09/1130194/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "82ead984168cad5815c48aed2508c05f7adc480f0eef0ee32085144138b0e55e",
-      "fetched_at": "2025-09-19T04:56:24.814330Z",
-      "id": "5fbb81cf7579a8aab6c922fcbb960a542e1e6a721481e427d556e2972d0dc849",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758257226_Kulman.jpg"
-      ],
-      "published_at": "2025-09-19T04:47:20Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/5f/5fbb81cf7579a8aab6c922fcbb960a542e1e6a721481e427d556e2972d0dc849.json",
-      "title": "ऊर्जा, सिँचाइ, भौतिक पूर्वाधार र सहरी विकासका जीर्ण आयोजनाको ठेक्का तोडिने",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/contracts-for-dilapidated-energy-irrigation-physical-infrastructure-and-urban-development-projects-will-be-terminated-47-39.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9552446bc8b0ea8b39e1021aa3e6d7e5de35834b08eafbf7c51808f922af0115",
-      "fetched_at": "2025-09-19T04:56:45.407624Z",
-      "id": "76fb2a42a5a4587b72eb58639310d725da7c7b71b0e387ab3eac3e802918a19e",
-      "images": [],
-      "published_at": "2025-09-19T04:46:42Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/76/76fb2a42a5a4587b72eb58639310d725da7c7b71b0e387ab3eac3e802918a19e.json",
-      "title": "जिल्ला प्रहरी परिसर काठमाडौँको प्रमुखमा थापा",
-      "url": "https://www.reportersnepal.com/2025/09/1130191/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ea4d175cd0d05ef61dbec5c090eb6de3719914b2bf04b2ca5dac4ba6610741d2",
-      "fetched_at": "2025-09-19T04:56:36.752284Z",
-      "id": "36040bd6cf1fbed7394d772a6bafae33ffe4eca3f70cf3f837e04e3f4bb1ca60",
-      "images": [],
-      "published_at": "2025-09-19T04:46:07Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/36/36040bd6cf1fbed7394d772a6bafae33ffe4eca3f70cf3f837e04e3f4bb1ca60.json",
-      "title": "पदको लालच छैन, ६ महिनामा जननिर्वाचित सरकारलाई सत्ता हस्तान्तरण गर्छौं– कार्की",
-      "url": "https://lokaantar.com/news/299542/2025/9/19/sushila-karki-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c2d90e8923f0970aeae1545aac32b132fc8c61541a3fefeacd71c653e40b3b76",
-      "fetched_at": "2025-09-19T05:23:24.567018Z",
-      "id": "0def214370f17dfe7ca45382b684c66dfc57b1c08d92f9f9461765bf0c2fbc73",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2025/03/share-1-400x220.jpg"
-      ],
-      "published_at": "2025-09-19T04:45:00Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/0d/0def214370f17dfe7ca45382b684c66dfc57b1c08d92f9f9461765bf0c2fbc73.json",
-      "title": "लगानीकर्ता आत्तिँदा सेयर बजारमा पहिरो",
-      "url": "https://www.karobardaily.com/news/301034",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c72b24563e8b3d5ef2b6d8dc67ea61d048d1587e1235938ca39fdcc5f89c89f8",
-      "fetched_at": "2025-09-19T04:44:20.005920Z",
-      "id": "f0b231cf0e34ab6e269c36ef05e494d757a4a06e08fc0f245eb9781313fd5cd3",
-      "images": [],
-      "published_at": "2025-09-19T04:44:20.005920Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/f0/f0b231cf0e34ab6e269c36ef05e494d757a4a06e08fc0f245eb9781313fd5cd3.json",
-      "title": "ऊर्जा, सिंचाइ, भौतिक पूर्वाधार र शहरी विकासका जीर्ण आयोजनाको ठेक्का तोडिने",
-      "url": "https://thahakhabar.com/news/235698",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d79423ed184f0f05bf78a9239d95ad7c25d4c17adf6f1d15fc09f0f61089808f",
-      "fetched_at": "2025-09-19T04:44:19.977219Z",
-      "id": "5d3e8d82eb27aeafc7b685121a35c18bc79b9f064e7adfe2b89db800ae5640f3",
-      "images": [],
-      "published_at": "2025-09-19T04:44:19.977219Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/5d/5d3e8d82eb27aeafc7b685121a35c18bc79b9f064e7adfe2b89db800ae5640f3.json",
-      "title": "तस्विरमा हेर्नुहोस् टुँडिखेलको संविधान दिवस समारोह",
-      "url": "https://thahakhabar.com/news/235699",
-      "version": 1
-    },
-    {
-      "canonical_hash": "1dfe0404b22241f299f9c0753248d1a0f5de161498170f3a341a48bbad1c45da",
-      "fetched_at": "2025-09-19T04:44:49.229099Z",
-      "id": "ce966b5c2183420c9ed96fa5438babae0649f17f025054097441c596269e8f8f",
-      "images": [],
-      "published_at": "2025-09-19T04:41:33Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/ce/ce966b5c2183420c9ed96fa5438babae0649f17f025054097441c596269e8f8f.json",
-      "title": "संविधानसँगै प्राप्त उपलब्धिको रक्षा गर्नु आजको मूल आवश्यकता : मुख्यमन्त्री कँडेल",
-      "url": "https://www.prasashan.com/2025/09/19/702474/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5b77e5366e31e30be5ecd609ad79d823435cbf5d5cd3654b620f73805d56da71",
-      "fetched_at": "2025-09-19T04:45:03.568990Z",
-      "id": "de7739460788f1e61eb7a65fc176316b4fec2116a2906db3af462a8d1fa044f9",
-      "images": [],
-      "published_at": "2025-09-19T04:41:04Z",
-      "source": {
-        "domain": "khasokhas.com",
-        "id": "khasokhas",
-        "name": "khasokhas.com"
-      },
-      "store_path": "domains/_store/de/de7739460788f1e61eb7a65fc176316b4fec2116a2906db3af462a8d1fa044f9.json",
-      "title": "ग्रीन कार्ड आवेदनमा गलत विवरण दिएको पाइएपछि खलिलमाथि डिपोर्टको खतरा बढ्यो",
-      "url": "https://www.khasokhas.com/224687",
-      "version": 1
-    },
-    {
-      "canonical_hash": "8c03c49ed898e38624946a8d94483cdabe49fbd9e7dbc435b8a191ca0779145a",
-      "fetched_at": "2025-09-19T04:45:09.582102Z",
-      "id": "d4da38be1c019922833ab80ca4d6314e2b311678e19f0bceafa935de2f0c4d1a",
-      "images": [],
-      "published_at": "2025-09-19T04:38:37Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/d4/d4da38be1c019922833ab80ca4d6314e2b311678e19f0bceafa935de2f0c4d1a.json",
-      "title": "प्रत्यक्ष निर्वाचित राष्ट्रपतिमा सहमति भएको भए जेनजीले आन्दोलन गर्नु पर्थेन-प्रचण्ड",
-      "url": "https://nepalnews.com/2025/09/19/if-there-had-been-an-agreement-on-a-directly-elected-president-genji-would-not-have-had-to-protest-prachanda/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "080f32c9e330ae5218f8553aa22fa4eed141a6b0ecbafdcd171769493e7a640c",
-      "fetched_at": "2025-09-19T04:44:16.052660Z",
-      "id": "d58eef83dfdc493144d1f3b48e436e9eb9ad9788765acdd34579ff93cfbde8a5",
-      "images": [],
-      "published_at": "2025-09-19T04:37:28Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/d5/d58eef83dfdc493144d1f3b48e436e9eb9ad9788765acdd34579ff93cfbde8a5.json",
-      "title": "जिल्ला प्रहरी परिसर काठमाडौँको प्रमुखमा थापा",
-      "url": "https://www.nepaljapan.com/09/19/681572/",
       "version": 1
     }
   ]
