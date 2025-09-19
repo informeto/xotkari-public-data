@@ -1,7 +1,625 @@
 {
-  "count": 6033,
-  "lastUpdated": "2025-09-19T06:57:21.432917Z",
+  "count": 6073,
+  "lastUpdated": "2025-09-19T07:22:02.827497Z",
   "recent": [
+    {
+      "canonical_hash": "b91eeb5aae68516d244194ffae3ff334bc7efc92e124a11cbda5d9518d0168aa",
+      "fetched_at": "2025-09-19T07:21:10.435754Z",
+      "id": "de1ea01205e8ada32f56c30c782e5d1077c77b5a4db985b4713ae230294c6463",
+      "images": [],
+      "published_at": "2025-09-19T07:21:10.435754Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/de/de1ea01205e8ada32f56c30c782e5d1077c77b5a4db985b4713ae230294c6463.json",
+      "title": "युक्रेन सीमाबाट दुई नेपालीको उद्धार, स्वदेश फर्किँदै",
+      "url": "https://thahakhabar.com/news/235711",
+      "version": 1
+    },
+    {
+      "canonical_hash": "5e02428932ab2391e1df6a509e0cfb700602e9bf88b80bb843e4dfa71721bc6c",
+      "fetched_at": "2025-09-19T07:21:55.377508Z",
+      "id": "547ae814fd153aa24cad9240227a04108ca994e6fc8b5c921f83743bfd6a8c0f",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/un-400x220.png"
+      ],
+      "published_at": "2025-09-19T07:21:00Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/54/547ae814fd153aa24cad9240227a04108ca994e6fc8b5c921f83743bfd6a8c0f.json",
+      "title": "गाजा युद्धविराम प्रस्तावमा अमेरिकाको भिटो, इजरायललाई समर्थन",
+      "url": "https://khabarhub.com/2025/19/854020/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "1b45e5dee2418b29bc9f1fe551b695b3355efd32ebed12116f687612a6eb1bf1",
+      "fetched_at": "2025-09-19T07:22:02.756115Z",
+      "id": "4d0574494b96742752f11ed8058462a29e1e64f85aa45136664d2ad37d3a13e9",
+      "images": [],
+      "published_at": "2025-09-19T07:21:00Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/4d/4d0574494b96742752f11ed8058462a29e1e64f85aa45136664d2ad37d3a13e9.json",
+      "title": "साफ क्लब महिला च्याम्पियनसिपमा एपीएफसहित पाँच टोली",
+      "url": "https://nepalnews.com/2025/09/19/five-teams-including-apf-in-saff-club-womens-championship/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9539625be6880db73c8fca30faaf0823c7d135f7b7308d96f8097b036e946076",
+      "fetched_at": "2025-09-19T07:21:06.879557Z",
+      "id": "1c848d70d48624901993acfb2baeb58b5a67aaefc6e0f750d2a9b1e5e74488a0",
+      "images": [],
+      "published_at": "2025-09-19T07:20:42Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/1c/1c848d70d48624901993acfb2baeb58b5a67aaefc6e0f750d2a9b1e5e74488a0.json",
+      "title": "कालीगण्डकी लोकमार्ग भाँसियो",
+      "url": "https://www.nepaljapan.com/09/19/681616/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a3c2f5c3fc7fed5dbcf8a4f7dd12297c74c28f827e4425d0a4682d9245f937a1",
+      "fetched_at": "2025-09-19T07:21:32.638311Z",
+      "id": "aa9734b3e13764017e7834af0e0f474e7712e8a2001b3979a5392016ffb10aca",
+      "images": [],
+      "published_at": "2025-09-19T07:19:47Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/aa/aa9734b3e13764017e7834af0e0f474e7712e8a2001b3979a5392016ffb10aca.json",
+      "title": "संसद् भवनको काम पुसभित्रै सम्पन्न गर्नेगरी काम अगाडि बढाउन मन्त्री घिसिङको निर्देशन",
+      "url": "https://deshsanchar.com/2025/09/19/1095843/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d556e18f0d451b182be5cf80299485c845420c93e614b7ee632f477f53c63a8b",
+      "fetched_at": "2025-09-19T07:21:30.295502Z",
+      "id": "ad6d75518b31a598d28fc1890f1d9554a78469545ba6878fd9b9675ba08331c7",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/09/sambidhan-diwas-1.jpg"
+      ],
+      "published_at": "2025-09-19T07:18:08Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/ad/ad6d75518b31a598d28fc1890f1d9554a78469545ba6878fd9b9675ba08331c7.json",
+      "title": "टुँडिखेलमा यसरी मनाइयो संविधान दिवस",
+      "url": "https://www.imagekhabar.com/news/507898/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "32368aa35091917110019229f88f646ccddf633b9e712eda12805bf6e9f20686",
+      "fetched_at": "2025-09-19T07:21:16.776509Z",
+      "id": "b59e1f2f40766a142f7cd2b0c48193bef630883567b3016abca267bc2bc10f7b",
+      "images": [],
+      "published_at": "2025-09-19T07:18:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/b5/b59e1f2f40766a142f7cd2b0c48193bef630883567b3016abca267bc2bc10f7b.json",
+      "title": "जीर्ण आयोजनाका ठेक्का तोड्न ऊर्जामन्त्री घिसिङको निर्देशन",
+      "url": "https://shilapatra.com/detail/168242",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9a6f10055d5dc0ca2b8eb8aa322a3b8d2d7dee544bf46c2a6461d3e219092159",
+      "fetched_at": "2025-09-19T07:21:03.200527Z",
+      "id": "4dfacb949cc1f6c144acddf380d7be149ab395ff86771a8dcc7ab3d120e7a79a",
+      "images": [],
+      "published_at": "2025-09-19T07:17:02Z",
+      "source": {
+        "domain": "ujyaaloonline.com",
+        "id": "ujyaaloonline",
+        "name": "उज्यालो अनलाइन"
+      },
+      "store_path": "domains/_store/4d/4dfacb949cc1f6c144acddf380d7be149ab395ff86771a8dcc7ab3d120e7a79a.json",
+      "title": "युक्रेनबाट दुई जना नेपालीको उद्धार",
+      "url": "https://ujyaaloonline.com/story/120223/2025/9/19/Two-Nepalis-rescued-from-Ukraine",
+      "version": 1
+    },
+    {
+      "canonical_hash": "baf561cbeac67ec5e1cb689779bbc12e530be15f87f8fceca2202b1b8fa23e13",
+      "fetched_at": "2025-09-19T07:21:55.406077Z",
+      "id": "aaceec0dbd4231ef1958308322e46d1c522affa6760b4ef829f562196a043f78",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2024/08/toshima-karki-400x220.png"
+      ],
+      "published_at": "2025-09-19T07:15:52Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/aa/aaceec0dbd4231ef1958308322e46d1c522affa6760b4ef829f562196a043f78.json",
+      "title": "रास्वपा सुधार्दै मध्यममार्गी राजनीतिक शक्ति बनाउन तोसिमाले सुझाइन् ४ उपाय",
+      "url": "https://khabarhub.com/2025/19/854031/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9777ee1586c59dbde486b2cbdcd4aa93392de3c20c35d697768cf6d92e1a4d1b",
+      "fetched_at": "2025-09-19T07:20:59.397114Z",
+      "id": "14daab8d78cf8a36917ce6a16a7111c998ae316febf9e4b5443a6366e5161c30",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758257226_Kulman.jpg"
+      ],
+      "published_at": "2025-09-19T07:13:52Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/14/14daab8d78cf8a36917ce6a16a7111c998ae316febf9e4b5443a6366e5161c30.json",
+      "title": "संसद् भवनको काम पुसभित्रै सम्पन्न गर्न मन्त्री घिसिङको निर्देशन",
+      "url": "https://nagariknews.nagariknetwork.com/politics/minister-ghisingh-directs-to-complete-the-work-of-the-parliament-building-within-december-93-55.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "54e7120be197d073ec23be4ede80a94d80492cea508dfeec03ec3302952e569b",
+      "fetched_at": "2025-09-19T07:21:29.248193Z",
+      "id": "3ab5a5fb8370c462bfe23d3ac230bed67762589c85768fd10f4a11c1c8bbf0bc",
+      "images": [],
+      "published_at": "2025-09-19T07:13:42Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/3a/3ab5a5fb8370c462bfe23d3ac230bed67762589c85768fd10f4a11c1c8bbf0bc.json",
+      "title": "संसद् भवन पुसभित्रै सम्पन्न गर्न मन्त्री घिसिङको निर्देशन, अनियमितता गरे तत्काल कारवाहीको चेतावनी",
+      "url": "https://www.prasashan.com/2025/09/19/702525/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9a01acdb653b2e8776fa4f0d4c9839155a617d7cc734067cb9e03800d8cd07af",
+      "fetched_at": "2025-09-19T07:21:06.908233Z",
+      "id": "1d2edd084250ed1bd33a605e14db6a459280c11861a818a3fa77d546e27722d3",
+      "images": [],
+      "published_at": "2025-09-19T07:13:33Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/1d/1d2edd084250ed1bd33a605e14db6a459280c11861a818a3fa77d546e27722d3.json",
+      "title": "संसद् भवनको काम पुसभित्रै सम्पन्न गरौँँ : मन्त्री घिसिङ",
+      "url": "https://www.nepaljapan.com/09/19/681613/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "2fbd64efcac79ac942f6637ef2dcb709248f417ec2146190c42cbbb1e7827d7a",
+      "fetched_at": "2025-09-19T07:21:21.253710Z",
+      "id": "324d2716287b11cb9940a7ef2d962ddac302445f86c3415cccc358cdd6c08145",
+      "images": [],
+      "published_at": "2025-09-19T07:13:00Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/32/324d2716287b11cb9940a7ef2d962ddac302445f86c3415cccc358cdd6c08145.json",
+      "title": "संसद् भवनको काम पुसभित्रै सम्पन्न गरौँँ : मन्त्री घिसिङ",
+      "url": "https://www.reportersnepal.com/2025/09/1130379/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "014ef5cab37a152b2d760f3918e03b79ce941f517aa985465edd8e16daf404c2",
+      "fetched_at": "2025-09-19T07:21:04.854496Z",
+      "id": "b25a005eb9ee28681e5caddc55c617afac483900e13f1415d792454d882d9dfd",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/arthik-mamila-tatha-yojana-mantralaya_dang_deukhuri-400x220.jpeg"
+      ],
+      "published_at": "2025-09-19T07:12:43Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/b2/b25a005eb9ee28681e5caddc55c617afac483900e13f1415d792454d882d9dfd.json",
+      "title": "निर्माण व्यवसायीले पाएनन् गत वर्षको भुक्तानी",
+      "url": "https://www.karobardaily.com/news/301077",
+      "version": 1
+    },
+    {
+      "canonical_hash": "23a7e3820d26707f1b21fb020792b3a1d6ba72feb099ef6a71514f22f81ba95c",
+      "fetched_at": "2025-09-19T07:21:10.871538Z",
+      "id": "6ddd76bac6d9928e64b98e948dc8860ed6aa7aa3494abfab26e5d993e0d8fe09",
+      "images": [],
+      "published_at": "2025-09-19T07:07:51Z",
+      "source": {
+        "domain": "swasthyakhabar.com",
+        "id": "swasthyakhabar",
+        "name": "स्वास्थ्य साप्ताहिक"
+      },
+      "store_path": "domains/_store/6d/6ddd76bac6d9928e64b98e948dc8860ed6aa7aa3494abfab26e5d993e0d8fe09.json",
+      "title": "भारतको केरलमा फेरि ‘ब्रेन–इटिङ अमीबा’को प्रकोप : हालसम्म १८ जनाको मृत्यु दाबी",
+      "url": "https://swasthyakhabar.com/story/60902",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f7cae48485d4192eb623d6dea1008c89aa0db4d37794b57f40e5d64156833933",
+      "fetched_at": "2025-09-19T07:21:55.435171Z",
+      "id": "81e7c1ffb612009e015cc8153f0b5602d640da1c963c26230327de1a2578ddc7",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/kulman-ghising-4-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T07:07:12Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/81/81e7c1ffb612009e015cc8153f0b5602d640da1c963c26230327de1a2578ddc7.json",
+      "title": "संसद् भवनको काम पुसभित्रै सम्पन्न गरौँँ : मन्त्री घिसिङ",
+      "url": "https://khabarhub.com/2025/19/854029/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "4924cce4bdb39aaef44b9d5d4bc804d7c465d5b6c283881c4ee052148d1672ee",
+      "fetched_at": "2025-09-19T07:21:21.282681Z",
+      "id": "568112b092e8e6f28b3f5abe9ee9f08cd200385b4fc79c8d0bdd447d9fcaebe8",
+      "images": [],
+      "published_at": "2025-09-19T07:07:05Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/56/568112b092e8e6f28b3f5abe9ee9f08cd200385b4fc79c8d0bdd447d9fcaebe8.json",
+      "title": "कालीगण्डकी लोकमार्ग भाँसियो",
+      "url": "https://www.reportersnepal.com/2025/09/1130318/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "98d915936df783c4b8c6f99e5fbd1bf6ff940409565a9a1d316532f586a58ab5",
+      "fetched_at": "2025-09-19T07:20:59.428789Z",
+      "id": "d481d75cc75087fec8c9ac02aced31fce65474d4c882afad62442e03dc60e8ac",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758265389_Poudel%2045.jpg"
+      ],
+      "published_at": "2025-09-19T07:06:58Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/d4/d481d75cc75087fec8c9ac02aced31fce65474d4c882afad62442e03dc60e8ac.json",
+      "title": "निबन्धकार पौडेलले ल्याए ‘धमिराको देवल’",
+      "url": "https://nagariknews.nagariknetwork.com/arts/essayist-poudel-brings-dhamira-s-temple-49-11.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b5796aa1a92599e9ad7596b1f567ac9c09c1fc35f8f0a8745b435d3a184bb8d6",
+      "fetched_at": "2025-09-19T07:22:02.785062Z",
+      "id": "c3d4455a1f2b35f7674a58393d3f66508c3967c79067b2002ca242af7cb4b955",
+      "images": [],
+      "published_at": "2025-09-19T07:06:25Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/c3/c3d4455a1f2b35f7674a58393d3f66508c3967c79067b2002ca242af7cb4b955.json",
+      "title": "रुस र इन्डोनेसियामा शक्तिशाली भूकम्प, सुनामीको चेतावनी जारी",
+      "url": "https://nepalnews.com/2025/09/19/powerful-earthquake-hits-russia-and-indonesia-tsunami-warning-issued/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "631390b297d35a37d8a40989db4cac156030c09eb45d391431507a6b414d83bd",
+      "fetched_at": "2025-09-19T07:21:21.311144Z",
+      "id": "0d4ad71dd8485d27b216b7bdef41d640780b6a03d71f7e17dbd92a918d0c3c3d",
+      "images": [],
+      "published_at": "2025-09-19T07:05:40Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/0d/0d4ad71dd8485d27b216b7bdef41d640780b6a03d71f7e17dbd92a918d0c3c3d.json",
+      "title": "‘जीर्ण आयोजनाका ठेक्का तोडिने’",
+      "url": "https://www.reportersnepal.com/2025/09/1130372/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "45b185c7bc106b2835cff06573fa74b127048d8e805fed7375fdf63a42cdc3df",
+      "fetched_at": "2025-09-19T07:22:02.812865Z",
+      "id": "c442496931a9b9d55c0e2c83753137e83721620639b2f78a074351f60598e540",
+      "images": [],
+      "published_at": "2025-09-19T07:05:38Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/c4/c442496931a9b9d55c0e2c83753137e83721620639b2f78a074351f60598e540.json",
+      "title": "‘लेफ्ट–राइट’को अंग्रेजी संस्करण बजारमा",
+      "url": "https://nepalnews.com/2025/09/19/english-version-of-left-right-hits-the-market/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "88ebbf4ae67ea51328e28faf3e40dc8bd1928bc4a162d22b7ff72eabb73e0a61",
+      "fetched_at": "2025-09-19T07:21:29.276697Z",
+      "id": "ccaaeabde3d08728724e37b6e991b79f1d4b116cebedaa05e885ea0f278411a8",
+      "images": [],
+      "published_at": "2025-09-19T07:05:11Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/cc/ccaaeabde3d08728724e37b6e991b79f1d4b116cebedaa05e885ea0f278411a8.json",
+      "title": "कालीगण्डकी लोकमार्ग भाँसियो",
+      "url": "https://www.prasashan.com/2025/09/19/702518/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b7a4b2ada9e02e365340f084efd9e68d390ab38fe082b6f7943a22d261a36be7",
+      "fetched_at": "2025-09-19T07:20:59.459690Z",
+      "id": "bfef6d9aed0214216b338f151e4631ada8a28593bc3dcfcce1ad588a63be454d",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758265477_congress.jpg"
+      ],
+      "published_at": "2025-09-19T07:04:43Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/bf/bfef6d9aed0214216b338f151e4631ada8a28593bc3dcfcce1ad588a63be454d.json",
+      "title": "एमाले नेताहरूद्वारा कांग्रेस पार्टी कार्यालय अवलोकन",
+      "url": "https://nagariknews.nagariknetwork.com/politics/uml-leaders-visit-congress-party-office-58-44.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9deac7d378633784069da3449041282643713686ced22362a19e51caf41f6cd7",
+      "fetched_at": "2025-09-19T07:21:04.882721Z",
+      "id": "62004626914743ae1429d793ec46e8863c30b06987b024960b1a40d70c588b8b",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/bidhut-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T07:04:19Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/62/62004626914743ae1429d793ec46e8863c30b06987b024960b1a40d70c588b8b.json",
+      "title": "करिडोरको विद्युत सबस्टेशनमा आगलागी",
+      "url": "https://www.karobardaily.com/news/301074",
+      "version": 1
+    },
+    {
+      "canonical_hash": "367997abbb7319a781fa1010f6e9f480a26c120fd675e7768c6089db916e2aa7",
+      "fetched_at": "2025-09-19T07:20:59.490336Z",
+      "id": "77fc135580d1db07954efc1a3312b040d50cb7ac33377521d22bd1fe77751332",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758265415_ganadaki.jpg"
+      ],
+      "published_at": "2025-09-19T07:03:46Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/77/77fc135580d1db07954efc1a3312b040d50cb7ac33377521d22bd1fe77751332.json",
+      "title": "जेन–जीका अजेण्डा हामी सबैको साझा लक्ष्य हो : मुख्यमन्त्री पाण्डे",
+      "url": "https://nagariknews.nagariknetwork.com/politics/gen-g-agenda-is-a-common-goal-for-all-of-us-chief-minister-pandey-24-39.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f7e73fc93cc60d494357238b8906e70bf1f34faee1f622f260170caf5de52ac1",
+      "fetched_at": "2025-09-19T07:21:11.693737Z",
+      "id": "d623b4eea68549a1f26bcb31f98e45a42a4d5e17f81a2fc9208a97463a1fd0e1",
+      "images": [],
+      "published_at": "2025-09-19T07:03:22Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/d6/d623b4eea68549a1f26bcb31f98e45a42a4d5e17f81a2fc9208a97463a1fd0e1.json",
+      "title": "कालीगण्डकी लोकमार्ग भासियो",
+      "url": "https://lokaantar.com/story/299551/2025/9/19/current-affairs/kaligandaki-highway-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "5667814ec5cd51da446d9dce4ff8482d53fe84e099574e2972b399ee975cf61c",
+      "fetched_at": "2025-09-19T07:21:30.323391Z",
+      "id": "0dbc15342e761e388ac6ad5c0860005be45881dd374864e1bd43e1c1b340d6cf",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/09/Pakrau-Image-channel.jpg"
+      ],
+      "published_at": "2025-09-19T07:02:06Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/0d/0dbc15342e761e388ac6ad5c0860005be45881dd374864e1bd43e1c1b340d6cf.json",
+      "title": "लेखा अधिकृत एक लाख घुससहित पक्राउ",
+      "url": "https://www.imagekhabar.com/news/507896/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6e9e576d044c81946dd3279091fdc9b18c9755750e92488ac570e8be416fd282",
+      "fetched_at": "2025-09-19T07:21:06.936770Z",
+      "id": "bd2cd1b4e0961aaec5e594443b86868aaffa653a05787f257a370e743d80e238",
+      "images": [],
+      "published_at": "2025-09-19T07:01:21Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/bd/bd2cd1b4e0961aaec5e594443b86868aaffa653a05787f257a370e743d80e238.json",
+      "title": "एमाले नेताहरूद्वारा कांग्रेस पार्टी कार्यालय अवलोकन",
+      "url": "https://www.nepaljapan.com/09/19/681610/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a12bd7b6b6403a37d46ab76f22aa67b94bf3f9e8b95234878b184c4d78b83e1e",
+      "fetched_at": "2025-09-19T07:21:16.804455Z",
+      "id": "088ac1d321c60daa88d3c43e7ea7b0827a86cf977eb66056118aec76cdaabe05",
+      "images": [],
+      "published_at": "2025-09-19T07:01:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/08/088ac1d321c60daa88d3c43e7ea7b0827a86cf977eb66056118aec76cdaabe05.json",
+      "title": "संसद् भवनको काम पुसभित्रै सम्पन्न गरौँँ: मन्त्री घिसिङ",
+      "url": "https://shilapatra.com/detail/168241",
+      "version": 1
+    },
+    {
+      "canonical_hash": "3ca0a9d93aec83489b5827f38ba944258bd1af155ada70aef528809d0531ca43",
+      "fetched_at": "2025-09-19T07:21:29.305388Z",
+      "id": "35754146c09ad0f44100249ffd600bbf7c75108b78df9aa82b6aa381b3df524e",
+      "images": [],
+      "published_at": "2025-09-19T07:00:48Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/35/35754146c09ad0f44100249ffd600bbf7c75108b78df9aa82b6aa381b3df524e.json",
+      "title": "रास्वपाद्वारा केन्द्रीय समिति बैठक आह्वान",
+      "url": "https://www.prasashan.com/2025/09/19/702516/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a1011cbd4bfafc3b8e45816f7a8a5117d59643f42a381ca16733760354c25708",
+      "fetched_at": "2025-09-19T07:21:04.911176Z",
+      "id": "e9787ed1f0009c7c335719995a17ebea1b72ef3ddbb15592ae5ffec87bda1be4",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/antarik-rajaswo_butwal-400x220.jpg"
+      ],
+      "published_at": "2025-09-19T07:00:45Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/e9/e9787ed1f0009c7c335719995a17ebea1b72ef3ddbb15592ae5ffec87bda1be4.json",
+      "title": "सभाहलबाट थालियो आन्तरिक राजस्व बुटवलको सेवा प्रवाह",
+      "url": "https://www.karobardaily.com/news/301071",
+      "version": 1
+    },
+    {
+      "canonical_hash": "df74a6a3536a9e6c7e934538b56acf281988d13588fbb731969d56bf0488e8b8",
+      "fetched_at": "2025-09-19T07:20:59.521329Z",
+      "id": "5fd5a2a2f4cc62301468457345dd7214e43d2464c9f250978960b9cbdf981cbf",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758265230_kaligandaki.jpg"
+      ],
+      "published_at": "2025-09-19T07:00:42Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/5f/5fd5a2a2f4cc62301468457345dd7214e43d2464c9f250978960b9cbdf981cbf.json",
+      "title": "कालीगण्डकी लोकमार्ग भाँसियो",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/kaligandaki-highway-washed-away-29-45.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8dddb781beda2a96a193dd3fe5e00d66380f63e331f022afee3ea79d3ec440a2",
+      "fetched_at": "2025-09-19T07:21:32.667161Z",
+      "id": "17222dfc2d94232e0c42169957f8089f628b33c0ddc29e1ffaa7c70f7c919fad",
+      "images": [],
+      "published_at": "2025-09-19T06:59:41Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/17/17222dfc2d94232e0c42169957f8089f628b33c0ddc29e1ffaa7c70f7c919fad.json",
+      "title": "‘बलिदान’को ट्रेलर सार्वजनिक",
+      "url": "https://deshsanchar.com/2025/09/19/1095840/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6ec43993358411124aa29ad793f3e311678497ce51565e2990c705de55a09b4d",
+      "fetched_at": "2025-09-19T07:21:29.334032Z",
+      "id": "a992e0810368af41823bf7debdf04675a3706c0ef270ee5fdff83e518c038954",
+      "images": [],
+      "published_at": "2025-09-19T06:58:33Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/a9/a992e0810368af41823bf7debdf04675a3706c0ef270ee5fdff83e518c038954.json",
+      "title": "२०७२ को संविधान २०८२ सम्म आइपुग्दा",
+      "url": "https://www.prasashan.com/2025/09/19/702508/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "fece7e3b6e74af8439410a57db73eeefcd797f0aa929e14f5616ce0654ae4116",
+      "fetched_at": "2025-09-19T07:21:29.362897Z",
+      "id": "6dacedbcd096b0571a1909013c515c03f92669a6b1c69acbe29a3a167ea78310",
+      "images": [],
+      "published_at": "2025-09-19T06:58:13Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/6d/6dacedbcd096b0571a1909013c515c03f92669a6b1c69acbe29a3a167ea78310.json",
+      "title": "जेन जेड आन्दोलनको क्रममा मेयरको कुर्सीमा बसेर ‘म प्रमुख हुँ’ भन्दै पोस्ट गर्ने युवक पक्राउ",
+      "url": "https://www.prasashan.com/2025/09/19/702512/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8fb6082bf7a71f68f85d5e5572058823c4ec248c1b5113588a9e56851531bdd3",
+      "fetched_at": "2025-09-19T07:21:03.229195Z",
+      "id": "f0a592d1003b742e37eee5329caddbf44ba35c2c8b262934ea8d2cebfb56b885",
+      "images": [],
+      "published_at": "2025-09-19T06:57:15Z",
+      "source": {
+        "domain": "ujyaaloonline.com",
+        "id": "ujyaaloonline",
+        "name": "उज्यालो अनलाइन"
+      },
+      "store_path": "domains/_store/f0/f0a592d1003b742e37eee5329caddbf44ba35c2c8b262934ea8d2cebfb56b885.json",
+      "title": "एशिया कप टी–२० क्रिकेटमा आज भारत र ओमान खेल्दै",
+      "url": "https://ujyaaloonline.com/story/120222/2025/9/19/india-oman-playing-today-asia-cup-t20-cricket",
+      "version": 1
+    },
+    {
+      "canonical_hash": "5def5a897ad9b1b49d26312c5a9f377e70817c8d4139a2b47f3232e7d1957f8a",
+      "fetched_at": "2025-09-19T07:21:21.339625Z",
+      "id": "118f38496a7373cec4f34d65659ac4caaeca7e108ca84ca6ae31bc3ef3c97289",
+      "images": [],
+      "published_at": "2025-09-19T06:57:03Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/11/118f38496a7373cec4f34d65659ac4caaeca7e108ca84ca6ae31bc3ef3c97289.json",
+      "title": "कांग्रेस केन्द्रीय कार्यसम्पादन समितिको बैठक जारी",
+      "url": "https://www.reportersnepal.com/2025/09/1130356/",
+      "version": 1
+    },
     {
       "canonical_hash": "f2c21dd99352e2d844f7e0c6967296cadb9e604097aab7b170db75fcb7e59ba1",
       "fetched_at": "2025-09-19T06:57:21.359243Z",
@@ -71,6 +689,22 @@
       "version": 1
     },
     {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-19T07:21:16.832311Z",
+      "id": "5b8d14ba460076b52eeb2d011611272e6a13fba8caf283967defb3a91f5f7536",
+      "images": [],
+      "published_at": "2025-09-19T06:55:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/5b/5b8d14ba460076b52eeb2d011611272e6a13fba8caf283967defb3a91f5f7536.json",
+      "title": "कालीगण्डकी लोकमार्ग भाँसियो",
+      "url": "https://shilapatra.com/detail/168240",
+      "version": 1
+    },
+    {
       "canonical_hash": "24309c71cf3f0bc5289aa7d8443d34f3682c35dedc465e56aeffd6d6b466e31a",
       "fetched_at": "2025-09-19T06:55:59.080636Z",
       "id": "fbcf57e53beb9236929018bb06d6d773906d3d573e8adf677df53f6a4b2787fc",
@@ -84,6 +718,24 @@
       "store_path": "domains/_store/fb/fbcf57e53beb9236929018bb06d6d773906d3d573e8adf677df53f6a4b2787fc.json",
       "title": "मधेशी आयोगमा एक वर्षमा परे ३७ उजुरी",
       "url": "https://www.prasashan.com/2025/09/19/702509/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c1885d4184735f38d98232d1133e1e36ef17f833bd0d76565d8724b4606eabd3",
+      "fetched_at": "2025-09-19T07:20:59.557065Z",
+      "id": "9778f17dc5e4a5a67751bf6963c021793a0ca6df751db12611d833a3bf7654bf",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1752198163_Congress%2052.jpg"
+      ],
+      "published_at": "2025-09-19T06:54:57Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/97/9778f17dc5e4a5a67751bf6963c021793a0ca6df751db12611d833a3bf7654bf.json",
+      "title": "कांग्रेस कार्यसम्पादन समिति बैठक जारी",
+      "url": "https://nagariknews.nagariknetwork.com/politics/congress-working-committee-meeting-continues-77-27.html",
       "version": 1
     },
     {
@@ -230,6 +882,22 @@
       "store_path": "domains/_store/d3/d3501daa7e5021b9172e0f0a068956c936903e43a9a1eb3fe5ff3230269fd212.json",
       "title": "कांग्रेस कार्यसम्पादन समिति बैठक जारी",
       "url": "https://www.reportersnepal.com/2025/09/1130344/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cc8781f37a2d629be5ef63b6370db177406a11825f43f0c6f694be9de3493ad5",
+      "fetched_at": "2025-09-19T07:21:01.477609Z",
+      "id": "cbf38abd5018a6a05b8f09c00cb0c9c2e09748aef0f82e9a38e1ce131b18ddd8",
+      "images": [],
+      "published_at": "2025-09-19T06:44:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/cb/cbf38abd5018a6a05b8f09c00cb0c9c2e09748aef0f82e9a38e1ce131b18ddd8.json",
+      "title": "सानेपामा कांग्रेस केन्द्रीय कार्यसम्पादन समिति बैठक (तस्बिरहरू)",
+      "url": "https://www.setopati.com/politics/369740",
       "version": 1
     },
     {
@@ -1007,698 +1675,6 @@
       "store_path": "domains/_store/c4/c442a651ca17283a275b02f5531d7b7a3d16ed8c9a8050cf89d646c13fe6a57e.json",
       "title": "संविधानको दस वर्षे यात्राः आन्दोलनपछि पुनरावलोकन अपरिहार्य",
       "url": "https://www.reportersnepal.com/2025/09/1130310/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "4515d1e238e1100bef943105ebe854ffb76155a26008d892c4e71b6a27514fb3",
-      "fetched_at": "2025-09-19T06:34:00.722947Z",
-      "id": "1b91d04cb696d62c48352c11cb48882bc7d9d22f24dcb74fd2414849b2d550d5",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/omprakash-aryal-chandrakuber-400x220.jpg"
-      ],
-      "published_at": "2025-09-19T06:11:24Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/1b/1b91d04cb696d62c48352c11cb48882bc7d9d22f24dcb74fd2414849b2d550d5.json",
-      "title": "गृहमन्त्रीले भने- प्रहरीको मनोबल बढाउन सरकार तत्पर छ",
-      "url": "https://khabarhub.com/2025/19/853919/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d56b930c0133ce975d16dc7c6ffa88cc57a19e14c6933b5660c9de68ca994e34",
-      "fetched_at": "2025-09-19T06:34:00.752156Z",
-      "id": "492fd3d08115b8d06bfc4a443e9af4ac1eeb1088cc83ec073a88e661dc8ab722",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-3-400x220.jpg"
-      ],
-      "published_at": "2025-09-19T06:10:47Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/49/492fd3d08115b8d06bfc4a443e9af4ac1eeb1088cc83ec073a88e661dc8ab722.json",
-      "title": "जनआकांक्षा अनुसार दृढ संकल्पका साथ काम गर्छु : प्रधानमन्त्री कार्की",
-      "url": "https://khabarhub.com/2025/19/853902/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ea6a0d5c80d0abaae4867e8972613a5ee15f80f3075684c814788ac69a1280b8",
-      "fetched_at": "2025-09-19T06:34:06.052749Z",
-      "id": "d39bab85f5e8433d463338df0c33c5a2aeab86db3eeb09cbc0b9077cfa94cf28",
-      "images": [],
-      "published_at": "2025-09-19T06:10:31Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/d3/d39bab85f5e8433d463338df0c33c5a2aeab86db3eeb09cbc0b9077cfa94cf28.json",
-      "title": "सबै अलपत्र आयोजनाको ठेक्का तोड्ने तयारी, कुलमानले मागे सूची",
-      "url": "https://nepalnews.com/2025/09/19/preparations-to-terminate-contracts-of-all-stalled-projects-kulman-asks-for-list/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b47b208b80ca19e1f948bce84fe272baacc75f3e81b70d5a2a77f293650f7378",
-      "fetched_at": "2025-09-19T06:33:19.061961Z",
-      "id": "12d5d37cc1f4f135ee31d952388de1af8d1eb8cd08adf11bfa33e3f5b3bec05a",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/Depression2021-02-01-08-21-25.jpeg",
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/dr..jpg"
-      ],
-      "published_at": "2025-09-19T06:09:54Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/12/12d5d37cc1f4f135ee31d952388de1af8d1eb8cd08adf11bfa33e3f5b3bec05a.json",
-      "title": "जेनजी आन्दोलनः उत्तेजक तस्बिर र बीभत्स भिडियोले मानसिक स्वास्थ्यमा समस्या",
-      "url": "https://rajdhanidaily.com/id/122129/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b25be9a6e927e4009ac29401b60c3293843bc6e67772298b9feacbb1344520e3",
-      "fetched_at": "2025-09-19T06:33:04.636856Z",
-      "id": "c2676346742d3a7390ed53a0e147933efc22fa553081dca79fa43582a6489de0",
-      "images": [],
-      "published_at": "2025-09-19T06:09:00Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/c2/c2676346742d3a7390ed53a0e147933efc22fa553081dca79fa43582a6489de0.json",
-      "title": "पार्टी पुनर्गठनका लागि तोसिमा कार्कीको चार बुँदे प्रस्ताव",
-      "url": "https://www.setopati.com/politics/369733",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c5864fa00be8e547af2c738abaeeba82be31976c8fedc15daab8180fac513a57",
-      "fetched_at": "2025-09-19T06:34:00.781217Z",
-      "id": "2b0739bea7b832bbb6ba45fe3386ca501e57c2e3ca4f76ce74baca9d5ae9b4f7",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/08/kp-sharma-oli-5-400x220.jpeg"
-      ],
-      "published_at": "2025-09-19T06:08:51Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/2b/2b0739bea7b832bbb6ba45fe3386ca501e57c2e3ca4f76ce74baca9d5ae9b4f7.json",
-      "title": "संविधान जोगाउन र सार्वभौमसत्ताको रक्षा गर्न एमाले अध्यक्ष ओलीको अपिल",
-      "url": "https://khabarhub.com/2025/19/853917/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "188904d4bed261dc71ad3bddce000cd19384741416cae6dfab7d4031b8f5f652",
-      "fetched_at": "2025-09-19T06:33:22.678439Z",
-      "id": "ad8c06e56c55d364fe8b87b88de85c250e9319dc2c58312f0378ef8b23f7d721",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/kulman-ghising-1-1-150x150.png"
-      ],
-      "published_at": "2025-09-19T06:05:43Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/ad/ad8c06e56c55d364fe8b87b88de85c250e9319dc2c58312f0378ef8b23f7d721.json",
-      "title": "अलपत्र आयोजनाका ठेक्का तोड्ने तयारी",
-      "url": "https://newsofnepal.com/2025/09/19/732174/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "aa448f0d47073dc894e2f0ac216753e69390ed9940717f1948be58f02d7642ec",
-      "fetched_at": "2025-09-19T06:33:36.539326Z",
-      "id": "45371277066e47e0568ae12a7e09d5b8fd7f0cf2ee19de1ffd9e5e87d29b1022",
-      "images": [],
-      "published_at": "2025-09-19T06:04:08Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/45/45371277066e47e0568ae12a7e09d5b8fd7f0cf2ee19de1ffd9e5e87d29b1022.json",
-      "title": "रुस र इन्डोनेसियामा शक्तिशाली भूकम्प",
-      "url": "https://www.prasashan.com/2025/09/19/702491/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "06a49ab2fd1e016bcd12936b6426e8f69709335392f6a9b0025abe7c1e529624",
-      "fetched_at": "2025-09-19T06:33:19.090625Z",
-      "id": "a0694f9d9afd81b892f89e62d75067cf6ebee4a2c8f245d78e6c922097106e68",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/9fac68b8-7c5b-4776-8bb5-61fe6187eb03.jpeg"
-      ],
-      "published_at": "2025-09-19T06:03:58Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/a0/a0694f9d9afd81b892f89e62d75067cf6ebee4a2c8f245d78e6c922097106e68.json",
-      "title": "संविधान मरिसक्यो, यसलाई बोकेर हिँड्नु समाजलाई दुषित बनाउनु हो : प्रभु साह",
-      "url": "https://rajdhanidaily.com/id/122128/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a63e8e302772e1d84c263885a6299b0a8e88d6d851d9622d17851377cb2ca222",
-      "fetched_at": "2025-09-19T06:55:21.578179Z",
-      "id": "f03f7bbb1bcddb66afe3a949fb710209af4e8398258f5596a0d9d46166be3664",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1748680550_Kp%20Sharma%20Oli.jpg"
-      ],
-      "published_at": "2025-09-19T06:02:29Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/f0/f03f7bbb1bcddb66afe3a949fb710209af4e8398258f5596a0d9d46166be3664.json",
-      "title": "संविधान जोगाउन र सार्वभौमसत्ताको रक्षा गर्न एमाले अध्यक्ष ओलीको अपिल",
-      "url": "https://nagariknews.nagariknetwork.com/politics/uml-chairman-oli-s-appeal-to-protect-the-constitution-and-sovereignty-99-83.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e8eefa8afb15462af1fec9ec48bc0f033de1a4f7ed58c2baa494d057125852d5",
-      "fetched_at": "2025-09-19T06:33:19.118850Z",
-      "id": "5522b1016efc1e91f77972ad3e110afddf04813242f81f5be23bc02c08e80c7d",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/gold-1-1.jpg"
-      ],
-      "published_at": "2025-09-19T06:02:03Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/55/5522b1016efc1e91f77972ad3e110afddf04813242f81f5be23bc02c08e80c7d.json",
-      "title": "बढ्यो सुनको मूल्य, कतिमा हुँदैछ कारोबार ?",
-      "url": "https://rajdhanidaily.com/id/122127/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9cddb8a4ad38b33d3cb971c79da020995998c6ce9c44ea382f08fbb09e65ef97",
-      "fetched_at": "2025-09-19T06:33:19.147754Z",
-      "id": "611802273b8b126edadcce7936b224bdf99c654815b10f1205dc82faf2e64675",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/1000054523.jpg"
-      ],
-      "published_at": "2025-09-19T06:01:12Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/61/611802273b8b126edadcce7936b224bdf99c654815b10f1205dc82faf2e64675.json",
-      "title": "जेएनजीले रोक्यो देशको लुटतन्त्र, बारामा सुरक्षा संयन्त्र तस्करीको रकममै लिप्त",
-      "url": "https://rajdhanidaily.com/id/122125/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e61da359fe2d793a1ccd0d43d1ab08144b35ccea8b272e512905600689b3233d",
-      "fetched_at": "2025-09-19T06:33:13.610048Z",
-      "id": "ab2c266842ba6b598550c360daa5c34f9a40582d4ae01dda3b2c2e1c094e3362",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2025/06/Gold_Silver_sunchandi_karobardaily_BBG-400x220.jpg"
-      ],
-      "published_at": "2025-09-19T05:56:00Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/ab/ab2c266842ba6b598550c360daa5c34f9a40582d4ae01dda3b2c2e1c094e3362.json",
-      "title": "आठ सय बढ्यो सुनको मूल्य",
-      "url": "https://www.karobardaily.com/news/301052",
-      "version": 1
-    },
-    {
-      "canonical_hash": "eb3623cff587aa99ec48e5cf4ad460a2e0776256db4dd6e3baf8e5168d668092",
-      "fetched_at": "2025-09-19T06:33:28.401460Z",
-      "id": "bbc5547b48ba71ceed17570c77cb9978ff8d2eb5d66117b2d77bacb3448bf723",
-      "images": [],
-      "published_at": "2025-09-19T05:54:46Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/bb/bbc5547b48ba71ceed17570c77cb9978ff8d2eb5d66117b2d77bacb3448bf723.json",
-      "title": "‘नेपालको संविधान नेपाली जनताको सङ्घर्ष र बलिदानको प्रतिफल’",
-      "url": "https://www.reportersnepal.com/2025/09/1130292/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "859e1d59144cc74f7ab4735d735ada6d9d5d13f5486f74ebb6afb175758e99d6",
-      "fetched_at": "2025-09-19T06:33:04.672396Z",
-      "id": "2111d5669414b8da6f593f8a2e59f7babe1b015e22b63ebd360bc5b3ea4b09b5",
-      "images": [],
-      "published_at": "2025-09-19T05:54:00Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/21/2111d5669414b8da6f593f8a2e59f7babe1b015e22b63ebd360bc5b3ea4b09b5.json",
-      "title": "संविधान खारेज र राष्ट्रपतिलाई हटाउन भएका कसरत नजिकबाट हेर्न पाएँ: प्रचण्ड",
-      "url": "https://www.setopati.com/politics/369732",
-      "version": 1
-    },
-    {
-      "canonical_hash": "fcc2ffbc755368b1e860d1f00fe0065c64dfd58420f099273f00157491cb7668",
-      "fetched_at": "2025-09-19T05:53:34.657620Z",
-      "id": "5a5b6fe5f6ad19fe246a109a3d06788b4390968d0851ecb1eaf886cca0415b78",
-      "images": [],
-      "published_at": "2025-09-19T05:53:34.657620Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/5a/5a5b6fe5f6ad19fe246a109a3d06788b4390968d0851ecb1eaf886cca0415b78.json",
-      "title": "संविधान दिवसमा प्रधानमन्त्री सुशीला कार्कीको सम्बोधन (पूर्णपाठ)",
-      "url": "https://thahakhabar.com/news/235704",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d982a08838500b233a9c8b0a31f6962623d047e0859388d6278e16ec10567fed",
-      "fetched_at": "2025-09-19T05:53:35.139632Z",
-      "id": "1b2e2c8cab8a5090061918d5b7dff7c278d15afe602c50d5e84aa6abddf2a18f",
-      "images": [],
-      "published_at": "2025-09-19T05:53:30Z",
-      "source": {
-        "domain": "swasthyakhabar.com",
-        "id": "swasthyakhabar",
-        "name": "स्वास्थ्य साप्ताहिक"
-      },
-      "store_path": "domains/_store/1b/1b2e2c8cab8a5090061918d5b7dff7c278d15afe602c50d5e84aa6abddf2a18f.json",
-      "title": "काठमाडौंमा अन्तर्राष्ट्रिय एन्डोस्कोपिक स्पाइन सर्जरी सम्मेलन सुरु",
-      "url": "https://swasthyakhabar.com/story/60900",
-      "version": 1
-    },
-    {
-      "canonical_hash": "f5c1b679867d4f18d1b9f8e2234e1a5e6e8fbf92daace2e5a38cc31d8fcd0f04",
-      "fetched_at": "2025-09-19T05:53:42.389959Z",
-      "id": "9e7ae9484e8c89b70a87e26b9d9bacfc62a8ec8174fbe787168d561247ff218f",
-      "images": [],
-      "published_at": "2025-09-19T05:53:17Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/9e/9e7ae9484e8c89b70a87e26b9d9bacfc62a8ec8174fbe787168d561247ff218f.json",
-      "title": "सङ्घीयता र समावेशिताका सवालमा देखिएका चुनौतीहरु",
-      "url": "https://www.reportersnepal.com/2025/09/1130289/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "62cccb4a28d31e4d8c90eb9578843e2fa90e3bee4af007b7fd2164767f2b0da4",
-      "fetched_at": "2025-09-19T05:53:14.857916Z",
-      "id": "a0ca60c3359ff8624e6db8496e26526b4c255e47c8c52a1fbb79a826dd5142a2",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1740373550_Taliban%20Afgan.jpg"
-      ],
-      "published_at": "2025-09-19T05:52:45Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/a0/a0ca60c3359ff8624e6db8496e26526b4c255e47c8c52a1fbb79a826dd5142a2.json",
-      "title": "तालिबानद्वारा महिलाका पुस्तक र इन्टरनेटमा प्रतिबन्ध",
-      "url": "https://nagariknews.nagariknetwork.com/international/taliban-bans-women-s-books-and-internet-60-38.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "405fc9a6be46de9614c9f7fb8a4555069a27f49cb22c60f30b8e6dfd59f8db1a",
-      "fetched_at": "2025-09-19T06:33:04.711709Z",
-      "id": "cc97c9dd79d471d1f6f5bf7a972912883236482d4eb782831599e5065769287c",
-      "images": [],
-      "published_at": "2025-09-19T05:52:29Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/cc/cc97c9dd79d471d1f6f5bf7a972912883236482d4eb782831599e5065769287c.json",
-      "title": "बलिदान गरेर आएका दलहरूलाई निषेध गर्ने कुरा स्वीकार्य हुँदैनः शंकर पोखरेल",
-      "url": "https://www.setopati.com/politics/369730",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b4914d672da08d767c1ef29d845168efc1d3f9076d82b9f9d1e1129a770e586e",
-      "fetched_at": "2025-09-19T05:53:38.231398Z",
-      "id": "0519ffe0e49c1e8bb29947554016c721f7a8e6febcdcd181ae51dd0efc2eae46",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/07/sun-chadi-1-150x150.png"
-      ],
-      "published_at": "2025-09-19T05:52:16Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/05/0519ffe0e49c1e8bb29947554016c721f7a8e6febcdcd181ae51dd0efc2eae46.json",
-      "title": "नेपालमा सुन–चाँदीको मूल्य बढ्यो",
-      "url": "https://newsofnepal.com/2025/09/19/732172/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2751322e48432a85120e817c4311228ac75f8e346ed06a63236ef0b562e44db4",
-      "fetched_at": "2025-09-19T05:53:54.795797Z",
-      "id": "9c8c2a5c16b11e5b9b21011ff4382cb7fc085f46445f2c618c653a2b11384fd2",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/prachand-2-400x220.jpg"
-      ],
-      "published_at": "2025-09-19T05:51:45Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/9c/9c8c2a5c16b11e5b9b21011ff4382cb7fc085f46445f2c618c653a2b11384fd2.json",
-      "title": "दलहरूको अहंकारले देश भयानक परिस्थितिमा पुग्यो : प्रचण्ड",
-      "url": "https://khabarhub.com/2025/19/853907/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5b0e8c64d82966de8e095cef4577625769576619979f9db80455bde19ee56bf5",
-      "fetched_at": "2025-09-19T06:33:24.046402Z",
-      "id": "d8252c128641b49e262a92137e3861dde4cb9c7ff97d3895c678babc09c66d27",
-      "images": [],
-      "published_at": "2025-09-19T05:51:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/d8/d8252c128641b49e262a92137e3861dde4cb9c7ff97d3895c678babc09c66d27.json",
-      "title": "संविधानबमोजिम ६ महिनाभित्र चुनाव गराउन प्रधानमन्त्री बनेकी हुँ-  सुशीला कार्की",
-      "url": "https://shilapatra.com/detail/168234",
-      "version": 1
-    },
-    {
-      "canonical_hash": "89ea486631d8b811cdd957bb5923240379e986c669384fb39a7b9dbdc7b92a9e",
-      "fetched_at": "2025-09-19T05:53:54.824698Z",
-      "id": "c9a68ce7b324373429037172bead0f87812274c692dde309d6694104a80835d5",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2019/06/CIAA-700x480.jpg"
-      ],
-      "published_at": "2025-09-19T05:50:08Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/c9/c9a68ce7b324373429037172bead0f87812274c692dde309d6694104a80835d5.json",
-      "title": "दैलेखका लेखा अधिकृत एक लाख घुससहित सुर्खेतबाट पक्राउ",
-      "url": "https://khabarhub.com/2025/19/853903/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "678754ae455d68294ea12e6a76f031df1dfb5fc04ef3e0c33c2a080ecb5c5666",
-      "fetched_at": "2025-09-19T05:53:42.418000Z",
-      "id": "a19aa9d881d01a873f29a08456961dad2ccaaf36374d522a069914ba023e7e17",
-      "images": [],
-      "published_at": "2025-09-19T05:50:07Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/a1/a19aa9d881d01a873f29a08456961dad2ccaaf36374d522a069914ba023e7e17.json",
-      "title": "संविधानसँगै प्राप्त उपलब्धिको रक्षा गर्नु आजको मूल आवश्यकताः मुख्यमन्त्री कँडेल",
-      "url": "https://www.reportersnepal.com/2025/09/1130283/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "05b554e01a4776f00d53ceff2528e26cacfccbaed7a970244cc8f35fe99d3e70",
-      "fetched_at": "2025-09-19T05:53:57.517102Z",
-      "id": "8a58097d92b662967c43896ffb07ce87750478949d57616b153b49382b970724",
-      "images": [],
-      "published_at": "2025-09-19T05:49:24Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/8a/8a58097d92b662967c43896ffb07ce87750478949d57616b153b49382b970724.json",
-      "title": "खतरामा संविधान",
-      "url": "https://nepalnews.com/2025/09/19/constitution-in-danger/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b0e731634b72498c6d1fcf300dfa84a9ddf67c14632b30edd692a08324f082ea",
-      "fetched_at": "2025-09-19T05:53:31.608858Z",
-      "id": "543f2578e65033683586f85406fc7e4dab224294300d04776a93db8280ad39d0",
-      "images": [
-        "https://www.nepaljapan.com/wp-content/uploads/2025/09/2-3-e1758260796297.jpg",
-        "https://www.nepaljapan.com/wp-content/uploads/2025/09/PM-Karki-1-scaled-e1758259621606.jpg",
-        "https://www.nepaljapan.com/wp-content/uploads/2025/09/3-2-e1758260818297.jpg",
-        "https://www.nepaljapan.com/wp-content/uploads/2025/09/4-e1758260842727.jpg",
-        "https://www.nepaljapan.com/wp-content/uploads/2025/09/6.jpg",
-        "https://www.nepaljapan.com/wp-content/uploads/2025/09/5-scaled.jpg"
-      ],
-      "published_at": "2025-09-19T05:48:29Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/54/543f2578e65033683586f85406fc7e4dab224294300d04776a93db8280ad39d0.json",
-      "title": "तस्वीरहरुमा संविधान दिवस २०८२",
-      "url": "https://www.nepaljapan.com/09/19/681593/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "1bdc748494fe8d8ad13af9205f6f5007a305bb0613fd0d7498a67ecbdfa183ab",
-      "fetched_at": "2025-09-19T06:33:13.637339Z",
-      "id": "5694c8010bd8cc129dbd48be9ce49b14bffc50e2c830e7f3d528e01e6c181d03",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2025/09/kulman_-400x220.jpg"
-      ],
-      "published_at": "2025-09-19T05:48:00Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/56/5694c8010bd8cc129dbd48be9ce49b14bffc50e2c830e7f3d528e01e6c181d03.json",
-      "title": "जिर्ण आयोजनाको ठेक्का तोड्न सूचि बन्दै",
-      "url": "https://www.karobardaily.com/news/301049",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e8f2765317350e4b988c90f27a3f4fe6d367a0f6dc180fbcaeda95585fb768ac",
-      "fetched_at": "2025-09-19T05:53:42.445420Z",
-      "id": "b37403474f8f2241ac9a99d0239314504929e843cab6c1a01543c7e56bb7edc8",
-      "images": [],
-      "published_at": "2025-09-19T05:47:52Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/b3/b37403474f8f2241ac9a99d0239314504929e843cab6c1a01543c7e56bb7edc8.json",
-      "title": "संविधानको समीक्षा गरेर अगाडि बढ्नुपर्छः पूर्वप्रधानमन्त्री नेपाल",
-      "url": "https://www.reportersnepal.com/2025/09/1130280/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "101634006c0d22bb615aec9f2b4afdaa879ed457314ddd7c0185b81cd5527892",
-      "fetched_at": "2025-09-19T05:53:42.476927Z",
-      "id": "893195b5eb854030113bc71d2412e424fd7df9944aa717a19fb336c5f3493460",
-      "images": [],
-      "published_at": "2025-09-19T05:46:04Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/89/893195b5eb854030113bc71d2412e424fd7df9944aa717a19fb336c5f3493460.json",
-      "title": "यस्तो छ आजका लागि सागसब्जी र फलफूलको मूल्य",
-      "url": "https://www.reportersnepal.com/2025/09/1130279/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "612420cd445993590a9b1676e7bb43f24071a59615d2a733a3642ff8b4df9bdf",
-      "fetched_at": "2025-09-19T05:53:38.259841Z",
-      "id": "418333878ae69516b39ab785c04570c5614112234da78f2638517cc9c2524c4d",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/sekhar-345-koirala-321-150x150.png",
-        "https://newsofnepal.com/wp-content/uploads/2025/09/koirala-212.png"
-      ],
-      "published_at": "2025-09-19T05:45:20Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/41/418333878ae69516b39ab785c04570c5614112234da78f2638517cc9c2524c4d.json",
-      "title": "संविधान दिवसमा डा.शेखर कोइरालाको सन्देश संविधानको रक्षा र सुधार हाम्रो साझा दायित्व",
-      "url": "https://newsofnepal.com/2025/09/19/732162/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "abf5ccc196c53f5e0e2a9880a0190641410840b9c87155e2da3683f5840aa99f",
-      "fetched_at": "2025-09-19T05:53:52.949657Z",
-      "id": "43468afbb63689c4d0de3c2c39d517324f469d5067c67a2860454e9dfb7aaa2f",
-      "images": [
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19112727/24f29598b4ab59983631f28602c34ed3.jpeg",
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19112726/e627b95da9f8cd5b8062fefb9d875616.jpeg",
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19112725/0afcace7a2c4840dd01a08070fde5c19.jpeg",
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19112724/5c8c0d6d3c6e7e2b109e364d9836cc2c.jpeg",
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19112723/b5cf3750d8dbd09b3cb385897b12046e.jpeg",
-        "https://assets.deshsanchar.com/wp-content/uploads/2025/09/19112723/59355609d29da2eeef57a50aebb944d3.jpeg"
-      ],
-      "published_at": "2025-09-19T05:45:04Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/43/43468afbb63689c4d0de3c2c39d517324f469d5067c67a2860454e9dfb7aaa2f.json",
-      "title": "लुम्बिनीमा मनाइयो संविधान दिवस, युवा पुस्ताको सोचअनुसार कार्यशैली बदल्नुपर्नेमा मुख्यमन्त्री आचार्यको जोड",
-      "url": "https://deshsanchar.com/2025/09/19/1095798/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "43f004dae8ee485aba451c2e511cb4dd6b510f6923ba013eb1deff9d40be4c7c",
-      "fetched_at": "2025-09-19T05:53:16.906123Z",
-      "id": "10c8f559c98c98eeb2f7a3a551ec6ff35d22afe7ba9ef7b6406dc560e3fbca6f",
-      "images": [],
-      "published_at": "2025-09-19T05:44:55Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/10/10c8f559c98c98eeb2f7a3a551ec6ff35d22afe7ba9ef7b6406dc560e3fbca6f.json",
-      "title": "‍कमजोरीको समीक्षा हुन्छ, एमालेलाई विग्रह हुन दिँदैनौं: ईश्वर पोखरेल",
-      "url": "https://www.setopati.com/politics/369727",
-      "version": 1
-    },
-    {
-      "canonical_hash": "019e014c75fc5632f65043f296dadd2cf193426a918f8d865b48e51ebf6671d3",
-      "fetched_at": "2025-09-19T05:53:42.505405Z",
-      "id": "ba90ffe765924a9de8340095a249dd02cda651bb9ac72d89b7c344f41e4a8c51",
-      "images": [],
-      "published_at": "2025-09-19T05:44:52Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/ba/ba90ffe765924a9de8340095a249dd02cda651bb9ac72d89b7c344f41e4a8c51.json",
-      "title": "संविधान दिवसमा बृहत शान्ति र्‍याली",
-      "url": "https://www.reportersnepal.com/2025/09/1130276/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "945b5bf8dbae7eb3293f2f4ef01ba3a278ee70d7f865b8b3f6b4f1f9bc0b5f8d",
-      "fetched_at": "2025-09-19T05:53:50.801435Z",
-      "id": "2e2a014e2dd177b5a0dd8e3f61587994d7c7210558b2f076a99f294199ea5fe9",
-      "images": [
-        "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-gising-1536x1024.jpeg"
-      ],
-      "published_at": "2025-09-19T05:44:00Z",
-      "source": {
-        "domain": "imagekhabar.com",
-        "id": "imagekhabar",
-        "name": "Image Khabar"
-      },
-      "store_path": "domains/_store/2e/2e2a014e2dd177b5a0dd8e3f61587994d7c7210558b2f076a99f294199ea5fe9.json",
-      "title": "जीर्ण आयोजनाको ठेक्का तोडिने, संसद भवन पुसभित्रै सक्नुपर्ने",
-      "url": "https://www.imagekhabar.com/news/507887/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b3cf40563fe98dc6e41514f6894507a3dd3fe7cf11e80ff21a425f91231593e8",
-      "fetched_at": "2025-09-19T05:53:42.532957Z",
-      "id": "218a7f2d45c1f74dc48f0eeb9e65ae07a60e69e9d7e51109f9e4b01810298c18",
-      "images": [],
-      "published_at": "2025-09-19T05:43:20Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/21/218a7f2d45c1f74dc48f0eeb9e65ae07a60e69e9d7e51109f9e4b01810298c18.json",
-      "title": "चितवनमा मनाइयो संविधान दिवस",
-      "url": "https://www.reportersnepal.com/2025/09/1130273/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c6df39e18918fcd36717ba0d458c05f6a9629afbbec88f984aacf97756170658",
-      "fetched_at": "2025-09-19T05:53:14.898959Z",
-      "id": "913c0e182db9918724eb2a4d9d8bb08872b67c235e792c82e4153355c4003ce0",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1753974444_paras.jpg"
-      ],
-      "published_at": "2025-09-19T05:41:54Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/91/913c0e182db9918724eb2a4d9d8bb08872b67c235e792c82e4153355c4003ce0.json",
-      "title": "सचिव खड्का भन्छन् : खेलकुदमन्त्री बन्ने चाहना छैन",
-      "url": "https://nagariknews.nagariknetwork.com/sports/secretary-khadka-says-no-desire-to-become-sports-minister-86-51.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "7b8b7ee8c7f8ed1bd9862f9f9a96c4b354beb0c22d0137c57aa56809824bcfec",
-      "fetched_at": "2025-09-19T05:41:05.434852Z",
-      "id": "25de333ab135f761a447fe633aeeaef12c633143af178615adb821e10ae1edbc",
-      "images": [],
-      "published_at": "2025-09-19T05:41:05.434852Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/25/25de333ab135f761a447fe633aeeaef12c633143af178615adb821e10ae1edbc.json",
-      "title": "सङ्घीयता र समावेशिताका सवालमा देखिएका चुनौती",
-      "url": "https://thahakhabar.com/news/235703",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "fetched_at": "2025-09-19T05:53:39.008820Z",
-      "id": "01480dc3c21f54a41d446b050d337cb8c57fe3623ac4daceb7d504246b3193d7",
-      "images": [],
-      "published_at": "2025-09-19T05:41:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/01/01480dc3c21f54a41d446b050d337cb8c57fe3623ac4daceb7d504246b3193d7.json",
-      "title": "कांग्रेसको क्षतिग्रस्त कार्यालय हेर्न सानेपा पुगे एमाले नेता (तस्वीरहरू)",
-      "url": "https://shilapatra.com/detail/168233",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b6e4ae6c0546bc5df7667a2c6e919453cab72ed5c59ec264f316ed9e518d4ff5",
-      "fetched_at": "2025-09-19T05:42:22.302788Z",
-      "id": "d8b457bc396ac724600a159fea3efe284b79b737221db3e28cf9b8672ca2a65d",
-      "images": [],
-      "published_at": "2025-09-19T05:40:50Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/d8/d8b457bc396ac724600a159fea3efe284b79b737221db3e28cf9b8672ca2a65d.json",
-      "title": "‘संविधानलाई दोष दिएर गल्ती गर्ने छुट कसैलाई छैन’ : प्रदेश प्रमुख देवकोटा",
-      "url": "https://www.prasashan.com/2025/09/19/702488/",
       "version": 1
     }
   ]
