@@ -1,7 +1,617 @@
 {
-  "count": 8720,
-  "lastUpdated": "2025-09-21T13:53:39.790726Z",
+  "count": 8761,
+  "lastUpdated": "2025-09-21T14:19:18.325373Z",
   "recent": [
+    {
+      "canonical_hash": "bcd53cb9c5b6a45cdd50bdc4d5ad30edd5eaf7943019fb948d6cfe2886115653",
+      "fetched_at": "2025-09-21T14:18:29.604516Z",
+      "id": "45f5e4c64d3176b9224bf305d7cd507e54fc03ed189fb355eda3cf98b614579d",
+      "images": [],
+      "published_at": "2025-09-21T14:18:29.604516Z",
+      "source": {
+        "domain": "thahakhabar.com",
+        "id": "thahakhabar",
+        "name": "थाहा खबर"
+      },
+      "store_path": "domains/_store/45/45f5e4c64d3176b9224bf305d7cd507e54fc03ed189fb355eda3cf98b614579d.json",
+      "title": "कार्यकारी निर्देशकबाट हितेन्द्रदेव हटाइए",
+      "url": "https://thahakhabar.com/news/235852",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ba6432fdf83a429fb620ecf0dfa4f46ba002088394ed24224d9ea50289e600e0",
+      "fetched_at": "2025-09-21T14:18:26.303457Z",
+      "id": "034c9ca1580063fc1c80f568c9edfb3c0665756e2c78ff2e0cd0f7b7b447a339",
+      "images": [],
+      "published_at": "2025-09-21T14:14:33Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/03/034c9ca1580063fc1c80f568c9edfb3c0665756e2c78ff2e0cd0f7b7b447a339.json",
+      "title": "विद्युत प्राधिकरणको कार्यकारी निर्देशकमा सिलवाल नियुक्त, शाक्यको सरुवा",
+      "url": "https://www.nepaljapan.com/09/21/681979/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "35dc96e9e3bd050b4051e71c4573540feb33a6efe9aae539a495878649e272d6",
+      "fetched_at": "2025-09-21T14:18:51.204691Z",
+      "id": "0587063eb0f53d413295f75bc1d5d0618feb6fc16a4badec3c6c19d4ac023f00",
+      "images": [],
+      "published_at": "2025-09-21T14:14:27Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/05/0587063eb0f53d413295f75bc1d5d0618feb6fc16a4badec3c6c19d4ac023f00.json",
+      "title": "सीआईबी प्रमुखमा मनोज केसी नियुक्त",
+      "url": "https://www.prasashan.com/2025/09/21/703093/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d2ab56c434c6ba930896ee8a369eb7cc27ce19b54499a36977b8ad17cf988929",
+      "fetched_at": "2025-09-21T14:19:18.238164Z",
+      "id": "d28fcef170aa7e92e05e79f90945fc7a8dde8cfa336bd708420cd0a2ebf15388",
+      "images": [],
+      "published_at": "2025-09-21T14:13:30Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/d2/d28fcef170aa7e92e05e79f90945fc7a8dde8cfa336bd708420cd0a2ebf15388.json",
+      "title": "सीडीओविहीन काठमाडौँ",
+      "url": "https://nepalnews.com/2025/09/21/kathmandu-without-a-cdo/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "62481627f734bdea71a5c9b0fb15b6a50e16ef54c46ac2610796bf77be7ec8ec",
+      "fetched_at": "2025-09-21T14:19:18.267558Z",
+      "id": "299a6c8b9531e8f2fcaba22831300657ed1896efcd0887f8f3dffb26ad07a358",
+      "images": [],
+      "published_at": "2025-09-21T14:12:26Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/29/299a6c8b9531e8f2fcaba22831300657ed1896efcd0887f8f3dffb26ad07a358.json",
+      "title": "माओवादीमा विशेष महाधिवेशन मंसिरमा गर्ने प्रस्ताव",
+      "url": "https://nepalnews.com/2025/09/21/maoists-propose-to-hold-special-general-convention-in-november/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f5385bfb7a02d29a6d18b69eeef9c60380a8df9abf01aca1950890ed078ce59a",
+      "fetched_at": "2025-09-21T14:18:51.234415Z",
+      "id": "39166c445e1da336f75b191ea0527e9c4254b62fb6e740bba8fb19e51d265158",
+      "images": [],
+      "published_at": "2025-09-21T14:12:17Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/39/39166c445e1da336f75b191ea0527e9c4254b62fb6e740bba8fb19e51d265158.json",
+      "title": "देशका ३५ गाउँपालिकालाई एम्बुलेन्स वितरण गर्दै काठमाडौँ महानगरपालिका",
+      "url": "https://www.prasashan.com/2025/09/21/703090/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "20f8fbc3c6fcc95cc1d35a5b4167dc6ae388dce27c35adf8cb4d0e392c407b9f",
+      "fetched_at": "2025-09-21T14:18:20.828862Z",
+      "id": "e2b606fd5c2152fdc0e5152acaac349a77022eddd0a5cfa5d44e3bee17765c67",
+      "images": [],
+      "published_at": "2025-09-21T14:10:19Z",
+      "source": {
+        "domain": "onlinekhabar.com",
+        "id": "onlinekhabar",
+        "name": "अनलाइनखबर"
+      },
+      "store_path": "domains/_store/e2/e2b606fd5c2152fdc0e5152acaac349a77022eddd0a5cfa5d44e3bee17765c67.json",
+      "title": "ध्वस्त संरचना पुनर्निर्माणमा आयात गरिने सामग्रीमा ५० प्रतिशतसम्म भन्सार छुट दिइने",
+      "url": "https://www.onlinekhabar.com/2025/09/1769518/up-to-50-percent-customs-duty-exemption-will-be-given-on-materials-imported-for-the-reconstruction-of-destroyed-structures",
+      "version": 1
+    },
+    {
+      "canonical_hash": "47c38e8c12046107907158b74e7c295552bd64f6e7832d51aff822feea1731d1",
+      "fetched_at": "2025-09-21T14:19:09.588894Z",
+      "id": "1309b3b3649ad008cba5e0274a8378539e6fbc1075faa600625a2da8374306bc",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2021/01/Hitendradev-Shakya-1536x742.jpg"
+      ],
+      "published_at": "2025-09-21T14:09:19Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/13/1309b3b3649ad008cba5e0274a8378539e6fbc1075faa600625a2da8374306bc.json",
+      "title": "विद्युत प्राधिकरणबाट हितेन्द्रदेव शाक्यलाई हटाइयाे, प्राधिकरणकाे कार्यकारी निर्देशकमा सिलवाल नियुक्त",
+      "url": "https://www.imagekhabar.com/news/508204/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-21T14:18:36.365267Z",
+      "id": "4d7dd4ae5dc0924b18bf00ba2f00b14776c96fa9dfd146db073f00e13190162b",
+      "images": [],
+      "published_at": "2025-09-21T14:09:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/4d/4d7dd4ae5dc0924b18bf00ba2f00b14776c96fa9dfd146db073f00e13190162b.json",
+      "title": "अन्तरिम सरकारले अन्तर्राष्ट्रिय वैधता पाइसक्यो, अब श्रीलंका बन्ने कि बंगलादेश ?",
+      "url": "https://shilapatra.com/detail/168356",
+      "version": 1
+    },
+    {
+      "canonical_hash": "0b727ab75989930761ffb5bd8c4ab424f34908e9e1d3ab36e9e188c5249bc492",
+      "fetched_at": "2025-09-21T14:18:19.084480Z",
+      "id": "d802dea7978e79a7ee2182f47690d40e5e7462dc9b2a36bd8f7e4df6c6c340a3",
+      "images": [
+        "https://images.nagariknewscdn.com/authors/1758463613_Remove%20background%20project-3%20(2).jpeg"
+      ],
+      "published_at": "2025-09-21T14:08:37Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/d8/d802dea7978e79a7ee2182f47690d40e5e7462dc9b2a36bd8f7e4df6c6c340a3.json",
+      "title": "सिआइबीमा प्रमुखमा एआइजी केसी",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/aig-kc-named-new-cib-chief-25-32.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "78434211bc2236ab665e1fa961f58341e4cb110a03c13b84e10e4c805a43e563",
+      "fetched_at": "2025-09-21T14:18:20.861327Z",
+      "id": "d09dd7b85a252b1412ec3fcbee0ec943d6d76b22daf2c4220bc87ba8b24b3349",
+      "images": [],
+      "published_at": "2025-09-21T14:06:58Z",
+      "source": {
+        "domain": "onlinekhabar.com",
+        "id": "onlinekhabar",
+        "name": "अनलाइनखबर"
+      },
+      "store_path": "domains/_store/d0/d09dd7b85a252b1412ec3fcbee0ec943d6d76b22daf2c4220bc87ba8b24b3349.json",
+      "title": "सरकारले क्षतिग्रस्त सवारीसाधन र मेसिन कवाडीमा लिलाम बिक्री गर्ने",
+      "url": "https://www.onlinekhabar.com/2025/09/1769519/damaged-vehicles-and-machinery-to-be-auctioned-in-kawadi",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6aedb578835431c62542816e623e7e0ec9be9738e265e2ec3165e94af3186b61",
+      "fetched_at": "2025-09-21T14:18:26.332594Z",
+      "id": "d93aefedfc49ab95cc3165e7b65c97412e885df6e6af25f1a48f330f9d2e4f9c",
+      "images": [],
+      "published_at": "2025-09-21T14:06:35Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/d9/d93aefedfc49ab95cc3165e7b65c97412e885df6e6af25f1a48f330f9d2e4f9c.json",
+      "title": "निर्वाचन कार्यमा सरकारलाई सहयोग गर्ने समितिको प्रतिबद्धता",
+      "url": "https://www.nepaljapan.com/09/21/681975/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "89c9056920c29a74e28bae6eb1eb99b43b14d826aaed5e34e2366d39f1aabcc9",
+      "fetched_at": "2025-09-21T14:19:14.330592Z",
+      "id": "7bd6b04d5a80f9bd35f13f20601a3dfb64190b406cce6b9e37c401835caefb6b",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2020/03/dolar-400x220.jpg"
+      ],
+      "published_at": "2025-09-21T14:06:24Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/7b/7bd6b04d5a80f9bd35f13f20601a3dfb64190b406cce6b9e37c401835caefb6b.json",
+      "title": "अफगानिस्तानद्वारा पाँच करोड ६० लाख डलर मूल्यका छ परियोजना स्वीकृत",
+      "url": "https://khabarhub.com/2025/21/855125/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "20268cb35214fe201d944ba29c5a3e1e0cdff699db979d1d47ae2f345c830d42",
+      "fetched_at": "2025-09-21T14:19:14.361893Z",
+      "id": "be2d13c1001219f77050365af47748d2a2934fa105fff3b85f13886f314403f3",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/manoj-kc-400x220.jpg"
+      ],
+      "published_at": "2025-09-21T14:06:20Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/be/be2d13c1001219f77050365af47748d2a2934fa105fff3b85f13886f314403f3.json",
+      "title": "सीआईबी प्रमुखको जिम्मेवारी डा. मनोज केसीलाई",
+      "url": "https://khabarhub.com/2025/21/855124/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "453e45f210f90e809d8cc080713ad5f4a5089ad72c501e16af4d139a7c40481f",
+      "fetched_at": "2025-09-21T14:19:11.986974Z",
+      "id": "8a3ac2d7c48cc13ed68a02e4ff660139ef6c7a21e228b7a9817583dab0fa72b2",
+      "images": [],
+      "published_at": "2025-09-21T14:06:15Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/8a/8a3ac2d7c48cc13ed68a02e4ff660139ef6c7a21e228b7a9817583dab0fa72b2.json",
+      "title": "जेन-जी आन्दोलनः क्षतिको विवरण संकलन गर्न प्राविधिक समिति गठन",
+      "url": "https://deshsanchar.com/2025/09/21/1096749/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d82f8d6e0f0e41035196b1f352fb5988ca773fb3ae8ff4253063f19a0caada81",
+      "fetched_at": "2025-09-21T14:18:21.436918Z",
+      "id": "787e74d3114512c2a23d05bb4fef50dccea0d794d9850919fe93b0d6c5d05dc2",
+      "images": [],
+      "published_at": "2025-09-21T14:06:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/78/787e74d3114512c2a23d05bb4fef50dccea0d794d9850919fe93b0d6c5d05dc2.json",
+      "title": "सिआइबीको जिम्मेवारी एआइजी मनोज केसीलाई, यसरी गरेका थिए नक्कली भुटानी शरणार्थीको अनुसन्धान",
+      "url": "https://www.setopati.com/politics/369935",
+      "version": 1
+    },
+    {
+      "canonical_hash": "fb77e5656d319ddf1d21b6161df6505be7500a662395dc3dafc6d70d49641754",
+      "fetched_at": "2025-09-21T14:18:20.892758Z",
+      "id": "3ca99359a24bbc48758e2aea4d1e550d9b0d6108c125a9c43702d5cf737ab6d1",
+      "images": [],
+      "published_at": "2025-09-21T14:05:16Z",
+      "source": {
+        "domain": "onlinekhabar.com",
+        "id": "onlinekhabar",
+        "name": "अनलाइनखबर"
+      },
+      "store_path": "domains/_store/3c/3ca99359a24bbc48758e2aea4d1e550d9b0d6108c125a9c43702d5cf737ab6d1.json",
+      "title": "अब आमाले स्वघोषणा गरेपछि सन्तानलाई सहजै नागरिकता",
+      "url": "https://www.onlinekhabar.com/2025/09/1769488/now-after-the-mother-declares-herself-the-child-can-easily-obtain-citizenship",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f8e8bcfc169f91a3ab57b6c28354300c4844339abfe1bf3399c8ecec6677c01d",
+      "fetched_at": "2025-09-21T14:19:12.016465Z",
+      "id": "e750f69726bbccff164df131dd5da16078b24b11f7e8e4cfb45bed5ed9ca501b",
+      "images": [],
+      "published_at": "2025-09-21T14:05:03Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/e7/e750f69726bbccff164df131dd5da16078b24b11f7e8e4cfb45bed5ed9ca501b.json",
+      "title": "सरकारले प्राधिकरणको कार्यकारी निर्देशकबाट शाक्यलाई हटायो, सिलवाल नियुक्त",
+      "url": "https://deshsanchar.com/2025/09/21/1096759/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cf3d70d9c8d944ae1cd1a72c9cce8914c73e88866c3678908bc942590dca9582",
+      "fetched_at": "2025-09-21T14:18:31.248693Z",
+      "id": "96dad70121bb5997a2a133c65eb36b65a149d92e493578f34a4ed28c4ea515a4",
+      "images": [],
+      "published_at": "2025-09-21T14:04:53Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/96/96dad70121bb5997a2a133c65eb36b65a149d92e493578f34a4ed28c4ea515a4.json",
+      "title": "सीआईबी प्रमुखमा मनोज केसी",
+      "url": "https://lokaantar.com/story/299728/2025/9/21/main-news/cabinet-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "01e02237a6a2f3913180600b2079c81c90ee8b6801e92af1362e5cbdd80ad2c8",
+      "fetched_at": "2025-09-21T14:18:51.265935Z",
+      "id": "b594e487b63cbb024f86349c3806da9790cd976604337944fea6b67c0bd553df",
+      "images": [],
+      "published_at": "2025-09-21T14:04:29Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/b5/b594e487b63cbb024f86349c3806da9790cd976604337944fea6b67c0bd553df.json",
+      "title": "भदौ २३ र २४ का घटनाबारे छानबिन गर्न पूर्वन्यायाधीश कार्कीको अध्यक्षतामा उच्चस्तरीय आयोग गठन",
+      "url": "https://www.prasashan.com/2025/09/21/703087/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ec23cff1c6ffccc7cbceabd2ed7637a3f96e6f942dca2ce9e8ee40ef0d811947",
+      "fetched_at": "2025-09-21T14:19:12.049268Z",
+      "id": "35e923bbd185cf142dd13ef2b5c4e076e804cbe80d53cf43060f1598fd7a4781",
+      "images": [],
+      "published_at": "2025-09-21T14:02:52Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/35/35e923bbd185cf142dd13ef2b5c4e076e804cbe80d53cf43060f1598fd7a4781.json",
+      "title": "जेनजी आन्दोलनको दमन र लुटपाटबारे छानबिन गर्न बन्यो आयोग, सिआइबी प्रमुखमा केसी",
+      "url": "https://deshsanchar.com/2025/09/21/1096761/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "af369d7d1de4bb2f9bc767b403f2aa6b6d59259f64d54b337a6591203924c85f",
+      "fetched_at": "2025-09-21T14:19:14.393657Z",
+      "id": "d61022d4eed6af112399cbf8ce4a8a77c22b88c2d7b7a57ecb819af6b40c54be",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/gauribahadur-karki-400x220.jpg"
+      ],
+      "published_at": "2025-09-21T14:02:02Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/d6/d61022d4eed6af112399cbf8ce4a8a77c22b88c2d7b7a57ecb819af6b40c54be.json",
+      "title": "जेन-जी आन्दोलन : गौरीबहादुर कार्कीको नेतृत्वमा तीन सदस्यीय जाँचबुझ आयोग गठन",
+      "url": "https://khabarhub.com/2025/21/855121/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-21T14:18:36.394902Z",
+      "id": "29a315d34a7bd05b8e27ac64a7e163079d8499011bc6a88bdaf4a95f4fb88995",
+      "images": [],
+      "published_at": "2025-09-21T14:01:33Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/29/29a315d34a7bd05b8e27ac64a7e163079d8499011bc6a88bdaf4a95f4fb88995.json",
+      "title": "जेन–जी आन्दोलनबारे छानबिन गर्न उच्चस्तरीय जाँचबुझ आयोग गठन",
+      "url": "https://shilapatra.com/detail/168362",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-21T14:18:21.470653Z",
+      "id": "04a193ccee2649ef20ddbc724cdfab9741988137a5729b75db2628c870c494f8",
+      "images": [],
+      "published_at": "2025-09-21T14:01:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/04/04a193ccee2649ef20ddbc724cdfab9741988137a5729b75db2628c870c494f8.json",
+      "title": "हितेन्द्रदेवलाई हटाएर विद्युत प्राधिकरणको जिम्मेवारी मनोजलाई",
+      "url": "https://www.setopati.com/politics/369938",
+      "version": 1
+    },
+    {
+      "canonical_hash": "204e7d53677e01bdc2b6054f869bfc6a7ce382f07bb09f7d343fd8da13e233ce",
+      "fetched_at": "2025-09-21T14:18:51.295275Z",
+      "id": "69a3827298b2ed5cd4f8e0c81d68877851f7a78740f5ec54db8a299795f3b86e",
+      "images": [],
+      "published_at": "2025-09-21T14:00:32Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/69/69a3827298b2ed5cd4f8e0c81d68877851f7a78740f5ec54db8a299795f3b86e.json",
+      "title": "विद्युत् प्राधिकरणका कार्यकारी निर्देशक शाक्य हटाइए",
+      "url": "https://www.prasashan.com/2025/09/21/703085/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-21T14:19:12.078268Z",
+      "id": "1690f58ae24220a540abbe0d81b169b306e42dca56adf3a56ccdd80ff6bb6acc",
+      "images": [],
+      "published_at": "2025-09-21T13:59:18Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/16/1690f58ae24220a540abbe0d81b169b306e42dca56adf3a56ccdd80ff6bb6acc.json",
+      "title": "अख्तियार प्रमुख राईले प्रधानमन्त्री कार्कीलाई भनेःसबै भ्रष्टाचारको छानबिन गर्छु| Deshsanchar Samachar",
+      "url": "https://deshsanchar.com/2025/09/21/1096766/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ccaefd9269503fb5ec943f63fdf56cb5e49e6ce9df9d57b58efd5828e096dffe",
+      "fetched_at": "2025-09-21T14:19:12.108503Z",
+      "id": "5ca2d89e1c6f262fe75b21b9d7f3a7b84b894668e2c1ff6a5f9ff9d8023916f3",
+      "images": [],
+      "published_at": "2025-09-21T13:59:05Z",
+      "source": {
+        "domain": "deshsanchar.com",
+        "id": "deshsanchar",
+        "name": "Desh Sanchar"
+      },
+      "store_path": "domains/_store/5c/5ca2d89e1c6f262fe75b21b9d7f3a7b84b894668e2c1ff6a5f9ff9d8023916f3.json",
+      "title": "दुई हजारभन्दा बढी गोलीका खोकासहित दुई जना पक्राउ",
+      "url": "https://deshsanchar.com/2025/09/21/1096718/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ef6a90c8e03dcf2a0bf3db0c3a42c8e2a51ec9344895c807f559fcf5b12e92f3",
+      "fetched_at": "2025-09-21T14:18:20.923979Z",
+      "id": "184b03d5dff02e4255d0003ca99ea342b03a175ecdd8731b9773f192d63223d0",
+      "images": [],
+      "published_at": "2025-09-21T13:57:17Z",
+      "source": {
+        "domain": "onlinekhabar.com",
+        "id": "onlinekhabar",
+        "name": "अनलाइनखबर"
+      },
+      "store_path": "domains/_store/18/184b03d5dff02e4255d0003ca99ea342b03a175ecdd8731b9773f192d63223d0.json",
+      "title": "विद्युत् प्राधिकरणको कार्यकारी निर्देशकमा मनोज सिलवाल नियुक्त",
+      "url": "https://www.onlinekhabar.com/2025/09/1769512/manoj-silwal-appointed-as-executive-director-of-nepal-electricity-authority",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8a9cbccabf2027089e50192732e31c254ed214d232b454735cd9faf4e201f989",
+      "fetched_at": "2025-09-21T14:19:18.297101Z",
+      "id": "442b81924cd2d291428bbb4624f0daf90361c1b48f363bf6e70a9058c916a292",
+      "images": [],
+      "published_at": "2025-09-21T13:57:07Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/44/442b81924cd2d291428bbb4624f0daf90361c1b48f363bf6e70a9058c916a292.json",
+      "title": "हेलमेट प्रयोगमा ‘छुट’ ले बढाएको दुर्घटना जोखिम",
+      "url": "https://nepalnews.com/2025/09/21/exemption-from-helmet-use-increases-accident-risk/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f9d574e78b084653605ca22abe2d4943e8cee5c55cb63dc8206b8dda18c7b1e4",
+      "fetched_at": "2025-09-21T14:18:31.277998Z",
+      "id": "29e53cf9baa1ab9b184841a19ff86db19281fe8f1f65db317b5be6b4f035c32a",
+      "images": [],
+      "published_at": "2025-09-21T13:57:06Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/29/29e53cf9baa1ab9b184841a19ff86db19281fe8f1f65db317b5be6b4f035c32a.json",
+      "title": "नेपाल विद्युत् प्राधिकरणको कार्यकारी निर्देशकमा मनोज सिलवाल नियुक्त",
+      "url": "https://lokaantar.com/story/299727/2025/9/21/main-news/manoj-silawal-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f232d3cd9a91cdd360d6759ca82d450a3001a4697e0cf790d76ed26e099a2c23",
+      "fetched_at": "2025-09-21T14:18:21.500831Z",
+      "id": "1af0bd323c697a357d3807fc446f42b14de8dd0137ff34d58d5c41e67a06ce88",
+      "images": [],
+      "published_at": "2025-09-21T13:57:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/1a/1af0bd323c697a357d3807fc446f42b14de8dd0137ff34d58d5c41e67a06ce88.json",
+      "title": "पूर्वन्यायाधीश कार्कीको नेतृत्वमा जेनजी आन्दोलनको जाँचबुझ आयोग गठन",
+      "url": "https://www.setopati.com/politics/369937",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6154c5bf28deb487716601faeee427fb0d12a30e667722f822cda6f940d9db1c",
+      "fetched_at": "2025-09-21T14:19:14.424862Z",
+      "id": "d1b3d5d8810a443fc408ea64aef2c363c0729c0a2670d21f85df2d2cb74b77bc",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/07/hitendra-dev-shakya-janakpur-frame-at-2m35s-400x220.jpg"
+      ],
+      "published_at": "2025-09-21T13:56:29Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/d1/d1b3d5d8810a443fc408ea64aef2c363c0729c0a2670d21f85df2d2cb74b77bc.json",
+      "title": "सरकारले प्राधिकरणबाट हितेन्द्र शाक्यलाई हटायो, नयाँ कार्यकारी निर्देशकमा मनोज सिलवाल",
+      "url": "https://khabarhub.com/2025/21/855116/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "3a927a2f82a412d0c627832c59dfa9fb68dadca6208a45a65b0a66de794f9523",
+      "fetched_at": "2025-09-21T14:18:51.325011Z",
+      "id": "fbbe4eb81383b0c55e70427528c4ae1c1ae9e4bffb83b9c6c3270cb86dd64c25",
+      "images": [],
+      "published_at": "2025-09-21T13:56:22Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/fb/fbbe4eb81383b0c55e70427528c4ae1c1ae9e4bffb83b9c6c3270cb86dd64c25.json",
+      "title": "माओवादीले ‘प्रचण्ड’कै संयोजकत्वमा महाधिवेशन आयोजक समिति बनाउने निर्णय",
+      "url": "https://www.prasashan.com/2025/09/21/703081/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c54131d2945706efe97967e385de7d2a6f76bacd7ae1a7c8c9e518c26247d224",
+      "fetched_at": "2025-09-21T14:19:14.455987Z",
+      "id": "0a5095d58cdee41ac1b01be5d253d5622e562b7870defb6410234ee894eecf7c",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2021/05/pakrau-arrest-2-400x220.jpg"
+      ],
+      "published_at": "2025-09-21T13:56:22Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/0a/0a5095d58cdee41ac1b01be5d253d5622e562b7870defb6410234ee894eecf7c.json",
+      "title": "दुई हजारभन्दा बढी गोलीका खोकासहित दुई जना पक्राउ",
+      "url": "https://khabarhub.com/2025/21/855115/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "a935704f4a75c1c0870311743fe835bcc9152472faf39b1a3f6df5d4c29451a9",
+      "fetched_at": "2025-09-21T14:19:14.487125Z",
+      "id": "ffd82e4d37faa0fca2ba2d6a01fe757ca1bfbb497ef46e0b240fca8b0adacf98",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/sabita-bhandari-2-400x220.jpg"
+      ],
+      "published_at": "2025-09-21T13:56:10Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/ff/ffd82e4d37faa0fca2ba2d6a01fe757ca1bfbb497ef46e0b240fca8b0adacf98.json",
+      "title": "‘सङ्कटको बेला न्यायालय बचाउनुपर्ने’",
+      "url": "https://khabarhub.com/2025/21/855112/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9d785308c40425234dd5b736bd0302edf6677d7c4a9d086256967f2a62503b80",
+      "fetched_at": "2025-09-21T14:19:09.617727Z",
+      "id": "3660c958f3ee00ef16cca8046b0b3209b2479af4eb3d25e1d52cc087debbc0ae",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/09/tiktok-americ.jpg"
+      ],
+      "published_at": "2025-09-21T13:54:07Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/36/3660c958f3ee00ef16cca8046b0b3209b2479af4eb3d25e1d52cc087debbc0ae.json",
+      "title": "टिकटकको अमेरिकी बोर्डमा अमेरिकाकै नियन्त्रणमा रहेको नयाँ बोर्ड गठन गर्ने",
+      "url": "https://www.imagekhabar.com/news/508199/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-21T14:18:36.423857Z",
+      "id": "77c86fc9952898ea237d4ccfd5d0ca8723355c2d3fd94cd4ea39efc55464ab4d",
+      "images": [],
+      "published_at": "2025-09-21T13:54:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/77/77c86fc9952898ea237d4ccfd5d0ca8723355c2d3fd94cd4ea39efc55464ab4d.json",
+      "title": "कुलमानले लिए बदला, विद्युत् प्राधिकरणको कार्यकारी निर्देशकबाट हितेन्द्र हटाइए",
+      "url": "https://shilapatra.com/detail/168361",
+      "version": 1
+    },
     {
       "canonical_hash": "716d43d5d6b0984d62cbb76ffbaa005e205cdf6c247c03385045a3491c410f5c",
       "fetched_at": "2025-09-21T13:52:58.606967Z",
@@ -32,6 +642,56 @@
       "store_path": "domains/_store/8d/8d5701ad749e1eaa18bb5be218be9841c8f6f9461cb3a65b6ab41d256356836f.json",
       "title": "जनार्दन शर्माले राखे अध्यक्ष दाहालसहित सबै पदाधिकारीले राजीनामा दिनुपर्ने प्रस्ताव",
       "url": "https://nepalnews.com/2025/09/21/janardan-sharma-proposed-that-all-office-bearers-including-chairman-dahal-should-resign/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6a013bbb0adb01cc54df9459ed2da409118fa3d2cf6e134ec040094f33b32c01",
+      "fetched_at": "2025-09-21T14:18:20.958890Z",
+      "id": "f161139e94201b4e49d4b1d95e805fa067cabd7352e0d3dbdfa045a758f75e45",
+      "images": [],
+      "published_at": "2025-09-21T13:50:03Z",
+      "source": {
+        "domain": "onlinekhabar.com",
+        "id": "onlinekhabar",
+        "name": "अनलाइनखबर"
+      },
+      "store_path": "domains/_store/f1/f161139e94201b4e49d4b1d95e805fa067cabd7352e0d3dbdfa045a758f75e45.json",
+      "title": "विद्युत् प्राधिकरणका कार्यकारी निर्देशकबाट हितेन्द्रदेव शाक्यलाई हटाइयो",
+      "url": "https://www.onlinekhabar.com/2025/09/1769509/hitendra-dev-removed-from-the-position-of-executive-director-of-the-electricity-authority",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b8e4fedb861ca93d8072076b0316cca6157ebb01614699e07d8ce8e172269141",
+      "fetched_at": "2025-09-21T14:18:31.306939Z",
+      "id": "02727e47833ae04300c289b2c841b36978f91294f29452d8ed6d9244887f640b",
+      "images": [],
+      "published_at": "2025-09-21T13:49:58Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/02/02727e47833ae04300c289b2c841b36978f91294f29452d8ed6d9244887f640b.json",
+      "title": "जेनजी आन्दोलन : पूर्वन्यायाधीश कार्कीको नेतृत्वमा जाँचबुझ आयोग गठन",
+      "url": "https://lokaantar.com/story/299726/2025/9/21/main-news/cabinet-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f6f747fa3d9d654e7fe1c19449ba583208cf00cddd1c26f19bb5fed4b4f5659f",
+      "fetched_at": "2025-09-21T14:18:19.116941Z",
+      "id": "3998d555066dfd1f3b2d7408bae82ffe38de21ec76b9b814eb620244877bf45e",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758463739_q.png"
+      ],
+      "published_at": "2025-09-21T13:49:27Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/39/3998d555066dfd1f3b2d7408bae82ffe38de21ec76b9b814eb620244877bf45e.json",
+      "title": "नागरिकतामा अब आवश्यकता अनुसार बाबु वा आमाको नाम लेख्न पाइने",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/citizenship-can-now-be-written-with-the-name-of-the-father-or-mother-as-required-59-79.html",
       "version": 1
     },
     {
@@ -66,6 +726,22 @@
       "store_path": "domains/_store/0f/0fb79227a2f73a761fb147ea3afd57b237863711a47d7bb1450531284ca1c4e0.json",
       "title": "जेनजी आन्दोलनको मूल मर्म छायामा नपरोस्",
       "url": "https://deshsanchar.com/2025/09/21/1096596/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "0321748d08985da7e4cb8db2d7b2e3d7d6ecc8db1eff3443e33fcfae8c6d8d6f",
+      "fetched_at": "2025-09-21T14:18:21.000784Z",
+      "id": "6fcfd50334142edf5de07ac3c7cacbc619f4ecb5183d04f2753fa04dc8261882",
+      "images": [],
+      "published_at": "2025-09-21T13:47:54Z",
+      "source": {
+        "domain": "onlinekhabar.com",
+        "id": "onlinekhabar",
+        "name": "अनलाइनखबर"
+      },
+      "store_path": "domains/_store/6f/6fcfd50334142edf5de07ac3c7cacbc619f4ecb5183d04f2753fa04dc8261882.json",
+      "title": "एससीटीको ‘स्मार्ट सेलिब्रेसन्स’ अफर सार्वजनिक, बिग मार्टमा १० प्रतिशत छुट",
+      "url": "https://www.onlinekhabar.com/2025/09/1769498/scts-smart-celebrations-offer-unveiled-10-percent-discount-at-big-mart",
       "version": 1
     },
     {
@@ -990,691 +1666,6 @@
       "store_path": "domains/_store/3e/3e957643f746ac08e9ade93b6975e69ef8dea0daa3a4ff24216d23d76d9abf5b.json",
       "title": "एक वर्षमा ३९२ कर्मचारीविरुद्ध भ्रष्टाचार मुद्दा दायर, ६ अर्बभन्दा बढी बिगो माग",
       "url": "https://www.prasashan.com/2025/09/21/703064/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "474728609a25e653307d2d773536359869924578de6a230144264c77f6b79e5e",
-      "fetched_at": "2025-09-21T13:05:05.768919Z",
-      "id": "49920ced8dbacb2269b71d5024d725f3bdb86d4355dbb139ed0f28a21573ef32",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1743505098_birjung_bal_sudhar.jpg"
-      ],
-      "published_at": "2025-09-21T12:51:34Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/49/49920ced8dbacb2269b71d5024d725f3bdb86d4355dbb139ed0f28a21573ef32.json",
-      "title": "सुधार गृहबाट भागेका ५० किशोर अझै भेटिएनन्",
-      "url": "https://nagariknews.nagariknetwork.com/Aparadh/50-teenagers-who-escaped-from-correctional-home-still-missing-br-47-88.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d05dd4fcfb85baca9eb83a56516f9a84984ebe00f7c7974a37b799fb71c18678",
-      "fetched_at": "2025-09-21T13:05:23.673287Z",
-      "id": "155ab660b6f99e1c49a491c526f1c222a3de917cc0d86fe6f3f3cc39a63734be",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/bipin-josi-ama-bahini-150x150.jpg"
-      ],
-      "published_at": "2025-09-21T12:50:26Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/15/155ab660b6f99e1c49a491c526f1c222a3de917cc0d86fe6f3f3cc39a63734be.json",
-      "title": "प्रधानमन्त्री कार्कीसँग विपिन जोशीका आमा र बहिनीको भेट",
-      "url": "https://newsofnepal.com/2025/09/21/732497/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "56f56b8b78f6d9c1b3c971718e6a984a39b3789f72e44040501efb04e22ba60c",
-      "fetched_at": "2025-09-21T13:05:05.803102Z",
-      "id": "ced5ab308edb14b82b5cd95bfbe0402f612b7d2ddea89ae2837822713ba87d5c",
-      "images": [
-        "https://images.nagariknewscdn.com/authors/1758458965_Remove%20background%20project-2%20(13).jpeg"
-      ],
-      "published_at": "2025-09-21T12:49:49Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/ce/ced5ab308edb14b82b5cd95bfbe0402f612b7d2ddea89ae2837822713ba87d5c.json",
-      "title": "प्रधानमन्त्री भेट्न गएका घाइते जेन–जी पक्राउ, सिंहदबारबाहिर छाडियो",
-      "url": "https://nagariknews.nagariknetwork.com/politics/injured-jane-jee-who-went-to-meet-the-prime-minister-was-arrested-and-released-outside-singha-dabar-77-16.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "deb0fe2882e2235a02bfda59da2a400d1158332b401042f2d452047f3eea2ff6",
-      "fetched_at": "2025-09-21T13:05:08.295253Z",
-      "id": "30de32bfbe59e52b17b76f22068b308f1b4987c7c5e948b8be65671ab6c4c9fc",
-      "images": [],
-      "published_at": "2025-09-21T12:48:12Z",
-      "source": {
-        "domain": "onlinekhabar.com",
-        "id": "onlinekhabar",
-        "name": "अनलाइनखबर"
-      },
-      "store_path": "domains/_store/30/30de32bfbe59e52b17b76f22068b308f1b4987c7c5e948b8be65671ab6c4c9fc.json",
-      "title": "संघीयता सबलीकरणसम्बन्धी प्रतिवेदन सार्वजनिक गर्ने राष्ट्रिय सभाको निर्णय",
-      "url": "https://www.onlinekhabar.com/2025/09/1769430/national-assemblys-decision-to-make-public-report-on-strengthening-federalism",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a1bb947a46bf803e7531ff10cb2a3b73139588a189e7e6f615eec17c540990e4",
-      "fetched_at": "2025-09-21T13:05:38.015239Z",
-      "id": "b4c018df472b6549d24bb4ed56ae5525fa7c0f9fcb9ebbdc2ced9fb29543b242",
-      "images": [
-        "https://www.imagekhabar.com/wp-content/uploads/2025/09/sarita-bhandari-baral.jpg"
-      ],
-      "published_at": "2025-09-21T12:46:52Z",
-      "source": {
-        "domain": "imagekhabar.com",
-        "id": "imagekhabar",
-        "name": "Image Khabar"
-      },
-      "store_path": "domains/_store/b4/b4c018df472b6549d24bb4ed56ae5525fa7c0f9fcb9ebbdc2ced9fb29543b242.json",
-      "title": "जेनजी युवाकाे आन्दोलनले देशमा नयाँ परिवर्तन ल्यायोः महान्यायाधिवक्ता भण्डारी",
-      "url": "https://www.imagekhabar.com/news/508184/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c818b6647243ee1ab25731167f163283f7e7297189ad8048ff755ed3264e66ea",
-      "fetched_at": "2025-09-21T13:05:41.510309Z",
-      "id": "ae6319da7c42746997e50a046eee17bcd07ae523b071705a2fd5ffceda17309f",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/Mr-Nepal-2025-400x220.png"
-      ],
-      "published_at": "2025-09-21T12:46:21Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/ae/ae6319da7c42746997e50a046eee17bcd07ae523b071705a2fd5ffceda17309f.json",
-      "title": "मिस्टर नेपाल बने हिमाञ्चल राज",
-      "url": "https://khabarhub.com/2025/21/854982/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "84589f36e20eb3b31bebd8468634fb278f501ea41fa30ab011ae794f9cad6d8d",
-      "fetched_at": "2025-09-21T13:05:08.326710Z",
-      "id": "e32015b6dcfbb700ce882a46279e29d6a6f44f123c5a7f0c6e204f4f0d104021",
-      "images": [],
-      "published_at": "2025-09-21T12:45:07Z",
-      "source": {
-        "domain": "onlinekhabar.com",
-        "id": "onlinekhabar",
-        "name": "अनलाइनखबर"
-      },
-      "store_path": "domains/_store/e3/e32015b6dcfbb700ce882a46279e29d6a6f44f123c5a7f0c6e204f4f0d104021.json",
-      "title": "जेनजी आन्दोलनका घाइते सिंहदरबारबाट पक्राउ",
-      "url": "https://www.onlinekhabar.com/2025/09/1769428/genji-protest-injured-arrested-from-singha-durbar",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "fetched_at": "2025-09-21T13:05:25.473645Z",
-      "id": "1e3fd492b5422855492af2923b4e299c66737f14677f936350890f0ea9c927cd",
-      "images": [],
-      "published_at": "2025-09-21T12:43:22Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/1e/1e3fd492b5422855492af2923b4e299c66737f14677f936350890f0ea9c927cd.json",
-      "title": "हमासले 'बिदाइ तस्वीर' सार्वजनिक गरेको भोलिपल्ट प्रधानमन्त्रीसँग विपिनकी आमा र बहिनीको भेट",
-      "url": "https://shilapatra.com/detail/168355",
-      "version": 1
-    },
-    {
-      "canonical_hash": "afcfb069251f1af29d823fdcb1de8374029205d436c1abffcd23cfc8fc246f16",
-      "fetched_at": "2025-09-21T13:05:44.615355Z",
-      "id": "8e9a001d9a189aa24e6d924d012e82c41a5244acf0f27441473e9d95755dbdb8",
-      "images": [],
-      "published_at": "2025-09-21T12:42:29Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/8e/8e9a001d9a189aa24e6d924d012e82c41a5244acf0f27441473e9d95755dbdb8.json",
-      "title": "पर्साका बाल सुधारगृहका ५० जना बालबिज्याइँकर्ता फरार",
-      "url": "https://nepalnews.com/2025/09/21/50-juvenile-correctional-officers-from-parsa-juvenile-correctional-home-abscond/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ea90695830e6174881e74034faa216cb72dd81dacce9041a8f6779626572b95a",
-      "fetched_at": "2025-09-21T13:05:08.887035Z",
-      "id": "afe35eceb1d8e59f7b84b677fb204309c6436ec34c383d9d433f2edfbbcda94d",
-      "images": [],
-      "published_at": "2025-09-21T12:42:00Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/af/afe35eceb1d8e59f7b84b677fb204309c6436ec34c383d9d433f2edfbbcda94d.json",
-      "title": "कसले पाउँछ सरकारले सहुलियतपूर्ण कर्जाका लागि निकासा गरेको १० अर्ब रूपैयाँ?",
-      "url": "https://www.setopati.com/kinmel/banking/369930",
-      "version": 1
-    },
-    {
-      "canonical_hash": "89f5fa8dd50740d29b44aa1d0f4ef9cb371bc58d5e5642d12cfeeef6854b803a",
-      "fetched_at": "2025-09-21T12:41:27.046262Z",
-      "id": "111e5810c17a85fa52ff99157cb78134e880d0413ebbcc477b1e7d0145089b4a",
-      "images": [],
-      "published_at": "2025-09-21T12:41:27.046262Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/11/111e5810c17a85fa52ff99157cb78134e880d0413ebbcc477b1e7d0145089b4a.json",
-      "title": "माओवादीका हरेक तहमा जेनजीलाई समेट्ने प्रचण्डको प्रस्ताव",
-      "url": "https://thahakhabar.com/news/235848",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c3f67f8d354f64d4b7238f67a110aaf4c2583c584f3a7143629021f096f2e378",
-      "fetched_at": "2025-09-21T12:41:27.017501Z",
-      "id": "92424f53b0b81f851ae3edbafc95ae90fe6190844410047b756bf0f841f1783c",
-      "images": [],
-      "published_at": "2025-09-21T12:41:27.017501Z",
-      "source": {
-        "domain": "thahakhabar.com",
-        "id": "thahakhabar",
-        "name": "थाहा खबर"
-      },
-      "store_path": "domains/_store/92/92424f53b0b81f851ae3edbafc95ae90fe6190844410047b756bf0f841f1783c.json",
-      "title": "राष्ट्रपतिले आँट गरेर संविधान जोगाए : सिपी मैनाली",
-      "url": "https://thahakhabar.com/news/235849",
-      "version": 1
-    },
-    {
-      "canonical_hash": "56df5da36111b9c3c829123446d24f7da18bb015308ce8ab7ea97607bf4c8a98",
-      "fetched_at": "2025-09-21T13:05:19.446213Z",
-      "id": "a1228a50b93b2a95047872ca5ce202ed30b6767975e83997dcf3f22b7cfa71fa",
-      "images": [],
-      "published_at": "2025-09-21T12:41:12Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/a1/a1228a50b93b2a95047872ca5ce202ed30b6767975e83997dcf3f22b7cfa71fa.json",
-      "title": "काठमाडौं महानगरले ३५ गाउँपालिकालाई एम्बुलेन्स दिने",
-      "url": "https://lokaantar.com/story/299723/2025/9/21/current-affairs/ambulance-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "be1149811d0c2ecbf419630f02f568e1d7f06caebd192d7e25a0e601fc99c3b5",
-      "fetched_at": "2025-09-21T13:05:08.916121Z",
-      "id": "f1d8fc7415cc8eb55a023a49a833c27b312bcf06097909e31e439a683c0814ba",
-      "images": [],
-      "published_at": "2025-09-21T12:41:00Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/f1/f1d8fc7415cc8eb55a023a49a833c27b312bcf06097909e31e439a683c0814ba.json",
-      "title": "के हो ८ दिनदेखि माइतीघरमा धर्ना बसिरहेकी जेन-जी युवतीको माग?",
-      "url": "https://www.setopati.com/politics/369923",
-      "version": 1
-    },
-    {
-      "canonical_hash": "df0575339e22740ccbdbee0461dcb884b53e005095dba84e902c75b1ab7246e8",
-      "fetched_at": "2025-09-21T12:41:46.428805Z",
-      "id": "3f2183531449418b51d1c4a85fb94132db85f020a07ed985b46db6a3c049933d",
-      "images": [],
-      "published_at": "2025-09-21T12:38:59Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/3f/3f2183531449418b51d1c4a85fb94132db85f020a07ed985b46db6a3c049933d.json",
-      "title": "प्रधानमन्त्री कार्कीसँग विपिन जोशीकी आमा र बहिनीको भेट",
-      "url": "https://www.prasashan.com/2025/09/21/703057/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "f1b3955a3d3375e24bb1d8aee1f9c27566dc2f449bd494038644313f221a9bf7",
-      "fetched_at": "2025-09-21T12:41:51.557562Z",
-      "id": "64de19971862e7244834c39be775b92aa323409d5b47adbb8c450bd6abca3331",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/sudhar-griha-parsa-400x220.png"
-      ],
-      "published_at": "2025-09-21T12:38:49Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/64/64de19971862e7244834c39be775b92aa323409d5b47adbb8c450bd6abca3331.json",
-      "title": "पर्साका बाल सुधारगृहका ५० जना बालबिज्याइँकर्ता फरार",
-      "url": "https://khabarhub.com/2025/21/855069/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "cdf5c908438f5f032e1f80e06b82d7aaa906fbb91fe749496e5ec683b1159d25",
-      "fetched_at": "2025-09-21T13:05:08.358160Z",
-      "id": "f76bbc488133373e26b664e71402583b454be1b4c588972bc122e87c470d05ce",
-      "images": [],
-      "published_at": "2025-09-21T12:38:33Z",
-      "source": {
-        "domain": "onlinekhabar.com",
-        "id": "onlinekhabar",
-        "name": "अनलाइनखबर"
-      },
-      "store_path": "domains/_store/f7/f76bbc488133373e26b664e71402583b454be1b4c588972bc122e87c470d05ce.json",
-      "title": "निर्जीवन बीमामा लगानीकर्ता सशंकित, बजार फर्किएको हो ?",
-      "url": "https://www.onlinekhabar.com/2025/09/1769420/investors-are-skeptical-about-non-life-insurance-has-the-market-returned",
-      "version": 1
-    },
-    {
-      "canonical_hash": "78784f8a4c5ccadb35b5712a35d818e6268394a5da37ee8a504ad1acff242132",
-      "fetched_at": "2025-09-21T13:05:08.389904Z",
-      "id": "bb9a6b7668e2b81dba5669b5d111599fd44a4927e0e121689e2890db468a992d",
-      "images": [],
-      "published_at": "2025-09-21T12:37:52Z",
-      "source": {
-        "domain": "onlinekhabar.com",
-        "id": "onlinekhabar",
-        "name": "अनलाइनखबर"
-      },
-      "store_path": "domains/_store/bb/bb9a6b7668e2b81dba5669b5d111599fd44a4927e0e121689e2890db468a992d.json",
-      "title": "मन्त्री छान्न सघन परामर्शमा प्रधानमन्त्री कार्की",
-      "url": "https://www.onlinekhabar.com/2025/09/1769421/prime-minister-karki-in-intensive-consultation-to-select-ministers",
-      "version": 1
-    },
-    {
-      "canonical_hash": "eb5cf80baab2d404785f268151eb3a44f67d884211bb52f93529b62435572cae",
-      "fetched_at": "2025-09-21T13:05:10.668355Z",
-      "id": "c275fb50f284ac60950dc67aaed67bca36cb228c0596dc4a40219a0f131e925b",
-      "images": [],
-      "published_at": "2025-09-21T12:37:49Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/c2/c275fb50f284ac60950dc67aaed67bca36cb228c0596dc4a40219a0f131e925b.json",
-      "title": "पुनर्निर्माण प्रक्रिया शुरू गर्न सरकारलाई संसदीय समितिको ध्यानाकर्षण",
-      "url": "https://ujyaaloonline.com/story/120298/2025/9/21/Draws-government-attention-to-start-reconstruction",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3d3b7536a60700a333ab74ea16a325a98cf4c1bdc03218693973a4cb3c2b8bac",
-      "fetched_at": "2025-09-21T12:41:51.588262Z",
-      "id": "e9473c83b6df2e1a71afbb56fea737c96fdedfcfc45779618e8169f6b9923b12",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2024/07/haija-400x220.jpg"
-      ],
-      "published_at": "2025-09-21T12:37:13Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/e9/e9473c83b6df2e1a71afbb56fea737c96fdedfcfc45779618e8169f6b9923b12.json",
-      "title": "पर्सामा फेरी बढ्दै हैजा, एकैदिन थपिए २७ जना बिरामी",
-      "url": "https://khabarhub.com/2025/21/855068/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a083d4a21589786d2cb614a91ecd71a68b399ac6d70f735572f79461bb6f5376",
-      "fetched_at": "2025-09-21T13:05:08.421762Z",
-      "id": "500eb360abdc4d1f3fd1d68eabd14940877700aab3ffce2918dd4d0105d53e83",
-      "images": [],
-      "published_at": "2025-09-21T12:37:01Z",
-      "source": {
-        "domain": "onlinekhabar.com",
-        "id": "onlinekhabar",
-        "name": "अनलाइनखबर"
-      },
-      "store_path": "domains/_store/50/500eb360abdc4d1f3fd1d68eabd14940877700aab3ffce2918dd4d0105d53e83.json",
-      "title": "विशेष महाधिवशेनको बहस : हस्ताक्षर अभियानको तयारीमा जुटे गगन-विश्व",
-      "url": "https://www.onlinekhabar.com/2025/09/1769408/special-general-assembly-debate-gagan-bishwa-gear-up-for-signature-campaign",
-      "version": 1
-    },
-    {
-      "canonical_hash": "55916b579fd0e0011c04a4404f05ad46e9236b1386221149a540c34f52579829",
-      "fetched_at": "2025-09-21T12:41:33.944348Z",
-      "id": "ca004041ff4a6e487c8670bd0f1a07a51c2de4e747e337f52880027ef8c25018",
-      "images": [],
-      "published_at": "2025-09-21T12:35:46Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/ca/ca004041ff4a6e487c8670bd0f1a07a51c2de4e747e337f52880027ef8c25018.json",
-      "title": "जेन-जीलाई आग्रह: नेपालमै पढौँ, नेपालमै काम गरौँ र नेपालीलाई फर्काऔँ !",
-      "url": "https://shilapatra.com/detail/168346",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9d746362b9ca357b1bec8bb1d44789af15440daff6c2972c93aaec89eeecb5d2",
-      "fetched_at": "2025-09-21T12:41:48.554136Z",
-      "id": "07b2df333d548fcb33da63bb45d16e44ae180bdc6448f8e1684b9661a73e2d75",
-      "images": [
-        "https://www.imagekhabar.com/wp-content/uploads/2025/09/jengi-6.jpg"
-      ],
-      "published_at": "2025-09-21T12:35:17Z",
-      "source": {
-        "domain": "imagekhabar.com",
-        "id": "imagekhabar",
-        "name": "Image Khabar"
-      },
-      "store_path": "domains/_store/07/07b2df333d548fcb33da63bb45d16e44ae180bdc6448f8e1684b9661a73e2d75.json",
-      "title": "प्रधानमन्त्री कार्कीलाई भेट्न सिंहदरबार पुगेका जेनजी आन्दोलनका घाइते पक्राउ",
-      "url": "https://www.imagekhabar.com/news/508181/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ca63fb11f83f7b698bc633a663a2096c9147dcc75d805e9a50cb21791596d457",
-      "fetched_at": "2025-09-21T12:41:46.458652Z",
-      "id": "2d4d563df73ebf006e651260da1bc20c21c27764829428a18ce25be38da8ac83",
-      "images": [],
-      "published_at": "2025-09-21T12:34:48Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/2d/2d4d563df73ebf006e651260da1bc20c21c27764829428a18ce25be38da8ac83.json",
-      "title": "सिआइबी प्रमुखमा मनोज केसी प्रस्ताव",
-      "url": "https://www.prasashan.com/2025/09/21/703059/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5062c134e601e625885325995dfc832998ae3a5a26c9062c9c645e4517512441",
-      "fetched_at": "2025-09-21T13:05:05.835471Z",
-      "id": "5f1912d056c8f2d06ba5b2eaa671f1e8d1ea6c84c45841bc3f17ab655eb3f24f",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758458179_amblance_balen.png",
-        "https://images.nagariknewscdn.com/2025/photos/1758458561_2.jpg",
-        "https://images.nagariknewscdn.com/2025/photos/1758458559_3.jpg",
-        "https://images.nagariknewscdn.com/2025/photos/1758458566_1.jpg"
-      ],
-      "published_at": "2025-09-21T12:33:40Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/5f/5f1912d056c8f2d06ba5b2eaa671f1e8d1ea6c84c45841bc3f17ab655eb3f24f.json",
-      "title": "बालेनले भने- दुर्गमको जीवन बचाउन ३५ पालिकालाई एम्बुलेन्स वितरण गर्दैछाैं",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/kathmandu-92-47.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e7d4cabe43ff282c5dbf1f17ab5ada80bc3624ff18e1c40ea43862d49b7c6489",
-      "fetched_at": "2025-09-21T12:41:13.636108Z",
-      "id": "f4bc14b206c9467920b145d95eb400e25ab58d0a748693fe273c70c8ccd01101",
-      "images": [
-        "https://images.nagariknewscdn.com/2024/third-party/1758457978_Kareena_Kapoor.jpg"
-      ],
-      "published_at": "2025-09-21T12:33:17Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/f4/f4bc14b206c9467920b145d95eb400e25ab58d0a748693fe273c70c8ccd01101.json",
-      "title": "४५ वर्ष पुगिन् करीना कपुर",
-      "url": "https://nagariknews.nagariknetwork.com/arts/kareena-kapoor-turns-45-11-60.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d958db9ffa7913e4a958c397670012550292d237af1ec9510d2bd93737de54c8",
-      "fetched_at": "2025-09-21T12:41:50.040231Z",
-      "id": "9edfc1742b11a8d7413991aefb2269367ddce72efd88e8adf92ad5e2938318cb",
-      "images": [],
-      "published_at": "2025-09-21T12:33:06Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/9e/9edfc1742b11a8d7413991aefb2269367ddce72efd88e8adf92ad5e2938318cb.json",
-      "title": "सात दिनपछि खुल्यो बागलुङ–सिगाना–बरेङ सडक",
-      "url": "https://deshsanchar.com/2025/09/21/1096714/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "7b14cce8360443e75829d14b9c5116d37a055918580296ec35e6ed50d4e39131",
-      "fetched_at": "2025-09-21T12:41:28.837692Z",
-      "id": "11a97ebf9694405a68ba0076ba9ca521868bf0cb73bb5af1e236fe6712b103d1",
-      "images": [],
-      "published_at": "2025-09-21T12:33:05Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/11/11a97ebf9694405a68ba0076ba9ca521868bf0cb73bb5af1e236fe6712b103d1.json",
-      "title": "भवन बस्न योग्य छ/छैन अध्ययन नगरी सिंहदरबारमा धमाधम रंगरोगन",
-      "url": "https://lokaantar.com/story/299722/2025/9/21/governance/singha-durbar",
-      "version": 1
-    },
-    {
-      "canonical_hash": "6bf43f71950dc5114a4523af9e78f290686e91108b8625688f05d3dc85ac9896",
-      "fetched_at": "2025-09-21T12:41:16.089864Z",
-      "id": "077a3186106ca34bca995de6c7a6f2367d03c17f2954ce759c04e1035888bdc9",
-      "images": [],
-      "published_at": "2025-09-21T12:31:09Z",
-      "source": {
-        "domain": "onlinekhabar.com",
-        "id": "onlinekhabar",
-        "name": "अनलाइनखबर"
-      },
-      "store_path": "domains/_store/07/077a3186106ca34bca995de6c7a6f2367d03c17f2954ce759c04e1035888bdc9.json",
-      "title": "काठमाडौं महानगरले भोलिदेखि दुर्गम क्षेत्रका गाउँपालिकालाई एम्बुलेन्स बाँड्दै",
-      "url": "https://www.onlinekhabar.com/2025/09/1769416/kathmandu-metropolitan-city-to-distribute-ambulances-to-rural-municipalities-in-remote-areas-starting-tomorrow",
-      "version": 1
-    },
-    {
-      "canonical_hash": "444f8432d65b619455d4dd74519cc210bf2191adf4286a6015f835438c5c1e9d",
-      "fetched_at": "2025-09-21T12:41:39.225743Z",
-      "id": "301b8c720866a2a4e43950dfd23811b6efc5b9a442938dd071363247637529d3",
-      "images": [],
-      "published_at": "2025-09-21T12:30:34Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/30/301b8c720866a2a4e43950dfd23811b6efc5b9a442938dd071363247637529d3.json",
-      "title": "वैदेशिक रोजगार विभागको भवन जले पनि सेवा निरन्तर",
-      "url": "https://www.reportersnepal.com/2025/09/1131372/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2a5d35e917be2ae80a9af723f4feb01fcc5883e2c5ad28925c6512ae735aade7",
-      "fetched_at": "2025-09-21T12:41:32.363090Z",
-      "id": "6257ffb29e40de834c88dad7717c8133f0c8466089f7e83ae2378cac97804ce2",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/pratibedan-150x150.jpeg"
-      ],
-      "published_at": "2025-09-21T12:29:20Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/62/6257ffb29e40de834c88dad7717c8133f0c8466089f7e83ae2378cac97804ce2.json",
-      "title": "राष्ट्रपतिसमक्ष लोक सेवा आयोगको वार्षिक प्रतिवेदन पेस",
-      "url": "https://newsofnepal.com/2025/09/21/732493/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ea7f532bdd4aea7e2edb2511e5f71e962d1fc9eefcdbcc3d81034a4c3d70a1cd",
-      "fetched_at": "2025-09-21T12:41:39.256003Z",
-      "id": "ea21be1220e133373d838e103a9e43b2eb78304a50ae4f66fbbeba4fef6e0480",
-      "images": [],
-      "published_at": "2025-09-21T12:28:14Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/ea/ea21be1220e133373d838e103a9e43b2eb78304a50ae4f66fbbeba4fef6e0480.json",
-      "title": "भारतीय राजदूतले भेटे मन्त्री घिसिङ, उर्जा सहकार्यको प्रगतबिारे चासो",
-      "url": "https://www.reportersnepal.com/2025/09/1131365/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "27c04b6fe5f864052bcdf182ebc11292fda4f8413d947a06a54993edc41717e3",
-      "fetched_at": "2025-09-21T12:41:48.582463Z",
-      "id": "3ad3e2a3b41565227d36a4791d61a8f1b6a888bb5e6f8c77fc618c8ee0e19052",
-      "images": [
-        "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk.jpg"
-      ],
-      "published_at": "2025-09-21T12:27:30Z",
-      "source": {
-        "domain": "imagekhabar.com",
-        "id": "imagekhabar",
-        "name": "Image Khabar"
-      },
-      "store_path": "domains/_store/3a/3ad3e2a3b41565227d36a4791d61a8f1b6a888bb5e6f8c77fc618c8ee0e19052.json",
-      "title": "अवरूद्ध नारायणगढ-मुग्लिन सडक एकतर्फी रूपमा सुचारू",
-      "url": "https://www.imagekhabar.com/news/508177/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "7cb2e03731e5c3826acea4f1b3df3657bcbf6fb64152da94f7c21d1cc0a3a8cb",
-      "fetched_at": "2025-09-21T12:41:39.284972Z",
-      "id": "3fce2c93d55a6fecb6fbb1260c4d8d33828a3e0bfe1b34acc91a791a7ead5603",
-      "images": [],
-      "published_at": "2025-09-21T12:26:04Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/3f/3fce2c93d55a6fecb6fbb1260c4d8d33828a3e0bfe1b34acc91a791a7ead5603.json",
-      "title": "जेनजी प्रदर्शनका क्रममा कांग्रेसका केन्द्रीय कार्यालयसहित ४८ जिल्ला कार्यालयमा क्षति",
-      "url": "https://www.reportersnepal.com/2025/09/1131362/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "db5bb89766287dec5a43882f7b533f8e857968769814181819c7f7a38a34235c",
-      "fetched_at": "2025-09-21T12:41:46.487447Z",
-      "id": "b4162306a07b368e27176da4ea0698a8a14fe31f0ad10b565fe1d3f6fc0dfac7",
-      "images": [],
-      "published_at": "2025-09-21T12:25:12Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/b4/b4162306a07b368e27176da4ea0698a8a14fe31f0ad10b565fe1d3f6fc0dfac7.json",
-      "title": "मन्त्री घिसिङ र भारतीय राजदूतबीच विद्युत् निर्यातलगायतमा छलफल",
-      "url": "https://www.prasashan.com/2025/09/21/703055/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "f7d1a6811666020006f238b893be0665c82dd80bc742be00f6da2893f27932d4",
-      "fetched_at": "2025-09-21T12:41:39.313598Z",
-      "id": "1ae504d801548768dff6df354df5f79925b704ec5c477eca770916c8e75fd50b",
-      "images": [],
-      "published_at": "2025-09-21T12:24:08Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/1a/1ae504d801548768dff6df354df5f79925b704ec5c477eca770916c8e75fd50b.json",
-      "title": "घृणाजन्य अभिव्यक्ति बन्द गर्न आयोगको आग्रह",
-      "url": "https://www.reportersnepal.com/2025/09/1131360/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2e63d74087746126e6cbba80adc86b9245f6670b42251d90c9e68294fc763dda",
-      "fetched_at": "2025-09-21T12:41:19.760031Z",
-      "id": "4366d0267f8d29a2ad4888eff2fd532c2b6dd54c57162efcc3cfc95f256cabd7",
-      "images": [],
-      "published_at": "2025-09-21T12:24:03Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/43/4366d0267f8d29a2ad4888eff2fd532c2b6dd54c57162efcc3cfc95f256cabd7.json",
-      "title": "नख्खु कारागारबाट भागेका कैदीले श्रीमतीकाे हत्या गरे",
-      "url": "https://ujyaaloonline.com/story/120299/2025/9/21/Prisoner-escaped-from-Nakkhu-prison-killed-wife",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9cfeb6ff1fd9cd6599771f340769dd0484cd98d9b5bff3265da65cebee12b439",
-      "fetched_at": "2025-09-21T12:41:13.668461Z",
-      "id": "b1909e69b04a118f1608fe341559d4b8c49801f07cc12f207a4ebd2d6bb93fa9",
-      "images": [
-        "https://images.nagariknewscdn.com/2024/third-party/1758457381_Kulman_India.jpg"
-      ],
-      "published_at": "2025-09-21T12:23:45Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/b1/b1909e69b04a118f1608fe341559d4b8c49801f07cc12f207a4ebd2d6bb93fa9.json",
-      "title": "विद्युत निर्यातका विषयमा मन्त्री घिसिङ र भारतीय राजदूतले गरे छलफल",
-      "url": "https://nagariknews.nagariknetwork.com/politics/minister-ghising-and-indian-ambassador-discuss-electricity-export-70-64.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2e79b585c471a02578d87ad2ef4ddb3184066bbfff4bee73ada9a0d504e6fcf1",
-      "fetched_at": "2025-09-21T12:41:16.121320Z",
-      "id": "29bd4a8ae70c179a59e0e4303109891ba0782415057e614a401ed9602c9322fd",
-      "images": [],
-      "published_at": "2025-09-21T12:23:43Z",
-      "source": {
-        "domain": "onlinekhabar.com",
-        "id": "onlinekhabar",
-        "name": "अनलाइनखबर"
-      },
-      "store_path": "domains/_store/29/29bd4a8ae70c179a59e0e4303109891ba0782415057e614a401ed9602c9322fd.json",
-      "title": "गोलीले छातीमा प्वालै-प्वाल बनाएका जेनजीको कहालीलाग्दो कथा",
-      "url": "https://www.onlinekhabar.com/2025/09/1769377/the-shocking-story-of-genji-who-had-a-bullet-hole-in-his-chest",
-      "version": 1
-    },
-    {
-      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "fetched_at": "2025-09-21T12:41:33.972985Z",
-      "id": "01833f07a2c2c5b5dc1074a3679b123cd6e5c3566f5717fa3865313c8cca6655",
-      "images": [],
-      "published_at": "2025-09-21T12:23:40Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/01/01833f07a2c2c5b5dc1074a3679b123cd6e5c3566f5717fa3865313c8cca6655.json",
-      "title": "रास्वपा प्रवक्ता मनिष झा भन्छन्–  नख्खु घटनाको गल्ती स्वीकारेर अघि बढ्नुपर्छ",
-      "url": "https://shilapatra.com/detail/168354",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5f41c8c450e12c7d5fa585e48dcd195e44430c6ca433b8c8af98b2c9e036dfe5",
-      "fetched_at": "2025-09-21T12:41:28.866970Z",
-      "id": "b5d64ae198b1ffc889686d9e4b6e50f7a4f7d3147f4c1aab62286f94608e8569",
-      "images": [],
-      "published_at": "2025-09-21T12:23:39Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/b5/b5d64ae198b1ffc889686d9e4b6e50f7a4f7d3147f4c1aab62286f94608e8569.json",
-      "title": "प्रधानमन्त्री कार्कीसँग विपिन जोशीकी आमा र बहिनीको भेट",
-      "url": "https://lokaantar.com/story/299721/2025/9/21/current-affairs/bipin-joshi-",
       "version": 1
     }
   ]
