@@ -1,0 +1,484 @@
+{
+  "author": "रासस",
+  "content": "",
+  "description": "दोधारा चाँदनी – दसैँको समयमा सामाजिक सुरक्षा भत्ता नपाउँदा राउटे निराश बनेका छन्। राउटेका अनुसार उनीहरुले साउनयता सामाजिक सुरक्षा भत्ता पाएका छैनन्।",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-22T22:28:33.096807Z",
+  "id": "8c0004bfbf039e8136b715bc0b29e652a203530a9411ebb6cb2d2feb2c1e06ac",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/09/22/1096981/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार",
+              "समाज",
+              "सुदूरपश्‍चिम प्रदेश"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+              "name": "रासस"
+            },
+            "commentCount": 0,
+            "datePublished": "2025-09-22T15:03:50+00:00",
+            "headline": "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/09/22/1096981/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/22/1096981/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/#breadcrumb"
+            },
+            "datePublished": "2025-09-22T15:03:50+00:00",
+            "description": "दोधारा चाँदनी – दसैँको समयमा सामाजिक सुरक्षा भत्ता नपाउँदा राउटे निराश बनेका छन्। राउटेका अनुसार उनीहरुले साउनयता सामाजिक सुरक्षा भत्ता पाएका छैनन्।",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/09/22/1096981/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg",
+            "url": "https://deshsanchar.com/2025/09/22/1096981/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/22/1096981/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल फोटो",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg",
+            "height": 750,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/22/1096981/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "रासस",
+              "contentUrl": "https://secure.gravatar.com/avatar/1f3c85d69178244391739a2d1475649a?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/1f3c85d69178244391739a2d1475649a?s=96&d=mm&r=g"
+            },
+            "name": "रासस",
+            "url": "https://deshsanchar.com/author/rasasa/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता"
+          ],
+          [
+            "og:description",
+            "दोधारा चाँदनी – दसैँको समयमा सामाजिक सुरक्षा भत्ता नपाउँदा राउटे निराश बनेका छन्। राउटेका अनुसार उनीहरुले साउनयता सामाजिक सुरक्षा भत्ता पाएका छैनन्।"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/09/22/1096981/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-09-22T15:03:50+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg"
+          ],
+          [
+            "og:image:width",
+            "1000"
+          ],
+          [
+            "og:image:height",
+            "750"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार",
+                "समाज",
+                "सुदूरपश्‍चिम प्रदेश"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+                "name": "रासस"
+              },
+              "commentCount": 0,
+              "datePublished": "2025-09-22T15:03:50+00:00",
+              "headline": "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/09/22/1096981/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/09/22/1096981/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/09/22/1096981/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/09/22/1096981/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/09/22/1096981/#breadcrumb"
+              },
+              "datePublished": "2025-09-22T15:03:50+00:00",
+              "description": "दोधारा चाँदनी – दसैँको समयमा सामाजिक सुरक्षा भत्ता नपाउँदा राउटे निराश बनेका छन्। राउटेका अनुसार उनीहरुले साउनयता सामाजिक सुरक्षा भत्ता पाएका छैनन्।",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/09/22/1096981/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/09/22/1096981/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/09/22/1096981/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg",
+              "url": "https://deshsanchar.com/2025/09/22/1096981/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल फोटो",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg",
+              "height": 750,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/22/1096981/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "रासस",
+                "contentUrl": "https://secure.gravatar.com/avatar/1f3c85d69178244391739a2d1475649a?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/1f3c85d69178244391739a2d1475649a?s=96&d=mm&r=g"
+              },
+              "name": "रासस",
+              "url": "https://deshsanchar.com/author/rasasa/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता"
+            ],
+            [
+              "og:description",
+              "दोधारा चाँदनी – दसैँको समयमा सामाजिक सुरक्षा भत्ता नपाउँदा राउटे निराश बनेका छन्। राउटेका अनुसार उनीहरुले साउनयता सामाजिक सुरक्षा भत्ता पाएका छैनन्।"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/09/22/1096981/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-09-22T15:03:50+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2018/10/15174055/Raute-ko-Dashain-6.jpg"
+            ],
+            [
+              "og:image:width",
+              "1000"
+            ],
+            [
+              "og:image:height",
+              "750"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-22T15:03:50Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/8c/8c0004bfbf039e8136b715bc0b29e652a203530a9411ebb6cb2d2feb2c1e06ac.json",
+  "title": "राउटेले पाएनन् सामाजिक सुरक्षा भत्ता",
+  "url": "https://deshsanchar.com/2025/09/22/1096981/",
+  "version": 1
+}
