@@ -1,7 +1,541 @@
 {
-  "count": 9376,
-  "lastUpdated": "2025-09-22T06:36:20.400107Z",
+  "count": 9417,
+  "lastUpdated": "2025-09-22T06:57:43.030507Z",
   "recent": [
+    {
+      "canonical_hash": "6ed3fa128d21f6c6272198c583077fd4c399f5002b8d758cac21114b1baa5b61",
+      "fetched_at": "2025-09-22T06:57:42.940251Z",
+      "id": "6faedc714074573c4a33ce72692d22e23a3e9373a3f43460232804c79b534f4e",
+      "images": [],
+      "published_at": "2025-09-22T06:56:05Z",
+      "source": {
+        "domain": "bizpati.com",
+        "id": "bizpati",
+        "name": "Bizpati"
+      },
+      "store_path": "domains/_store/6f/6faedc714074573c4a33ce72692d22e23a3e9373a3f43460232804c79b534f4e.json",
+      "title": "नेपाल टेलिकमको दसैँ-तिहार-छठ अफर सार्वजनिक, डाटा र भ्वाइस प्याकेजमा छुट",
+      "url": "https://bizpati.com/2025/09/178216/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f991e31be3cff9aa853b5df10e187b97c8a30557df43b21b6c11576fede65df7",
+      "fetched_at": "2025-09-22T06:56:49.408547Z",
+      "id": "150cf2b77bad7f77aa457b6a05c3e12144f2ea7412aeca31fe7a9c18179fe1c8",
+      "images": [],
+      "published_at": "2025-09-22T06:54:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/15/150cf2b77bad7f77aa457b6a05c3e12144f2ea7412aeca31fe7a9c18179fe1c8.json",
+      "title": "फिल्म 'जेरीः अन टप' को पहिलो गीत सार्वजनिक (भिडिओ)",
+      "url": "https://www.setopati.com/art/art-activity/369981",
+      "version": 1
+    },
+    {
+      "canonical_hash": "c4c1a5afafff9e725b727b2e27f2df353426339d5c30d7890fb9d53c38062149",
+      "fetched_at": "2025-09-22T06:57:08.317593Z",
+      "id": "c4c2fe34170fce515f9cc09d21c319f9c12875c48fb8b892d3f5b2227979657f",
+      "images": [],
+      "published_at": "2025-09-22T06:53:57Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/c4/c4c2fe34170fce515f9cc09d21c319f9c12875c48fb8b892d3f5b2227979657f.json",
+      "title": "फिलिपिन्स–ताइवानमा रागासा सुपर टाइफुन : निकासी, विद्यालय–कार्यालय बन्द",
+      "url": "https://www.reportersnepal.com/2025/09/1131572/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "36cd5c4599407b3a7d9747d4ff26be86b7dd8d660f687d901c07a8562bbdd3fd",
+      "fetched_at": "2025-09-22T06:56:55.807180Z",
+      "id": "323f2db04f0b96e5f665878831316cb485b30a267c527cfa11def550f30c6918",
+      "images": [],
+      "published_at": "2025-09-22T06:53:07Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/32/323f2db04f0b96e5f665878831316cb485b30a267c527cfa11def550f30c6918.json",
+      "title": "रास्वपाको केन्द्रीय समितिको बैठक बोलाइयो",
+      "url": "https://www.nepaljapan.com/09/22/682086/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "87820ee0b71d98989973fa320bfd94f78e398ee5c85bd4b6bffa29f210a2b15f",
+      "fetched_at": "2025-09-22T06:57:15.268955Z",
+      "id": "40fb8042056878e80576f67fa58cfcbc6567f943fc216f67431af8426d58d260",
+      "images": [],
+      "published_at": "2025-09-22T06:52:59Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/40/40fb8042056878e80576f67fa58cfcbc6567f943fc216f67431af8426d58d260.json",
+      "title": "१९ किलो लागूऔषध चरेस बरामद",
+      "url": "https://www.prasashan.com/2025/09/22/703241/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "b96e09a514b53c2271fd699be81c675094fead698f8d81ed45951d1ae8f9cee3",
+      "fetched_at": "2025-09-22T06:57:00.882701Z",
+      "id": "c84ea6173f03e5e06dafddbb15880909c3b186d6a066bc8601c5bb1822890920",
+      "images": [],
+      "published_at": "2025-09-22T06:52:53Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/c8/c84ea6173f03e5e06dafddbb15880909c3b186d6a066bc8601c5bb1822890920.json",
+      "title": "भारत-पाकिस्तान खेलका पाँच विवाद : अभिषेकको भिडन्तदेखि फरहानको 'गन सेलिब्रेसन'सम्म",
+      "url": "https://lokaantar.com/story/299773/2025/9/22/sports/india-pakistan-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "85aac55563e403ae7edee4ebd6057ffc48c2a904247f5d608f1fbf9dc8481799",
+      "fetched_at": "2025-09-22T06:57:20.208601Z",
+      "id": "9610b9f8b28aa67cb8682e09791e3c368eb4f2987345346ac57ab13db39d0cb9",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/elephant-kanchanpoor-400x220.jpg"
+      ],
+      "published_at": "2025-09-22T06:52:18Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/96/9610b9f8b28aa67cb8682e09791e3c368eb4f2987345346ac57ab13db39d0cb9.json",
+      "title": "हात्ती भगाउने पुराना तरिका असफल, किसान चिन्तित",
+      "url": "https://khabarhub.com/2025/22/855375/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f4e3fac1510c395d5da2cfc0342822aa5143f96cbbaf018625130f413b78057e",
+      "fetched_at": "2025-09-22T06:56:46.800303Z",
+      "id": "4e646f3f1e6e1c4bb1d87e745a3b34e46bbe3bb96581aab65708f273f2f56ded",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758503678_Muglin%20Sadak.jpg"
+      ],
+      "published_at": "2025-09-22T06:50:37Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/4e/4e646f3f1e6e1c4bb1d87e745a3b34e46bbe3bb96581aab65708f273f2f56ded.json",
+      "title": "नारायणगढ–मुग्लिन सडक आज दुई घण्टा बन्द",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/narayangadh-muglin-road-closed-for-two-hours-today-18-18.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "06ca3a541658712d114c5c58d3c78b5d0a8612df1fe810aa1dc16ebf0f59a775",
+      "fetched_at": "2025-09-22T06:57:08.345980Z",
+      "id": "68c2d53905813d2ac1b267cc9d875dffdee3125dfcf3beef0e3cc69720091256",
+      "images": [],
+      "published_at": "2025-09-22T06:50:29Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/68/68c2d53905813d2ac1b267cc9d875dffdee3125dfcf3beef0e3cc69720091256.json",
+      "title": "दसैँमा सर्वोच्च अदालतमा बन्दीको रिट सुनुवाइ हुने",
+      "url": "https://www.reportersnepal.com/2025/09/1131567/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "526698c261460c86833f49c524a2453f649d0fc7087bf8aa9cfb810337e39550",
+      "fetched_at": "2025-09-22T06:57:08.373926Z",
+      "id": "9fd3440ee84c771d3a1817945b6427eda4fcefcce49224a923cd253f36658768",
+      "images": [],
+      "published_at": "2025-09-22T06:50:07Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/9f/9fd3440ee84c771d3a1817945b6427eda4fcefcce49224a923cd253f36658768.json",
+      "title": "चार मन्त्रीको नियुक्ति र शपथ आजै, संगिताको नाम ‘होल्ड’ मा",
+      "url": "https://www.reportersnepal.com/2025/09/1131566/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d422085697c69db61ed3074c7639502fbce4b6521e24795303e677dcff97110b",
+      "fetched_at": "2025-09-22T06:56:54.370474Z",
+      "id": "ca7a2d1ed4276f2a0531dbce559d5ba3a778fd2abc80c9685200600f2ce761b1",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/Lumbini-Pradesh-ma-chheti-400x220.jpg"
+      ],
+      "published_at": "2025-09-22T06:50:02Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/ca/ca7a2d1ed4276f2a0531dbce559d5ba3a778fd2abc80c9685200600f2ce761b1.json",
+      "title": "लुम्बिनीमा १३२ सरकारी कार्यालयमा तोडफोड र आगजनी",
+      "url": "https://www.karobardaily.com/news/301282",
+      "version": 1
+    },
+    {
+      "canonical_hash": "9f18f5b5d9b1eb97bd93314b788f35bdd1486403f4577ac4da491f991c6005e4",
+      "fetched_at": "2025-09-22T06:57:15.976279Z",
+      "id": "657961c8e643bf03fb5186009091a6e5219a86ea33a73b89ce5f864d7e1b1d79",
+      "images": [
+        "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel.jpg"
+      ],
+      "published_at": "2025-09-22T06:49:28Z",
+      "source": {
+        "domain": "imagekhabar.com",
+        "id": "imagekhabar",
+        "name": "Image Khabar"
+      },
+      "store_path": "domains/_store/65/657961c8e643bf03fb5186009091a6e5219a86ea33a73b89ce5f864d7e1b1d79.json",
+      "title": "सञ्चारमन्त्री जगदीश खरेलले साढे ३ पदबहाली गर्ने",
+      "url": "https://www.imagekhabar.com/news/508287/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "36176ae70173dacb1960a93261b7549a0456632726ea22469fe482f10eae487a",
+      "fetched_at": "2025-09-22T06:56:55.835293Z",
+      "id": "fec4eb73445710788cd0db569b1ccb809b4d357bf7df819b2659637d294d3b79",
+      "images": [],
+      "published_at": "2025-09-22T06:49:14Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/fe/fec4eb73445710788cd0db569b1ccb809b4d357bf7df819b2659637d294d3b79.json",
+      "title": "वेस्ट इन्डिजविरुद्ध युनिटी कप टी-२० क्रिकेट खेल्न नेपाली टोली आज यूएई जाँदै",
+      "url": "https://www.nepaljapan.com/09/22/682084/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "28e73af32f9cb762ff401cdfd69c70de575f16d20c313282b7484db4c85a92d1",
+      "fetched_at": "2025-09-22T06:57:42.971610Z",
+      "id": "055e880cda982a6d6ccd68f065ce955b69aff3965e37ac4ac4bfcd2535f4eb7e",
+      "images": [],
+      "published_at": "2025-09-22T06:48:57Z",
+      "source": {
+        "domain": "bizpati.com",
+        "id": "bizpati",
+        "name": "Bizpati"
+      },
+      "store_path": "domains/_store/05/055e880cda982a6d6ccd68f065ce955b69aff3965e37ac4ac4bfcd2535f4eb7e.json",
+      "title": "नेपालमा किन बढेको बढ्यै छ सुनको मूल्य ?",
+      "url": "https://bizpati.com/2025/09/178214/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "36c7eef2769f7baab33fb26f7f3ad8d8c36608324b80e11adf76a7f73441b74d",
+      "fetched_at": "2025-09-22T06:57:24.959277Z",
+      "id": "eb988ac0d6eeb2ffdd93ecad224ad8fe4e1bfd254fa09939f7dc0879519cd103",
+      "images": [],
+      "published_at": "2025-09-22T06:47:42Z",
+      "source": {
+        "domain": "nepalnews.com",
+        "id": "nepalnews",
+        "name": "Nepalnews"
+      },
+      "store_path": "domains/_store/eb/eb988ac0d6eeb2ffdd93ecad224ad8fe4e1bfd254fa09939f7dc0879519cd103.json",
+      "title": "नारायणगढ–मुग्लिन सडक आज १ बजेदेखि ३ बजेसम्म बन्द गरिने",
+      "url": "https://nepalnews.com/2025/09/22/narayangadh-muglin-road-to-be-closed-from-1-pm-to-3-pm-today/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "dc1fba55187024a60aff9af3b3e0dc05201a0dbad5076ecbdc5603fc6bc52117",
+      "fetched_at": "2025-09-22T06:57:20.236213Z",
+      "id": "854ca3de0d85d1a7ee5bb81a7a35ab8c7ce4ab971ca3488c368718a3ec6e6f38",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/04/kp-olii-400x220.jpg"
+      ],
+      "published_at": "2025-09-22T06:47:38Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/85/854ca3de0d85d1a7ee5bb81a7a35ab8c7ce4ab971ca3488c368718a3ec6e6f38.json",
+      "title": "गुन्डू ओर्लिएपछि ओली भन्दैछन्- विदेशीले खेले, बरू चरेस खानू, हरेस नखानू",
+      "url": "https://khabarhub.com/2025/22/855352/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d7ece76560ae9195fd5bbd4a513f0ebf3c94217ae68c1603f61599291604ee21",
+      "fetched_at": "2025-09-22T06:57:15.303945Z",
+      "id": "d53f5da242fa29675560eb3b6929ff71016fe1b48b8bb6bff436e4d478ae7d15",
+      "images": [],
+      "published_at": "2025-09-22T06:47:33Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/d5/d53f5da242fa29675560eb3b6929ff71016fe1b48b8bb6bff436e4d478ae7d15.json",
+      "title": "युनिटी कप अन्तर्राष्ट्रिय क्रिकेट : नेपाली टोली आज युएई जाँदै",
+      "url": "https://www.prasashan.com/2025/09/22/703238/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "f76edc7b51195045fe8b12783510a1f1e5edb1dc9c971cd5ecebe3edd3abf29c",
+      "fetched_at": "2025-09-22T06:57:20.263535Z",
+      "id": "651f842eedaac970e093d4a9eccd2837198b789d059a490f3728dccb5234335c",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/04/muglin-Pokhara-Highway100-400x220.jpg"
+      ],
+      "published_at": "2025-09-22T06:45:13Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/65/651f842eedaac970e093d4a9eccd2837198b789d059a490f3728dccb5234335c.json",
+      "title": "नारायणगढ–मुग्लिन सडक : सोमबार १ देखि ३ बजेसम्म बन्द गरिने",
+      "url": "https://khabarhub.com/2025/22/855371/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "40f883e3710c6df461dc143e30effa5d572e89649d4ecc006776839b0ec4464f",
+      "fetched_at": "2025-09-22T06:57:04.404795Z",
+      "id": "615efd23dbe87726eeb710773e0b768fe0f40b5f0f1d91a397c11987ad84270b",
+      "images": [],
+      "published_at": "2025-09-22T06:44:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/61/615efd23dbe87726eeb710773e0b768fe0f40b5f0f1d91a397c11987ad84270b.json",
+      "title": "फरार कैदीका कारण सुदूरपश्चिममा बढ्यो सुरक्षा चुनौती, चाडपर्वका लागि कस्तो बन्दै छ योजना ?",
+      "url": "https://shilapatra.com/detail/168395",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d035ac5a05f437362f1d37014a07afe85537b00a82c8a4b650d28d51eaba29de",
+      "fetched_at": "2025-09-22T06:57:43.003142Z",
+      "id": "7ad1a13e73fc7c70eb25b970c37926f7f3a5b996cda2343ad67c5535419302ee",
+      "images": [],
+      "published_at": "2025-09-22T06:43:33Z",
+      "source": {
+        "domain": "bizpati.com",
+        "id": "bizpati",
+        "name": "Bizpati"
+      },
+      "store_path": "domains/_store/7a/7ad1a13e73fc7c70eb25b970c37926f7f3a5b996cda2343ad67c5535419302ee.json",
+      "title": "जेडटीईले नेपाली बजारमा ल्यायो नुबिया ए५६ र ए३६, कतिपर्छ मूल्य ?",
+      "url": "https://bizpati.com/2025/09/178211/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "6d516310204f2ad5b9d5ecc5f953dc04996047f42f8d2fa14626e4d515b8c133",
+      "fetched_at": "2025-09-22T06:57:20.290579Z",
+      "id": "456ee247623a1dbaff9dbca1615e72ba2e8a2880a3559a72d14cd840c5b974d4",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/unite-cup-400x220.jpg"
+      ],
+      "published_at": "2025-09-22T06:43:02Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/45/456ee247623a1dbaff9dbca1615e72ba2e8a2880a3559a72d14cd840c5b974d4.json",
+      "title": "युनिटी कप अन्तर्राष्ट्रिय क्रिकेट : नेपाली टोली आज युएई जाँदै",
+      "url": "https://khabarhub.com/2025/22/855365/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8b8de6371dee1794f8d41ce48ad0bfdcae5d0a14dd24cac467c03b0b446a5da0",
+      "fetched_at": "2025-09-22T06:57:08.402107Z",
+      "id": "efce0b1efa2143e5fc41047ca3d68536e63372b1737ca2098d31eb896de66b9e",
+      "images": [],
+      "published_at": "2025-09-22T06:42:00Z",
+      "source": {
+        "domain": "reportersnepal.com",
+        "id": "reportersnepal",
+        "name": "Reporters Nepal"
+      },
+      "store_path": "domains/_store/ef/efce0b1efa2143e5fc41047ca3d68536e63372b1737ca2098d31eb896de66b9e.json",
+      "title": "आश्विन शुक्ल प्रतिपदाः हनुमानढोकाको दसैँ घरमा वैदिक विधिपूर्वक घटस्थापना",
+      "url": "https://www.reportersnepal.com/2025/09/1131558/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "700d38ceec07ee4d7e20b8f51359f067df666444fefe0fbfcd377b5cb5d17a99",
+      "fetched_at": "2025-09-22T06:57:20.317584Z",
+      "id": "5c7b6a75426165ca56119c24b93fdf0db619e6cd86849ece8e8532c70366eed9",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2025/09/bada-dasai-suru-frame-at-0m42s-400x220.jpg"
+      ],
+      "published_at": "2025-09-22T06:41:54Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/5c/5c7b6a75426165ca56119c24b93fdf0db619e6cd86849ece8e8532c70366eed9.json",
+      "title": "दसैँ सुरु भएसँगै देशभरका शक्तिपिठमा भक्तजनको घुइँचो",
+      "url": "https://khabarhub.com/2025/22/855362/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "d4543c072890dc006ee1af53577fa21d13edfd83f5564daf5283418b1432f448",
+      "fetched_at": "2025-09-22T06:57:15.330743Z",
+      "id": "a59d7ef029dcceebfc01e2a20da16698b470be0c94efe2a7aa16c6bc5707d8fb",
+      "images": [],
+      "published_at": "2025-09-22T06:40:26Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/a5/a59d7ef029dcceebfc01e2a20da16698b470be0c94efe2a7aa16c6bc5707d8fb.json",
+      "title": "चाडपर्व लक्षित विशेष अनुगमनमा पृथ्वी र अरनिको राजमार्ग आसपासका होटल र डेरी उद्योग निरीक्षण",
+      "url": "https://www.prasashan.com/2025/09/22/703235/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-22T06:57:04.432119Z",
+      "id": "18a4d44296e9e23b51565735e9cb7af8356a352a9237d0a0556ad42df599156a",
+      "images": [],
+      "published_at": "2025-09-22T06:40:00Z",
+      "source": {
+        "domain": "shilapatra.com",
+        "id": "shilapatra",
+        "name": "Shilapatra"
+      },
+      "store_path": "domains/_store/18/18a4d44296e9e23b51565735e9cb7af8356a352a9237d0a0556ad42df599156a.json",
+      "title": "श्रीमती गुमाएको दुई वर्षपछि जेन–जी आन्दोलनमा शहीद बने साजन, दुई छोराको बिचल्ली",
+      "url": "https://shilapatra.com/detail/168391",
+      "version": 1
+    },
+    {
+      "canonical_hash": "1e537e336c6903266e183cb9c37cb0757e34aae88c0d436e071e807fd0a9ba41",
+      "fetched_at": "2025-09-22T06:57:00.910950Z",
+      "id": "103d79d77dc5889a97d49ec4ac830eada7cf390560fdd15108dc0ef0286fb02c",
+      "images": [],
+      "published_at": "2025-09-22T06:39:35Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/10/103d79d77dc5889a97d49ec4ac830eada7cf390560fdd15108dc0ef0286fb02c.json",
+      "title": "नेपाल टेलिकमले ल्यायो दशैं-तिहार-छठ अफर, यस्ता छन् विशेषता",
+      "url": "https://lokaantar.com/story/299772/2025/9/22/information-technology/nepal-telecom-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "1852ac4a708af29ff67cb98457cd357524008841d03879195e1d563ec5f9f7ed",
+      "fetched_at": "2025-09-22T06:56:55.862789Z",
+      "id": "56aba86fd248020b4c8440dafc52794b4ba37373ec91cb4f9f174d89c8ded9b7",
+      "images": [],
+      "published_at": "2025-09-22T06:39:06Z",
+      "source": {
+        "domain": "nepaljapan.com",
+        "id": "nepaljapan",
+        "name": "NepalJapan"
+      },
+      "store_path": "domains/_store/56/56aba86fd248020b4c8440dafc52794b4ba37373ec91cb4f9f174d89c8ded9b7.json",
+      "title": "किमको प्रस्ताव : ट्रम्पसँगका ‘मनपर्ने सम्झना’, आणविक हातियारसहित अमेरिकी वार्तामा खुला",
+      "url": "https://www.nepaljapan.com/09/22/682081/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "cd0b7de37c8cdd136a64cc345c17e1167b0e61316a7030aaf5c7998769936ee6",
+      "fetched_at": "2025-09-22T06:56:46.831525Z",
+      "id": "ce6408428c661afe3f56a2ebe905e6014150ad608b48c624154c1b5dbd0c0fc1",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758523060_Protesters%20in%20Philippines.jpg"
+      ],
+      "published_at": "2025-09-22T06:39:04Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/ce/ce6408428c661afe3f56a2ebe905e6014150ad608b48c624154c1b5dbd0c0fc1.json",
+      "title": "भ्रष्टाचारविरुद्ध फिलिपिन्सका हजारौँ जेन-जी सडकमा उत्रिए",
+      "url": "https://nagariknews.nagariknetwork.com/international/thousands-of-gen-zers-in-the-philippines-take-to-the-streets-against-corruption-68-21.html",
+      "version": 1
+    },
+    {
+      "canonical_hash": "ce55889357f75fcf5cd5078940bc00f42d0029902392af088c7bacb20badde8a",
+      "fetched_at": "2025-09-22T06:57:20.345702Z",
+      "id": "bebb35dc61bb9d39d26d4446acceb2d3aeb3ee34751150e2ae65fb776480aaec",
+      "images": [
+        "https://www.khabarhub.com/wp-content/uploads/2024/05/Kim-400x220.jpg"
+      ],
+      "published_at": "2025-09-22T06:38:21Z",
+      "source": {
+        "domain": "khabarhub.com",
+        "id": "khabarhub",
+        "name": "Khabarhub"
+      },
+      "store_path": "domains/_store/be/bebb35dc61bb9d39d26d4446acceb2d3aeb3ee34751150e2ae65fb776480aaec.json",
+      "title": "किमको प्रस्ताव : ट्रम्पसँगका ‘मनपर्ने सम्झना’, आणविक हतियारसहित अमेरिकी वार्तामा खुला",
+      "url": "https://khabarhub.com/2025/22/855355/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "8e05769b6b1b004fc060c639e83184c4bad83b7e965be31da3b080a947e0b135",
+      "fetched_at": "2025-09-22T06:57:00.939045Z",
+      "id": "47429e6526b17141e8a58d948d42428d670582774e8761fb168af96812979991",
+      "images": [],
+      "published_at": "2025-09-22T06:38:00Z",
+      "source": {
+        "domain": "lokaantar.com",
+        "id": "lokaantar",
+        "name": "Lokaantar"
+      },
+      "store_path": "domains/_store/47/47429e6526b17141e8a58d948d42428d670582774e8761fb168af96812979991.json",
+      "title": "दशैँमा पनि सर्वोच्च अदालतमा बन्दीप्रत्यक्षीकरणको रिट सुनुवाइ हुने",
+      "url": "https://lokaantar.com/story/299771/2025/9/22/governance/supreme-court-",
+      "version": 1
+    },
+    {
+      "canonical_hash": "2cb6369615d413afe130f260753de3abb68590cb708261139bce405c0320ea03",
+      "fetched_at": "2025-09-22T06:56:54.397643Z",
+      "id": "c3632bc7640f50d76ba37f15a230ccbbfa9ad2a781ff15317ea4455355f2985c",
+      "images": [
+        "https://www.karobardaily.com/wp-content/uploads/2025/09/guthichour-pyaraglaiding-400x220.jpg"
+      ],
+      "published_at": "2025-09-22T06:37:02Z",
+      "source": {
+        "domain": "karobardaily.com",
+        "id": "karobardaily",
+        "name": "कारोबार दैनिक"
+      },
+      "store_path": "domains/_store/c3/c3632bc7640f50d76ba37f15a230ccbbfa9ad2a781ff15317ea4455355f2985c.json",
+      "title": "गुठीचौरमा पर्यटक तान्न प्याराग्लाइडिङ महोत्सव",
+      "url": "https://www.karobardaily.com/news/301278",
+      "version": 1
+    },
+    {
+      "canonical_hash": "84c663c63c9338cd3fa6c0e108af63edde45861052ddaf25491ec0a3c9b75bd0",
+      "fetched_at": "2025-09-22T06:57:15.357604Z",
+      "id": "5232713bcf7cc3793115604d9b9afc5bb3dedee17070a12a783800ac34c5c950",
+      "images": [],
+      "published_at": "2025-09-22T06:36:40Z",
+      "source": {
+        "domain": "prasashan.com",
+        "id": "prasashan",
+        "name": "Prashasan"
+      },
+      "store_path": "domains/_store/52/5232713bcf7cc3793115604d9b9afc5bb3dedee17070a12a783800ac34c5c950.json",
+      "title": "उदयपुरमा खोलाले बगाउँदा एक जनाको मृत्यु",
+      "url": "https://www.prasashan.com/2025/09/22/703233/",
+      "version": 1
+    },
     {
       "canonical_hash": "6ab53e487ebbeb56efafaa5b00808872ec33dc12f2a5f4e8590bc16ca890d24c",
       "fetched_at": "2025-09-22T06:35:57.422487Z",
@@ -34,6 +568,22 @@
       "store_path": "domains/_store/12/1205c035bf546e827d850acd70aac2bab6263aefd5c8575635366a40bab0620a.json",
       "title": "गण्डकीका चार सय ६१ कैदीबन्दी अझै फरार",
       "url": "https://www.reportersnepal.com/2025/09/1131553/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "3e3aea9945ad0bca1d222223602384119010add0282644ad8ebdd89313e592bc",
+      "fetched_at": "2025-09-22T06:56:49.014344Z",
+      "id": "33d8b6a7276f6531d5ffa881d5cf7887ac3907b2262bd9c24667dedd8650c027",
+      "images": [],
+      "published_at": "2025-09-22T06:33:44Z",
+      "source": {
+        "domain": "onlinekhabar.com",
+        "id": "onlinekhabar",
+        "name": "अनलाइनखबर"
+      },
+      "store_path": "domains/_store/33/33d8b6a7276f6531d5ffa881d5cf7887ac3907b2262bd9c24667dedd8650c027.json",
+      "title": "गुल्मीको मदाने गाउँपालिकाले शिक्षकलाई दियो अभिमुखीकरण तालिम",
+      "url": "https://www.onlinekhabar.com/2025/09/1769829/madane-rural-municipality-of-gulmi-provides-orientation-training-to-teachers",
       "version": 1
     },
     {
@@ -87,6 +637,22 @@
       "version": 1
     },
     {
+      "canonical_hash": "09a5535af0c41b2c11abf096ef7b5c89dd7a5af29052bd9347b04c96ee9e4654",
+      "fetched_at": "2025-09-22T06:56:49.434941Z",
+      "id": "09438e89b8ff55e173df4b876e4d94e61fe29a733a34a01a43e3f47b4162f54a",
+      "images": [],
+      "published_at": "2025-09-22T06:32:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/09/09438e89b8ff55e173df4b876e4d94e61fe29a733a34a01a43e3f47b4162f54a.json",
+      "title": "रास्वपा लुम्बिनीले भन्यो– केन्द्रदेखि प्रदेशसम्मै पार्टी पुनर्गठन गरौं",
+      "url": "https://www.setopati.com/politics/369980",
+      "version": 1
+    },
+    {
       "canonical_hash": "02ec1a3a4d9546a6a2a0952dbeab98937b14a06d2f3fe29e5e6b07c8a792aeb9",
       "fetched_at": "2025-09-22T06:35:51.890578Z",
       "id": "5e9b90da407b6c1353e0f6a460772dd98084b4930920a8b25f7e920ecf2de4e6",
@@ -100,6 +666,22 @@
       "store_path": "domains/_store/5e/5e9b90da407b6c1353e0f6a460772dd98084b4930920a8b25f7e920ecf2de4e6.json",
       "title": "इन्स्पेक्टर यादव उत्कृष्ट प्रहरी घोषित",
       "url": "https://www.prasashan.com/2025/09/22/703229/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "294e0a3423922a200ca6fc3b9ccd7e8da566ac0183b2d60a21785f3446cae3b0",
+      "fetched_at": "2025-09-22T06:56:49.043038Z",
+      "id": "36c80064ba0b48e055faf60d5b073c90b80e132bcbddd22c54bcf2e74b6edcb4",
+      "images": [],
+      "published_at": "2025-09-22T06:31:12Z",
+      "source": {
+        "domain": "onlinekhabar.com",
+        "id": "onlinekhabar",
+        "name": "अनलाइनखबर"
+      },
+      "store_path": "domains/_store/36/36c80064ba0b48e055faf60d5b073c90b80e132bcbddd22c54bcf2e74b6edcb4.json",
+      "title": "सुशील श्रेष्ठ स्टारर ‘परिवर्तन’ ९ माघदेखि",
+      "url": "https://www.onlinekhabar.com/2025/09/1769828/sushil-shrestha-starrer-paribarn-from-9th-magh",
       "version": 1
     },
     {
@@ -118,6 +700,22 @@
       "store_path": "domains/_store/ae/ae48b2a5bb7f2db06a35e7c58fb0ba3ee19563eb7737d4b06957513764dca853.json",
       "title": "ईपीएसमार्फत कोरिया पठाउने प्रलोभन दिएर ठगी",
       "url": "https://www.karobardaily.com/news/301276",
+      "version": 1
+    },
+    {
+      "canonical_hash": "fa8c6569d5916876284c8831f9d453d801318d8cbfd068934f0c6e40a0c63e1f",
+      "fetched_at": "2025-09-22T06:56:49.461223Z",
+      "id": "8f1685fe50cfa712bfe40b413410f97eed9a2a5e3854e39d92097ebbab9cadb0",
+      "images": [],
+      "published_at": "2025-09-22T06:29:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/8f/8f1685fe50cfa712bfe40b413410f97eed9a2a5e3854e39d92097ebbab9cadb0.json",
+      "title": "जेन-जी आन्दोलनमा ज्यान गुमाएकाका परिवारको डा. जगत विकलाई स्वास्थ्यमन्त्री बनाउनुपर्ने माग",
+      "url": "https://www.setopati.com/politics/369977",
       "version": 1
     },
     {
@@ -170,6 +768,22 @@
       "store_path": "domains/_store/b9/b9238df183c647482ba3504bf4e1c0f9ecd44e31cdf91b91187d4faa742aab18.json",
       "title": "नेपाल टेलिकमले ल्यायो दशैँ तिहार अफर, यस्ता छन् छुट र अफर",
       "url": "https://khabarhub.com/2025/22/855349/",
+      "version": 1
+    },
+    {
+      "canonical_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fetched_at": "2025-09-22T06:56:49.487540Z",
+      "id": "08586926adc137edf985763357848fdc1af17abd4eaca9855205870130ca8455",
+      "images": [],
+      "published_at": "2025-09-22T06:26:00Z",
+      "source": {
+        "domain": "setopati.com",
+        "id": "setopati",
+        "name": "सेतोपाटी"
+      },
+      "store_path": "domains/_store/08/08586926adc137edf985763357848fdc1af17abd4eaca9855205870130ca8455.json",
+      "title": "क्लासिक टेकले ल्यायो दसैं अफर",
+      "url": "https://www.setopati.com/kinmel/information-technology/369979",
       "version": 1
     },
     {
@@ -510,6 +1124,24 @@
       "version": 1
     },
     {
+      "canonical_hash": "f8c67e711eae607a8f6fe5ecccceb71156c74e7324071984601f42ec9e631a8c",
+      "fetched_at": "2025-09-22T06:56:46.860154Z",
+      "id": "32c6d3ffb689f568f6fe7a4c72fd78de0e530b090b519807ca33c8a7a32e9c17",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1752995504_nagarika-1200x560.jpg"
+      ],
+      "published_at": "2025-09-22T06:14:19Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/32/32c6d3ffb689f568f6fe7a4c72fd78de0e530b090b519807ca33c8a7a32e9c17.json",
+      "title": "गण्डकीका चार सय ६१ कैदी अझै फरार",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/461-prisoners-from-gandaki-still-absconding-77-64.html",
+      "version": 1
+    },
+    {
       "canonical_hash": "3dc6d082890fe562c1c75f9bf3949a0ce07c38d8d119fcdeed28f61f4ccd2417",
       "fetched_at": "2025-09-22T06:35:29.518090Z",
       "id": "5c2c8162e4525533622ee88ee731c674af8fcf7ffed89a9952607e663e57b779",
@@ -643,6 +1275,24 @@
       "store_path": "domains/_store/92/928495e4c1757cd52e21d81c98317e8cf757a0ac6715f692903943ca5aa5119a.json",
       "title": "आईएमई लाइफका सेवाग्राहीलाई ओम कपन डेन्टलमा छुट",
       "url": "https://www.karobardaily.com/news/301264",
+      "version": 1
+    },
+    {
+      "canonical_hash": "1716a2f5511f82993ae535450961b820324558a2024db78b4411a3562c3de7c9",
+      "fetched_at": "2025-09-22T06:56:46.888774Z",
+      "id": "b9c05c05afd05c704bcedb991ddbf551bb9e427f20bcf637a1717c7c34cf33f6",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758521392_khur%20kot%2045.jpg"
+      ],
+      "published_at": "2025-09-22T06:06:44Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/b9/b9c05c05afd05c704bcedb991ddbf551bb9e427f20bcf637a1717c7c34cf33f6.json",
+      "title": "फर्कंदैछन् कारागार तोडेर भागेका कैदीबन्दी",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/prisoners-who-escaped-from-prison-are-returning-84-20.html",
       "version": 1
     },
     {
@@ -862,6 +1512,24 @@
       "version": 1
     },
     {
+      "canonical_hash": "49e959aed369147d8f7f605e8e009a8207a774b027b57ea470946b57178e3075",
+      "fetched_at": "2025-09-22T06:56:46.917311Z",
+      "id": "c14ea9f839f0203f90d34fca98057f3d7f9a811fee7833339fc594d9bdc1c3b8",
+      "images": [
+        "https://images.nagariknewscdn.com/2025/third-party/1758520451_Yatru.jpg"
+      ],
+      "published_at": "2025-09-22T05:54:26Z",
+      "source": {
+        "domain": "nagariknews.nagariknetwork.com",
+        "id": "nagariknews",
+        "name": "नागरिक दैनिक"
+      },
+      "store_path": "domains/_store/c1/c14ea9f839f0203f90d34fca98057f3d7f9a811fee7833339fc594d9bdc1c3b8.json",
+      "title": "बसपार्कमा यात्रु सहायता कक्ष स्थापना",
+      "url": "https://nagariknews.nagariknetwork.com/social-affairs/passenger-assistance-room-established-at-bus-park-30-99.html",
+      "version": 1
+    },
+    {
       "canonical_hash": "71e077f8d462a6ce0b0d05e7cd3df5f11c6d9b42c0049ca6f766d73fe550125e",
       "fetched_at": "2025-09-22T05:54:47.867777Z",
       "id": "a3f124670c02b22199bda21d432205d4e8b0858a23725270d9c4bc9d40ee6f09",
@@ -1022,684 +1690,6 @@
       "store_path": "domains/_store/63/639aa6edf3cedb5dd9b483776ad6ed698688a37d9fcf295cd96f7bb97414290e.json",
       "title": "डुडुवाले सहिद परिवारलाई एक लाख एक हजार दिने",
       "url": "https://nagariknews.nagariknetwork.com/social-affairs/duduwa-to-give-101-000-to-martyr-s-family-89-77.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "771a52fb0f218c85a32fab792d575731df555b55f741263d46247e44ac6e5249",
-      "fetched_at": "2025-09-22T05:54:25.401671Z",
-      "id": "d686f8af3a1bb8d0a78d1100eab28e23b07897b36619c319d5c7ee424750ce72",
-      "images": [],
-      "published_at": "2025-09-22T05:47:42Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/d6/d686f8af3a1bb8d0a78d1100eab28e23b07897b36619c319d5c7ee424750ce72.json",
-      "title": "बैंकिङ कारोबारका लागि आरटिजिएस प्रणाली खुला रहने",
-      "url": "https://www.reportersnepal.com/2025/09/1131531/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3b98943f72c34066f8cf45cc9c85f513d1297480e77e63a328e533781f3d7fc8",
-      "fetched_at": "2025-09-22T05:54:33.334978Z",
-      "id": "156bb0683bf66f909fefa1fce8cb10363914d99fbc3882638eb57fb2372d0f9c",
-      "images": [
-        "https://www.imagekhabar.com/wp-content/uploads/2025/09/ktm-1.jpg"
-      ],
-      "published_at": "2025-09-22T05:46:25Z",
-      "source": {
-        "domain": "imagekhabar.com",
-        "id": "imagekhabar",
-        "name": "Image Khabar"
-      },
-      "store_path": "domains/_store/15/156bb0683bf66f909fefa1fce8cb10363914d99fbc3882638eb57fb2372d0f9c.json",
-      "title": "दसैँमा गाउँ फर्किनेको लर्को, २४ घण्टामा ४३ हजारले छाडे काठमाडौं",
-      "url": "https://www.imagekhabar.com/news/508279/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "7c251a996b2a5ba82e96fb8e137cad8949382831614cff704f5da55d4653dc5c",
-      "fetched_at": "2025-09-22T05:54:15.797976Z",
-      "id": "1a87adf4154613d46b679ede2e2c44188226097bd0b5155f0ac79f8b9c3fd602",
-      "images": [],
-      "published_at": "2025-09-22T05:46:12Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/1a/1a87adf4154613d46b679ede2e2c44188226097bd0b5155f0ac79f8b9c3fd602.json",
-      "title": "मुग्लिन-नारायणगढ सडक आज २ घण्टा बन्द हुने​",
-      "url": "https://lokaantar.com/story/299765/2025/9/22/main-news/mugling-narayanghat-road-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "9def51b6cbb5e25205751adace12bf9b7c4c9211ec819e5c1b4dc933671fe9ef",
-      "fetched_at": "2025-09-22T05:54:21.435989Z",
-      "id": "57853354eb0c73cbfe15e67892735c053826bfcf99ef5e37e280e6eb93d0474c",
-      "images": [
-        "https://encdn.ratopati.com/media/setting/default-banner_2uD78e1iMP.jpg"
-      ],
-      "published_at": "2025-09-22T05:45:00Z",
-      "source": {
-        "domain": "english.ratopati.com",
-        "id": "ratopati-english",
-        "name": "Ratopati English"
-      },
-      "store_path": "domains/_store/57/57853354eb0c73cbfe15e67892735c053826bfcf99ef5e37e280e6eb93d0474c.json",
-      "title": "Devotees throng Goddess shrines on Ghatasthapana",
-      "url": "http://english.ratopati.com/story/40961?npatro=1",
-      "version": 1
-    },
-    {
-      "canonical_hash": "faa298cb5bd6adb84ca13b65a2b95661c6bc7d1d05ecc8dfee0b290b526107e0",
-      "fetched_at": "2025-09-22T05:54:09.054948Z",
-      "id": "c19d5f2e73532a1ab224f4edc2efcb030b6090ae9a044d7fdf0afed8b764d68d",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2024/08/rastra-bank-Karobardaily-file-400x220.jpg"
-      ],
-      "published_at": "2025-09-22T05:44:37Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/c1/c19d5f2e73532a1ab224f4edc2efcb030b6090ae9a044d7fdf0afed8b764d68d.json",
-      "title": "बैंकिङ कारोबारका लागि आरटिजिएस प्रणाली खुला रहने",
-      "url": "https://www.karobardaily.com/news/301255",
-      "version": 1
-    },
-    {
-      "canonical_hash": "8c316d3f0beec448ad76ba41705c6f15a49d068738841e4d72cb8f3b26303ba3",
-      "fetched_at": "2025-09-22T05:54:25.430741Z",
-      "id": "acc09376d2f106838191f94ddf9f9c51d8216dcb6ee6dc8f71242903bf95a47a",
-      "images": [],
-      "published_at": "2025-09-22T05:43:19Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/ac/acc09376d2f106838191f94ddf9f9c51d8216dcb6ee6dc8f71242903bf95a47a.json",
-      "title": "घटस्थापनाको पहिलो दिन देशभरका पाँचवटा सडक ठप्प",
-      "url": "https://www.reportersnepal.com/2025/09/1131439/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "61247fb20a4b73fe2db92327fee546e19ccbc68ba7278814aa8e4a4e51c1a462",
-      "fetched_at": "2025-09-22T05:54:25.466045Z",
-      "id": "d4529a8a19e41f347cdddfadafffc1081b257536c27eb32e245ae34d6aacbdc1",
-      "images": [],
-      "published_at": "2025-09-22T05:43:16Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/d4/d4529a8a19e41f347cdddfadafffc1081b257536c27eb32e245ae34d6aacbdc1.json",
-      "title": "सामाजिक सुरक्षा परिचयपत्र नवीकरण असोज मसान्तभित्र गर्नुपर्ने",
-      "url": "https://www.reportersnepal.com/2025/09/1131513/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "cd46bd09f9c2e12e9b1c80989cc39d00fca2d8a64397bf2d3b3a4e6f98e56d10",
-      "fetched_at": "2025-09-22T05:54:21.462889Z",
-      "id": "93c02671eaa14e2b7091e9ddcd78c8100f70b26053b097ea37c24c2ad7bb775a",
-      "images": [
-        "https://encdn.ratopati.com/media/setting/default-banner_2uD78e1iMP.jpg"
-      ],
-      "published_at": "2025-09-22T05:43:00Z",
-      "source": {
-        "domain": "english.ratopati.com",
-        "id": "ratopati-english",
-        "name": "Ratopati English"
-      },
-      "store_path": "domains/_store/93/93c02671eaa14e2b7091e9ddcd78c8100f70b26053b097ea37c24c2ad7bb775a.json",
-      "title": "One-way traffic resumes along Muglin-Narayanghat road section",
-      "url": "http://english.ratopati.com/story/40960?npatro=1",
-      "version": 1
-    },
-    {
-      "canonical_hash": "dd7d48e09b8260b7eab581f3300ad775ace16aac9693c33167671449404e3f77",
-      "fetched_at": "2025-09-22T05:54:25.494742Z",
-      "id": "b6c445865c945400f2da037d2f8fb0d7dfb3437cc3a67a72c064276da01789b5",
-      "images": [],
-      "published_at": "2025-09-22T05:42:52Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/b6/b6c445865c945400f2da037d2f8fb0d7dfb3437cc3a67a72c064276da01789b5.json",
-      "title": "ओलीसँग एमाले युवाहरूको जमघट बढि, पाका नेताहरुसँग भेटघाट पातलो",
-      "url": "https://www.reportersnepal.com/2025/09/1131514/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d6fa35887f90488a68c1e8acd71718bdadeb617400fc9d3a89bc481e058c7e08",
-      "fetched_at": "2025-09-22T05:42:57.196114Z",
-      "id": "29175e2a1a9c79f5baa39383f499d4f1692ede34e4914ca7e05cb278ef6d6fcd",
-      "images": [],
-      "published_at": "2025-09-22T05:41:27Z",
-      "source": {
-        "domain": "nepalnews.com",
-        "id": "nepalnews",
-        "name": "Nepalnews"
-      },
-      "store_path": "domains/_store/29/29175e2a1a9c79f5baa39383f499d4f1692ede34e4914ca7e05cb278ef6d6fcd.json",
-      "title": "बैंकिङ कारोबारका लागि आरटिजिएस प्रणाली खुला रहने",
-      "url": "https://nepalnews.com/2025/09/22/rtgs-system-to-remain-open-for-banking-transactions/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "c9129da281955122705d12548fa51769137b31b303d217130627d835c03f2974",
-      "fetched_at": "2025-09-22T05:42:29.210735Z",
-      "id": "e5d4c33aa7bd4e84c1e5e9b978096e82f6b9965bfc1f77820d28cd5c012cb072",
-      "images": [],
-      "published_at": "2025-09-22T05:41:17Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/e5/e5d4c33aa7bd4e84c1e5e9b978096e82f6b9965bfc1f77820d28cd5c012cb072.json",
-      "title": "बैंकिङ कारोबारका लागि आरटिजिएस प्रणाली खुला रहने",
-      "url": "https://www.prasashan.com/2025/09/22/703217/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "19fd2e8732addb05b25e69188313eddbda23057dececb2719407281fe2e7e3b1",
-      "fetched_at": "2025-09-22T05:41:47.301251Z",
-      "id": "58d35d43ba8fa5385231a0ceca93b8e7d82b4ed5fdb9f9e397c294977b72b3b9",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2024/06/Akhtiyar-durupayog-anusandhan-ayog-400x220.jpg"
-      ],
-      "published_at": "2025-09-22T05:40:53Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/58/58d35d43ba8fa5385231a0ceca93b8e7d82b4ed5fdb9f9e397c294977b72b3b9.json",
-      "title": "अख्तियारमा नापी र मालपोतका उजुरी धेरै",
-      "url": "https://www.karobardaily.com/news/301253",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b4e0027dc88c93eb98ebda76b83610d3a60363590896b6532f89d6c613479cb8",
-      "fetched_at": "2025-09-22T05:54:01.954775Z",
-      "id": "867262d9cdd816a04b2d92debfa28d4a25d7d2ec2a5c2e8e439e2d2a63ca6c49",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758519565_jamara.jpg"
-      ],
-      "published_at": "2025-09-22T05:40:02Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/86/867262d9cdd816a04b2d92debfa28d4a25d7d2ec2a5c2e8e439e2d2a63ca6c49.json",
-      "title": "हनुमानढोकाको दसैँघरमा जमरा राखियो (फोटोफिचर)",
-      "url": "https://nagariknews.nagariknetwork.com/photo-feature/jamara-placed-at-hanuman-dhoka-s-dashain-ghar-photo-feature-19-53.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b8272f97269542079e600650112fbfad4bf0d5a1b97b39c1c7dab0cb6d47bd31",
-      "fetched_at": "2025-09-22T05:54:21.490144Z",
-      "id": "b0d8906efe540d22d18e95fba17e8fbffc4fee8dd5fe622c59543ffd8bba4373",
-      "images": [
-        "https://encdn.ratopati.com/media/setting/default-banner_2uD78e1iMP.jpg"
-      ],
-      "published_at": "2025-09-22T05:40:00Z",
-      "source": {
-        "domain": "english.ratopati.com",
-        "id": "ratopati-english",
-        "name": "Ratopati English"
-      },
-      "store_path": "domains/_store/b0/b0d8906efe540d22d18e95fba17e8fbffc4fee8dd5fe622c59543ffd8bba4373.json",
-      "title": "Bada Dashain begins with Ghatasthapana today",
-      "url": "http://english.ratopati.com/story/40959?npatro=1",
-      "version": 1
-    },
-    {
-      "canonical_hash": "513cbdb74f5342dd8f47ec244438e074edca9473c76ea4c24a5970fcd137d68e",
-      "fetched_at": "2025-09-22T05:54:01.983162Z",
-      "id": "665de653e9d32e8ead41c3e9174e0fb7c18682c80d53a621b7621c8be0eb4e4f",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1752462217_nepal_rasta_bank-1200x560-1200x560-1200x560-1200x560.jpg"
-      ],
-      "published_at": "2025-09-22T05:39:09Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/66/665de653e9d32e8ead41c3e9174e0fb7c18682c80d53a621b7621c8be0eb4e4f.json",
-      "title": "बैंकिङ कारोबारका लागि आरटिजिएस प्रणाली खुला रहने",
-      "url": "https://nagariknews.nagariknetwork.com/economy/rtgs-system-to-remain-open-for-banking-transactions-15-21.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ca9b5ab9d247b4ffece061f2d1282146fab93b6b5ae2bfc7202f3524bcba0b7c",
-      "fetched_at": "2025-09-22T05:42:53.243199Z",
-      "id": "5436bddccffad2f4006a6517f8d16b6654a9d7f0a4f2ed4cf4301037da85577e",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/Ghatasthapana-2082_4-400x220.jpg"
-      ],
-      "published_at": "2025-09-22T05:38:49Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/54/5436bddccffad2f4006a6517f8d16b6654a9d7f0a4f2ed4cf4301037da85577e.json",
-      "title": "हनुमानढोकास्थित दशैं घरमा राखियो जमरा (तस्बिरहरू)",
-      "url": "https://khabarhub.com/2025/22/855321/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "78491ce405ea33f3f1f35aee89814ff0ce71c90d2b44d10a31a588794be07a3b",
-      "fetched_at": "2025-09-22T05:54:05.239375Z",
-      "id": "14dc86537a96291e6915957aade12e1660412c1dd167f0dc599a647cb29877cf",
-      "images": [],
-      "published_at": "2025-09-22T05:38:29Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/14/14dc86537a96291e6915957aade12e1660412c1dd167f0dc599a647cb29877cf.json",
-      "title": "सुन–चाँदीको मूल्य बढ्यो",
-      "url": "https://www.setopati.com/kinmel/jewellery/369974",
-      "version": 1
-    },
-    {
-      "canonical_hash": "1f6740f3f2188cf031547cf1c6a03ed995e7e899b9086b47876f2d1475e91dea",
-      "fetched_at": "2025-09-22T05:54:07.272885Z",
-      "id": "5a460687658f7f296ae7df154423c5a4315f0e910fb9f336e2368dced63a6de7",
-      "images": [],
-      "published_at": "2025-09-22T05:37:56Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/5a/5a460687658f7f296ae7df154423c5a4315f0e910fb9f336e2368dced63a6de7.json",
-      "title": "दशैँ शुरु भएसँगै गाउँघर फर्कनेको सङ्ख्या बढ्न थाल्यो, गाडीको रुट परमिट खुला",
-      "url": "https://ujyaaloonline.com/story/120314/2025/9/22/dashain-number-people-returning-their-village",
-      "version": 1
-    },
-    {
-      "canonical_hash": "33020132764ccdc0c8c4e60da70e76d35a6e7adaf92dc257b4fd3aa3ff445671",
-      "fetched_at": "2025-09-22T05:42:29.238955Z",
-      "id": "ac0abd69fbf52b37fe156a2ec4f4e9fbbbf401607bf4f4eb378987c22b9fb93e",
-      "images": [],
-      "published_at": "2025-09-22T05:36:08Z",
-      "source": {
-        "domain": "prasashan.com",
-        "id": "prasashan",
-        "name": "Prashasan"
-      },
-      "store_path": "domains/_store/ac/ac0abd69fbf52b37fe156a2ec4f4e9fbbbf401607bf4f4eb378987c22b9fb93e.json",
-      "title": "पहिरो पन्छाउनका लागि नारायणगढ-मुग्लिन सडक दिउँसो २ घण्टा बन्द गरिने",
-      "url": "https://www.prasashan.com/2025/09/22/703215/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "d57ead02430b3f5c2e424bf7442d78e4378c2ec2709e4685b5751edc81c6f948",
-      "fetched_at": "2025-09-22T05:41:44.044914Z",
-      "id": "97a222f3d94e2c09655c3ab9d83fe92bce7a89b19d264ee6fb967cc9d36c5747",
-      "images": [],
-      "published_at": "2025-09-22T05:35:43Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/97/97a222f3d94e2c09655c3ab9d83fe92bce7a89b19d264ee6fb967cc9d36c5747.json",
-      "title": "कालिमाटी प्रहरी वृत्तमा आगजनी गर्ने एक जना पक्राउ",
-      "url": "https://www.setopati.com/social/369973",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3cecba7c6f222a580a13c32ef322e4ad195c1091a0d6fca1fa9b86dc57ea3b16",
-      "fetched_at": "2025-09-22T05:41:53.706373Z",
-      "id": "008235e3b3147ae283292e3b47fb9edb569b0ae4560ebfbcb3985f83b396de46",
-      "images": [],
-      "published_at": "2025-09-22T05:35:13Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/00/008235e3b3147ae283292e3b47fb9edb569b0ae4560ebfbcb3985f83b396de46.json",
-      "title": "वीरगञ्ज भन्सारबाट साउन र भदौमा १ खर्ब ४६ अर्बको आयात, १७ अर्बको निर्यात",
-      "url": "https://lokaantar.com/story/299764/2025/9/22/economy/birgunj-customs-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "438cf3655cb52bfc2f830f11600ce0c880fa29062bbd4489b4ba926a86165523",
-      "fetched_at": "2025-09-22T05:42:53.270412Z",
-      "id": "0abc090c009a9076fb6dd7aaa444ba7a7b995301533b8f2dac4a8182680c4c1f",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2022/09/nnn-2-400x220.jpg"
-      ],
-      "published_at": "2025-09-22T05:35:07Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/0a/0abc090c009a9076fb6dd7aaa444ba7a7b995301533b8f2dac4a8182680c4c1f.json",
-      "title": "गोरखा दरबारको दशैँघरमा जमरा राखियो",
-      "url": "https://khabarhub.com/2025/22/855322/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3ae9130da2b3cdec686c2c57f0e440e32dec642fdd9b912b15ab84f1aa802bc8",
-      "fetched_at": "2025-09-22T05:42:22.298694Z",
-      "id": "7aed8a810c06bd280f5c035339fcb39f49668ac8402c57786b1ea131a0af1e9a",
-      "images": [],
-      "published_at": "2025-09-22T05:34:24Z",
-      "source": {
-        "domain": "reportersnepal.com",
-        "id": "reportersnepal",
-        "name": "Reporters Nepal"
-      },
-      "store_path": "domains/_store/7a/7aed8a810c06bd280f5c035339fcb39f49668ac8402c57786b1ea131a0af1e9a.json",
-      "title": "वरिष्ठ अधिवक्ता केसीको दाबीः सर्वोच्चमा मुद्दा दर्ता हुनेबित्तिकै यो सरकार विघटन हुन्छ",
-      "url": "https://www.reportersnepal.com/2025/09/1131421/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "aa31ac9bf84b20f8a9721cb3b98b15dd73d555eadab8796a8ba47973f353a0a9",
-      "fetched_at": "2025-09-22T05:54:21.014021Z",
-      "id": "2852d326d0619363c426da57abb4c21d9499f42a64ec21fa9ef4e5f8444d4242",
-      "images": [],
-      "published_at": "2025-09-22T05:34:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/28/2852d326d0619363c426da57abb4c21d9499f42a64ec21fa9ef4e5f8444d4242.json",
-      "title": "मुग्लिन–नारायणगढ सडकखण्ड फेरि बन्द हुने",
-      "url": "https://shilapatra.com/detail/168392",
-      "version": 1
-    },
-    {
-      "canonical_hash": "84e816f46027f9f32406e35f9d06a323e88c5c3ffd7ce3437ccd91aa6aced11f",
-      "fetched_at": "2025-09-22T05:41:57.212272Z",
-      "id": "cb561b2588a4b20d8abf2c78bf2a8bec595c9cb450078895b803624100c4c315",
-      "images": [
-        "https://newsofnepal.com/wp-content/uploads/2025/09/gold-150x150.jpg"
-      ],
-      "published_at": "2025-09-22T05:32:49Z",
-      "source": {
-        "domain": "newsofnepal.com",
-        "id": "newsofnepal",
-        "name": "नेपाल समाचारपत्र"
-      },
-      "store_path": "domains/_store/cb/cb561b2588a4b20d8abf2c78bf2a8bec595c9cb450078895b803624100c4c315.json",
-      "title": "सुनको मूल्य हालसम्मकै उच्च, प्रतितोला कति पुग्यो ?",
-      "url": "https://newsofnepal.com/2025/09/22/732608/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a8aa7ef4538a8ae56a4a50ca70016df9f8d2daba7e2484aacc25c06735f3a013",
-      "fetched_at": "2025-09-22T05:41:41.976841Z",
-      "id": "cc48212814ffec4b4bdcb390bf0b7a8d3c7001e9f4ef3fc3dcff7ad5295779d9",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758519097_Card.jpg"
-      ],
-      "published_at": "2025-09-22T05:32:33Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/cc/cc48212814ffec4b4bdcb390bf0b7a8d3c7001e9f4ef3fc3dcff7ad5295779d9.json",
-      "title": "सामाजिक सुरक्षा परिचयपत्रको नवीकरण समय बढ्यो",
-      "url": "https://nagariknews.nagariknetwork.com/social-affairs/social-security-card-renewal-deadline-extended-85-71.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2fd806c5c5dd40d7dc728329a6882fc9dda2dd8ceaf7df5d696386526beccf25",
-      "fetched_at": "2025-09-22T05:42:47.811267Z",
-      "id": "772ced17b9d9deaa1436e1759e8fbe55022261703cd6b5d3bbcb175bab38caab",
-      "images": [],
-      "published_at": "2025-09-22T05:31:46Z",
-      "source": {
-        "domain": "deshsanchar.com",
-        "id": "deshsanchar",
-        "name": "Desh Sanchar"
-      },
-      "store_path": "domains/_store/77/772ced17b9d9deaa1436e1759e8fbe55022261703cd6b5d3bbcb175bab38caab.json",
-      "title": "प्रतितोलमा सात सयले बढ्यो सुनको मूल्य, कतिमा हुँदैछ कारोबार?",
-      "url": "https://deshsanchar.com/2025/09/22/1096919/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ea6b46b983888016d81c4987e38c969421dca45f1a66adc5d2b2fd4e380f67cc",
-      "fetched_at": "2025-09-22T05:42:53.297313Z",
-      "id": "03f35d441cb339449ff1c018d5c22b2267002f967e4dd1e327fa29b3c5b419c6",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2025/09/education-Ministry_11-400x220.jpg"
-      ],
-      "published_at": "2025-09-22T05:31:14Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/03/03f35d441cb339449ff1c018d5c22b2267002f967e4dd1e327fa29b3c5b419c6.json",
-      "title": "केशरमहलमा फर्कियो शिक्षा मन्त्रालय (तस्बिरहरू)",
-      "url": "https://khabarhub.com/2025/22/855305/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "b426d4ca71eba4ded1ead8b7b23e184e956182a05761b156666094642a177aa0",
-      "fetched_at": "2025-09-22T05:41:44.075621Z",
-      "id": "49e2edd569957aacfe63d389b226097aa82fb2ee6ea9ebd4bd77d2860ac2e4f7",
-      "images": [],
-      "published_at": "2025-09-22T05:30:00Z",
-      "source": {
-        "domain": "setopati.com",
-        "id": "setopati",
-        "name": "सेतोपाटी"
-      },
-      "store_path": "domains/_store/49/49e2edd569957aacfe63d389b226097aa82fb2ee6ea9ebd4bd77d2860ac2e4f7.json",
-      "title": "मुग्लिन-नारायणगढ सडक आज दिउँसो २ घन्टा बन्द हुने",
-      "url": "https://www.setopati.com/kinmel/medical/369972",
-      "version": 1
-    },
-    {
-      "canonical_hash": "a3709d843fba1ea58104ee724c4634dc47024f5cafcff42f024020feb9dc80c6",
-      "fetched_at": "2025-09-22T05:41:47.328499Z",
-      "id": "163565d20924e705ea59a3eb124cf62497035baf24dfdaec8310753fe51ad111",
-      "images": [
-        "https://www.karobardaily.com/wp-content/uploads/2025/09/Kathmandu-new-buspark_BBG-400x220.jpg"
-      ],
-      "published_at": "2025-09-22T05:29:53Z",
-      "source": {
-        "domain": "karobardaily.com",
-        "id": "karobardaily",
-        "name": "कारोबार दैनिक"
-      },
-      "store_path": "domains/_store/16/163565d20924e705ea59a3eb124cf62497035baf24dfdaec8310753fe51ad111.json",
-      "title": "सार्वजनिक सवारी साधनमा ‘रुट परमिट’ खुला",
-      "url": "https://www.karobardaily.com/news/301249",
-      "version": 1
-    },
-    {
-      "canonical_hash": "77c2345908e6452d69b37a14f178847dfb2dc3021942be9d1a425b0dadee440d",
-      "fetched_at": "2025-09-22T05:41:53.156859Z",
-      "id": "a035de4a2f62dba35edd8643b42ca28fa619c797013e12c5db1b4314aabc3e6e",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/gold-1-1.jpg"
-      ],
-      "published_at": "2025-09-22T05:28:35Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/a0/a035de4a2f62dba35edd8643b42ca28fa619c797013e12c5db1b4314aabc3e6e.json",
-      "title": "सुन चाँदीको मूल्य हालसम्मकै उच्च बिन्दुमा",
-      "url": "https://rajdhanidaily.com/id/122260/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "ad0a72cb5d5bd9e6458c2120fab46090ebcf8ae22d873bea97c8fc3e726736a8",
-      "fetched_at": "2025-09-22T05:41:58.721015Z",
-      "id": "a4e9436f61806cc556453819d482a598056a54cf7ff4c9a2db0e29a1cfbc3cb3",
-      "images": [],
-      "published_at": "2025-09-22T05:28:00Z",
-      "source": {
-        "domain": "shilapatra.com",
-        "id": "shilapatra",
-        "name": "Shilapatra"
-      },
-      "store_path": "domains/_store/a4/a4e9436f61806cc556453819d482a598056a54cf7ff4c9a2db0e29a1cfbc3cb3.json",
-      "title": "सुनको मूल्य हालसम्मकै उच्च",
-      "url": "https://shilapatra.com/detail/168390",
-      "version": 1
-    },
-    {
-      "canonical_hash": "3d5252ffea8cc2b402a1f0f090696b35775a1c1412665b1a3787130fafd8544c",
-      "fetched_at": "2025-09-22T05:41:53.184698Z",
-      "id": "7be9b9f11b54808d38a0f9c4b43230b18b3f716a6df2d599170cf2fbfb314e38",
-      "images": [
-        "https://rajdhanidaily.com/wp-content/uploads/2025/09/cricket.jpg"
-      ],
-      "published_at": "2025-09-22T05:27:31Z",
-      "source": {
-        "domain": "rajdhanidaily.com",
-        "id": "rajdhanidaily",
-        "name": "राजधानी दैनिक"
-      },
-      "store_path": "domains/_store/7b/7be9b9f11b54808d38a0f9c4b43230b18b3f716a6df2d599170cf2fbfb314e38.json",
-      "title": "नेपाली क्रिकेट टोली आज युएई जाँदै",
-      "url": "https://rajdhanidaily.com/id/122258/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "133a97579d6dc26e61c6c16b70e9800e97455640452c12ca82fae2ade32078a6",
-      "fetched_at": "2025-09-22T05:54:02.012200Z",
-      "id": "946c80b1f9d8feb75460099eca40be1c1b1963f47e947b47c61f69c14856179d",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758519175_tu%20vb.jpg"
-      ],
-      "published_at": "2025-09-22T05:26:22Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/94/946c80b1f9d8feb75460099eca40be1c1b1963f47e947b47c61f69c14856179d.json",
-      "title": "नेपालमा विश्वविद्यालयको संख्या २६ पुग्दै",
-      "url": "https://nagariknews.nagariknetwork.com/education/the-number-of-universities-in-nepal-is-reaching-26-54-52.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "4fabf141ba3169408beaa88df46b2f5b56baa59bfc798d0c9b2f54e74cd717db",
-      "fetched_at": "2025-09-22T05:54:02.043013Z",
-      "id": "8e7ba00ab9777e91211d68ad9064d6653ee613b47e7110de724da55502127e53",
-      "images": [
-        "https://images.nagariknewscdn.com/2025/third-party/1758518676_purus%20kheladi.jpg"
-      ],
-      "published_at": "2025-09-22T05:26:04Z",
-      "source": {
-        "domain": "nagariknews.nagariknetwork.com",
-        "id": "nagariknews",
-        "name": "नागरिक दैनिक"
-      },
-      "store_path": "domains/_store/8e/8e7ba00ab9777e91211d68ad9064d6653ee613b47e7110de724da55502127e53.json",
-      "title": "नेपाल साफ यु-१७ पुरुष च्याम्पियनसिपको सेमिफाइनलमा प्रवेश",
-      "url": "https://nagariknews.nagariknetwork.com/sports/nepal-advances-to-the-semifinals-of-saff-u-17-men-s-championship-67-41.html",
-      "version": 1
-    },
-    {
-      "canonical_hash": "506dc0fecb5bab17705e9ab0c3a6bfa8736273afec95058ce3c37c7a8872427a",
-      "fetched_at": "2025-09-22T05:42:53.324629Z",
-      "id": "4cce165d0c1e5ae2b7fc0be61e1f13d56839276d78466b9e417accef19b44218",
-      "images": [
-        "https://www.khabarhub.com/wp-content/uploads/2021/05/Birgunj-Naka-400x220.jpg"
-      ],
-      "published_at": "2025-09-22T05:25:44Z",
-      "source": {
-        "domain": "khabarhub.com",
-        "id": "khabarhub",
-        "name": "Khabarhub"
-      },
-      "store_path": "domains/_store/4c/4cce165d0c1e5ae2b7fc0be61e1f13d56839276d78466b9e417accef19b44218.json",
-      "title": "वीरगञ्ज नाका हुँदै साउन र भदौमा एक खर्ब ४६ अर्बको आयात, १७ अर्बको निर्यात",
-      "url": "https://khabarhub.com/2025/22/855302/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "5e3e88614c75f1bbf1e902e792a9c34727c1ca17766f598aed6c014ebe7ba19a",
-      "fetched_at": "2025-09-22T05:41:45.569553Z",
-      "id": "eabc4ecef423337d0fe704ecb84524d3a608ed4a674dec2e7145cd1dc1cbcf82",
-      "images": [],
-      "published_at": "2025-09-22T05:25:36Z",
-      "source": {
-        "domain": "ujyaaloonline.com",
-        "id": "ujyaaloonline",
-        "name": "उज्यालो अनलाइन"
-      },
-      "store_path": "domains/_store/ea/eabc4ecef423337d0fe704ecb84524d3a608ed4a674dec2e7145cd1dc1cbcf82.json",
-      "title": "सुनको भाउमा फेरि नयाँ कीर्तिमान  : तोलाकाे २ लाख १७ हजार ८ सय रुपैयाँ पुग्याे",
-      "url": "https://ujyaaloonline.com/story/120313/2025/9/22/gold-price-hits-new-record-again",
-      "version": 1
-    },
-    {
-      "canonical_hash": "2477088ff48e251cb3b03da1f09f21f1678174e582edf930758fabe91d55a3e2",
-      "fetched_at": "2025-09-22T05:41:53.735211Z",
-      "id": "4b79d52a81410ad92751b542a8bdf02c32f192a5e5ab784da7aa73e7e9b2e234",
-      "images": [],
-      "published_at": "2025-09-22T05:25:30Z",
-      "source": {
-        "domain": "lokaantar.com",
-        "id": "lokaantar",
-        "name": "Lokaantar"
-      },
-      "store_path": "domains/_store/4b/4b79d52a81410ad92751b542a8bdf02c32f192a5e5ab784da7aa73e7e9b2e234.json",
-      "title": "धरहरा आसपासको 'ड्रोन भ्यु'",
-      "url": "https://lokaantar.com/story/299763/2025/9/22/photo/dharahara-",
-      "version": 1
-    },
-    {
-      "canonical_hash": "1d75b72c3b239523061bcb82764d872aea773729aff88ea55e4b1ca79c0c5020",
-      "fetched_at": "2025-09-22T05:41:48.633100Z",
-      "id": "78c9c73711ce8d01419ce98a369bfbe9bd9fda777e94b6b4b02b0eab152138c8",
-      "images": [],
-      "published_at": "2025-09-22T05:25:28Z",
-      "source": {
-        "domain": "nepaljapan.com",
-        "id": "nepaljapan",
-        "name": "NepalJapan"
-      },
-      "store_path": "domains/_store/78/78c9c73711ce8d01419ce98a369bfbe9bd9fda777e94b6b4b02b0eab152138c8.json",
-      "title": "प्रधानमन्त्री कार्कीद्वारा मन्त्रिपरिषद् विस्तारको तयारी, शपथ दिउँसो दुई बजे",
-      "url": "https://www.nepaljapan.com/09/22/682066/",
-      "version": 1
-    },
-    {
-      "canonical_hash": "25547a6e1fba261e0bc4dead440282dc7a1a777505fbee8e35e61ebae36d202a",
-      "fetched_at": "2025-09-22T05:41:43.668307Z",
-      "id": "470b9b7451dad25d8a4ae7f366a590383205260cdb47b44cc09faa2757ded5d6",
-      "images": [],
-      "published_at": "2025-09-22T05:23:42Z",
-      "source": {
-        "domain": "onlinekhabar.com",
-        "id": "onlinekhabar",
-        "name": "अनलाइनखबर"
-      },
-      "store_path": "domains/_store/47/470b9b7451dad25d8a4ae7f366a590383205260cdb47b44cc09faa2757ded5d6.json",
-      "title": "तने बोडी र घिउ सिमीको भाउ बढ्यो",
-      "url": "https://www.onlinekhabar.com/2025/09/1769792/the-prices-of-stem-bodi-and-ghee-beans-have-increased",
       "version": 1
     }
   ]
