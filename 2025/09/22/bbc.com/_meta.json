@@ -1,7 +1,25 @@
 {
-  "count": 1,
-  "lastUpdated": "2025-09-22T03:10:03.159321Z",
+  "count": 2,
+  "lastUpdated": "2025-09-22T03:46:44.793702Z",
   "recent": [
+    {
+      "canonical_hash": "7b98369b563d4b823016deca758e76a021c7d4278e53f709c9a0a8a7108cef58",
+      "fetched_at": "2025-09-22T03:46:44.771717Z",
+      "id": "110295c9f43b269f6c06e45698abb98a46d12b0ab702787591f87e5ad1dc6890",
+      "images": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c82/live/6cdbceb0-975e-11f0-9ff9-d7a908931599.jpg"
+      ],
+      "published_at": "2025-09-22T03:38:58Z",
+      "source": {
+        "domain": "bbc.com",
+        "id": "bbc-world-asia",
+        "name": "BBC News - World Asia"
+      },
+      "store_path": "domains/_store/11/110295c9f43b269f6c06e45698abb98a46d12b0ab702787591f87e5ad1dc6890.json",
+      "title": "Super typhoon nears Philippines as thousands evacuate",
+      "url": "https://www.bbc.com/news/articles/cge223y2e9eo?at_medium=RSS&at_campaign=rss",
+      "version": 1
+    },
     {
       "canonical_hash": "e7768365741148e5614ed8aa4b149c4cf9cf7b03847af23ef62040f1e08dc421",
       "fetched_at": "2025-09-22T03:10:03.137571Z",
