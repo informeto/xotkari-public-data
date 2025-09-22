@@ -1,347 +1,215 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xotkari - Latest Articles</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        .article-card {
-            height: 100%;
-            transition: transform 0.2s;
-        }
-        .article-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        }
-        .article-image {
-            height: 200px;
-            object-fit: cover;
-        }
-        .loading {
-            display: none;
-            text-align: center;
-            padding: 20px;
-        }
-        .article-source {
-            font-size: 0.9rem;
-            color: #6c757d;
-        }
-        .article-date {
-            font-size: 0.8rem;
-            color: #6c757d;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Xotkari - Latest Articles</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <style>
+    .article-card {
+      height: 100%;
+      transition: transform 0.2s;
+    }
+    .article-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .article-image {
+      width: 100%;
+      height: 220px;
+      object-fit: cover;
+      display: block;
+    }
+    .loading {
+      display: none;
+      text-align: center;
+      padding: 20px;
+    }
+    .article-source {
+      font-size: 0.9rem;
+      color: #6c757d;
+    }
+    .article-date {
+      font-size: 0.85rem;
+      color: #495057;
+    }
+  </style>
 </head>
 <body>
-    <div class="container py-4">
-        <header class="mb-4">
-            <h1 class="text-center mb-4">Xotkari - Latest Articles</h1>
-            <p class="text-muted text-center">Stay updated with the latest news and articles</p>
-        </header>
+  <div class="container py-4">
+    <header class="mb-4">
+      <h1 class="text-center mb-4">Xotkari - Latest Articles</h1>
+      <p class="text-muted text-center">Stay updated with the latest news and articles</p>
+    </header>
 
-        <div id="articles-grid" class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-            <!-- Articles will be loaded here -->
-        </div>
+    <div id="articles-grid" class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4"></div>
 
-        <div id="loading" class="loading">
-            <div class="spinner-border text-primary" role="status">
-                <span class="visually-hidden">Loading...</span>
-            </div>
-            <p class="mt-2">Loading more articles...</p>
-        </div>
+    <div id="loading" class="loading">
+      <div class="spinner-border text-primary" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+      <p class="mt-2">Loading more articles...</p>
     </div>
+  </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script>
-        // Configuration
-        let isLoading = false;
-        let hasMore = true;
-        let currentDate = new Date();
-        let currentDayOffset = 0; // 0 = today, 1 = yesterday, etc.
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script>
+    let isLoading = false;
+    let hasMore = true;
+    let currentDayOffset = 0;
 
-        // DOM Elements
-        const articlesGrid = document.getElementById('articles-grid');
-        const loadingElement = document.getElementById('loading');
+    const articlesGrid = document.getElementById('articles-grid');
+    const loadingElement = document.getElementById('loading');
 
-        // Format date to YYYY-MM-DD
-        function formatDate(date) {
-            return date.toISOString().split('T')[0];
+    function formatDate(date) {
+      return date.toISOString().split('T')[0];
+    }
+
+    function getDateForOffset(offset) {
+      const date = new Date();
+      date.setDate(date.getDate() - offset);
+      return date;
+    }
+
+    function timeAgo(published) {
+      try {
+        const pub = new Date(published);
+        const now = new Date();
+        const diffMs = now - pub;
+        const diffSec = Math.floor(diffMs / 1000);
+        const diffMin = Math.floor(diffSec / 60);
+        const diffHr = Math.floor(diffMin / 60);
+        if (diffHr < 8) {
+          if (diffHr >= 1) return `${diffHr}h ago`;
+          if (diffMin >= 1) return `${diffMin}m ago`;
+          return `${diffSec}s ago`;
         }
+        return pub.toLocaleString([], {hour: '2-digit', minute:'2-digit'});
+      } catch {
+        return '';
+      }
+    }
 
-        // Get articles for a specific date
-        async function fetchArticlesForDate(date) {
-            const dateStr = formatDate(date);
-            const [year, month, day] = dateStr.split('-');
-            try {
-                const response = await axios.get(
-                    `https://raw.githubusercontent.com/informeto/xotkari-public-data/daily/${dateStr}/${year}/${month}/${day}/_meta.json`,
-                    { validateStatus: status => status === 200 || status === 404 }
-                );
+    async function fetchArticlesForDate(date) {
+      const dateStr = formatDate(date);
+      const [year, month, day] = dateStr.split('-');
+      try {
+        const url = `https://raw.githubusercontent.com/informeto/xotkari-public-data/refs/heads/daily/${dateStr}/${year}/${month}/${day}/_meta.json`;
+        const response = await axios.get(url, { validateStatus: s => s === 200 || s === 404 });
+        if (response.status === 404 || !response.data) return [];
+        const articles = Array.isArray(response.data?.recent)
+          ? response.data.recent.map(a => ({...a, published_at: a.published_at || dateStr}))
+          : [];
+        return articles;
+      } catch {
+        return [];
+      }
+    }
 
-                // Handle 404 or empty response
-                if (response.status === 404 || !response.data) {
-                    console.log(`No data found for ${dateStr}`);
-                    return [];
-                }
+    async function loadArticleDetails(article, cardElement) {
+      try {
+        const dateStr = article.published_at ? article.published_at.split('T')[0] : formatDate(new Date());
+        const [year, month, day] = dateStr.split('-');
+        const subdir = article.id.substring(0, 2);
+        const storeUrl = `https://raw.githubusercontent.com/informeto/xotkari-public-data/refs/heads/daily/${year}-${month}-${day}/_store/${subdir}/${article.id}.json`;
 
-                // Ensure response has the expected structure and add date info to each article
-                const articles = Array.isArray(response.data?.recent) 
-                    ? response.data.recent.map(article => ({
-                        ...article,
-                        published_at: article.published_at || dateStr // Ensure each article has a date
-                    }))
-                    : [];
+        const resp = await fetch(storeUrl);
+        if (!resp.ok) throw new Error('Failed fetch');
+        const details = await resp.json();
 
-                console.log(`Loaded ${articles.length} articles from ${dateStr}`);
-                return articles;
-            } catch (error) {
-                console.error(`Error fetching articles for ${dateStr}:`, error);
-                return [];
-            }
+        let og = {};
+        const ogProps = details.metadata?.raw?.opengraph?.[0]?.properties || [];
+        ogProps.forEach(([k, v]) => { og[k] = v; });
+
+        const title = og['og:title'] || details.title || '';
+        const description = og['og:description'] || details.description || details.summary || '';
+        const image = og['og:image'] || (details.images?.[0] || '');
+        const source = details.source || details.domain || 'Unknown';
+        const url = og['og:url'] || details.url || '#';
+        const published = details.published_at || article.published_at;
+
+        if (cardElement) {
+          const imgEl = cardElement.querySelector('.article-image');
+          if (imgEl && image) {
+            imgEl.src = image;
+            imgEl.classList.remove('d-none');
+          }
+          const titleEl = cardElement.querySelector('.card-title');
+          if (titleEl) titleEl.textContent = title;
+          const contentEl = cardElement.querySelector('.article-content');
+          if (contentEl) contentEl.textContent = description;
+          const sourceEl = cardElement.querySelector('.article-source');
+          if (sourceEl) sourceEl.textContent = source;
+          const dateEl = cardElement.querySelector('.article-date');
+          if (dateEl && published) dateEl.textContent = timeAgo(published);
+          const link = cardElement.querySelector('a');
+          if (link) link.href = url;
         }
+      } catch (err) {
+        console.error('loadArticleDetails error', err);
+      }
+    }
 
-        // Get date for a specific day offset (0 = today, 1 = yesterday, etc.)
-        function getDateForOffset(offset) {
-            const date = new Date();
-            date.setDate(date.getDate() - offset);
-            return date;
-        }
-
-
-        // Fetch and load article details from store path
-        async function loadArticleDetails(article, cardElement) {
-            if (!article || !article.store_path) {
-                console.warn('Missing article or store_path:', article);
-                return null;
-            }
-            
-            try {
-                const dateStr = article.published_at ? article.published_at.split('T')[0] : formatDate(new Date());
-                const [year, month, day] = dateStr.split('-');
-                
-                // Use the store_path directly from the article
-                const storeUrl = `https://raw.githubusercontent.com/informeto/xotkari-public-data/daily/${year}-${month}-${day}/${article.store_path}`;
-                console.log('Fetching article details from:', storeUrl);
-                
-                const response = await fetch(storeUrl);
-                if (!response.ok) throw new Error('Failed to fetch article details');
-                
-                const articleDetails = await response.json();
-                
-                // Update the card with detailed information
-                if (cardElement) {
-                    // Update image if available
-                    const img = cardElement.querySelector('.article-image');
-                    const loader = img?.previousElementSibling;
-                    
-                    if (img) {
-                        // Show the first image if available, otherwise hide the image container
-                        if (articleDetails.images?.length > 0) {
-                            img.onload = () => {
-                                if (loader) loader.style.display = 'none';
-                                img.style.display = 'block';
-                            };
-                            img.onerror = () => {
-                                if (loader) loader.style.display = 'none';
-                                img.style.display = 'none';
-                            };
-                            img.src = articleDetails.images[0];
-                        } else {
-                            // No image available, hide the container
-                            if (loader) loader.style.display = 'none';
-                            img.style.display = 'none';
-                        }
-                    }
-                    
-                    // Update title and source
-                    const titleEl = cardElement.querySelector('.card-title');
-                    if (titleEl && articleDetails.title) {
-                        titleEl.textContent = articleDetails.title;
-                    }
-                    
-                    // Update source and date
-                    const sourceEl = cardElement.querySelector('.article-source');
-                    if (sourceEl) {
-                        const sourceName = articleDetails.source?.name || article.source || 'Unknown Source';
-                        sourceEl.textContent = sourceName;
-                    }
-                    
-                    // Update content preview
-                    const contentEl = cardElement.querySelector('.article-content');
-                    if (contentEl && articleDetails.summary) {
-                        contentEl.textContent = articleDetails.summary;
-                    }
-                    
-                    // Update published date
-                    const dateEl = cardElement.querySelector('.article-date');
-                    if (dateEl && articleDetails.published_at) {
-                        try {
-                            const date = new Date(articleDetails.published_at);
-                            dateEl.textContent = date.toLocaleDateString();
-                        } catch (e) {
-                            console.warn('Error formatting date:', e);
-                        }
-                    }
-                }
-                
-                return articleDetails;
-            } catch (error) {
-                console.error('Error loading article details:', error);
-                return null;
-            }
-        }
-
-        // Create article card HTML with loading state
-        function createArticleCard(article) {
-            if (!article || typeof article !== 'object') {
-                console.warn('Invalid article data:', article);
-                return ''; // Skip invalid articles
-            }
-
-            // Generate a unique ID for the article card
-            const cardId = 'card-' + Math.random().toString(36).substr(2, 9);
-            
-            // Safely handle dates
-            let publishedDate = 'N/A';
-            let dateStr = '';
-            let year = '', month = '', day = '';
-            
-            try {
-                const date = article.published_at ? new Date(article.published_at) : new Date();
-                publishedDate = date.toLocaleDateString();
-                dateStr = date.toISOString().split('T')[0];
-                [year, month, day] = dateStr.split('-');
-            } catch (e) {
-                console.warn('Error processing date:', e);
-            }
-            
-            // Safely handle article URL
-            const articleUrl = article.url || '#';
-            
-            // Safely get article title and source
-            const articleTitle = article.title || 'Loading...';
-            const articleSource = article.source || 'Loading...';
-            
-            return `
-                <div class="col" id="${cardId}" data-article-path="${article.path || ''}">
-                    <div class="card article-card h-100">
-                        <a href="${articleUrl}" target="_blank" class="text-decoration-none text-dark">
-                            <div class="image-container" style="height: 200px; background: #f5f5f5; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-                                <div class="spinner-border text-secondary" role="status">
-                                    <span class="visually-hidden">Loading...</span>
-                                </div>
-                                <img src="" 
-                                     class="card-img-top article-image d-none" 
-                                     alt="${articleTitle}"
-                                     style="width: 100%; height: 100%; object-fit: cover;"
-                                     onload="this.classList.remove('d-none'); this.previousElementSibling?.classList?.add('d-none');"
-                                     onerror="this.onerror=null; this.classList.add('d-none'); this.previousElementSibling?.classList?.add('d-none');"
-                                >
-                            </div>
-                            <div class="card-body">
-                                <h5 class="card-title">${articleTitle}</h5>
-                                <p class="card-text article-content">${article.description || 'Loading article content...'}</p>
-                                <div class="d-flex justify-content-between align-items-center">
-                                    <span class="article-source">${articleSource}</span>
-                                    <div>
-                                        <small class="article-date">${publishedDate}</small>
-                                        <span class="ms-2 badge bg-secondary">${article.lang || 'en'}</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
+    function createArticleCard(article) {
+      const cardId = 'card-' + Math.random().toString(36).substr(2, 9);
+      return `
+        <div class="col" id="${cardId}">
+          <div class="card article-card h-100">
+            <a href="#" target="_blank" class="text-decoration-none text-dark">
+              <img src="" class="card-img-top article-image d-none" alt="Article Image">
+              <div class="card-body">
+                <h5 class="card-title">Loading...</h5>
+                <p class="card-text article-content">Loading article content...</p>
+                <div class="d-flex justify-content-between align-items-center">
+                  <span class="article-source">Loading...</span>
+                  <small class="article-date"></small>
                 </div>
-            `;
-        }
+              </div>
+            </a>
+          </div>
+        </div>`;
+    }
 
-        // Load articles for the current day offset
-        async function loadMoreArticles() {
-            if (isLoading) return;
-            
-            isLoading = true;
-            loadingElement.style.display = 'flex';
-            
-            try {
-                // Get the date for the current offset
-                const targetDate = getDateForOffset(currentDayOffset);
-                console.log(`Loading articles for ${formatDate(targetDate)} (offset: ${currentDayOffset})`);
-                
-                // Fetch all articles for this date
-                const articles = await fetchArticlesForDate(targetDate);
-                
-                if (articles.length > 0) {
-                    // Add all articles for this date
-                    const articlesHTML = articles.map(createArticleCard).join('');
-                    articlesGrid.insertAdjacentHTML('beforeend', articlesHTML);
-                    
-                    // Add a date separator
-                    const dateHeader = document.createElement('div');
-                    dateHeader.className = 'col-12 mb-3 mt-4';
-                    dateHeader.innerHTML = `<h4 class="border-bottom pb-2">${targetDate.toDateString()}</h4>`;
-                    
-                    // Insert the date header before the new articles
-                    const lastCard = articlesGrid.lastElementChild;
-                    if (lastCard) {
-                        articlesGrid.insertBefore(dateHeader, lastCard);
-                    } else {
-                        articlesGrid.appendChild(dateHeader);
-                    }
-                    
-                    // Load article details for each card
-                    const newCards = Array.from(articlesGrid.querySelectorAll('.col'));
-                    newCards.slice(-articles.length).forEach((card, index) => {
-                        const article = articles[index];
-                        if (article) {
-                            console.log(`Loading details for article: ${article.title || article.path}`);
-                            loadArticleDetails(article, card).catch(error => {
-                                console.error('Error in loadArticleDetails:', error);
-                            });
-                        }
-                    });
-                    
-                    // Move to the previous day for next load
-                    currentDayOffset++;
-                } else {
-                    // No articles for this day, try the next day
-                    currentDayOffset++;
-                    hasMore = currentDayOffset < 30; // Limit to last 30 days to prevent infinite loading
-                    
-                    if (hasMore) {
-                        // Try loading the next day
-                        return loadMoreArticles();
-                    } else {
-                        loadingElement.innerHTML = '<p>No more articles to load</p>';
-                    }
-                }
-                
-            } catch (error) {
-                console.error('Error loading articles:', error);
-                loadingElement.innerHTML = '<p>Error loading articles. Please try again later.</p>';
-            } finally {
-                isLoading = false;
-                if (!hasMore) {
-                    loadingElement.style.display = 'none';
-                }
-            }
+    async function loadMoreArticles() {
+      if (isLoading) return;
+      isLoading = true;
+      loadingElement.style.display = 'flex';
+      try {
+        const targetDate = getDateForOffset(currentDayOffset);
+        const articles = await fetchArticlesForDate(targetDate);
+        if (articles.length > 0) {
+          const articlesHTML = articles.map(createArticleCard).join('');
+          articlesGrid.insertAdjacentHTML('beforeend', articlesHTML);
+          const newCards = Array.from(articlesGrid.querySelectorAll('.col')).slice(-articles.length);
+          newCards.forEach((card, i) => {
+            const a = articles[i];
+            if (a) loadArticleDetails(a, card);
+          });
+          currentDayOffset++;
+        } else {
+          currentDayOffset++;
+          hasMore = currentDayOffset < 30;
+          if (hasMore) return loadMoreArticles();
+          else loadingElement.innerHTML = '<p>No more articles to load</p>';
         }
+      } finally {
+        isLoading = false;
+        if (!hasMore) loadingElement.style.display = 'none';
+      }
+    }
 
-        // Check if user has scrolled to bottom
-        function handleScroll() {
-            if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000 && !isLoading && hasMore) {
-                loadMoreArticles();
-            }
-        }
+    function handleScroll() {
+      if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 800 && !isLoading && hasMore) {
+        loadMoreArticles();
+      }
+    }
 
-        // Initialize
-        document.addEventListener('DOMContentLoaded', () => {
-            // Load initial articles
-            loadMoreArticles();
-            
-            // Add scroll event listener
-            window.addEventListener('scroll', handleScroll);
-        });
-    </script>
+    document.addEventListener('DOMContentLoaded', () => {
+      loadMoreArticles();
+      window.addEventListener('scroll', handleScroll);
+    });
+  </script>
 </body>
 </html>
+```
