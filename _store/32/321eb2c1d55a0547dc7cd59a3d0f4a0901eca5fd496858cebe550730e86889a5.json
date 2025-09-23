@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n7:15 pm, Tue, 23 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-23T13:51:25.111461Z",
+  "id": "321eb2c1d55a0547dc7cd59a3d0f4a0901eca5fd496858cebe550730e86889a5",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508504/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner-4",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-23T13:31:30+00:00",
+            "datePublished": "2025-09-23T13:30:23+00:00",
+            "headline": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508504/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508504/"
+            },
+            "keywords": [
+              "अनिलकुमार सिन्हा"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508504/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508504/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508504/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508504/#breadcrumb"
+            },
+            "dateModified": "2025-09-23T13:31:30+00:00",
+            "datePublished": "2025-09-23T13:30:23+00:00",
+            "description": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508504/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508504/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508504/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg",
+            "url": "https://www.imagekhabar.com/news/508504/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508504/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508504/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । नवनियुक्त कानून, न्याय तथा संसदीय मामिला मन्त्री अनिलकुमार सिन्हाले पदभार ग्रहण गर्नुभएको छ । सिंहदरबारस्थित कार्यकक्षमा मंगलबार उहाँले पदभार ग्रहण गर्दै कानून निर्माण प्रक्रिया सहज बनाउँदै नागरिक बुझ्नेगरी स्पष्ट भाषामा लेख्ने निर्णय गर्नुभएकाे हाे । उहाँले जेनजी पुस्ताको मागअनुसार मुलुकमा भ्रष्टाचारको अन्त्य गरी सुशासन कायम गर्नको लागि कानूनहरुमा आवश्यक संशोधन गरिने बताउनुभयो । […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508504/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508504/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner-4",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-23T13:31:30+00:00",
+              "datePublished": "2025-09-23T13:30:23+00:00",
+              "headline": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508504/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508504/"
+              },
+              "keywords": [
+                "अनिलकुमार सिन्हा"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508504/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508504/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508504/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508504/#breadcrumb"
+              },
+              "dateModified": "2025-09-23T13:31:30+00:00",
+              "datePublished": "2025-09-23T13:30:23+00:00",
+              "description": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508504/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508504/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508504/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg",
+              "url": "https://www.imagekhabar.com/news/508504/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508504/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508504/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । नवनियुक्त कानून, न्याय तथा संसदीय मामिला मन्त्री अनिलकुमार सिन्हाले पदभार ग्रहण गर्नुभएको छ । सिंहदरबारस्थित कार्यकक्षमा मंगलबार उहाँले पदभार ग्रहण गर्दै कानून निर्माण प्रक्रिया सहज बनाउँदै नागरिक बुझ्नेगरी स्पष्ट भाषामा लेख्ने निर्णय गर्नुभएकाे हाे । उहाँले जेनजी पुस्ताको मागअनुसार मुलुकमा भ्रष्टाचारको अन्त्य गरी सुशासन कायम गर्नको लागि कानूनहरुमा आवश्यक संशोधन गरिने बताउनुभयो । […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508504/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/anil-kumar-sinha-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-23T13:30:23Z",
+  "source": "Image Khabar",
+  "store_path": "_store/32/321eb2c1d55a0547dc7cd59a3d0f4a0901eca5fd496858cebe550730e86889a5.json",
+  "title": "नागरिकले बुझ्नेगरी कानून स्पष्ट भाषामा लेख्ने मन्त्री सिन्हाकाे निर्णय",
+  "url": "https://www.imagekhabar.com/news/508504/",
+  "version": 1
+}

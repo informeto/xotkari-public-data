@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "दीपक आचार्य\n7:04 pm, Tue, 23 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-23T13:51:25.404974Z",
+  "id": "e7a439ef42899f7b83178ac289993fff6478033ec2d6c827372e6bd5382a51dc",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/dipak-acharya-150x150.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508493/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/6c607c2edcf5c2364a758567f4aea025",
+              "name": "दीपक आचार्य"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-23T13:20:38+00:00",
+            "datePublished": "2025-09-23T13:19:57+00:00",
+            "headline": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508493/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508493/"
+            },
+            "keywords": [
+              "पुराना राजनीतिक दल"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508493/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508493/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508493/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508493/#breadcrumb"
+            },
+            "dateModified": "2025-09-23T13:20:38+00:00",
+            "datePublished": "2025-09-23T13:19:57+00:00",
+            "description": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508493/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट) - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508493/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508493/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+            "url": "https://www.imagekhabar.com/news/508493/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508493/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508493/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/6c607c2edcf5c2364a758567f4aea025",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "दीपक आचार्य",
+              "contentUrl": "https://secure.gravatar.com/avatar/242ac0071272db77f0b73eb5b7d35f6c?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/242ac0071272db77f0b73eb5b7d35f6c?s=96&d=mm&r=g"
+            },
+            "name": "दीपक आचार्य",
+            "url": "https://www.imagekhabar.com/news/author/dipak-acharya/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । जेनजी युवाकाे आन्दोलनपछि निर्वाचित केपी शर्मा ओली नेतृत्वकाे सरकार विस्थापित भएकाे छ । साेही सरकार विस्थापित भएसँगै अन्तरिम सरकार गठन गरिएको हाे । संसद विघटन भएर निर्वाचनको मिति पनि तय भइसकेको छ । युवाहरुले गरेको आन्दोलनले विस्थापित गराएका राजनीतिक दलहरुभित्र पार्टी पुनर्गठन र नेतृत्व पुस्तान्तरणको बहस व्यापक रुपमा शुरु भएको छ। तर प्रमुख […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508493/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508493/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/6c607c2edcf5c2364a758567f4aea025",
+                "name": "दीपक आचार्य"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-23T13:20:38+00:00",
+              "datePublished": "2025-09-23T13:19:57+00:00",
+              "headline": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508493/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508493/"
+              },
+              "keywords": [
+                "पुराना राजनीतिक दल"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508493/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508493/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508493/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508493/#breadcrumb"
+              },
+              "dateModified": "2025-09-23T13:20:38+00:00",
+              "datePublished": "2025-09-23T13:19:57+00:00",
+              "description": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508493/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट) - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508493/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508493/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+              "url": "https://www.imagekhabar.com/news/508493/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508493/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508493/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/6c607c2edcf5c2364a758567f4aea025",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "दीपक आचार्य",
+                "contentUrl": "https://secure.gravatar.com/avatar/242ac0071272db77f0b73eb5b7d35f6c?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/242ac0071272db77f0b73eb5b7d35f6c?s=96&d=mm&r=g"
+              },
+              "name": "दीपक आचार्य",
+              "url": "https://www.imagekhabar.com/news/author/dipak-acharya/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । जेनजी युवाकाे आन्दोलनपछि निर्वाचित केपी शर्मा ओली नेतृत्वकाे सरकार विस्थापित भएकाे छ । साेही सरकार विस्थापित भएसँगै अन्तरिम सरकार गठन गरिएको हाे । संसद विघटन भएर निर्वाचनको मिति पनि तय भइसकेको छ । युवाहरुले गरेको आन्दोलनले विस्थापित गराएका राजनीतिक दलहरुभित्र पार्टी पुनर्गठन र नेतृत्व पुस्तान्तरणको बहस व्यापक रुपमा शुरु भएको छ। तर प्रमुख […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508493/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/Party-Haru.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-23T13:19:57Z",
+  "source": "Image Khabar",
+  "store_path": "_store/e7/e7a439ef42899f7b83178ac289993fff6478033ec2d6c827372e6bd5382a51dc.json",
+  "title": "पुराना राजनीतिक दल सच्चिने कि सक्किने ? (भिडियाे रिपाेर्ट)",
+  "url": "https://www.imagekhabar.com/news/508493/",
+  "version": 1
+}

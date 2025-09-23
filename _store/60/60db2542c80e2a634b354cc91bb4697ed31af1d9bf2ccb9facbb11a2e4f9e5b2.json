@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n७ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n243\nShares",
+  "description": "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-23T13:51:51.002259Z",
+  "id": "60db2542c80e2a634b354cc91bb4697ed31af1d9bf2ccb9facbb11a2e4f9e5b2",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/23/856094/#article",
+            "@type": "Article",
+            "articleSection": [
+              "शिक्षा",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-23T13:09:10+00:00",
+            "datePublished": "2025-09-23T13:09:08+00:00",
+            "headline": "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै",
+            "image": {
+              "@id": "https://khabarhub.com/2025/23/856094/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/23/856094/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/23/856094/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/23/856094/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-23T13:09:10+00:00",
+            "datePublished": "2025-09-23T13:09:08+00:00",
+            "description": "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/23/856094/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/23/856094/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/23/856094/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg",
+            "url": "https://khabarhub.com/2025/23/856094/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/23/856094/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– प्रधानमन्त्री सुशीला कार्की नेतृत्वको अन्तरिम सरकारका शिक्षा, विज्ञान तथा प्रविधि मन्त्री महावीर पुनले जिम्मेवारी सम्हालेको भोलिपल्टै तीनवटा कदम सार्वजनिक गरेका छन्। मंगलबार उनले सामाजिक सञ्जालमार्फत् तीन तीनवटा कदम सार्वजनिक गरेका हुन् । ‘काम तुरुन्त अघि बढाउन मैले तीन वटा साना तर महत्त्वपूर्ण कदमहरू उठाएको छु’, उनले भनेका छन् । पुनका ३ बुँदे कदम १) […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/23/856094/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/23/856094/#article",
+              "@type": "Article",
+              "articleSection": [
+                "शिक्षा",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-23T13:09:10+00:00",
+              "datePublished": "2025-09-23T13:09:08+00:00",
+              "headline": "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै",
+              "image": {
+                "@id": "https://khabarhub.com/2025/23/856094/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/23/856094/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/23/856094/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/23/856094/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-23T13:09:10+00:00",
+              "datePublished": "2025-09-23T13:09:08+00:00",
+              "description": "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/23/856094/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/23/856094/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/23/856094/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg",
+              "url": "https://khabarhub.com/2025/23/856094/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/23/856094/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– प्रधानमन्त्री सुशीला कार्की नेतृत्वको अन्तरिम सरकारका शिक्षा, विज्ञान तथा प्रविधि मन्त्री महावीर पुनले जिम्मेवारी सम्हालेको भोलिपल्टै तीनवटा कदम सार्वजनिक गरेका छन्। मंगलबार उनले सामाजिक सञ्जालमार्फत् तीन तीनवटा कदम सार्वजनिक गरेका हुन् । ‘काम तुरुन्त अघि बढाउन मैले तीन वटा साना तर महत्त्वपूर्ण कदमहरू उठाएको छु’, उनले भनेका छन् । पुनका ३ बुँदे कदम १) […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/23/856094/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/mahabir-puna.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-23T13:09:08Z",
+  "source": "Khabarhub",
+  "store_path": "_store/60/60db2542c80e2a634b354cc91bb4697ed31af1d9bf2ccb9facbb11a2e4f9e5b2.json",
+  "title": "सामुदायिक विद्यालयमा अनिवार्य कम्प्युटर शिक्षक, विश्वविद्यालयको परीक्षाफल तीन महिनामै",
+  "url": "https://khabarhub.com/2025/23/856094/",
+  "version": 1
+}

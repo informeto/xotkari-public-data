@@ -1,0 +1,478 @@
+{
+  "author": "देश सञ्चार",
+  "content": "",
+  "description": "काठमाडौँ – नवनियुक्त कानून, न्याय तथा संसदीय मामिला मन्त्री अनिलकुमार सिन्हाले पदभार ग्रहण गरेका छन्। मंगलवार दिउँसो सिंहदरबारस्थित कार्यकक्षमा पुगेर उनले",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-23T13:51:34.405765Z",
+  "id": "1110f1e3e2eb109d23f35ba705f5b5711cd40e8d127602b6a1b248eebc121dbd",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/09/23/1097474/#article",
+            "@type": "Article",
+            "articleSection": [
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "name": "देश सञ्चार"
+            },
+            "commentCount": 0,
+            "datePublished": "2025-09-23T12:44:54+00:00",
+            "headline": "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/09/23/1097474/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/23/1097474/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/#breadcrumb"
+            },
+            "datePublished": "2025-09-23T12:44:54+00:00",
+            "description": "काठमाडौँ – नवनियुक्त कानून, न्याय तथा संसदीय मामिला मन्त्री अनिलकुमार सिन्हाले पदभार ग्रहण गरेका छन्। मंगलवार दिउँसो सिंहदरबारस्थित कार्यकक्षमा पुगेर उनले",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/09/23/1097474/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg",
+            "url": "https://deshsanchar.com/2025/09/23/1097474/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/23/1097474/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/23/1097474/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "देश सञ्चार",
+              "contentUrl": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g"
+            },
+            "name": "देश सञ्चार",
+            "url": "https://deshsanchar.com/author/deshsanchar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता"
+          ],
+          [
+            "og:description",
+            "काठमाडौँ – नवनियुक्त कानून, न्याय तथा संसदीय मामिला मन्त्री अनिलकुमार सिन्हाले पदभार ग्रहण गरेका छन्। मंगलवार दिउँसो सिंहदरबारस्थित कार्यकक्षमा पुगेर उनले"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/09/23/1097474/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-09-23T12:44:54+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg"
+          ],
+          [
+            "og:image:width",
+            "1200"
+          ],
+          [
+            "og:image:height",
+            "675"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/#article",
+              "@type": "Article",
+              "articleSection": [
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+                "name": "देश सञ्चार"
+              },
+              "commentCount": 0,
+              "datePublished": "2025-09-23T12:44:54+00:00",
+              "headline": "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/09/23/1097474/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/09/23/1097474/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/09/23/1097474/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/09/23/1097474/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/09/23/1097474/#breadcrumb"
+              },
+              "datePublished": "2025-09-23T12:44:54+00:00",
+              "description": "काठमाडौँ – नवनियुक्त कानून, न्याय तथा संसदीय मामिला मन्त्री अनिलकुमार सिन्हाले पदभार ग्रहण गरेका छन्। मंगलवार दिउँसो सिंहदरबारस्थित कार्यकक्षमा पुगेर उनले",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/09/23/1097474/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/09/23/1097474/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/09/23/1097474/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg",
+              "url": "https://deshsanchar.com/2025/09/23/1097474/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/23/1097474/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "देश सञ्चार",
+                "contentUrl": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g"
+              },
+              "name": "देश सञ्चार",
+              "url": "https://deshsanchar.com/author/deshsanchar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता"
+            ],
+            [
+              "og:description",
+              "काठमाडौँ – नवनियुक्त कानून, न्याय तथा संसदीय मामिला मन्त्री अनिलकुमार सिन्हाले पदभार ग्रहण गरेका छन्। मंगलवार दिउँसो सिंहदरबारस्थित कार्यकक्षमा पुगेर उनले"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/09/23/1097474/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-09-23T12:44:54+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2025/09/23182948/Anil-kumar-singa.jpg"
+            ],
+            [
+              "og:image:width",
+              "1200"
+            ],
+            [
+              "og:image:height",
+              "675"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-23T12:44:54Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/11/1110f1e3e2eb109d23f35ba705f5b5711cd40e8d127602b6a1b248eebc121dbd.json",
+  "title": "कानुन जनताले बुझ्ने भाषामा लेख्ने कानुनमन्त्रीको प्रतिबद्धता",
+  "url": "https://deshsanchar.com/2025/09/23/1097474/",
+  "version": 1
+}

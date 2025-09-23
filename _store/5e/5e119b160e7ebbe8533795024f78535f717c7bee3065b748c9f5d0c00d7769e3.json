@@ -1,0 +1,375 @@
+{
+  "author": "",
+  "content": "खबरहब\n७ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n27\nShares",
+  "description": "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू) समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-23T13:51:49.671301Z",
+  "id": "5e119b160e7ebbe8533795024f78535f717c7bee3065b748c9f5d0c00d7769e3",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-3-768x454.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-1-768x454.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-2-768x455.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-768x455.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-5-768x455.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-4-768x454.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/23/856099/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-23T13:24:55+00:00",
+            "datePublished": "2025-09-23T13:24:52+00:00",
+            "headline": "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू)",
+            "image": {
+              "@id": "https://khabarhub.com/2025/23/856099/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/23/856099/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/23/856099/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://khabarhub.com/2025/23/856099/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-23T13:24:55+00:00",
+            "datePublished": "2025-09-23T13:24:52+00:00",
+            "description": "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू) समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/23/856099/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू) | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/23/856099/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/23/856099/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+            "url": "https://khabarhub.com/2025/23/856099/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/23/856099/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+            "height": 1515,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+            "width": 2560
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू)"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– दसैँ आउन लागेसँगै बजारमा भीड बढेको छ । खासगरी असन इन्द्रचोक न्युरोड लगायत क्षेत्रमा किनमेलका लागि मानिसहरूको घुइँचो लागेको छ ।  साना पसलदेखि ठूला सपिङ महलसम्म मानिसहरू सामान हेर्दै र किनमेल गर्दै गरेका देखिन्छन् ।  व्यापारीहरूलाई पनि अहिले भ्याइ नभ्याई छ ।  तस्बिर : नेपाल फोटो लाइब्रेरी"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/23/856099/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/23/856099/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-23T13:24:55+00:00",
+              "datePublished": "2025-09-23T13:24:52+00:00",
+              "headline": "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू)",
+              "image": {
+                "@id": "https://khabarhub.com/2025/23/856099/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/23/856099/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/23/856099/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://khabarhub.com/2025/23/856099/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-23T13:24:55+00:00",
+              "datePublished": "2025-09-23T13:24:52+00:00",
+              "description": "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू) समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/23/856099/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू) | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/23/856099/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/23/856099/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+              "url": "https://khabarhub.com/2025/23/856099/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/23/856099/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+              "height": 1515,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg",
+              "width": 2560
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू)"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– दसैँ आउन लागेसँगै बजारमा भीड बढेको छ । खासगरी असन इन्द्रचोक न्युरोड लगायत क्षेत्रमा किनमेलका लागि मानिसहरूको घुइँचो लागेको छ ।  साना पसलदेखि ठूला सपिङ महलसम्म मानिसहरू सामान हेर्दै र किनमेल गर्दै गरेका देखिन्छन् ।  व्यापारीहरूलाई पनि अहिले भ्याइ नभ्याई छ ।  तस्बिर : नेपाल फोटो लाइब्रेरी"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/23/856099/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/Dashain-bazar-scaled.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-23T13:24:52Z",
+  "source": "Khabarhub",
+  "store_path": "_store/5e/5e119b160e7ebbe8533795024f78535f717c7bee3065b748c9f5d0c00d7769e3.json",
+  "title": "बजारमा बढ्यो दसैँ चहलपहल (तस्बिरहरू)",
+  "url": "https://khabarhub.com/2025/23/856099/",
+  "version": 1
+}
