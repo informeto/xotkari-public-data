@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n७ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n15\nShares",
+  "description": "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-23T08:29:41.797222Z",
+  "id": "995992f7354479b7248c9c588fdb93823814e508e00a8a37e7a85d21cfd200ba",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/23/855874/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-23T08:03:47+00:00",
+            "datePublished": "2025-09-23T08:03:44+00:00",
+            "headline": "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट",
+            "image": {
+              "@id": "https://khabarhub.com/2025/23/855874/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/23/855874/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/23/855874/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+            "wordCount": 5
+          },
+          {
+            "@id": "https://khabarhub.com/2025/23/855874/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-23T08:03:47+00:00",
+            "datePublished": "2025-09-23T08:03:44+00:00",
+            "description": "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/23/855874/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/23/855874/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/23/855874/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+            "url": "https://khabarhub.com/2025/23/855874/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/23/855874/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+            "height": 738,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "दाङ– आन्तरिक राजस्व कार्यालय तुलसीपुरले आफ्नो सेवा आजदेखि सुरु गरेको छ । तुलसीपुर उद्योग वाणिज्य सङ्घको कार्यालयबाट सेवा सुरु गरेको हो । सेवाग्राहीको अवस्थालाई मध्यनजर गरी हाललाई करदाता सेवा र राजस्वसम्बन्धी सेवा सञ्चालन गरेको कार्यालयका प्रमुख कर अधिकृत श्रीधर टण्डनले जानकारी दिए ।  सो कार्यालय अन्तर्गत दाङ, पूर्वी रुकुम, प्यूठान, रोल्पालगायत जिल्लाका गरी  ३५ हजार […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/23/855874/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/23/855874/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-23T08:03:47+00:00",
+              "datePublished": "2025-09-23T08:03:44+00:00",
+              "headline": "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट",
+              "image": {
+                "@id": "https://khabarhub.com/2025/23/855874/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/23/855874/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/23/855874/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+              "wordCount": 5
+            },
+            {
+              "@id": "https://khabarhub.com/2025/23/855874/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-23T08:03:47+00:00",
+              "datePublished": "2025-09-23T08:03:44+00:00",
+              "description": "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/23/855874/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/23/855874/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/23/855874/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+              "url": "https://khabarhub.com/2025/23/855874/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/23/855874/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+              "height": 738,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "दाङ– आन्तरिक राजस्व कार्यालय तुलसीपुरले आफ्नो सेवा आजदेखि सुरु गरेको छ । तुलसीपुर उद्योग वाणिज्य सङ्घको कार्यालयबाट सेवा सुरु गरेको हो । सेवाग्राहीको अवस्थालाई मध्यनजर गरी हाललाई करदाता सेवा र राजस्वसम्बन्धी सेवा सञ्चालन गरेको कार्यालयका प्रमुख कर अधिकृत श्रीधर टण्डनले जानकारी दिए ।  सो कार्यालय अन्तर्गत दाङ, पूर्वी रुकुम, प्यूठान, रोल्पालगायत जिल्लाका गरी  ३५ हजार […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/23/855874/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/tulshipur.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-23T08:03:44Z",
+  "source": "Khabarhub",
+  "store_path": "_store/99/995992f7354479b7248c9c588fdb93823814e508e00a8a37e7a85d21cfd200ba.json",
+  "title": "आन्तरिक राजस्व कार्यालयको सेवा वाणिज्य संघको कार्यालयबाट",
+  "url": "https://khabarhub.com/2025/23/855874/",
+  "version": 1
+}

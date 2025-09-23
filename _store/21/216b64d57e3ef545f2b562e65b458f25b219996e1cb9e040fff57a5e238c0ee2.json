@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n७ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n48\nShares",
+  "description": "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-23T08:29:46.418675Z",
+  "id": "216b64d57e3ef545f2b562e65b458f25b219996e1cb9e040fff57a5e238c0ee2",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/23/855845/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-23T07:26:06+00:00",
+            "datePublished": "2025-09-23T07:26:04+00:00",
+            "headline": "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/23/855845/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/23/855845/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/23/855845/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/23/855845/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-23T07:26:06+00:00",
+            "datePublished": "2025-09-23T07:26:04+00:00",
+            "description": "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/23/855845/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/23/855845/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/23/855845/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+            "url": "https://khabarhub.com/2025/23/855845/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/23/855845/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+            "height": 1080,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+            "width": 1920
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी– ह्वाइट हाउसले सोमबार भेनेजुएलाका राष्ट्रपति निकोलस मदुरोले अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पसँग वार्ता गर्न गरेको अनुरोध अस्वीकार गरेको छ । मदुरोले दुई कट्टर शत्रुबीच तनाव कम गर्न संवाद प्रस्ताव गरेका थिए । भेनेजुएलाका दुई प्रमुख विपक्षी नेताहरूले अमेरिकाको नौसैनिक तैनाथीलाई समर्थन गर्दै यसलाई लोकतन्त्र पुनःस्थापनाका लागि महत्त्वपूर्ण भनेका छन् ।  ट्रम्पले दक्षिणी क्यारिबियनमा लागूऔषध विरोधी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/23/855845/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/23/855845/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-23T07:26:06+00:00",
+              "datePublished": "2025-09-23T07:26:04+00:00",
+              "headline": "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/23/855845/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/23/855845/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/23/855845/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/23/855845/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-23T07:26:06+00:00",
+              "datePublished": "2025-09-23T07:26:04+00:00",
+              "description": "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/23/855845/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/23/855845/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/23/855845/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+              "url": "https://khabarhub.com/2025/23/855845/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/23/855845/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+              "height": 1080,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+              "width": 1920
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी– ह्वाइट हाउसले सोमबार भेनेजुएलाका राष्ट्रपति निकोलस मदुरोले अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पसँग वार्ता गर्न गरेको अनुरोध अस्वीकार गरेको छ । मदुरोले दुई कट्टर शत्रुबीच तनाव कम गर्न संवाद प्रस्ताव गरेका थिए । भेनेजुएलाका दुई प्रमुख विपक्षी नेताहरूले अमेरिकाको नौसैनिक तैनाथीलाई समर्थन गर्दै यसलाई लोकतन्त्र पुनःस्थापनाका लागि महत्त्वपूर्ण भनेका छन् ।  ट्रम्पले दक्षिणी क्यारिबियनमा लागूऔषध विरोधी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/23/855845/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-23T07:26:04Z",
+  "source": "Khabarhub",
+  "store_path": "_store/21/216b64d57e3ef545f2b562e65b458f25b219996e1cb9e040fff57a5e238c0ee2.json",
+  "title": "ह्वाइट हाउसद्वारा मदुरोको वार्ता प्रस्ताव अस्वीकार",
+  "url": "https://khabarhub.com/2025/23/855845/",
+  "version": 1
+}
