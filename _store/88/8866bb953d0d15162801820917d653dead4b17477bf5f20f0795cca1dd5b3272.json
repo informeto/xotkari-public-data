@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n8:36 pm, Tue, 23 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-23T14:57:42.362637Z",
+  "id": "8866bb953d0d15162801820917d653dead4b17477bf5f20f0795cca1dd5b3272",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508525/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner-5",
+              "BREAKING",
+              "Hot News",
+              "शिक्षा",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-23T14:51:45+00:00",
+            "datePublished": "2025-09-23T14:51:40+00:00",
+            "headline": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508525/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508525/"
+            },
+            "keywords": [
+              "महावीर पुन"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508525/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508525/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508525/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508525/#breadcrumb"
+            },
+            "dateModified": "2025-09-23T14:51:45+00:00",
+            "datePublished": "2025-09-23T14:51:40+00:00",
+            "description": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508525/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508525/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508525/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+            "url": "https://www.imagekhabar.com/news/508525/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508525/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508525/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । शिक्षा, विज्ञान तथा प्रविधि मन्त्री महावीर पुनले मन्त्रालयमै बसेर काम गर्ने बताउनुभएकाे छ। मन्त्री पुनले मन्त्रालयमा नै बस्ने इच्छा व्यक्त गरेपछि आवश्यक बन्दोबस्तीका सामानहरूको व्यवस्था गरिएको हाे।सिंहदरबारमा साेमबार मन्त्रालयमा पुगेर पदभार ग्रहण गर्ने क्रममा उहाँले आफूलाई थप सुविधा आवश्यक नभएको स्पष्ट गर्दै मन्त्रालयमै बस्ने इच्छा व्यक्त गर्नुभएकाे थियाे । साेही क्रममा उहाँले सचिवलाई […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508525/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508525/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner-5",
+                "BREAKING",
+                "Hot News",
+                "शिक्षा",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-23T14:51:45+00:00",
+              "datePublished": "2025-09-23T14:51:40+00:00",
+              "headline": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508525/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508525/"
+              },
+              "keywords": [
+                "महावीर पुन"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508525/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508525/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508525/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508525/#breadcrumb"
+              },
+              "dateModified": "2025-09-23T14:51:45+00:00",
+              "datePublished": "2025-09-23T14:51:40+00:00",
+              "description": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508525/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508525/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508525/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+              "url": "https://www.imagekhabar.com/news/508525/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508525/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508525/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । शिक्षा, विज्ञान तथा प्रविधि मन्त्री महावीर पुनले मन्त्रालयमै बसेर काम गर्ने बताउनुभएकाे छ। मन्त्री पुनले मन्त्रालयमा नै बस्ने इच्छा व्यक्त गरेपछि आवश्यक बन्दोबस्तीका सामानहरूको व्यवस्था गरिएको हाे।सिंहदरबारमा साेमबार मन्त्रालयमा पुगेर पदभार ग्रहण गर्ने क्रममा उहाँले आफूलाई थप सुविधा आवश्यक नभएको स्पष्ट गर्दै मन्त्रालयमै बस्ने इच्छा व्यक्त गर्नुभएकाे थियाे । साेही क्रममा उहाँले सचिवलाई […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508525/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/mahabir-pun-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-23T14:51:40Z",
+  "source": "Image Khabar",
+  "store_path": "_store/88/8866bb953d0d15162801820917d653dead4b17477bf5f20f0795cca1dd5b3272.json",
+  "title": "शिक्षामन्त्री महावीर पुनका लागि मन्त्रालयमै खाने र बस्ने व्यवस्थापन",
+  "url": "https://www.imagekhabar.com/news/508525/",
+  "version": 1
+}
