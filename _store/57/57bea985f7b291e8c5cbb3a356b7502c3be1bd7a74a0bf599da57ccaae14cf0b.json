@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n3\nShares",
+  "description": "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए आर्थिक",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T04:26:37.116138Z",
+  "id": "57bea985f7b291e8c5cbb3a356b7502c3be1bd7a74a0bf599da57ccaae14cf0b",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856269/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अटो",
+              "आर्थिक"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T04:22:51+00:00",
+            "datePublished": "2025-09-24T04:22:49+00:00",
+            "headline": "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856269/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856269/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856269/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856269/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T04:22:51+00:00",
+            "datePublished": "2025-09-24T04:22:49+00:00",
+            "description": "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए आर्थिक",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856269/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856269/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856269/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+            "url": "https://khabarhub.com/2025/24/856269/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856269/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+            "height": 464,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "पर्सा– चालु आर्थिक वर्षको पहिलो दुई महिनामा वीरगञ्ज नाकाबाट सात अर्ब १६ लाख मूल्यबराबरका सवारीसाधन तथा पार्टपुर्जा आयात भएका छन् । गत आर्थिक वर्षको सोही अवधिको तुलनामा चालु आवमा उक्त नाकाबाट एक अर्ब ७५ करोड बढी मूल्यका सवारीसाधन र त्यसमा प्रयोग हुने पार्टपुर्जा आयात भएको वीरगञ्ज भन्सार कार्यालयले जनाएको छ । कार्यालयका अनुसार गत आवको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856269/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856269/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अटो",
+                "आर्थिक"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T04:22:51+00:00",
+              "datePublished": "2025-09-24T04:22:49+00:00",
+              "headline": "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856269/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856269/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856269/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856269/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T04:22:51+00:00",
+              "datePublished": "2025-09-24T04:22:49+00:00",
+              "description": "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए आर्थिक",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856269/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856269/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856269/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+              "url": "https://khabarhub.com/2025/24/856269/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856269/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+              "height": 464,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "पर्सा– चालु आर्थिक वर्षको पहिलो दुई महिनामा वीरगञ्ज नाकाबाट सात अर्ब १६ लाख मूल्यबराबरका सवारीसाधन तथा पार्टपुर्जा आयात भएका छन् । गत आर्थिक वर्षको सोही अवधिको तुलनामा चालु आवमा उक्त नाकाबाट एक अर्ब ७५ करोड बढी मूल्यका सवारीसाधन र त्यसमा प्रयोग हुने पार्टपुर्जा आयात भएको वीरगञ्ज भन्सार कार्यालयले जनाएको छ । कार्यालयका अनुसार गत आवको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856269/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/08/birgunj-bhansar.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T04:22:49Z",
+  "source": "Khabarhub",
+  "store_path": "_store/57/57bea985f7b291e8c5cbb3a356b7502c3be1bd7a74a0bf599da57ccaae14cf0b.json",
+  "title": "वीरगञ्ज नाका हुँदै दुई महिनामा सात अर्बका सवारीसाधन भित्रिए",
+  "url": "https://khabarhub.com/2025/24/856269/",
+  "version": 1
+}
