@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T07:23:43.674359Z",
+  "id": "16acfcc4279063b2cd3d47ead5604d49171290f93be9d8441ab44d613c816de7",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856369/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T07:21:52+00:00",
+            "datePublished": "2025-09-24T07:21:50+00:00",
+            "headline": "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856369/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856369/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856369/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856369/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T07:21:52+00:00",
+            "datePublished": "2025-09-24T07:21:50+00:00",
+            "description": "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856369/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856369/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856369/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+            "url": "https://khabarhub.com/2025/24/856369/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856369/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+            "height": 800,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "सिन्धुपाल्चोक– पहिरोका कारण एक महिनाअघिदेखि अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेको छ। राजमार्ग खुलेसँगै चीनसँगको प्रमुख व्यापारिक ढोका तातोपानी नाका सोमबारदेखि सामान बोकेका  कन्टेनरहरू नेपाल भित्रिन थालेका छन ।   कोदारी सडकखण्डको भोटेकोशी गाउँपालिका–२ इकोसहितको चार ठाउँको पहिरो पन्छाएपछि सडक सञ्चालनमा आएको हो । अरनिको राजमार्गको भोटेकोशी गाउँपालिका क्षेत्रका विभिन्न स्थानमा झन्डै ५०० मिटर सडक भासिएको थियो […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856369/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856369/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T07:21:52+00:00",
+              "datePublished": "2025-09-24T07:21:50+00:00",
+              "headline": "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856369/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856369/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856369/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856369/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T07:21:52+00:00",
+              "datePublished": "2025-09-24T07:21:50+00:00",
+              "description": "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856369/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856369/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856369/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+              "url": "https://khabarhub.com/2025/24/856369/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856369/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+              "height": 800,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "सिन्धुपाल्चोक– पहिरोका कारण एक महिनाअघिदेखि अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेको छ। राजमार्ग खुलेसँगै चीनसँगको प्रमुख व्यापारिक ढोका तातोपानी नाका सोमबारदेखि सामान बोकेका  कन्टेनरहरू नेपाल भित्रिन थालेका छन ।   कोदारी सडकखण्डको भोटेकोशी गाउँपालिका–२ इकोसहितको चार ठाउँको पहिरो पन्छाएपछि सडक सञ्चालनमा आएको हो । अरनिको राजमार्गको भोटेकोशी गाउँपालिका क्षेत्रका विभिन्न स्थानमा झन्डै ५०० मिटर सडक भासिएको थियो […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856369/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2021/09/Tatopani_Naka-3-copy.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T07:21:50Z",
+  "source": "Khabarhub",
+  "store_path": "_store/16/16acfcc4279063b2cd3d47ead5604d49171290f93be9d8441ab44d613c816de7.json",
+  "title": "अवरुद्ध तातोपानी–कोदारी राजमार्ग खुलेसँगै भन्सार नाकाबाट सामान आयात सुरु",
+  "url": "https://khabarhub.com/2025/24/856369/",
+  "version": 1
+}
