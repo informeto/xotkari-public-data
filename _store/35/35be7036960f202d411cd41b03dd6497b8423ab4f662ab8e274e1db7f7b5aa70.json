@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n8:29 am, Wed, 24 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T03:27:49.502021Z",
+  "id": "35be7036960f202d411cd41b03dd6497b8423ab4f662ab8e274e1db7f7b5aa70",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508548/#article",
+            "@type": "Article",
+            "articleSection": [
+              "विश्व",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-24T02:44:59+00:00",
+            "datePublished": "2025-09-24T02:44:56+00:00",
+            "headline": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508548/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508548/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508548/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508548/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508548/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508548/#breadcrumb"
+            },
+            "dateModified": "2025-09-24T02:44:59+00:00",
+            "datePublished": "2025-09-24T02:44:56+00:00",
+            "description": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508548/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508548/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508548/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+            "url": "https://www.imagekhabar.com/news/508548/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508548/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+            "height": 811,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+            "width": 1550
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508548/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी । टर्कीएको उत्तरी कालो सागर क्षेत्रमा सोमवार ठूलो बाढीमा फसेका १७ जनालाई सैन्य हेलिकप्टरबाट उद्धार गरिएको अधिकारीहरूले बताएका छन् । भारी वर्षाले यस क्षेत्रमा व्यापक क्षति पु¥याएको छ । शनिवारदेखि बाढीका कारण पहिरो र डुबान भएको छ । जसले राइज, गिरेसुन, आर्टभिन र ट्राब्जोन प्रान्तहरूमा सडक र पुलहरू भत्काएको छ । जसले गर्दा धेरै […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508548/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508548/#article",
+              "@type": "Article",
+              "articleSection": [
+                "विश्व",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-24T02:44:59+00:00",
+              "datePublished": "2025-09-24T02:44:56+00:00",
+              "headline": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508548/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508548/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508548/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508548/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508548/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508548/#breadcrumb"
+              },
+              "dateModified": "2025-09-24T02:44:59+00:00",
+              "datePublished": "2025-09-24T02:44:56+00:00",
+              "description": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508548/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508548/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508548/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+              "url": "https://www.imagekhabar.com/news/508548/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508548/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+              "height": 811,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg",
+              "width": 1550
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508548/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी । टर्कीएको उत्तरी कालो सागर क्षेत्रमा सोमवार ठूलो बाढीमा फसेका १७ जनालाई सैन्य हेलिकप्टरबाट उद्धार गरिएको अधिकारीहरूले बताएका छन् । भारी वर्षाले यस क्षेत्रमा व्यापक क्षति पु¥याएको छ । शनिवारदेखि बाढीका कारण पहिरो र डुबान भएको छ । जसले राइज, गिरेसुन, आर्टभिन र ट्राब्जोन प्रान्तहरूमा सडक र पुलहरू भत्काएको छ । जसले गर्दा धेरै […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508548/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/Flood-in-turkey.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T02:44:56Z",
+  "source": "Image Khabar",
+  "store_path": "_store/35/35be7036960f202d411cd41b03dd6497b8423ab4f662ab8e274e1db7f7b5aa70.json",
+  "title": "टर्कीको कालो सागर क्षेत्रमा बाढीको वितण्डा",
+  "url": "https://www.imagekhabar.com/news/508548/",
+  "version": 1
+}
