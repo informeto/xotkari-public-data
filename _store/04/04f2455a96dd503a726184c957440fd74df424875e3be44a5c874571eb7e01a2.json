@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n78\nShares",
+  "description": "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T11:33:19.213063Z",
+  "id": "04f2455a96dd503a726184c957440fd74df424875e3be44a5c874571eb7e01a2",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856538/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अपराध",
+              "समाचार",
+              "सुरक्षा"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T11:26:56+00:00",
+            "datePublished": "2025-09-24T11:26:53+00:00",
+            "headline": "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856538/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856538/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856538/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856538/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T11:26:56+00:00",
+            "datePublished": "2025-09-24T11:26:53+00:00",
+            "description": "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856538/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856538/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856538/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg",
+            "url": "https://khabarhub.com/2025/24/856538/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856538/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg",
+            "height": 500,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg",
+            "width": 900
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- गत भदौ २३ र २४ गते भएको जेन‍-जी आन्दोलनका क्रममा महाराजगञ्ज वृत्तका प्रहरीको कुटीकुटी हत्या गरेको अभियोगमा प्रहरीले दुईजनालाई पक्राउ गरेको छ। काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालयको टोलीले मंगलबार सिन्धुपाल्चोक निवासी ओम पौडेललाई पक्राउ गरेको हो। उक्त घटनामा काभ्रे निवासी युवराज क्याप्छालाई यसअघि नै प्रहरीले पक्राउ गरिसकेको छ। पक्राउ परेका दुवैजनाविरुद्ध कर्तव्य ज्यानसम्बन्धी कसुरमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856538/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856538/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अपराध",
+                "समाचार",
+                "सुरक्षा"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T11:26:56+00:00",
+              "datePublished": "2025-09-24T11:26:53+00:00",
+              "headline": "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856538/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856538/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856538/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856538/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T11:26:56+00:00",
+              "datePublished": "2025-09-24T11:26:53+00:00",
+              "description": "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856538/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856538/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856538/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg",
+              "url": "https://khabarhub.com/2025/24/856538/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856538/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg",
+              "height": 500,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg",
+              "width": 900
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- गत भदौ २३ र २४ गते भएको जेन‍-जी आन्दोलनका क्रममा महाराजगञ्ज वृत्तका प्रहरीको कुटीकुटी हत्या गरेको अभियोगमा प्रहरीले दुईजनालाई पक्राउ गरेको छ। काठमाडौं उपत्यका अपराध अनुसन्धान कार्यालयको टोलीले मंगलबार सिन्धुपाल्चोक निवासी ओम पौडेललाई पक्राउ गरेको हो। उक्त घटनामा काभ्रे निवासी युवराज क्याप्छालाई यसअघि नै प्रहरीले पक्राउ गरिसकेको छ। पक्राउ परेका दुवैजनाविरुद्ध कर्तव्य ज्यानसम्बन्धी कसुरमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856538/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/uttam-thapa-police-kutpit-arrested.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T11:26:53Z",
+  "source": "Khabarhub",
+  "store_path": "_store/04/04f2455a96dd503a726184c957440fd74df424875e3be44a5c874571eb7e01a2.json",
+  "title": "जेन-जीका नाममा प्रहरीको हत्यामा संलग्न भएको अभियोगमा दुईजना समातिए",
+  "url": "https://khabarhub.com/2025/24/856538/",
+  "version": 1
+}

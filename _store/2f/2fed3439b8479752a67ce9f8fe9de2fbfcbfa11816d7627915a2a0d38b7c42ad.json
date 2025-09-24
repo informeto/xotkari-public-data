@@ -1,0 +1,368 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n6\nShares",
+  "description": "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T11:33:20.759735Z",
+  "id": "2fed3439b8479752a67ce9f8fe9de2fbfcbfa11816d7627915a2a0d38b7c42ad",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856530/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T11:23:06+00:00",
+            "datePublished": "2025-09-24T11:23:04+00:00",
+            "headline": "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856530/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856530/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856530/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856530/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T11:23:06+00:00",
+            "datePublished": "2025-09-24T11:23:04+00:00",
+            "description": "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856530/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856530/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856530/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "url": "https://khabarhub.com/2025/24/856530/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856530/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कैलाली– धनगढी उपमहानगरपालिका-११ बेलास्थित सडकमा भे.२ त २४ नम्बरको ट्याक्टरको ठक्करबाट साइकलयात्री सोही उपमहानगरपालिका-११ बस्ने कमल रानाको छोरा ८ वर्षीय सुशान्त रानाको बुधबार बिहान घटनास्थलमै मृत्यु भएको छ । प्रहरीले ट्याक्टर चालकलाई नियन्त्रणमा लिई दुर्घटनाका सम्बन्धमा आवश्यक अनुसन्धान गरिरहेको छ ।"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856530/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856530/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T11:23:06+00:00",
+              "datePublished": "2025-09-24T11:23:04+00:00",
+              "headline": "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856530/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856530/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856530/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856530/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T11:23:06+00:00",
+              "datePublished": "2025-09-24T11:23:04+00:00",
+              "description": "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856530/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856530/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856530/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "url": "https://khabarhub.com/2025/24/856530/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856530/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कैलाली– धनगढी उपमहानगरपालिका-११ बेलास्थित सडकमा भे.२ त २४ नम्बरको ट्याक्टरको ठक्करबाट साइकलयात्री सोही उपमहानगरपालिका-११ बस्ने कमल रानाको छोरा ८ वर्षीय सुशान्त रानाको बुधबार बिहान घटनास्थलमै मृत्यु भएको छ । प्रहरीले ट्याक्टर चालकलाई नियन्त्रणमा लिई दुर्घटनाका सम्बन्धमा आवश्यक अनुसन्धान गरिरहेको छ ।"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856530/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T11:23:04Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2f/2fed3439b8479752a67ce9f8fe9de2fbfcbfa11816d7627915a2a0d38b7c42ad.json",
+  "title": "धनगढीमा ट्याक्टरको ठक्करबाट साइकलयात्रीको मृत्यु",
+  "url": "https://khabarhub.com/2025/24/856530/",
+  "version": 1
+}
