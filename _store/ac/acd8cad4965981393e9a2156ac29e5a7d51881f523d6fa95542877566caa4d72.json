@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n24\nShares",
+  "description": "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा स्वास्थ्य",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T06:31:36.804182Z",
+  "id": "acd8cad4965981393e9a2156ac29e5a7d51881f523d6fa95542877566caa4d72",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856315/#article",
+            "@type": "Article",
+            "articleSection": [
+              "स्वास्थ्य"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T06:13:28+00:00",
+            "datePublished": "2025-09-24T06:13:27+00:00",
+            "headline": "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856315/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856315/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856315/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856315/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T06:13:28+00:00",
+            "datePublished": "2025-09-24T06:13:27+00:00",
+            "description": "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा स्वास्थ्य",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856315/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856315/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856315/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+            "url": "https://khabarhub.com/2025/24/856315/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856315/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल फोटो",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+            "height": 420,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+            "width": 647
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काभ्रेपलाञ्चोक– स्वास्थ्य बीमा कार्यक्रमअन्तर्गत काभ्रेपलाञ्चोकको पाँचखाल नगरपालिका–६ दुलालथोकस्थित प्राथमिक स्वास्थ्य केन्द्रले स्वास्थ्य बीमा अन्तर्गत प्रथम सेवा सुरु गरेको छ । सो बिन्दुबाट सेवा सुरु गरेपछि जिल्लामा बीमाअन्तर्गत उपचार गर्ने सरकारी स्वास्थ्य संस्थाको सङ्ख्या आठ पुगेको छ ।  उक्त केन्द्रले आजदेखि स्वास्थ्य बीमाको प्रथम सेवा प्रदान गरेको केन्द्र प्रमुख कोपिला कार्कीले बताइन् । उनकाअनुसार उक्त केन्द्रलाई आधारभूत […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856315/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856315/#article",
+              "@type": "Article",
+              "articleSection": [
+                "स्वास्थ्य"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T06:13:28+00:00",
+              "datePublished": "2025-09-24T06:13:27+00:00",
+              "headline": "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856315/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856315/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856315/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856315/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T06:13:28+00:00",
+              "datePublished": "2025-09-24T06:13:27+00:00",
+              "description": "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा स्वास्थ्य",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856315/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856315/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856315/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+              "url": "https://khabarhub.com/2025/24/856315/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856315/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल फोटो",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+              "height": 420,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg",
+              "width": 647
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काभ्रेपलाञ्चोक– स्वास्थ्य बीमा कार्यक्रमअन्तर्गत काभ्रेपलाञ्चोकको पाँचखाल नगरपालिका–६ दुलालथोकस्थित प्राथमिक स्वास्थ्य केन्द्रले स्वास्थ्य बीमा अन्तर्गत प्रथम सेवा सुरु गरेको छ । सो बिन्दुबाट सेवा सुरु गरेपछि जिल्लामा बीमाअन्तर्गत उपचार गर्ने सरकारी स्वास्थ्य संस्थाको सङ्ख्या आठ पुगेको छ ।  उक्त केन्द्रले आजदेखि स्वास्थ्य बीमाको प्रथम सेवा प्रदान गरेको केन्द्र प्रमुख कोपिला कार्कीले बताइन् । उनकाअनुसार उक्त केन्द्रलाई आधारभूत […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856315/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2019/03/swasthya_bima-e1580788280328.jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T06:13:27Z",
+  "source": "Khabarhub",
+  "store_path": "_store/ac/acd8cad4965981393e9a2156ac29e5a7d51881f523d6fa95542877566caa4d72.json",
+  "title": "स्वास्थ्य बीमा कार्यक्रम : काभ्रेमा आठ केन्द्रबाट प्रथम सेवा",
+  "url": "https://khabarhub.com/2025/24/856315/",
+  "version": 1
+}

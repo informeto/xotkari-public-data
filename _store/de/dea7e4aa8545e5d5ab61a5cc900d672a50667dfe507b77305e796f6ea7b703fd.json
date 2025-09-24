@@ -1,0 +1,370 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T06:31:36.296521Z",
+  "id": "dea7e4aa8545e5d5ab61a5cc900d672a50667dfe507b77305e796f6ea7b703fd",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-pairo-768x576.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856318/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T06:30:44+00:00",
+            "datePublished": "2025-09-24T06:30:42+00:00",
+            "headline": "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856318/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856318/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856318/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856318/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T06:30:44+00:00",
+            "datePublished": "2025-09-24T06:30:42+00:00",
+            "description": "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856318/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856318/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856318/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+            "url": "https://khabarhub.com/2025/24/856318/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856318/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+            "height": 1351,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+            "width": 1800
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– चितवनको मुग्लिन–नारायणगढ सडकखण्डअन्तर्गत तुइनखोला नजिक खसेको पहिरो पन्छाउन बुधबार दिनभर लाग्ने भएको छ । पहिरो पन्छाउनको लागि दुवैतर्फबाट निरन्तर रूपमा मेशिनहरू परिचालन गरिएको र पूर्ण रूपमा पन्छाउन बुधबार दिनभर लाग्ने सडक डिभिजन भरतपुरले जनाएको छ । मुग्लिन नारायणघाट सडक खण्डको तुईन खोला पुल नजिकै मंगलबार अपराह्न पाँच बजे गएको ठुलो पहिरोका कारण सडक आवागमन पुर्णरूपमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856318/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856318/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T06:30:44+00:00",
+              "datePublished": "2025-09-24T06:30:42+00:00",
+              "headline": "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856318/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856318/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856318/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856318/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T06:30:44+00:00",
+              "datePublished": "2025-09-24T06:30:42+00:00",
+              "description": "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856318/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856318/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856318/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+              "url": "https://khabarhub.com/2025/24/856318/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856318/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+              "height": 1351,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg",
+              "width": 1800
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– चितवनको मुग्लिन–नारायणगढ सडकखण्डअन्तर्गत तुइनखोला नजिक खसेको पहिरो पन्छाउन बुधबार दिनभर लाग्ने भएको छ । पहिरो पन्छाउनको लागि दुवैतर्फबाट निरन्तर रूपमा मेशिनहरू परिचालन गरिएको र पूर्ण रूपमा पन्छाउन बुधबार दिनभर लाग्ने सडक डिभिजन भरतपुरले जनाएको छ । मुग्लिन नारायणघाट सडक खण्डको तुईन खोला पुल नजिकै मंगलबार अपराह्न पाँच बजे गएको ठुलो पहिरोका कारण सडक आवागमन पुर्णरूपमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856318/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/toin-khola-pairo-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T06:30:42Z",
+  "source": "Khabarhub",
+  "store_path": "_store/de/dea7e4aa8545e5d5ab61a5cc900d672a50667dfe507b77305e796f6ea7b703fd.json",
+  "title": "तुइनखोला नजिक खसेको पहिरो पन्छाउन आज दिनभर लाग्ने",
+  "url": "https://khabarhub.com/2025/24/856318/",
+  "version": 1
+}
