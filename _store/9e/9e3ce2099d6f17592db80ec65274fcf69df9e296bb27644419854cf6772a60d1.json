@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n21\nShares",
+  "description": "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T14:55:41.942301Z",
+  "id": "9e3ce2099d6f17592db80ec65274fcf69df9e296bb27644419854cf6772a60d1",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856672/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T14:52:07+00:00",
+            "datePublished": "2025-09-24T14:47:31+00:00",
+            "headline": "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856672/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856672/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856672/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856672/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T14:52:07+00:00",
+            "datePublished": "2025-09-24T14:47:31+00:00",
+            "description": "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856672/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856672/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856672/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg",
+            "url": "https://khabarhub.com/2025/24/856672/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856672/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg",
+            "height": 536,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg",
+            "width": 836
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "गोरखा – उत्तरी गोरखाको चुमनुब्री गाउँपालिका–१ सामागाउँकी २२ वर्षीया छिरिङ डिकी लामा मनास्लु आरोहण गर्ने नेपालकै कान्छी आरोही बनेकी छन् । लामाकी आफन्त एवं आरोही नाङ्सल छोदेनका अनुसार यसअघि १९ वर्षीया विदेशी युवतीले मनास्लु आरोहण गरिसकेकी छन् । नेपाल मनास्लु आरोहण गर्नेमा भने छिरिङ डिकी हालसम्मकै कान्छी रहेको नाङ्सलले जानकारी दिइन् । सोमबार बिहान ६ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856672/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856672/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T14:52:07+00:00",
+              "datePublished": "2025-09-24T14:47:31+00:00",
+              "headline": "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856672/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856672/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856672/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856672/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T14:52:07+00:00",
+              "datePublished": "2025-09-24T14:47:31+00:00",
+              "description": "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856672/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856672/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856672/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg",
+              "url": "https://khabarhub.com/2025/24/856672/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856672/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg",
+              "height": 536,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg",
+              "width": 836
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "गोरखा – उत्तरी गोरखाको चुमनुब्री गाउँपालिका–१ सामागाउँकी २२ वर्षीया छिरिङ डिकी लामा मनास्लु आरोहण गर्ने नेपालकै कान्छी आरोही बनेकी छन् । लामाकी आफन्त एवं आरोही नाङ्सल छोदेनका अनुसार यसअघि १९ वर्षीया विदेशी युवतीले मनास्लु आरोहण गरिसकेकी छन् । नेपाल मनास्लु आरोहण गर्नेमा भने छिरिङ डिकी हालसम्मकै कान्छी रहेको नाङ्सलले जानकारी दिइन् । सोमबार बिहान ६ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856672/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/xiring_manaslu.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T14:47:31Z",
+  "source": "Khabarhub",
+  "store_path": "_store/9e/9e3ce2099d6f17592db80ec65274fcf69df9e296bb27644419854cf6772a60d1.json",
+  "title": "मनास्लु आरोहण गर्ने अहिलेसम्मकै कान्छी आरोही छिरिङ",
+  "url": "https://khabarhub.com/2025/24/856672/",
+  "version": 1
+}
