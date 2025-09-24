@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n63\nShares",
+  "description": "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T10:48:16.190741Z",
+  "id": "b4e70c148d6c6d6313901972a58b63b467b19845e4951a9cd8bb3fcb05014294",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856504/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T10:37:27+00:00",
+            "datePublished": "2025-09-24T10:37:24+00:00",
+            "headline": "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856504/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856504/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856504/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg",
+            "wordCount": 8
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856504/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T10:37:27+00:00",
+            "datePublished": "2025-09-24T10:37:24+00:00",
+            "description": "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856504/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856504/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856504/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg",
+            "url": "https://khabarhub.com/2025/24/856504/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856504/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "गण्डकी– मुग्लिन–नारायणगढ खण्डको तुइन खोला क्षेत्रमा गएको पहिरोको प्रभाव पोखरा– काठमाडौँ सडकखण्डमा पनि पर्ने गरेको छ ।  उक्त पहिरोका कारण मुग्लिनखण्डमा सवारीसाधनको अत्याधिक चाप बढ्न थालेसँगै त्यसको प्रभाव पोखरा–काठमाडौँ आवतजावत चल्ने सवारीसाधनमा परेको पृथ्वीराजमार्ग बस सञ्चालक कम्पनी लिमिटेडका अध्यक्ष ऐनकुमार साईले जानकारी दिए ।    उक्त पहिरोका कारण सडकमा सवारीसाधनको जाम हुन थालेपछि यात्रुहरूलाई समयमा नै […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856504/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856504/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T10:37:27+00:00",
+              "datePublished": "2025-09-24T10:37:24+00:00",
+              "headline": "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856504/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856504/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856504/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg",
+              "wordCount": 8
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856504/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T10:37:27+00:00",
+              "datePublished": "2025-09-24T10:37:24+00:00",
+              "description": "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856504/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856504/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856504/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg",
+              "url": "https://khabarhub.com/2025/24/856504/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856504/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "गण्डकी– मुग्लिन–नारायणगढ खण्डको तुइन खोला क्षेत्रमा गएको पहिरोको प्रभाव पोखरा– काठमाडौँ सडकखण्डमा पनि पर्ने गरेको छ ।  उक्त पहिरोका कारण मुग्लिनखण्डमा सवारीसाधनको अत्याधिक चाप बढ्न थालेसँगै त्यसको प्रभाव पोखरा–काठमाडौँ आवतजावत चल्ने सवारीसाधनमा परेको पृथ्वीराजमार्ग बस सञ्चालक कम्पनी लिमिटेडका अध्यक्ष ऐनकुमार साईले जानकारी दिए ।    उक्त पहिरोका कारण सडकमा सवारीसाधनको जाम हुन थालेपछि यात्रुहरूलाई समयमा नै […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856504/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-road-landslide-tuin-khola-road.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T10:37:24Z",
+  "source": "Khabarhub",
+  "store_path": "_store/b4/b4e70c148d6c6d6313901972a58b63b467b19845e4951a9cd8bb3fcb05014294.json",
+  "title": "तुइन खोला क्षेत्रको पहिरो : पोखरा–काठमाडौँ यातायात समेत प्रभावित",
+  "url": "https://khabarhub.com/2025/24/856504/",
+  "version": 1
+}
