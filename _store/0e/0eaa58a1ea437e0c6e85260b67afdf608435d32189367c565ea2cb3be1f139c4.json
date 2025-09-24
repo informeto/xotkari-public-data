@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n51\nShares",
+  "description": "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T11:19:55.170593Z",
+  "id": "0eaa58a1ea437e0c6e85260b67afdf608435d32189367c565ea2cb3be1f139c4",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856513/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T10:59:09+00:00",
+            "datePublished": "2025-09-24T10:59:06+00:00",
+            "headline": "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856513/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856513/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856513/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856513/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T10:59:09+00:00",
+            "datePublished": "2025-09-24T10:59:06+00:00",
+            "description": "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856513/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856513/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856513/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "url": "https://khabarhub.com/2025/24/856513/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856513/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– नेकपा माओवादी केन्द्रले केन्द्रीय कमिटी विघटन गर्दै अध्यक्ष प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने भएको छ ।  पार्टी कार्यालय पेरिसडाडाँमा बुधबार बसेको स्थायी कमिटी बैठकले एकता र आवश्यकताका आधारमा केन्द्रीय कमिटी भंग गर्ने र अध्यक्ष प्रचण्डले विशेष महाधिवेशन आयोजक समितिको संयोजन गर्ने प्रस्ताव केन्द्रीय कमिटीमा लैजाने निर्णय गरेको प्रवक्ता अग्निप्रसाद सापकोटाले जानकारी दिए […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856513/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856513/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T10:59:09+00:00",
+              "datePublished": "2025-09-24T10:59:06+00:00",
+              "headline": "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856513/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856513/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856513/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856513/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T10:59:09+00:00",
+              "datePublished": "2025-09-24T10:59:06+00:00",
+              "description": "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856513/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856513/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856513/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "url": "https://khabarhub.com/2025/24/856513/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856513/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– नेकपा माओवादी केन्द्रले केन्द्रीय कमिटी विघटन गर्दै अध्यक्ष प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने भएको छ ।  पार्टी कार्यालय पेरिसडाडाँमा बुधबार बसेको स्थायी कमिटी बैठकले एकता र आवश्यकताका आधारमा केन्द्रीय कमिटी भंग गर्ने र अध्यक्ष प्रचण्डले विशेष महाधिवेशन आयोजक समितिको संयोजन गर्ने प्रस्ताव केन्द्रीय कमिटीमा लैजाने निर्णय गरेको प्रवक्ता अग्निप्रसाद सापकोटाले जानकारी दिए […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856513/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T10:59:06Z",
+  "source": "Khabarhub",
+  "store_path": "_store/0e/0eaa58a1ea437e0c6e85260b67afdf608435d32189367c565ea2cb3be1f139c4.json",
+  "title": "माओवादीले प्रचण्डको संयोजकत्वमा विशेष महाधिवेशन आयोजक समिति गठन गर्ने",
+  "url": "https://khabarhub.com/2025/24/856513/",
+  "version": 1
+}
