@@ -1,0 +1,439 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n3:55 pm, Wed, 24 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T10:24:35.359747Z",
+  "id": "9547f7581d5261468515e794346129d549c4ae2ca22b18384042f70854801252",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508625/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "बागमती",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-24T10:11:44+00:00",
+            "datePublished": "2025-09-24T10:10:18+00:00",
+            "headline": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508625/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508625/"
+            },
+            "keywords": [
+              "नेकपा माओवादी केन्द्र"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508625/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508625/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508625/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508625/#breadcrumb"
+            },
+            "dateModified": "2025-09-24T10:11:44+00:00",
+            "datePublished": "2025-09-24T10:10:18+00:00",
+            "description": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508625/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508625/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508625/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg",
+            "url": "https://www.imagekhabar.com/news/508625/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508625/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg",
+            "height": 500,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508625/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । नेकपा माओवादी केन्द्रले बिहीबार बस्ने केन्द्रीय समिति बैठकका लागि एजेण्डा तय गरेको छ । पार्टीको केन्द्रीय कार्यालय पेरिसडाँडामा बुधबार बसेको स्थायी समिति बैठकले बिहीबार बिहान ११ बजे प्रज्ञा भवनमा केन्द्रीय समिति बैठक बस्ने निर्णय गरेकाे हाे । अध्यक्ष पुष्पकमल दाहालद्वारा राजनीतिक प्रतिवेदन पेश गर्ने एजेण्डा, प्रस्तावमाथि छलफल र विशेष महाधिवेशन सम्बन्धमा रहेको छ […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508625/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508625/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "बागमती",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-24T10:11:44+00:00",
+              "datePublished": "2025-09-24T10:10:18+00:00",
+              "headline": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508625/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508625/"
+              },
+              "keywords": [
+                "नेकपा माओवादी केन्द्र"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508625/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508625/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508625/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508625/#breadcrumb"
+              },
+              "dateModified": "2025-09-24T10:11:44+00:00",
+              "datePublished": "2025-09-24T10:10:18+00:00",
+              "description": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508625/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508625/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508625/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg",
+              "url": "https://www.imagekhabar.com/news/508625/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508625/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg",
+              "height": 500,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508625/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । नेकपा माओवादी केन्द्रले बिहीबार बस्ने केन्द्रीय समिति बैठकका लागि एजेण्डा तय गरेको छ । पार्टीको केन्द्रीय कार्यालय पेरिसडाँडामा बुधबार बसेको स्थायी समिति बैठकले बिहीबार बिहान ११ बजे प्रज्ञा भवनमा केन्द्रीय समिति बैठक बस्ने निर्णय गरेकाे हाे । अध्यक्ष पुष्पकमल दाहालद्वारा राजनीतिक प्रतिवेदन पेश गर्ने एजेण्डा, प्रस्तावमाथि छलफल र विशेष महाधिवेशन सम्बन्धमा रहेको छ […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508625/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2023/01/maobadi-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T10:10:18Z",
+  "source": "Image Khabar",
+  "store_path": "_store/95/9547f7581d5261468515e794346129d549c4ae2ca22b18384042f70854801252.json",
+  "title": "माओवादीकाे केन्द्रीय समिति बैठक भाेलि बस्दै, विशेष महाधिवेशनकाे बारेमा छलफल हुने",
+  "url": "https://www.imagekhabar.com/news/508625/",
+  "version": 1
+}

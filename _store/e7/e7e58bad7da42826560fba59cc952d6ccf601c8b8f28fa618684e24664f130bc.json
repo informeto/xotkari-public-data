@@ -1,0 +1,437 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n4:09 pm, Wed, 24 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T10:24:33.499494Z",
+  "id": "e7e58bad7da42826560fba59cc952d6ccf601c8b8f28fa618684e24664f130bc",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508629/#article",
+            "@type": "Article",
+            "articleSection": [
+              "Hot News",
+              "अर्थ",
+              "बागमती"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-24T10:24:21+00:00",
+            "datePublished": "2025-09-24T10:24:17+00:00",
+            "headline": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508629/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508629/"
+            },
+            "keywords": [
+              "शेयर बजार"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508629/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508629/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508629/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508629/#breadcrumb"
+            },
+            "dateModified": "2025-09-24T10:24:21+00:00",
+            "datePublished": "2025-09-24T10:24:17+00:00",
+            "description": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508629/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508629/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508629/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg",
+            "url": "https://www.imagekhabar.com/news/508629/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508629/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508629/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । शेयर बजार परिसूचक नेपाल स्टक एक्सचेन्ज (नेप्से) बुधबार २७ दशमलव ८९ अंकले घटेकाे छ। नेप्सेमा ४ अर्ब १२ करोड ४८ लाख २१ हजार रुपैयाँको कारोबार हुँदा नेप्से घटेर २ हजार ६ सय ५४दशमलव ३५ अंकमा झरेको हो । नेप्सेमा भएको कारोबारमा १ सय ९३ वटा कम्पनीको सेयर मूल्यमा गिरावट आएकाे छ । ५३ […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508629/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508629/#article",
+              "@type": "Article",
+              "articleSection": [
+                "Hot News",
+                "अर्थ",
+                "बागमती"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-24T10:24:21+00:00",
+              "datePublished": "2025-09-24T10:24:17+00:00",
+              "headline": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508629/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508629/"
+              },
+              "keywords": [
+                "शेयर बजार"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508629/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508629/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508629/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508629/#breadcrumb"
+              },
+              "dateModified": "2025-09-24T10:24:21+00:00",
+              "datePublished": "2025-09-24T10:24:17+00:00",
+              "description": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508629/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508629/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508629/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg",
+              "url": "https://www.imagekhabar.com/news/508629/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508629/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508629/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । शेयर बजार परिसूचक नेपाल स्टक एक्सचेन्ज (नेप्से) बुधबार २७ दशमलव ८९ अंकले घटेकाे छ। नेप्सेमा ४ अर्ब १२ करोड ४८ लाख २१ हजार रुपैयाँको कारोबार हुँदा नेप्से घटेर २ हजार ६ सय ५४दशमलव ३५ अंकमा झरेको हो । नेप्सेमा भएको कारोबारमा १ सय ९३ वटा कम्पनीको सेयर मूल्यमा गिरावट आएकाे छ । ५३ […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508629/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/Share-market-stock-down.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T10:24:17Z",
+  "source": "Image Khabar",
+  "store_path": "_store/e7/e7e58bad7da42826560fba59cc952d6ccf601c8b8f28fa618684e24664f130bc.json",
+  "title": "शेयर बजार २७ अंकले घट्याे, ४ अर्ब १२ करोड बढीकाे काराेबार",
+  "url": "https://www.imagekhabar.com/news/508629/",
+  "version": 1
+}
