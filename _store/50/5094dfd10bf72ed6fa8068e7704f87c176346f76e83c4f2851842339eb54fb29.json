@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T07:56:15.188115Z",
+  "id": "5094dfd10bf72ed6fa8068e7704f87c176346f76e83c4f2851842339eb54fb29",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856390/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T07:54:25+00:00",
+            "datePublished": "2025-09-24T07:54:22+00:00",
+            "headline": "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856390/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856390/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856390/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg",
+            "wordCount": 5
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856390/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T07:54:25+00:00",
+            "datePublished": "2025-09-24T07:54:22+00:00",
+            "description": "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856390/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856390/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856390/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg",
+            "url": "https://khabarhub.com/2025/24/856390/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856390/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg",
+            "height": 566,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg",
+            "width": 1162
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "झापा– साल्ट ट्रेडिङ कर्पोरेसन लिमिटेड झापा कार्यालयले चालु आर्थिक वर्ष २०८२ र ८३ को पहिलो चरणमा दुई हजार ११३ मेट्रिक टन रासायनिक मल वितरण गरेको छ ।  तीमध्ये एक हजार ३५५ मेट्रिक टन युरिया र ७५८ मेट्रिक टन डीएपी मल  छन् । मल स्थानीय सहकारी र कृषि संस्थामार्फत वितरण गरेको कार्यालयका प्रमुख विष्णुप्रसाद न्यौपानेले जानकारी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856390/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856390/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T07:54:25+00:00",
+              "datePublished": "2025-09-24T07:54:22+00:00",
+              "headline": "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856390/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856390/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856390/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg",
+              "wordCount": 5
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856390/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T07:54:25+00:00",
+              "datePublished": "2025-09-24T07:54:22+00:00",
+              "description": "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856390/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856390/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856390/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg",
+              "url": "https://khabarhub.com/2025/24/856390/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856390/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg",
+              "height": 566,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg",
+              "width": 1162
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "झापा– साल्ट ट्रेडिङ कर्पोरेसन लिमिटेड झापा कार्यालयले चालु आर्थिक वर्ष २०८२ र ८३ को पहिलो चरणमा दुई हजार ११३ मेट्रिक टन रासायनिक मल वितरण गरेको छ ।  तीमध्ये एक हजार ३५५ मेट्रिक टन युरिया र ७५८ मेट्रिक टन डीएपी मल  छन् । मल स्थानीय सहकारी र कृषि संस्थामार्फत वितरण गरेको कार्यालयका प्रमुख विष्णुप्रसाद न्यौपानेले जानकारी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856390/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/03/Salt-Trading-Corporation.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T07:54:22Z",
+  "source": "Khabarhub",
+  "store_path": "_store/50/5094dfd10bf72ed6fa8068e7704f87c176346f76e83c4f2851842339eb54fb29.json",
+  "title": "साल्ट ट्रेडिङ कर्पोरेसन झापामा २२८ मेट्रिक टन रासायनिक मल मौज्दात",
+  "url": "https://khabarhub.com/2025/24/856390/",
+  "version": 1
+}
