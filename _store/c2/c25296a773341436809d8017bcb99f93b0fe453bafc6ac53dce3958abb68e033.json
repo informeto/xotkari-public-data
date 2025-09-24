@@ -1,0 +1,427 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n7:51 am, Wed, 24 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T02:44:08.601415Z",
+  "id": "c25296a773341436809d8017bcb99f93b0fe453bafc6ac53dce3958abb68e033",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508544/#article",
+            "@type": "Article",
+            "articleSection": [
+              "खेलकुद"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-24T02:06:20+00:00",
+            "datePublished": "2025-09-24T02:06:15+00:00",
+            "headline": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508544/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508544/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508544/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508544/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508544/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508544/#breadcrumb"
+            },
+            "dateModified": "2025-09-24T02:06:20+00:00",
+            "datePublished": "2025-09-24T02:06:15+00:00",
+            "description": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508544/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508544/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508544/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+            "url": "https://www.imagekhabar.com/news/508544/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508544/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+            "height": 604,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+            "width": 981
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508544/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । एसिया कप क्रिकेटको सुपर फोरमा पाकिस्तानले श्रीलंकाविरुद्ध पाँच विकेटको जित निकालेको छ । गएराति भएको खेलमा टस जितेर सुरुमा फिल्ड रोजेको पाकिस्तानले पाँच विकेटको जित हात पारेको हो । सुरुमा ब्याटिङ गरेको श्रीलंकाले दिएको १३४ रनको लक्ष्य पाकिस्तानले १८ ओभरको समाप्तिमा १३८ रन बनाउँदै भेट्टाएको हो । सुरुमा ब्याटिङ गरेको श्रीलंकाले पूरै २० […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508544/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508544/#article",
+              "@type": "Article",
+              "articleSection": [
+                "खेलकुद"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-24T02:06:20+00:00",
+              "datePublished": "2025-09-24T02:06:15+00:00",
+              "headline": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508544/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508544/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508544/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508544/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508544/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508544/#breadcrumb"
+              },
+              "dateModified": "2025-09-24T02:06:20+00:00",
+              "datePublished": "2025-09-24T02:06:15+00:00",
+              "description": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508544/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508544/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508544/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+              "url": "https://www.imagekhabar.com/news/508544/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508544/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+              "height": 604,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg",
+              "width": 981
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508544/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । एसिया कप क्रिकेटको सुपर फोरमा पाकिस्तानले श्रीलंकाविरुद्ध पाँच विकेटको जित निकालेको छ । गएराति भएको खेलमा टस जितेर सुरुमा फिल्ड रोजेको पाकिस्तानले पाँच विकेटको जित हात पारेको हो । सुरुमा ब्याटिङ गरेको श्रीलंकाले दिएको १३४ रनको लक्ष्य पाकिस्तानले १८ ओभरको समाप्तिमा १३८ रन बनाउँदै भेट्टाएको हो । सुरुमा ब्याटिङ गरेको श्रीलंकाले पूरै २० […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508544/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/pakistan-win-asia-cup.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T02:06:15Z",
+  "source": "Image Khabar",
+  "store_path": "_store/c2/c25296a773341436809d8017bcb99f93b0fe453bafc6ac53dce3958abb68e033.json",
+  "title": "एसिया कपकाे सुपर फोर : श्रीलंकामाथि पाकिस्तान ५ विकेटले विजयी",
+  "url": "https://www.imagekhabar.com/news/508544/",
+  "version": 1
+}
