@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T13:23:23.620823Z",
+  "id": "1bb42ea31592b6686957187e13256cd5be162cb2076d8b483e8e7f0ff0808446",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856629/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T13:22:49+00:00",
+            "datePublished": "2025-09-24T13:22:48+00:00",
+            "headline": "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856629/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856629/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856629/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856629/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T13:22:49+00:00",
+            "datePublished": "2025-09-24T13:22:48+00:00",
+            "description": "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856629/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856629/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856629/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+            "url": "https://khabarhub.com/2025/24/856629/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856629/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+            "height": 848,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- प्यालेस्टिनी लडाकु समूह हमासको कब्जामा रहेका विपिन जोशीलाई रिहाका लागि अन्तर्राष्ट्रिय दबाब बढाउन आमा र बहिनी अमेरिकातिर प्रस्थान गरेका छन् । विगत २४ महिनादेखि बेपत्ता कञ्चनपुरका विपिनको रिहाइका लागि अन्तर्राष्ट्रिय दबाब सिर्जना गर्ने उद्देश्यले उनकी आमा पद्मा र बहिनी पुष्पा बुधबार अमेरिका प्रस्थान गरेका हुन्। यसअघि उनीहरू इजरायल पुगेर पनि दबाब बढाएका थिए। तर […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856629/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856629/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T13:22:49+00:00",
+              "datePublished": "2025-09-24T13:22:48+00:00",
+              "headline": "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856629/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856629/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856629/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856629/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T13:22:49+00:00",
+              "datePublished": "2025-09-24T13:22:48+00:00",
+              "description": "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856629/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856629/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856629/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+              "url": "https://khabarhub.com/2025/24/856629/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856629/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+              "height": 848,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- प्यालेस्टिनी लडाकु समूह हमासको कब्जामा रहेका विपिन जोशीलाई रिहाका लागि अन्तर्राष्ट्रिय दबाब बढाउन आमा र बहिनी अमेरिकातिर प्रस्थान गरेका छन् । विगत २४ महिनादेखि बेपत्ता कञ्चनपुरका विपिनको रिहाइका लागि अन्तर्राष्ट्रिय दबाब सिर्जना गर्ने उद्देश्यले उनकी आमा पद्मा र बहिनी पुष्पा बुधबार अमेरिका प्रस्थान गरेका हुन्। यसअघि उनीहरू इजरायल पुगेर पनि दबाब बढाएका थिए। तर […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856629/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/bipin-mother-and-sister.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T13:22:48Z",
+  "source": "Khabarhub",
+  "store_path": "_store/1b/1bb42ea31592b6686957187e13256cd5be162cb2076d8b483e8e7f0ff0808446.json",
+  "title": "विपिनका आमा र बहिनी इजरायलपछि अब अमेरिकातिर, राष्ट्रसंघमा कुरा उठाउने",
+  "url": "https://khabarhub.com/2025/24/856629/",
+  "version": 1
+}

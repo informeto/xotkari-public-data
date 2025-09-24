@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n75\nShares",
+  "description": "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T13:23:25.714350Z",
+  "id": "44080d24d463909f9360a73051609442811d534f0beeb5c497bee71119340772",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856620/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय",
+              "भारत / चीन / सार्क"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T13:07:54+00:00",
+            "datePublished": "2025-09-24T13:06:04+00:00",
+            "headline": "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856620/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856620/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856620/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856620/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T13:07:54+00:00",
+            "datePublished": "2025-09-24T13:06:04+00:00",
+            "description": "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856620/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856620/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856620/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+            "url": "https://khabarhub.com/2025/24/856620/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856620/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "लेह- केन्द्रशासित प्रदेश लद्दाखलाई पूर्ण राज्यको दर्जा दिनुपर्ने मागसहित बुधबार लेहमा भएको प्रदर्शन हिंसात्मक बनेको छ। विद्यार्थी र सुरक्षाकर्मीबीचको झडपमा ४ जनाको मृत्यु भएको छ भने ७० भन्दा बढी घाइते भएका छन्। प्रदर्शनका क्रममा विद्यार्थीहरूले प्रहरीमाथि ढुंगामुढा गरे। भाजपा कार्यालय र सीआरपीएफको गाडीमा समेत आगजनी गरिएको छ। यसैबीच प्रशासनले लेहमा कुनै पनि र्‍याली वा प्रदर्शन […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856620/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856620/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय",
+                "भारत / चीन / सार्क"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T13:07:54+00:00",
+              "datePublished": "2025-09-24T13:06:04+00:00",
+              "headline": "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856620/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856620/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856620/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856620/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T13:07:54+00:00",
+              "datePublished": "2025-09-24T13:06:04+00:00",
+              "description": "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856620/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856620/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856620/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+              "url": "https://khabarhub.com/2025/24/856620/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856620/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "लेह- केन्द्रशासित प्रदेश लद्दाखलाई पूर्ण राज्यको दर्जा दिनुपर्ने मागसहित बुधबार लेहमा भएको प्रदर्शन हिंसात्मक बनेको छ। विद्यार्थी र सुरक्षाकर्मीबीचको झडपमा ४ जनाको मृत्यु भएको छ भने ७० भन्दा बढी घाइते भएका छन्। प्रदर्शनका क्रममा विद्यार्थीहरूले प्रहरीमाथि ढुंगामुढा गरे। भाजपा कार्यालय र सीआरपीएफको गाडीमा समेत आगजनी गरिएको छ। यसैबीच प्रशासनले लेहमा कुनै पनि र्‍याली वा प्रदर्शन […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856620/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/laddakh-protest-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T13:06:04Z",
+  "source": "Khabarhub",
+  "store_path": "_store/44/44080d24d463909f9360a73051609442811d534f0beeb5c497bee71119340772.json",
+  "title": "लद्दाखमा नेपालकै शैलीको आन्दोलन : एकैदिन ४ जनाको मृत्यु, ७२ घाइते, भाजपा कार्यालय जलाइयो",
+  "url": "https://khabarhub.com/2025/24/856620/",
+  "version": 1
+}
