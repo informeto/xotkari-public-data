@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n11:18 am, Wed, 24 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T05:45:23.325154Z",
+  "id": "44270b94008ef1548649cdace20b81101bdb800d6b080c6491a13c66c0c30eb3",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508564/#article",
+            "@type": "Article",
+            "articleSection": [
+              "विश्व",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-24T05:33:21+00:00",
+            "datePublished": "2025-09-24T05:33:16+00:00",
+            "headline": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508564/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508564/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508564/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508564/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508564/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508564/#breadcrumb"
+            },
+            "dateModified": "2025-09-24T05:33:21+00:00",
+            "datePublished": "2025-09-24T05:33:16+00:00",
+            "description": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508564/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508564/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508564/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+            "url": "https://www.imagekhabar.com/news/508564/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508564/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508564/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी । इजरायली ड्रोन आक्रमणले दक्षिणी लेबनानी शहर बिन्त जबेलमा मोटरसाइकल र गुडिरहेको कारलाई ठक्कर दिँदा तीन बालबालिकासहित पाँच जनाको मृत्यु भएको छ । दुई जना घाइते भएको अधिकारीहरुले बताएका छन् । लेबनानी सेनाको गुप्तचरका अनुसार ड्रोनले दुई निर्देशित मिसाइल प्रहार गर्दा मोटरसाइकलमा सवार हिज्बुल्लाह सदस्य मोहम्मद म्रोएह र नजिकैको कारमा रहेका चार नागरिकको मृत्यु […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508564/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508564/#article",
+              "@type": "Article",
+              "articleSection": [
+                "विश्व",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-24T05:33:21+00:00",
+              "datePublished": "2025-09-24T05:33:16+00:00",
+              "headline": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508564/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508564/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508564/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508564/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508564/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508564/#breadcrumb"
+              },
+              "dateModified": "2025-09-24T05:33:21+00:00",
+              "datePublished": "2025-09-24T05:33:16+00:00",
+              "description": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508564/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508564/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508564/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+              "url": "https://www.imagekhabar.com/news/508564/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508564/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508564/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी । इजरायली ड्रोन आक्रमणले दक्षिणी लेबनानी शहर बिन्त जबेलमा मोटरसाइकल र गुडिरहेको कारलाई ठक्कर दिँदा तीन बालबालिकासहित पाँच जनाको मृत्यु भएको छ । दुई जना घाइते भएको अधिकारीहरुले बताएका छन् । लेबनानी सेनाको गुप्तचरका अनुसार ड्रोनले दुई निर्देशित मिसाइल प्रहार गर्दा मोटरसाइकलमा सवार हिज्बुल्लाह सदस्य मोहम्मद म्रोएह र नजिकैको कारमा रहेका चार नागरिकको मृत्यु […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508564/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/ijarayal-.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T05:33:16Z",
+  "source": "Image Khabar",
+  "store_path": "_store/44/44270b94008ef1548649cdace20b81101bdb800d6b080c6491a13c66c0c30eb3.json",
+  "title": "लेबनानमा इजरायली हवाई आक्रमणः ५ जनाको मृत्यु, २ घाइते",
+  "url": "https://www.imagekhabar.com/news/508564/",
+  "version": 1
+}
