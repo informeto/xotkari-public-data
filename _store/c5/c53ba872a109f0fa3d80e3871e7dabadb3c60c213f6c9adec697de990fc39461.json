@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n75\nShares",
+  "description": "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T12:40:21.422943Z",
+  "id": "c53ba872a109f0fa3d80e3871e7dabadb3c60c213f6c9adec697de990fc39461",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856562/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T12:07:11+00:00",
+            "datePublished": "2025-09-24T12:07:09+00:00",
+            "headline": "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856562/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856562/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856562/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+            "wordCount": 5
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856562/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T12:07:11+00:00",
+            "datePublished": "2025-09-24T12:07:09+00:00",
+            "description": "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856562/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856562/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856562/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+            "url": "https://khabarhub.com/2025/24/856562/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856562/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+            "height": 293,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+            "width": 524
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– भक्तपुरको सूर्य विनायक नगरपालिका-८ चक्खु खोलाको किनारामा हाल नाम, थर र वतन नखुलेका अन्दाजी ५० वर्षीय पुरुष बुधबार मृत अवस्थामा फेला परेका छन् । सिराहाको सखुवानन्कारकट्टी गाउँपालिका-३ महदेवा पोर्ताहा टोल बस्ने २६ वर्षीया रबिना सदाय र उनकै छोरा ३ वर्षीय राजा सदाय सोही ठाउँस्थित सार्वजनिक पोखरीमा बुधबार मृत अवस्थामा फेला परेका छन् । यस सम्बन्धमा प्रहरीले आवश्यक अनुसन्धान […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856562/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856562/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T12:07:11+00:00",
+              "datePublished": "2025-09-24T12:07:09+00:00",
+              "headline": "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856562/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856562/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856562/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+              "wordCount": 5
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856562/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T12:07:11+00:00",
+              "datePublished": "2025-09-24T12:07:09+00:00",
+              "description": "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856562/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856562/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856562/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+              "url": "https://khabarhub.com/2025/24/856562/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856562/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+              "height": 293,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+              "width": 524
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– भक्तपुरको सूर्य विनायक नगरपालिका-८ चक्खु खोलाको किनारामा हाल नाम, थर र वतन नखुलेका अन्दाजी ५० वर्षीय पुरुष बुधबार मृत अवस्थामा फेला परेका छन् । सिराहाको सखुवानन्कारकट्टी गाउँपालिका-३ महदेवा पोर्ताहा टोल बस्ने २६ वर्षीया रबिना सदाय र उनकै छोरा ३ वर्षीय राजा सदाय सोही ठाउँस्थित सार्वजनिक पोखरीमा बुधबार मृत अवस्थामा फेला परेका छन् । यस सम्बन्धमा प्रहरीले आवश्यक अनुसन्धान […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856562/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T12:07:09Z",
+  "source": "Khabarhub",
+  "store_path": "_store/c5/c53ba872a109f0fa3d80e3871e7dabadb3c60c213f6c9adec697de990fc39461.json",
+  "title": "भक्तपुर र सिराहामा तीन जना मृत अवस्थामा फेला",
+  "url": "https://khabarhub.com/2025/24/856562/",
+  "version": 1
+}

@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n८ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n36\nShares",
+  "description": "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T12:40:19.414969Z",
+  "id": "48177b14d62f7472c25bc93283ed9cbd057e49e27047b62c7f7a0703c350e999",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/24/856581/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-24T12:26:29+00:00",
+            "datePublished": "2025-09-24T12:26:27+00:00",
+            "headline": "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856581/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/24/856581/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856581/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856581/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-24T12:26:29+00:00",
+            "datePublished": "2025-09-24T12:26:27+00:00",
+            "description": "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/24/856581/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/24/856581/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/24/856581/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+            "url": "https://khabarhub.com/2025/24/856581/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/24/856581/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कास्की– पोखरा महानगरपालिका-३ नदीपुर बस्ने ४८ वर्षीया इसिता पनेरूको घरबाट सुनका विभिन्न गरगहनाहरू र नगद १ लाख ३५ हजार रुपैयाँसमेत गरी करिब ३५ लाख ९१ हजार ५ सय रुपैयाँ बराबरको धनमाल बुधबार बिहान चोरी भएको छ । यसैगरी पोखरा महानगरपालिका-१७ पिपलतारा मार्ग बस्ने गीता पौडेलको घरबाट सुनका विभिन्न गरगहना र नगद समेत गरी करिब १९ लाख १५ हजार ५ सय […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/24/856581/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/24/856581/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-24T12:26:29+00:00",
+              "datePublished": "2025-09-24T12:26:27+00:00",
+              "headline": "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856581/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/24/856581/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856581/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856581/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-24T12:26:29+00:00",
+              "datePublished": "2025-09-24T12:26:27+00:00",
+              "description": "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/24/856581/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/24/856581/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/24/856581/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+              "url": "https://khabarhub.com/2025/24/856581/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/24/856581/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कास्की– पोखरा महानगरपालिका-३ नदीपुर बस्ने ४८ वर्षीया इसिता पनेरूको घरबाट सुनका विभिन्न गरगहनाहरू र नगद १ लाख ३५ हजार रुपैयाँसमेत गरी करिब ३५ लाख ९१ हजार ५ सय रुपैयाँ बराबरको धनमाल बुधबार बिहान चोरी भएको छ । यसैगरी पोखरा महानगरपालिका-१७ पिपलतारा मार्ग बस्ने गीता पौडेलको घरबाट सुनका विभिन्न गरगहना र नगद समेत गरी करिब १९ लाख १५ हजार ५ सय […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/24/856581/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2019/03/Chori-Khabarhub_Indianchor.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T12:26:27Z",
+  "source": "Khabarhub",
+  "store_path": "_store/48/48177b14d62f7472c25bc93283ed9cbd057e49e27047b62c7f7a0703c350e999.json",
+  "title": "पोखराबाट करिब ५५ लाख रुपैयाँ बराबरको धनमाल चोरी",
+  "url": "https://khabarhub.com/2025/24/856581/",
+  "version": 1
+}
