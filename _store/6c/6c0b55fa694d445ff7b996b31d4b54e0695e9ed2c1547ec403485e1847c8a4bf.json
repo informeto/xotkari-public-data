@@ -1,0 +1,480 @@
+{
+  "author": "देश सञ्चार",
+  "content": "",
+  "description": "",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T14:22:19.501926Z",
+  "id": "6c0b55fa694d445ff7b996b31d4b54e0695e9ed2c1547ec403485e1847c8a4bf",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/09/24/1097909/#article",
+            "@type": "Article",
+            "articleSection": [
+              "बुलेटिन"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "name": "देश सञ्चार"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-24T14:03:55+00:00",
+            "datePublished": "2025-09-24T14:00:58+00:00",
+            "headline": "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/09/24/1097909/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/24/1097909/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/#breadcrumb"
+            },
+            "dateModified": "2025-09-24T14:03:55+00:00",
+            "datePublished": "2025-09-24T14:00:58+00:00",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/09/24/1097909/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg",
+            "url": "https://deshsanchar.com/2025/09/24/1097909/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/24/1097909/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg",
+            "height": 1080,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg",
+            "width": 1920
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/09/24/1097909/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "देश सञ्चार",
+              "contentUrl": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g"
+            },
+            "name": "देश सञ्चार",
+            "url": "https://deshsanchar.com/author/deshsanchar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/09/24/1097909/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-09-24T14:00:58+00:00"
+          ],
+          [
+            "article:modified_time",
+            "2025-09-24T14:03:55+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg"
+          ],
+          [
+            "og:image:width",
+            "1920"
+          ],
+          [
+            "og:image:height",
+            "1080"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/#article",
+              "@type": "Article",
+              "articleSection": [
+                "बुलेटिन"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+                "name": "देश सञ्चार"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-24T14:03:55+00:00",
+              "datePublished": "2025-09-24T14:00:58+00:00",
+              "headline": "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/09/24/1097909/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/09/24/1097909/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/09/24/1097909/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/09/24/1097909/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/09/24/1097909/#breadcrumb"
+              },
+              "dateModified": "2025-09-24T14:03:55+00:00",
+              "datePublished": "2025-09-24T14:00:58+00:00",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/09/24/1097909/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/09/24/1097909/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/09/24/1097909/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg",
+              "url": "https://deshsanchar.com/2025/09/24/1097909/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg",
+              "height": 1080,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg",
+              "width": 1920
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/09/24/1097909/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "देश सञ्चार",
+                "contentUrl": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g"
+              },
+              "name": "देश सञ्चार",
+              "url": "https://deshsanchar.com/author/deshsanchar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/09/24/1097909/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-09-24T14:00:58+00:00"
+            ],
+            [
+              "article:modified_time",
+              "2025-09-24T14:03:55+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2025/09/24185420/Sep0-24.jpg"
+            ],
+            [
+              "og:image:width",
+              "1920"
+            ],
+            [
+              "og:image:height",
+              "1080"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T14:00:58Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/6c/6c0b55fa694d445ff7b996b31d4b54e0695e9ed2c1547ec403485e1847c8a4bf.json",
+  "title": "मतदाता नामावली संकलन सम्बन्धी ऐन अध्यादेशबाट संशोधन | Deshsanchar Samachar",
+  "url": "https://deshsanchar.com/2025/09/24/1097909/",
+  "version": 1
+}

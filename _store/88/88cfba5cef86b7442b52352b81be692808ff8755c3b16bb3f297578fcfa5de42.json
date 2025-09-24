@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "रमेश धमला\n7:53 pm, Wed, 24 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-24T14:22:09.006629Z",
+  "id": "88cfba5cef86b7442b52352b81be692808ff8755c3b16bb3f297578fcfa5de42",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/ramesh-dhamala-150x150.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508684/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner-2",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+              "name": "रमेश धमला"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-24T14:17:44+00:00",
+            "datePublished": "2025-09-24T14:08:43+00:00",
+            "headline": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508684/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508684/"
+            },
+            "keywords": [
+              "सामान खरिद"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508684/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508684/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg",
+            "wordCount": 11
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508684/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508684/#breadcrumb"
+            },
+            "dateModified": "2025-09-24T14:17:44+00:00",
+            "datePublished": "2025-09-24T14:08:43+00:00",
+            "description": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508684/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट) - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508684/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508684/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg",
+            "url": "https://www.imagekhabar.com/news/508684/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508684/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508684/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "रमेश धमला",
+              "contentUrl": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g"
+            },
+            "name": "रमेश धमला",
+            "url": "https://www.imagekhabar.com/news/author/ramesh-dhamala/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । गत भदाैमा जेनजी युवाले गरेकाे आन्दोलनका क्रममा नेपाल प्रहरीले धेरै कुरा गुमाएकाे छ। आफ्ना सहयोद्धा गुमाएको प्रहरीका भौतिक संरचना पनि ध्वस्त भएका हुन्। यसबाट प्रहरीको आत्मबलमा सबै भन्दा ठूलो ठेस पुगेको छ । आफ्नो नियमित दैनिकीमा फर्कन प्रहरीलाई तत्काल आत्मबलसँगै पोशाक पनि चाहिएको समयमा केपी शर्मा ओली नेतृत्वकाे सरकारले अघि बढाएको लत्ता-कपडा तथा […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508684/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508684/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner-2",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+                "name": "रमेश धमला"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-24T14:17:44+00:00",
+              "datePublished": "2025-09-24T14:08:43+00:00",
+              "headline": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508684/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508684/"
+              },
+              "keywords": [
+                "सामान खरिद"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508684/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508684/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg",
+              "wordCount": 11
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508684/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508684/#breadcrumb"
+              },
+              "dateModified": "2025-09-24T14:17:44+00:00",
+              "datePublished": "2025-09-24T14:08:43+00:00",
+              "description": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508684/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट) - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508684/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508684/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg",
+              "url": "https://www.imagekhabar.com/news/508684/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508684/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508684/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "रमेश धमला",
+                "contentUrl": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g"
+              },
+              "name": "रमेश धमला",
+              "url": "https://www.imagekhabar.com/news/author/ramesh-dhamala/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । गत भदाैमा जेनजी युवाले गरेकाे आन्दोलनका क्रममा नेपाल प्रहरीले धेरै कुरा गुमाएकाे छ। आफ्ना सहयोद्धा गुमाएको प्रहरीका भौतिक संरचना पनि ध्वस्त भएका हुन्। यसबाट प्रहरीको आत्मबलमा सबै भन्दा ठूलो ठेस पुगेको छ । आफ्नो नियमित दैनिकीमा फर्कन प्रहरीलाई तत्काल आत्मबलसँगै पोशाक पनि चाहिएको समयमा केपी शर्मा ओली नेतृत्वकाे सरकारले अघि बढाएको लत्ता-कपडा तथा […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508684/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/Prahari-saman-kharid-Prakriya-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-24T14:08:43Z",
+  "source": "Image Khabar",
+  "store_path": "_store/88/88cfba5cef86b7442b52352b81be692808ff8755c3b16bb3f297578fcfa5de42.json",
+  "title": "के हाे प्रहरीकाे सामान खरिद ठेक्का विवाद ? (भिडियाे रिपाेर्ट)",
+  "url": "https://www.imagekhabar.com/news/508684/",
+  "version": 1
+}
