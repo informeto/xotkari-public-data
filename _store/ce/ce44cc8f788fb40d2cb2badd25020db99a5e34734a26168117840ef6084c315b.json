@@ -1,0 +1,443 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n6:49 pm, Thu, 25 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T13:24:37.337156Z",
+  "id": "ce44cc8f788fb40d2cb2badd25020db99a5e34734a26168117840ef6084c315b",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508860/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "राजनीति",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-25T13:05:02+00:00",
+            "datePublished": "2025-09-25T13:04:56+00:00",
+            "headline": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508860/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508860/"
+            },
+            "keywords": [
+              "सुशीला कार्की"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508860/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508860/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508860/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508860/#breadcrumb"
+            },
+            "dateModified": "2025-09-25T13:05:02+00:00",
+            "datePublished": "2025-09-25T13:04:56+00:00",
+            "description": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508860/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508860/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508860/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+            "url": "https://www.imagekhabar.com/news/508860/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508860/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508860/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । अन्तरिम सरकारकी प्रधानमन्त्री सुशीला कार्कीले गत २३ र २४ भदौको जेनजी आन्दोलनको क्रममा गोली हानी युवाहरुको हत्या गर्नेलाई कानूनी कारबाही गर्ने प्रतिवद्धता व्यक्त गर्नुभएको छ । बिहीबारर साँझ राष्ट्रका नाममा सम्बोधन गर्दै प्रधानमन्त्री कार्कीले यस्तो प्रतिवद्धता व्यक्त गर्नुभएको हो । उहाँले आन्दोलनका क्रममा मृत्यु भएकाहरुलाई शहीद घोषणा गरी मृत्यु भएका परिवारलाई आवश्यक राहतको […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508860/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508860/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "राजनीति",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-25T13:05:02+00:00",
+              "datePublished": "2025-09-25T13:04:56+00:00",
+              "headline": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508860/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508860/"
+              },
+              "keywords": [
+                "सुशीला कार्की"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508860/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508860/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508860/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508860/#breadcrumb"
+              },
+              "dateModified": "2025-09-25T13:05:02+00:00",
+              "datePublished": "2025-09-25T13:04:56+00:00",
+              "description": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508860/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508860/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508860/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+              "url": "https://www.imagekhabar.com/news/508860/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508860/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508860/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । अन्तरिम सरकारकी प्रधानमन्त्री सुशीला कार्कीले गत २३ र २४ भदौको जेनजी आन्दोलनको क्रममा गोली हानी युवाहरुको हत्या गर्नेलाई कानूनी कारबाही गर्ने प्रतिवद्धता व्यक्त गर्नुभएको छ । बिहीबारर साँझ राष्ट्रका नाममा सम्बोधन गर्दै प्रधानमन्त्री कार्कीले यस्तो प्रतिवद्धता व्यक्त गर्नुभएको हो । उहाँले आन्दोलनका क्रममा मृत्यु भएकाहरुलाई शहीद घोषणा गरी मृत्यु भएका परिवारलाई आवश्यक राहतको […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508860/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/sushila-karki-7.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T13:04:56Z",
+  "source": "Image Khabar",
+  "store_path": "_store/ce/ce44cc8f788fb40d2cb2badd25020db99a5e34734a26168117840ef6084c315b.json",
+  "title": "जेनजी युवाकाे आन्दोलनमाथि दमन गर्नेलाई कारबाही गर्ने प्रधानमन्त्री कार्कीको प्रतिवद्धता",
+  "url": "https://www.imagekhabar.com/news/508860/",
+  "version": 1
+}
