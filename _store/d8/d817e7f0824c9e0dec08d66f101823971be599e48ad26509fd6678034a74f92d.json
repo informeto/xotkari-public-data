@@ -1,0 +1,437 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n5:26 pm, Thu, 25 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T11:45:08.099276Z",
+  "id": "d817e7f0824c9e0dec08d66f101823971be599e48ad26509fd6678034a74f92d",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/12/imagekhabar-logo-150x150.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508835/#article",
+            "@type": "Article",
+            "articleSection": [
+              "Hot News",
+              "कोशी",
+              "मनोरञ्जन"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/e807b350405ce0ec33f1ae45b53daa9d",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-25T11:41:57+00:00",
+            "datePublished": "2025-09-25T11:41:54+00:00",
+            "headline": "ब्याकुल माइलाकाे &#8216;आम च्याङमाखा नेपाल&#8217; नामक नयाँ गीतकाे छायांकन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508835/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508835/"
+            },
+            "keywords": [
+              "ब्याकुल माइला"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508835/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508835/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508835/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508835/#breadcrumb"
+            },
+            "dateModified": "2025-09-25T11:41:57+00:00",
+            "datePublished": "2025-09-25T11:41:54+00:00",
+            "description": "ब्याकुल माइलाकाे 'आम च्याङमाखा नेपाल' नामक नयाँ गीतकाे छायांकन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508835/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "ब्याकुल माइलाकाे 'आम च्याङमाखा नेपाल' नामक नयाँ गीतकाे छायांकन - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508835/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508835/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+            "url": "https://www.imagekhabar.com/news/508835/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508835/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508835/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "ब्याकुल माइलाकाे &#8216;आम च्याङमाखा नेपाल&#8217; नामक नयाँ गीतकाे छायांकन",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/e807b350405ce0ec33f1ae45b53daa9d",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4d193933e67bd45f9c92988d09b3eb3d?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4d193933e67bd45f9c92988d09b3eb3d?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/imagekhabar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "ब्याकुल माइलाकाे ‘आम च्याङमाखा नेपाल’ नामक नयाँ गीतकाे छायांकन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "शुभकला राई ओखलढुंगा । नेपालको मातृभाषा संरक्षण र राष्ट्रिय एकताको भावना जागृत गर्न राष्ट्रिय गानका रचयिता ब्याकुल माइलाले सिर्जना गरेकाे देशभक्ति गीत ‘आम च्याङमाखा नेपाल’ को म्यूजिक भिडियो छायांकन शुरु गरिएको छ । वाम्बुले राई भाषाको पहिलो देशभक्ति गीतको छायांकन शुरु गरिएको हो । झापाको कचनकबलबाट छायांकन शुरु गरिएको साेही गीत ओखलढुंगा, सोलुखुम्बु र खोटाङमा समेत छायांकन […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508835/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508835/#article",
+              "@type": "Article",
+              "articleSection": [
+                "Hot News",
+                "कोशी",
+                "मनोरञ्जन"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/e807b350405ce0ec33f1ae45b53daa9d",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-25T11:41:57+00:00",
+              "datePublished": "2025-09-25T11:41:54+00:00",
+              "headline": "ब्याकुल माइलाकाे &#8216;आम च्याङमाखा नेपाल&#8217; नामक नयाँ गीतकाे छायांकन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508835/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508835/"
+              },
+              "keywords": [
+                "ब्याकुल माइला"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508835/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508835/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508835/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508835/#breadcrumb"
+              },
+              "dateModified": "2025-09-25T11:41:57+00:00",
+              "datePublished": "2025-09-25T11:41:54+00:00",
+              "description": "ब्याकुल माइलाकाे 'आम च्याङमाखा नेपाल' नामक नयाँ गीतकाे छायांकन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508835/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "ब्याकुल माइलाकाे 'आम च्याङमाखा नेपाल' नामक नयाँ गीतकाे छायांकन - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508835/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508835/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+              "url": "https://www.imagekhabar.com/news/508835/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508835/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508835/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "ब्याकुल माइलाकाे &#8216;आम च्याङमाखा नेपाल&#8217; नामक नयाँ गीतकाे छायांकन",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/e807b350405ce0ec33f1ae45b53daa9d",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4d193933e67bd45f9c92988d09b3eb3d?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4d193933e67bd45f9c92988d09b3eb3d?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/imagekhabar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "ब्याकुल माइलाकाे ‘आम च्याङमाखा नेपाल’ नामक नयाँ गीतकाे छायांकन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "शुभकला राई ओखलढुंगा । नेपालको मातृभाषा संरक्षण र राष्ट्रिय एकताको भावना जागृत गर्न राष्ट्रिय गानका रचयिता ब्याकुल माइलाले सिर्जना गरेकाे देशभक्ति गीत ‘आम च्याङमाखा नेपाल’ को म्यूजिक भिडियो छायांकन शुरु गरिएको छ । वाम्बुले राई भाषाको पहिलो देशभक्ति गीतको छायांकन शुरु गरिएको हो । झापाको कचनकबलबाट छायांकन शुरु गरिएको साेही गीत ओखलढुंगा, सोलुखुम्बु र खोटाङमा समेत छायांकन […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508835/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/byakul-maila.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T11:41:54Z",
+  "source": "Image Khabar",
+  "store_path": "_store/d8/d817e7f0824c9e0dec08d66f101823971be599e48ad26509fd6678034a74f92d.json",
+  "title": "ब्याकुल माइलाकाे ‘आम च्याङमाखा नेपाल’ नामक नयाँ गीतकाे छायांकन",
+  "url": "https://www.imagekhabar.com/news/508835/",
+  "version": 1
+}
