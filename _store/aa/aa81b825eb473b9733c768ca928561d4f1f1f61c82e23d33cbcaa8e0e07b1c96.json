@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n75\nShares",
+  "description": "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ सुरक्षा",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T16:26:24.640601Z",
+  "id": "aa81b825eb473b9733c768ca928561d4f1f1f61c82e23d33cbcaa8e0e07b1c96",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/857197/#article",
+            "@type": "Article",
+            "articleSection": [
+              "प्रहरी",
+              "सुरक्षा"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T16:04:55+00:00",
+            "datePublished": "2025-09-25T16:04:53+00:00",
+            "headline": "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857197/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/857197/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857197/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857197/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T16:04:55+00:00",
+            "datePublished": "2025-09-25T16:04:53+00:00",
+            "description": "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ सुरक्षा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857197/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/857197/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857197/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+            "url": "https://khabarhub.com/2025/25/857197/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857197/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "सांकेतिक तस्बिर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काभ्रेपलाञ्चोक – ‘जेनजी’ प्रदर्शनका क्रममा लुटपाटमा संलग्न भएको आरोपमा १० जनालाई प्रहरीले पक्राउ गरेको छ । गत भदौ २४ गते प्रहरी कार्यालयबाट लुटिएका हातहतियारसहित उनीहरुको साथबाट हतियार र गोली बरामद गरेको जिल्ला प्रहरी कार्यालयले जनाएको छ । कार्यालयका अनुसार मण्डनदेउपुर नगरपालिका–७ घर भई हाल बनेपा नपा–९ स्थित लायकु बस्ने ३४ वर्षीय सन्तोष श्रेष्ठलाई पक्राउ गरिएको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/857197/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/857197/#article",
+              "@type": "Article",
+              "articleSection": [
+                "प्रहरी",
+                "सुरक्षा"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T16:04:55+00:00",
+              "datePublished": "2025-09-25T16:04:53+00:00",
+              "headline": "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857197/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/857197/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857197/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857197/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T16:04:55+00:00",
+              "datePublished": "2025-09-25T16:04:53+00:00",
+              "description": "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ सुरक्षा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857197/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/857197/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857197/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+              "url": "https://khabarhub.com/2025/25/857197/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857197/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "सांकेतिक तस्बिर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काभ्रेपलाञ्चोक – ‘जेनजी’ प्रदर्शनका क्रममा लुटपाटमा संलग्न भएको आरोपमा १० जनालाई प्रहरीले पक्राउ गरेको छ । गत भदौ २४ गते प्रहरी कार्यालयबाट लुटिएका हातहतियारसहित उनीहरुको साथबाट हतियार र गोली बरामद गरेको जिल्ला प्रहरी कार्यालयले जनाएको छ । कार्यालयका अनुसार मण्डनदेउपुर नगरपालिका–७ घर भई हाल बनेपा नपा–९ स्थित लायकु बस्ने ३४ वर्षीय सन्तोष श्रेष्ठलाई पक्राउ गरिएको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/857197/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/10/arrest-pakrau-hatkadi.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T16:04:53Z",
+  "source": "Khabarhub",
+  "store_path": "_store/aa/aa81b825eb473b9733c768ca928561d4f1f1f61c82e23d33cbcaa8e0e07b1c96.json",
+  "title": "लुटपाटमा संलग्नताको आरोपमा १० जना पक्राउ",
+  "url": "https://khabarhub.com/2025/25/857197/",
+  "version": 1
+}
