@@ -1,0 +1,431 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n8:23 am, Thu, 25 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T02:47:12.080263Z",
+  "id": "50c23088a78af4a7b145210c20407934b315cfc0b945a4df91ff9b7dd1fc25fa",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508736/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "अपराध",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-25T02:38:50+00:00",
+            "datePublished": "2025-09-25T02:38:46+00:00",
+            "headline": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508736/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508736/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508736/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508736/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508736/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508736/#breadcrumb"
+            },
+            "dateModified": "2025-09-25T02:38:50+00:00",
+            "datePublished": "2025-09-25T02:38:46+00:00",
+            "description": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508736/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508736/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508736/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg",
+            "url": "https://www.imagekhabar.com/news/508736/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508736/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg",
+            "height": 556,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg",
+            "width": 1000
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508736/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । नवलपुरको कावासोतीमा श्रीमतीकाे हत्या गरे भन्दै श्रीमानले आत्मसमर्पण गरेका छन् । कावासोती–८ ज्ञानोदय चोक नजिकै बुधबार राति ४५ वर्षीय सूर्यप्रसाद पाण्डेले ४० वर्षीया श्रीमती संगीता पाण्डेको हत्या गरेकाे भन्दै प्रहरीमा आत्मसमर्पण गरेकाे नवलपुर जिल्ला प्रहरी कार्यालयले जनाएकाे छ । श्रीमतीलाई चक्कु प्रहार गरी उनले प्रहरीकोमा आत्मसमर्पण गरेका जिल्ला प्रहरी कार्यालयका सूचना अधिकारी, प्रहरी […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508736/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508736/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "अपराध",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-25T02:38:50+00:00",
+              "datePublished": "2025-09-25T02:38:46+00:00",
+              "headline": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508736/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508736/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508736/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508736/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508736/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508736/#breadcrumb"
+              },
+              "dateModified": "2025-09-25T02:38:50+00:00",
+              "datePublished": "2025-09-25T02:38:46+00:00",
+              "description": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508736/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508736/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508736/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg",
+              "url": "https://www.imagekhabar.com/news/508736/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508736/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg",
+              "height": 556,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg",
+              "width": 1000
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508736/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । नवलपुरको कावासोतीमा श्रीमतीकाे हत्या गरे भन्दै श्रीमानले आत्मसमर्पण गरेका छन् । कावासोती–८ ज्ञानोदय चोक नजिकै बुधबार राति ४५ वर्षीय सूर्यप्रसाद पाण्डेले ४० वर्षीया श्रीमती संगीता पाण्डेको हत्या गरेकाे भन्दै प्रहरीमा आत्मसमर्पण गरेकाे नवलपुर जिल्ला प्रहरी कार्यालयले जनाएकाे छ । श्रीमतीलाई चक्कु प्रहार गरी उनले प्रहरीकोमा आत्मसमर्पण गरेका जिल्ला प्रहरी कार्यालयका सूचना अधिकारी, प्रहरी […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508736/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/hatya.jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T02:38:46Z",
+  "source": "Image Khabar",
+  "store_path": "_store/50/50c23088a78af4a7b145210c20407934b315cfc0b945a4df91ff9b7dd1fc25fa.json",
+  "title": "कावासोतीमा श्रीमतीको हत्या गरे भन्दै श्रीमानले गरे प्रहरीमा आत्मसमर्पण",
+  "url": "https://www.imagekhabar.com/news/508736/",
+  "version": 1
+}

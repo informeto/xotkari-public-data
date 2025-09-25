@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n21\nShares",
+  "description": "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T02:48:06.436937Z",
+  "id": "7864f0a2131b19491cce1a06c8c712ada7860963ebb26fbdfd0e80aa175f6244",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856744/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T01:49:03+00:00",
+            "datePublished": "2025-09-25T01:49:01+00:00",
+            "headline": "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856744/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856744/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856744/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856744/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T01:49:03+00:00",
+            "datePublished": "2025-09-25T01:49:01+00:00",
+            "description": "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856744/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856744/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856744/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+            "url": "https://khabarhub.com/2025/25/856744/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856744/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+            "height": 554,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+            "width": 1134
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कञ्चनपुर– शुक्लाफाँटा नगरपालिका–८ स्थित धार्मिक पर्यटकीय क्षेत्र मुडका (मणिका) मा विद्युतीकरणको काम धमाधम अगाडि बढाइएको छ । नेपाल विद्युत् प्राधिकरण महेन्द्रनगर वितरण केन्द्रले ठेक्का प्रक्रियामार्फत यहाँ कार्य गरिरहेको हो । वितरण केन्द्र प्रमुख चुटुनकुमार श्रीवास्तवका अनुसार पोल गाड्ने, मजदुरलाई दिने ज्यालासहितको ठेक्का वितरण केन्द्रले गरेको छ भने पोल, तार, ट्रान्सफर्मरलगायत सामग्री खरिद गर्ने जिम्मेवारी प्राधिकरणको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856744/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856744/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T01:49:03+00:00",
+              "datePublished": "2025-09-25T01:49:01+00:00",
+              "headline": "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856744/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856744/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856744/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856744/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T01:49:03+00:00",
+              "datePublished": "2025-09-25T01:49:01+00:00",
+              "description": "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856744/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856744/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856744/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+              "url": "https://khabarhub.com/2025/25/856744/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856744/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+              "height": 554,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg",
+              "width": 1134
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कञ्चनपुर– शुक्लाफाँटा नगरपालिका–८ स्थित धार्मिक पर्यटकीय क्षेत्र मुडका (मणिका) मा विद्युतीकरणको काम धमाधम अगाडि बढाइएको छ । नेपाल विद्युत् प्राधिकरण महेन्द्रनगर वितरण केन्द्रले ठेक्का प्रक्रियामार्फत यहाँ कार्य गरिरहेको हो । वितरण केन्द्र प्रमुख चुटुनकुमार श्रीवास्तवका अनुसार पोल गाड्ने, मजदुरलाई दिने ज्यालासहितको ठेक्का वितरण केन्द्रले गरेको छ भने पोल, तार, ट्रान्सफर्मरलगायत सामग्री खरिद गर्ने जिम्मेवारी प्राधिकरणको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856744/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/bidhyut-pole.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T01:49:01Z",
+  "source": "Khabarhub",
+  "store_path": "_store/78/7864f0a2131b19491cce1a06c8c712ada7860963ebb26fbdfd0e80aa175f6244.json",
+  "title": "पाँच दशकपछि धारापानी क्षेत्रमा विद्युतीकरण",
+  "url": "https://khabarhub.com/2025/25/856744/",
+  "version": 1
+}
