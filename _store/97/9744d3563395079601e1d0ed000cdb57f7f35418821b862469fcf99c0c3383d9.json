@@ -1,0 +1,368 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n18\nShares",
+  "description": "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T14:22:56.894021Z",
+  "id": "9744d3563395079601e1d0ed000cdb57f7f35418821b862469fcf99c0c3383d9",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/857164/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T14:12:07+00:00",
+            "datePublished": "2025-09-25T14:12:05+00:00",
+            "headline": "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857164/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/857164/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857164/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857164/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T14:12:07+00:00",
+            "datePublished": "2025-09-25T14:12:05+00:00",
+            "description": "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857164/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/857164/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857164/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg",
+            "url": "https://khabarhub.com/2025/25/857164/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857164/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg",
+            "height": 794,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कर्णाली– नेपाली कांग्रेसका उपसभापति पूर्णबहादुर खड्काले अब राजनीतिक दलहरूले निर्मम समीक्षा गर्नुपर्ने बताएका छन् । जेनजी प्रदर्शनका क्रममा क्षतिग्रस्त नेपाली कांग्रेस सुर्खेतको पार्टी कार्यालय निरीक्षणपश्चात् बिहीबार पत्रकारहरूसँग कुरा गर्दै उपसभापति खड्काले मुलुकमा उत्पन्न परिस्थिति र त्यसले उब्जाएको संकटका विषयमा दलहरूले निर्मम समीक्षा गर्नुपर्ने धारणा राखे।     उनले भने, ‘सरकारले छानबिन आयोग गठन गरिसकेकाले सबै कुरा अहिले […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/857164/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/857164/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T14:12:07+00:00",
+              "datePublished": "2025-09-25T14:12:05+00:00",
+              "headline": "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857164/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/857164/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857164/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857164/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T14:12:07+00:00",
+              "datePublished": "2025-09-25T14:12:05+00:00",
+              "description": "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857164/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/857164/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857164/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg",
+              "url": "https://khabarhub.com/2025/25/857164/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857164/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg",
+              "height": 794,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कर्णाली– नेपाली कांग्रेसका उपसभापति पूर्णबहादुर खड्काले अब राजनीतिक दलहरूले निर्मम समीक्षा गर्नुपर्ने बताएका छन् । जेनजी प्रदर्शनका क्रममा क्षतिग्रस्त नेपाली कांग्रेस सुर्खेतको पार्टी कार्यालय निरीक्षणपश्चात् बिहीबार पत्रकारहरूसँग कुरा गर्दै उपसभापति खड्काले मुलुकमा उत्पन्न परिस्थिति र त्यसले उब्जाएको संकटका विषयमा दलहरूले निर्मम समीक्षा गर्नुपर्ने धारणा राखे।     उनले भने, ‘सरकारले छानबिन आयोग गठन गरिसकेकाले सबै कुरा अहिले […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/857164/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/purnabahadur-khadka.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T14:12:05Z",
+  "source": "Khabarhub",
+  "store_path": "_store/97/9744d3563395079601e1d0ed000cdb57f7f35418821b862469fcf99c0c3383d9.json",
+  "title": "दलहरूले निर्मम समीक्षा गर्नुपर्छ : उपसभापति खड्का",
+  "url": "https://khabarhub.com/2025/25/857164/",
+  "version": 1
+}
