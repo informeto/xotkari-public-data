@@ -1,0 +1,378 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n60\nShares",
+  "description": "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी खेलकुद",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T03:29:38.977898Z",
+  "id": "eb5530deddc8a40f6baa1b9799c01377bf9a69abc51a0a81ccb2f35547648cbc",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/west-indies-cricket-702x768.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/cricket1-768x512.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/nepal-squard-615x768.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856760/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T03:01:23+00:00",
+            "datePublished": "2025-09-25T03:00:28+00:00",
+            "headline": "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856760/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856760/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856760/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856760/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T03:01:23+00:00",
+            "datePublished": "2025-09-25T03:00:28+00:00",
+            "description": "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी खेलकुद",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856760/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856760/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856760/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+            "url": "https://khabarhub.com/2025/25/856760/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856760/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "अभ्यासमा व्यस्त नेपाली क्रिकेट टिम",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+            "height": 736,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – वेस्ट इन्डिजसँग भिड्ने नेपाली राष्ट्रिय क्रिकेट टिमका खेलाडी अहिले यूएईमा अभ्यास गर्न व्यस्त छन् । भिसा प्रक्रियाका कारण सोमबार मात्र यूएई उडेको नेपाली टिम अहिले अभ्यासमा व्यस्त भएको नेपाल क्रिकेट संघ (क्यान)ले जनाएको छ । रोहितकुमार पौडेलको कप्तानीमा नेपाली टिम यूएई पुगेको हो । वेस्ट इन्डिजविरुद्धको सिरिज खेल्ने नेपाली टिममा साहब आलम र […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856760/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856760/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T03:01:23+00:00",
+              "datePublished": "2025-09-25T03:00:28+00:00",
+              "headline": "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856760/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856760/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856760/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856760/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T03:01:23+00:00",
+              "datePublished": "2025-09-25T03:00:28+00:00",
+              "description": "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी खेलकुद",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856760/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856760/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856760/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+              "url": "https://khabarhub.com/2025/25/856760/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856760/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "अभ्यासमा व्यस्त नेपाली क्रिकेट टिम",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+              "height": 736,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – वेस्ट इन्डिजसँग भिड्ने नेपाली राष्ट्रिय क्रिकेट टिमका खेलाडी अहिले यूएईमा अभ्यास गर्न व्यस्त छन् । भिसा प्रक्रियाका कारण सोमबार मात्र यूएई उडेको नेपाली टिम अहिले अभ्यासमा व्यस्त भएको नेपाल क्रिकेट संघ (क्यान)ले जनाएको छ । रोहितकुमार पौडेलको कप्तानीमा नेपाली टिम यूएई पुगेको हो । वेस्ट इन्डिजविरुद्धको सिरिज खेल्ने नेपाली टिममा साहब आलम र […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856760/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/nepali-cricket.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T03:00:28Z",
+  "source": "Khabarhub",
+  "store_path": "_store/eb/eb5530deddc8a40f6baa1b9799c01377bf9a69abc51a0a81ccb2f35547648cbc.json",
+  "title": "यूएईमा अभ्यास गर्दै नेपाली क्रिकेट टिम : वेस्ट इन्डिजसँग भिड्ने तयारी",
+  "url": "https://khabarhub.com/2025/25/856760/",
+  "version": 1
+}
