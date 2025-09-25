@@ -1,0 +1,370 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n0\nShares",
+  "description": "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T05:46:07.953424Z",
+  "id": "a9816b513cd153a21d50eed9962132f2cbb83d62930c01a02b294b113e29ac14",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/traffice-cone-2-768x512.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856819/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T05:35:48+00:00",
+            "datePublished": "2025-09-25T05:35:46+00:00",
+            "headline": "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856819/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856819/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856819/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png",
+            "wordCount": 9
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856819/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T05:35:48+00:00",
+            "datePublished": "2025-09-25T05:35:46+00:00",
+            "description": "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856819/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856819/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856819/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png",
+            "url": "https://khabarhub.com/2025/25/856819/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856819/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png",
+            "height": 1080,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png",
+            "width": 1920
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– काठमाडौं महानगरपालिकाको शहरी व्यवस्थापन विभागअन्तर्गत यातायात तथा सडक सुरक्षा स्वर्णिम योजनाले ट्राफिक व्यवस्थापनलाई प्रभावकारी बनाउनका लागि अन्तर्राष्ट्रिय गुणस्तरअनुसारका ट्राफिक कोन र रिट्र्याक्टेबल बार सडकमा राख्न सुरु गरेको छ । यी सामाग्रीहरू नेपालमा नै उत्पादन भएका हुन् ।  आर्थिक वर्ष २०८०/८१ मा नै यी सामाग्रीहरू खरिद गर्ने योजना भएता पनि विभिन्न प्रक्रियागत चुनौतीका कारण २०८१-८२ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856819/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856819/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T05:35:48+00:00",
+              "datePublished": "2025-09-25T05:35:46+00:00",
+              "headline": "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856819/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856819/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856819/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png",
+              "wordCount": 9
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856819/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T05:35:48+00:00",
+              "datePublished": "2025-09-25T05:35:46+00:00",
+              "description": "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856819/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856819/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856819/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png",
+              "url": "https://khabarhub.com/2025/25/856819/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856819/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png",
+              "height": 1080,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png",
+              "width": 1920
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– काठमाडौं महानगरपालिकाको शहरी व्यवस्थापन विभागअन्तर्गत यातायात तथा सडक सुरक्षा स्वर्णिम योजनाले ट्राफिक व्यवस्थापनलाई प्रभावकारी बनाउनका लागि अन्तर्राष्ट्रिय गुणस्तरअनुसारका ट्राफिक कोन र रिट्र्याक्टेबल बार सडकमा राख्न सुरु गरेको छ । यी सामाग्रीहरू नेपालमा नै उत्पादन भएका हुन् ।  आर्थिक वर्ष २०८०/८१ मा नै यी सामाग्रीहरू खरिद गर्ने योजना भएता पनि विभिन्न प्रक्रियागत चुनौतीका कारण २०८१-८२ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856819/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/traffic-cone.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T05:35:46Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a9/a9816b513cd153a21d50eed9962132f2cbb83d62930c01a02b294b113e29ac14.json",
+  "title": "ट्राफिक व्यवस्थापन गर्न २५ सय ट्राफिक कोन र १,२५० रिट्र्याक्टेबल बार सडकमा राखिँदै",
+  "url": "https://khabarhub.com/2025/25/856819/",
+  "version": 1
+}
