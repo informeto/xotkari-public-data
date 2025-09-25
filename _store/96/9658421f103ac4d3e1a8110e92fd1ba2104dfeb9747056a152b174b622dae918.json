@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T06:31:41.441170Z",
+  "id": "9658421f103ac4d3e1a8110e92fd1ba2104dfeb9747056a152b174b622dae918",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856837/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T06:23:41+00:00",
+            "datePublished": "2025-09-25T06:23:39+00:00",
+            "headline": "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856837/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856837/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856837/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856837/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T06:23:41+00:00",
+            "datePublished": "2025-09-25T06:23:39+00:00",
+            "description": "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856837/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856837/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856837/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+            "url": "https://khabarhub.com/2025/25/856837/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856837/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+            "height": 506,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+            "width": 768
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "भोजपुर– जिल्लामा रेबिज रोकथामको लागि खोप अभियान सञ्चालन गरिएको छ । प्राण घातक रेबिज रोग नियन्त्रण तथा रोकथामका लागि साप्ताहिक खोप अभियान सञ्चालन गरिएको हो ।  यो अभियानमार्फत गाउँघरमा रहेका कुकुर तथा बिरालालाई निःशुल्क खोप लगाउने काम जारी रहेको भेटेरिनरी अस्पताल तथा सेवा विज्ञ केन्द्रलेका प्रमुख पुष्पराज दाहालले जानकारी दिए । ‘रेबिज रोग नियन्त्रणको लागि […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856837/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856837/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T06:23:41+00:00",
+              "datePublished": "2025-09-25T06:23:39+00:00",
+              "headline": "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856837/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856837/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856837/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856837/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T06:23:41+00:00",
+              "datePublished": "2025-09-25T06:23:39+00:00",
+              "description": "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856837/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856837/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856837/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+              "url": "https://khabarhub.com/2025/25/856837/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856837/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+              "height": 506,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg",
+              "width": 768
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "भोजपुर– जिल्लामा रेबिज रोकथामको लागि खोप अभियान सञ्चालन गरिएको छ । प्राण घातक रेबिज रोग नियन्त्रण तथा रोकथामका लागि साप्ताहिक खोप अभियान सञ्चालन गरिएको हो ।  यो अभियानमार्फत गाउँघरमा रहेका कुकुर तथा बिरालालाई निःशुल्क खोप लगाउने काम जारी रहेको भेटेरिनरी अस्पताल तथा सेवा विज्ञ केन्द्रलेका प्रमुख पुष्पराज दाहालले जानकारी दिए । ‘रेबिज रोग नियन्त्रणको लागि […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856837/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2019/10/rebiz.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T06:23:39Z",
+  "source": "Khabarhub",
+  "store_path": "_store/96/9658421f103ac4d3e1a8110e92fd1ba2104dfeb9747056a152b174b622dae918.json",
+  "title": "भोजपुरमा रेबिजविरुद्ध खोप अभियान सञ्चालन",
+  "url": "https://khabarhub.com/2025/25/856837/",
+  "version": 1
+}

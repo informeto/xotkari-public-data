@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n45\nShares",
+  "description": "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T06:31:43.705452Z",
+  "id": "a2f4d1abaf916e5da85fddd9a1cd17e1886930e06495570f6a1845a126632c19",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856828/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अपराध",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T06:05:48+00:00",
+            "datePublished": "2025-09-25T06:05:46+00:00",
+            "headline": "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856828/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856828/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856828/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg",
+            "wordCount": 5
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856828/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T06:05:48+00:00",
+            "datePublished": "2025-09-25T06:05:46+00:00",
+            "description": "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856828/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856828/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856828/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg",
+            "url": "https://khabarhub.com/2025/25/856828/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856828/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल फोटो",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg",
+            "height": 500,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg",
+            "width": 840
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "मोरङ– विराटनगर महानगरपालिका-१४ जतुवा बस्ने ४५ वर्षीय राजेश रञ्जितकारको घरमा जुवातास खेलिरहेको अवस्थामा राजेशसमेत चार जनालाई बुधबार राति प्रहरीले पक्राउ गरेको छ । इलाका प्रहरी कार्यालय रानीबाट खटिएको प्रहरीले उनीहरूलाई नगद ८५ हजार ९ सय ८५ रुपैयाँ र १ बुक तास सहित पक्राउ गरेको हो ।  साथै प्रहरीले उनीहरूले प्रयोग मोटरसाइकल ३ थान समेत बरामद गरेको छ । यस सम्बन्धमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856828/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856828/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अपराध",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T06:05:48+00:00",
+              "datePublished": "2025-09-25T06:05:46+00:00",
+              "headline": "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856828/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856828/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856828/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg",
+              "wordCount": 5
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856828/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T06:05:48+00:00",
+              "datePublished": "2025-09-25T06:05:46+00:00",
+              "description": "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856828/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856828/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856828/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg",
+              "url": "https://khabarhub.com/2025/25/856828/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856828/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल फोटो",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg",
+              "height": 500,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg",
+              "width": 840
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "मोरङ– विराटनगर महानगरपालिका-१४ जतुवा बस्ने ४५ वर्षीय राजेश रञ्जितकारको घरमा जुवातास खेलिरहेको अवस्थामा राजेशसमेत चार जनालाई बुधबार राति प्रहरीले पक्राउ गरेको छ । इलाका प्रहरी कार्यालय रानीबाट खटिएको प्रहरीले उनीहरूलाई नगद ८५ हजार ९ सय ८५ रुपैयाँ र १ बुक तास सहित पक्राउ गरेको हो ।  साथै प्रहरीले उनीहरूले प्रयोग मोटरसाइकल ३ थान समेत बरामद गरेको छ । यस सम्बन्धमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856828/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2019/01/juwade.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T06:05:46Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a2/a2f4d1abaf916e5da85fddd9a1cd17e1886930e06495570f6a1845a126632c19.json",
+  "title": "जुवातास खेलिरहेको अवस्थामा चार जना पक्राउ",
+  "url": "https://khabarhub.com/2025/25/856828/",
+  "version": 1
+}
