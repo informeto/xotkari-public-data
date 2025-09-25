@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n576\nShares",
+  "description": "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T10:48:12.609351Z",
+  "id": "7a14c63d5a211542ea50ffe34918f6c4d9809be877b0863a4038a55c85bcaeb8",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856992/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T10:26:10+00:00",
+            "datePublished": "2025-09-25T10:24:54+00:00",
+            "headline": "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856992/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856992/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856992/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856992/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T10:26:10+00:00",
+            "datePublished": "2025-09-25T10:24:54+00:00",
+            "description": "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856992/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856992/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856992/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+            "url": "https://khabarhub.com/2025/25/856992/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856992/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- नेपाली कांग्रेसका उपसभापति पूर्णबहादुर खड्काले जेन–जी आन्दोलनका नाममा भएको तोडफोड र आगजनीबाट आफ्नो परिवारको सबै पुर्ख्यौली सम्पत्ति ध्वस्त भएको गुनासो गरेका छन्। आन्दोलनको क्रममा आगजनीले आफ्ना परिवारले पुस्तौँदेखि जोगाएर राखेको घरसमेत जलाइएपछि उनले भावुक भएर प्रतिक्रिया दिएका छन्। ‘कांग्रेस पार्टीको राजनीतिमा रहँदा मैले कुनै गलत काम गरेको छैन। तर पनि मेरो परिवारको सबथोक जलाइयो,’ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856992/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856992/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T10:26:10+00:00",
+              "datePublished": "2025-09-25T10:24:54+00:00",
+              "headline": "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856992/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856992/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856992/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856992/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T10:26:10+00:00",
+              "datePublished": "2025-09-25T10:24:54+00:00",
+              "description": "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856992/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856992/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856992/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+              "url": "https://khabarhub.com/2025/25/856992/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856992/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- नेपाली कांग्रेसका उपसभापति पूर्णबहादुर खड्काले जेन–जी आन्दोलनका नाममा भएको तोडफोड र आगजनीबाट आफ्नो परिवारको सबै पुर्ख्यौली सम्पत्ति ध्वस्त भएको गुनासो गरेका छन्। आन्दोलनको क्रममा आगजनीले आफ्ना परिवारले पुस्तौँदेखि जोगाएर राखेको घरसमेत जलाइएपछि उनले भावुक भएर प्रतिक्रिया दिएका छन्। ‘कांग्रेस पार्टीको राजनीतिमा रहँदा मैले कुनै गलत काम गरेको छैन। तर पनि मेरो परिवारको सबथोक जलाइयो,’ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856992/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/09/purnabahadur-khadka.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T10:24:54Z",
+  "source": "Khabarhub",
+  "store_path": "_store/7a/7a14c63d5a211542ea50ffe34918f6c4d9809be877b0863a4038a55c85bcaeb8.json",
+  "title": "जेन-जीका नाममा सर्वस्व जलाइएपछि पूर्णबहादुरको गुनासो : काठमाडौंमा मेरो घर र जग्गा छैन भन्दा कोही पत्याउँदैन",
+  "url": "https://khabarhub.com/2025/25/856992/",
+  "version": 1
+}

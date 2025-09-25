@@ -1,0 +1,372 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n78\nShares",
+  "description": "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध  समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T10:48:12.180007Z",
+  "id": "0018a75d2c104855c0a68d67b5b5673bc0588e8befe5b7388b399e97c133c28c",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/hawa-huri-1-768x576.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/hawa-huri-2-768x576.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/hawa-huri-768x576.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856996/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T10:30:59+00:00",
+            "datePublished": "2025-09-25T10:30:57+00:00",
+            "headline": "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856996/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856996/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856996/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+            "wordCount": 12
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856996/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T10:30:59+00:00",
+            "datePublished": "2025-09-25T10:30:57+00:00",
+            "description": "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध  समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856996/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध  | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856996/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856996/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+            "url": "https://khabarhub.com/2025/25/856996/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856996/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+            "height": 1080,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+            "width": 1920
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध "
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "दोलखा -जिल्लाको वैतेश्वर गाउँपालिका वडा नम्बर-६ र ७ मा बुधबार दिउँसो अविरल वर्षासँगै चलेको हावाहुरी र चट्याङका कारण करिब ८ सय रुख ढलेको पाइएको छ। बुधबार दिउँसो भएको क्षतिको बिहीबार बिहान डिभिजन वन कार्यालय दोलखाका कार्यालय प्रमुख वन अधिकृत कृष्ण राज न्यौपाने, वैतेश्वर गाउँपालिका अध्यक्ष छवि लामा, वडा अध्यक्ष भुवन घिमिरे, इलाका प्रहरी कार्यालय मैनापोखरी, सामुदायिक […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856996/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856996/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T10:30:59+00:00",
+              "datePublished": "2025-09-25T10:30:57+00:00",
+              "headline": "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856996/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856996/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856996/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+              "wordCount": 12
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856996/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T10:30:59+00:00",
+              "datePublished": "2025-09-25T10:30:57+00:00",
+              "description": "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध  समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856996/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध  | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856996/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856996/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+              "url": "https://khabarhub.com/2025/25/856996/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856996/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+              "height": 1080,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png",
+              "width": 1920
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध "
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "दोलखा -जिल्लाको वैतेश्वर गाउँपालिका वडा नम्बर-६ र ७ मा बुधबार दिउँसो अविरल वर्षासँगै चलेको हावाहुरी र चट्याङका कारण करिब ८ सय रुख ढलेको पाइएको छ। बुधबार दिउँसो भएको क्षतिको बिहीबार बिहान डिभिजन वन कार्यालय दोलखाका कार्यालय प्रमुख वन अधिकृत कृष्ण राज न्यौपाने, वैतेश्वर गाउँपालिका अध्यक्ष छवि लामा, वडा अध्यक्ष भुवन घिमिरे, इलाका प्रहरी कार्यालय मैनापोखरी, सामुदायिक […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856996/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/hawahuri.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T10:30:57Z",
+  "source": "Khabarhub",
+  "store_path": "_store/00/0018a75d2c104855c0a68d67b5b5673bc0588e8befe5b7388b399e97c133c28c.json",
+  "title": "वैतेश्वरमा चट्याङ र हावाहुरी : ८ सय रुख ढले, विद्युत् अवरुद्ध",
+  "url": "https://khabarhub.com/2025/25/856996/",
+  "version": 1
+}
