@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T04:49:25.845861Z",
+  "id": "377c67933d8df1c593d035330bc41295ee5459f1f3add60d9520987932791355",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856809/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T04:47:55+00:00",
+            "datePublished": "2025-09-25T04:47:53+00:00",
+            "headline": "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856809/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856809/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856809/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856809/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T04:47:55+00:00",
+            "datePublished": "2025-09-25T04:47:53+00:00",
+            "description": "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856809/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856809/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856809/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+            "url": "https://khabarhub.com/2025/25/856809/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856809/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+            "height": 555,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कञ्चनपुर– नेपाल विद्युत् प्राधिकरण वितरण केन्द्र महेन्द्रनगरले सेवाग्राही तथा कर्मचारीलाई सहज र व्यवस्थित सेवा प्रवाह गर्ने उद्देश्यले वातानुकूलित महसुल काउन्टर सञ्चालनमा ल्याएको छ । केन्द्रको हालै निर्मित आधुनिक भवनभित्र सञ्चालनमा ल्याएको महसुल काउन्टरमा चारवटा एयर कण्डिसन (एसी) जडान गरिएको छ । केन्द्र प्रमुख चुटुनकुमार श्रीवास्तवका अनुसार गर्मीयाममा सेवाग्राही लामो समयसम्म पालो पर्खिन बाध्य हुने अवस्थाको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856809/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856809/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T04:47:55+00:00",
+              "datePublished": "2025-09-25T04:47:53+00:00",
+              "headline": "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856809/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856809/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856809/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856809/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T04:47:55+00:00",
+              "datePublished": "2025-09-25T04:47:53+00:00",
+              "description": "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856809/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856809/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856809/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+              "url": "https://khabarhub.com/2025/25/856809/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856809/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+              "height": 555,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कञ्चनपुर– नेपाल विद्युत् प्राधिकरण वितरण केन्द्र महेन्द्रनगरले सेवाग्राही तथा कर्मचारीलाई सहज र व्यवस्थित सेवा प्रवाह गर्ने उद्देश्यले वातानुकूलित महसुल काउन्टर सञ्चालनमा ल्याएको छ । केन्द्रको हालै निर्मित आधुनिक भवनभित्र सञ्चालनमा ल्याएको महसुल काउन्टरमा चारवटा एयर कण्डिसन (एसी) जडान गरिएको छ । केन्द्र प्रमुख चुटुनकुमार श्रीवास्तवका अनुसार गर्मीयाममा सेवाग्राही लामो समयसम्म पालो पर्खिन बाध्य हुने अवस्थाको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856809/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/mahendra-nagar-bitaran-kendra.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T04:47:53Z",
+  "source": "Khabarhub",
+  "store_path": "_store/37/377c67933d8df1c593d035330bc41295ee5459f1f3add60d9520987932791355.json",
+  "title": "महेन्द्रनगरमा वातानुकूलित महसुल काउन्टर सञ्चालन",
+  "url": "https://khabarhub.com/2025/25/856809/",
+  "version": 1
+}
