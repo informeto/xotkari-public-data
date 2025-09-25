@@ -4,13 +4,21 @@
   "description": "Nepal's oldest leading online portal",
   "domain": "newsofnepal.com",
   "enhanced": true,
-  "fetched_at": "2025-09-25T17:16:40.762730Z",
+  "fetched_at": "2025-09-25T17:32:54.642046Z",
   "id": "2a04f0532d03ae6faca8ff48d4f4ccc54725d8b0afd1795b0f348726d25c3a0b",
-  "images": [],
+  "images": [
+    "https://newsofnepal.com/wp-content/uploads/2025/09/33-1-150x150.jpg",
+    "https://newsofnepal.com/wp-content/uploads/2025/09/332.jpg"
+  ],
   "language": "en",
   "metadata": {
     "json_ld": [],
-    "microdata": [],
+    "microdata": [
+      {
+        "type": "https://schema.org/ImageGallery",
+        "value": ""
+      }
+    ],
     "opengraph": [
       {
         "namespace": {
@@ -39,14 +47,19 @@
           ],
           [
             "og:image",
-            "https://newsofnepal.com/wp-content/themes/newsofnepalnaya/img/logo.png"
+            "https://newsofnepal.com/wp-content/uploads/2025/09/33-1.jpg"
           ]
         ]
       }
     ],
     "raw": {
       "json-ld": [],
-      "microdata": [],
+      "microdata": [
+        {
+          "type": "https://schema.org/ImageGallery",
+          "value": ""
+        }
+      ],
       "opengraph": [
         {
           "namespace": {
@@ -75,7 +88,7 @@
             ],
             [
               "og:image",
-              "https://newsofnepal.com/wp-content/themes/newsofnepalnaya/img/logo.png"
+              "https://newsofnepal.com/wp-content/uploads/2025/09/33-1.jpg"
             ]
           ]
         }
