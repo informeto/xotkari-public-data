@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n21\nShares",
+  "description": "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T13:59:36.340820Z",
+  "id": "b01ba9d6cdf521cffe969ffc67760694bb02d2005fbd8c3d5e1bdd4c4e1612b1",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/857147/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T13:54:26+00:00",
+            "datePublished": "2025-09-25T13:54:24+00:00",
+            "headline": "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857147/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/857147/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857147/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857147/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T13:54:26+00:00",
+            "datePublished": "2025-09-25T13:54:24+00:00",
+            "description": "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857147/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/857147/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857147/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+            "url": "https://khabarhub.com/2025/25/857147/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857147/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+            "height": 1514,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+            "width": 2560
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- तत्कालीन प्रधानमन्त्री केपी शर्मा ओलीले २०७४ सालमा आफूमातहत लगेका अनुसन्धान गर्ने तीनवटा विभाग बिहीबार सम्बन्धित मन्त्रालयकै मातहतमा फर्किएका छन् । बिहीबार बसेको अन्तरिम सरकार मन्त्रिपरिषद्को बैठकले प्रधानमन्त्री कार्यालयमातहतका ती तीन विभागमध्ये दुईलाई अर्थ र एकलाई गृहमन्त्रालयमा फर्काउने निर्णय गरेको हो । प्रधानमन्त्री मातहत लाँदा अनुसन्धान प्रभावकारी भएर प्रभावकारी परिणाम आउने भनिए पनि उल्टै दुरुपयोग […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/857147/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/857147/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T13:54:26+00:00",
+              "datePublished": "2025-09-25T13:54:24+00:00",
+              "headline": "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857147/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/857147/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857147/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857147/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T13:54:26+00:00",
+              "datePublished": "2025-09-25T13:54:24+00:00",
+              "description": "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857147/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/857147/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857147/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+              "url": "https://khabarhub.com/2025/25/857147/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857147/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+              "height": 1514,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg",
+              "width": 2560
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- तत्कालीन प्रधानमन्त्री केपी शर्मा ओलीले २०७४ सालमा आफूमातहत लगेका अनुसन्धान गर्ने तीनवटा विभाग बिहीबार सम्बन्धित मन्त्रालयकै मातहतमा फर्किएका छन् । बिहीबार बसेको अन्तरिम सरकार मन्त्रिपरिषद्को बैठकले प्रधानमन्त्री कार्यालयमातहतका ती तीन विभागमध्ये दुईलाई अर्थ र एकलाई गृहमन्त्रालयमा फर्काउने निर्णय गरेको हो । प्रधानमन्त्री मातहत लाँदा अनुसन्धान प्रभावकारी भएर प्रभावकारी परिणाम आउने भनिए पनि उल्टै दुरुपयोग […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/857147/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/susila-karki-pm-1-scaled.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T13:54:24Z",
+  "source": "Khabarhub",
+  "store_path": "_store/b0/b01ba9d6cdf521cffe969ffc67760694bb02d2005fbd8c3d5e1bdd4c4e1612b1.json",
+  "title": "राजस्व अनुसन्धानसहित तीन निकाय प्रधानमन्त्री कार्यालयबाट अर्थ र गृहमा फिर्ता",
+  "url": "https://khabarhub.com/2025/25/857147/",
+  "version": 1
+}
