@@ -1,0 +1,431 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n1:07 pm, Thu, 25 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T07:23:43.157162Z",
+  "id": "75dc7cae77552c47811f91d81ec5c59055dd5fa6af2fadc9c6c1d5aaecdf8af2",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508786/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "अर्थ",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-25T07:22:16+00:00",
+            "datePublished": "2025-09-25T07:22:12+00:00",
+            "headline": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508786/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508786/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508786/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508786/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508786/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508786/#breadcrumb"
+            },
+            "dateModified": "2025-09-25T07:22:16+00:00",
+            "datePublished": "2025-09-25T07:22:12+00:00",
+            "description": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508786/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508786/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508786/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg",
+            "url": "https://www.imagekhabar.com/news/508786/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508786/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508786/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "सरकारले जेन-जी आन्दोलनबाट प्रभावित नीजि क्षेत्रलाई लक्षि गरेर सहुलियतको योजना ल्याएको छ । अर्थ मन्त्रालयले प्रभावितलाई लक्षित गरेर कर छुटदेखि नेपाल राष्ट्र बैंकबाट कर्जा उपलब्ध गराउनेसम्मका योजना कार्यान्वयनमा ल्याएको हो । कर सहुलियत, सुविधा तथा छुट अन्तर्गत जेन-जी आन्दोलनको क्रममा सिर्जना भएको असामान्य परिस्थितिबाट प्रभावित उद्योग, व्यापार, व्यावसायिक प्रतिष्ठान तथा आर्थिक गतिविधिमा भएको आगजनी वा […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508786/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508786/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "अर्थ",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-25T07:22:16+00:00",
+              "datePublished": "2025-09-25T07:22:12+00:00",
+              "headline": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508786/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508786/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508786/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508786/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508786/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508786/#breadcrumb"
+              },
+              "dateModified": "2025-09-25T07:22:16+00:00",
+              "datePublished": "2025-09-25T07:22:12+00:00",
+              "description": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508786/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508786/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508786/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg",
+              "url": "https://www.imagekhabar.com/news/508786/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508786/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508786/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "सरकारले जेन-जी आन्दोलनबाट प्रभावित नीजि क्षेत्रलाई लक्षि गरेर सहुलियतको योजना ल्याएको छ । अर्थ मन्त्रालयले प्रभावितलाई लक्षित गरेर कर छुटदेखि नेपाल राष्ट्र बैंकबाट कर्जा उपलब्ध गराउनेसम्मका योजना कार्यान्वयनमा ल्याएको हो । कर सहुलियत, सुविधा तथा छुट अन्तर्गत जेन-जी आन्दोलनको क्रममा सिर्जना भएको असामान्य परिस्थितिबाट प्रभावित उद्योग, व्यापार, व्यावसायिक प्रतिष्ठान तथा आर्थिक गतिविधिमा भएको आगजनी वा […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508786/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/bhawan-.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T07:22:12Z",
+  "source": "Image Khabar",
+  "store_path": "_store/75/75dc7cae77552c47811f91d81ec5c59055dd5fa6af2fadc9c6c1d5aaecdf8af2.json",
+  "title": "जेन-जी आन्दोलनबाट प्रभावित निजी क्षेत्रलाई सहुलियत",
+  "url": "https://www.imagekhabar.com/news/508786/",
+  "version": 1
+}

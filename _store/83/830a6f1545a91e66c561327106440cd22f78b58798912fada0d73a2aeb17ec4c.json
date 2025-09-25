@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T07:24:06.605884Z",
+  "id": "830a6f1545a91e66c561327106440cd22f78b58798912fada0d73a2aeb17ec4c",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856887/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T07:17:46+00:00",
+            "datePublished": "2025-09-25T07:17:44+00:00",
+            "headline": "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856887/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856887/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856887/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856887/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T07:17:46+00:00",
+            "datePublished": "2025-09-25T07:17:44+00:00",
+            "description": "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856887/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856887/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856887/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+            "url": "https://khabarhub.com/2025/25/856887/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856887/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+            "height": 700,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– बडादशैं अन्तर्गत फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुहरूको संख्या बढ्दै गएको छ ।   बिहीबार बल्खु, कोटेश्वर कलंकी लगाएका नाका हुँदै उपत्यकाबाट बाहिरिने यात्रुहरूको संख्या बढेको हो । मुग्लिन–नारायणघाट सडकखण्ड पहिरोले अवरुद्ध भएपछि बिपी राजमार्गमा सवारी चाप बढेको ट्राफिक प्रहरीले जनाएको छ । काठमाडौंबाट पछिल्लो ६ दिनमा दुई लाख भन्दा बढी यात्रु बाहिरिएको काठमाडौं उपत्यका ट्राफिक […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856887/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856887/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T07:17:46+00:00",
+              "datePublished": "2025-09-25T07:17:44+00:00",
+              "headline": "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856887/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856887/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856887/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856887/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T07:17:46+00:00",
+              "datePublished": "2025-09-25T07:17:44+00:00",
+              "description": "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856887/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856887/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856887/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+              "url": "https://khabarhub.com/2025/25/856887/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856887/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+              "height": 700,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– बडादशैं अन्तर्गत फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुहरूको संख्या बढ्दै गएको छ ।   बिहीबार बल्खु, कोटेश्वर कलंकी लगाएका नाका हुँदै उपत्यकाबाट बाहिरिने यात्रुहरूको संख्या बढेको हो । मुग्लिन–नारायणघाट सडकखण्ड पहिरोले अवरुद्ध भएपछि बिपी राजमार्गमा सवारी चाप बढेको ट्राफिक प्रहरीले जनाएको छ । काठमाडौंबाट पछिल्लो ६ दिनमा दुई लाख भन्दा बढी यात्रु बाहिरिएको काठमाडौं उपत्यका ट्राफिक […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856887/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/Gangabu-Buspark_14.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T07:17:44Z",
+  "source": "Khabarhub",
+  "store_path": "_store/83/830a6f1545a91e66c561327106440cd22f78b58798912fada0d73a2aeb17ec4c.json",
+  "title": "फूलपाती नजिकिँदै जाँदा उपत्यकाबाट बाहिरिने यात्रुको संख्या बढ्दै",
+  "url": "https://khabarhub.com/2025/25/856887/",
+  "version": 1
+}
