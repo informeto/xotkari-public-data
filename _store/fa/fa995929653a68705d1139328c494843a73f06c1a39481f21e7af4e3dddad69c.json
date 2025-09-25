@@ -1,0 +1,431 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n7:05 am, Thu, 25 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T01:21:07.084722Z",
+  "id": "fa995929653a68705d1139328c494843a73f06c1a39481f21e7af4e3dddad69c",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508728/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "धर्म",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-25T01:20:54+00:00",
+            "datePublished": "2025-09-25T01:20:50+00:00",
+            "headline": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508728/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508728/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508728/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508728/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508728/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508728/#breadcrumb"
+            },
+            "dateModified": "2025-09-25T01:20:54+00:00",
+            "datePublished": "2025-09-25T01:20:50+00:00",
+            "description": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508728/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508728/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508728/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+            "url": "https://www.imagekhabar.com/news/508728/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508728/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+            "height": 800,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508728/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । नवरात्रको चौथो दिन आज कुष्माण्डा देवीको विधिपूर्वक पूजा आराधना गरिँदै छ । प्रत्येक वर्ष आश्विन शुक्ल चतुर्थीअर्थात् दुर्गा पक्षको चौंथो दिन कुष्माण्डा देवीको विधिपूर्वक पूजा आराधना गरिन्छ । नवरात्रका नौ दिन घटस्थापना गरिएको स्थलमा दुर्गा सप्तशती (चण्डी), श्रीमददेवी भागवत लगायत देवी स्तोत्र पाठसमेत गरिन्छ ।नवरात्रका अवसरमा देवीको आराधना गरी पूजा गरेमा शक्ति, ऐश्वर्य […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508728/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508728/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "धर्म",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-25T01:20:54+00:00",
+              "datePublished": "2025-09-25T01:20:50+00:00",
+              "headline": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508728/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508728/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508728/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508728/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508728/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508728/#breadcrumb"
+              },
+              "dateModified": "2025-09-25T01:20:54+00:00",
+              "datePublished": "2025-09-25T01:20:50+00:00",
+              "description": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508728/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508728/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508728/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+              "url": "https://www.imagekhabar.com/news/508728/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508728/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+              "height": 800,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508728/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । नवरात्रको चौथो दिन आज कुष्माण्डा देवीको विधिपूर्वक पूजा आराधना गरिँदै छ । प्रत्येक वर्ष आश्विन शुक्ल चतुर्थीअर्थात् दुर्गा पक्षको चौंथो दिन कुष्माण्डा देवीको विधिपूर्वक पूजा आराधना गरिन्छ । नवरात्रका नौ दिन घटस्थापना गरिएको स्थलमा दुर्गा सप्तशती (चण्डी), श्रीमददेवी भागवत लगायत देवी स्तोत्र पाठसमेत गरिन्छ ।नवरात्रका अवसरमा देवीको आराधना गरी पूजा गरेमा शक्ति, ऐश्वर्य […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508728/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/177845100404-Devi-Kushmanda.jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T01:20:50Z",
+  "source": "Image Khabar",
+  "store_path": "_store/fa/fa995929653a68705d1139328c494843a73f06c1a39481f21e7af4e3dddad69c.json",
+  "title": "आज नवरात्रको चौथो दिन: कुष्माण्डा देवीको पूजा गरिँदै",
+  "url": "https://www.imagekhabar.com/news/508728/",
+  "version": 1
+}
