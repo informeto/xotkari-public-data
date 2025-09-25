@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n12\nShares",
+  "description": "हात्तीको आक्रमणबाट एक जनाको मृत्यु समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T04:25:53.702677Z",
+  "id": "dc4a2d1307af9f96a7a8280aa0fa03e39b2bfefc8698c014e56fd146a164779d",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856793/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T03:56:24+00:00",
+            "datePublished": "2025-09-25T03:56:22+00:00",
+            "headline": "हात्तीको आक्रमणबाट एक जनाको मृत्यु",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856793/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856793/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856793/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856793/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T03:56:24+00:00",
+            "datePublished": "2025-09-25T03:56:22+00:00",
+            "description": "हात्तीको आक्रमणबाट एक जनाको मृत्यु समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856793/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "हात्तीको आक्रमणबाट एक जनाको मृत्यु | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856793/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856793/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+            "url": "https://khabarhub.com/2025/25/856793/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856793/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "सांकेतिक तस्बिर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हात्तीको आक्रमणबाट एक जनाको मृत्यु"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "झापा– झापाको विर्तामोड नगरपालिका–७ स्थित खालबाडीमा गएराति हात्तीको आक्रमणबाट एक जनाको मृत्यु भएको छ । विर्तामोड–७ खालबाडीमा नाम, ठेगाना नखुलेका करिब ३६ वर्षीय पुरुषको हात्तीको आक्रमणबाट मृत्यु भएको जिल्ला प्रहरी कार्यालयका प्रवक्ता एवं प्रहरी नायब उपरीक्षक खगेन्द्रबहादुर खड्काले जानकारी दिए । तराई मूलको जस्तो देखिने ती पुरुषलाई जङ्गलबाट आएको एउटा हात्तीले आक्रमण गरेर थियो । […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856793/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856793/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T03:56:24+00:00",
+              "datePublished": "2025-09-25T03:56:22+00:00",
+              "headline": "हात्तीको आक्रमणबाट एक जनाको मृत्यु",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856793/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856793/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856793/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856793/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T03:56:24+00:00",
+              "datePublished": "2025-09-25T03:56:22+00:00",
+              "description": "हात्तीको आक्रमणबाट एक जनाको मृत्यु समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856793/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "हात्तीको आक्रमणबाट एक जनाको मृत्यु | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856793/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856793/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+              "url": "https://khabarhub.com/2025/25/856793/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856793/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "सांकेतिक तस्बिर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हात्तीको आक्रमणबाट एक जनाको मृत्यु"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "झापा– झापाको विर्तामोड नगरपालिका–७ स्थित खालबाडीमा गएराति हात्तीको आक्रमणबाट एक जनाको मृत्यु भएको छ । विर्तामोड–७ खालबाडीमा नाम, ठेगाना नखुलेका करिब ३६ वर्षीय पुरुषको हात्तीको आक्रमणबाट मृत्यु भएको जिल्ला प्रहरी कार्यालयका प्रवक्ता एवं प्रहरी नायब उपरीक्षक खगेन्द्रबहादुर खड्काले जानकारी दिए । तराई मूलको जस्तो देखिने ती पुरुषलाई जङ्गलबाट आएको एउटा हात्तीले आक्रमण गरेर थियो । […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856793/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2021/05/Death.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T03:56:22Z",
+  "source": "Khabarhub",
+  "store_path": "_store/dc/dc4a2d1307af9f96a7a8280aa0fa03e39b2bfefc8698c014e56fd146a164779d.json",
+  "title": "हात्तीको आक्रमणबाट एक जनाको मृत्यु",
+  "url": "https://khabarhub.com/2025/25/856793/",
+  "version": 1
+}

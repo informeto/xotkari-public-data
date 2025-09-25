@@ -1,0 +1,431 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n10:03 am, Thu, 25 September 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T04:25:33.928321Z",
+  "id": "5a488b62e869bc499169826f8e1cbbb53947959791300607e680fa9d497b45ad",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/508749/#article",
+            "@type": "Article",
+            "articleSection": [
+              "प्रदेश",
+              "मधेश",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-09-25T04:18:40+00:00",
+            "datePublished": "2025-09-25T04:18:36+00:00",
+            "headline": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508749/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/508749/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508749/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/508749/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508749/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/508749/#breadcrumb"
+            },
+            "dateModified": "2025-09-25T04:18:40+00:00",
+            "datePublished": "2025-09-25T04:18:36+00:00",
+            "description": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/508749/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/508749/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/508749/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg",
+            "url": "https://www.imagekhabar.com/news/508749/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508749/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg",
+            "height": 892,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg",
+            "width": 1088
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/508749/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । दसैँको समयमा हुनसक्ने सुरक्षा चुनौतिलाई मध्यनजर गरेर जनकपुरधाममा सुरक्षा मजबुत बनाइएको छ । दशैँमा हुने समयमा जनकपुरधाममा श्रद्धालु भक्तजनहरुको घुइचो लाग्ने र जनकपुरधाममा दशैँको समयमा सुरक्षा चुनौती थपिएको हो । जसकारण सुरक्षा मजबुत बनाइएको जिल्ला प्रहरी कार्यालय धनुषाले बताएको छ । दशैँलाई सुरक्षित बनाउनका लागि जिल्ला प्रहरी कार्यालय धनुषाले नगरको विभिन्न प्रवेशद्वारमा चेक […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/508749/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/508749/#article",
+              "@type": "Article",
+              "articleSection": [
+                "प्रदेश",
+                "मधेश",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-09-25T04:18:40+00:00",
+              "datePublished": "2025-09-25T04:18:36+00:00",
+              "headline": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508749/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/508749/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508749/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508749/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508749/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/508749/#breadcrumb"
+              },
+              "dateModified": "2025-09-25T04:18:40+00:00",
+              "datePublished": "2025-09-25T04:18:36+00:00",
+              "description": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/508749/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/508749/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/508749/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg",
+              "url": "https://www.imagekhabar.com/news/508749/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508749/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg",
+              "height": 892,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg",
+              "width": 1088
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/508749/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । दसैँको समयमा हुनसक्ने सुरक्षा चुनौतिलाई मध्यनजर गरेर जनकपुरधाममा सुरक्षा मजबुत बनाइएको छ । दशैँमा हुने समयमा जनकपुरधाममा श्रद्धालु भक्तजनहरुको घुइचो लाग्ने र जनकपुरधाममा दशैँको समयमा सुरक्षा चुनौती थपिएको हो । जसकारण सुरक्षा मजबुत बनाइएको जिल्ला प्रहरी कार्यालय धनुषाले बताएको छ । दशैँलाई सुरक्षित बनाउनका लागि जिल्ला प्रहरी कार्यालय धनुषाले नगरको विभिन्न प्रवेशद्वारमा चेक […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/508749/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/police-5.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T04:18:36Z",
+  "source": "Image Khabar",
+  "store_path": "_store/5a/5a488b62e869bc499169826f8e1cbbb53947959791300607e680fa9d497b45ad.json",
+  "title": "चाडपर्वलाई मध्यनजर गर्दै जनकपुरमा १२ सय बढी सुरक्षाकर्मी परिचालन",
+  "url": "https://www.imagekhabar.com/news/508749/",
+  "version": 1
+}
