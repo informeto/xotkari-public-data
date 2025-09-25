@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n21\nShares",
+  "description": "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T07:55:49.372086Z",
+  "id": "c651f97afc5385db900f3df6b2e4ee200baa300019aafe6522d39b456a09386c",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/856908/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T07:45:37+00:00",
+            "datePublished": "2025-09-25T07:44:46+00:00",
+            "headline": "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856908/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/856908/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856908/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+            "wordCount": 21
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856908/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T07:45:37+00:00",
+            "datePublished": "2025-09-25T07:44:46+00:00",
+            "description": "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/856908/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/856908/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/856908/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+            "url": "https://khabarhub.com/2025/25/856908/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/856908/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+            "height": 875,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कञ्चनपुर– शुक्लाफाँटा नगरपालिका–८ बेलडाँडी गाउँ नजिकैको अनौखी खोला, बीचमा कलकल बगेको पानी र माथि झुलिरहेको झोलुङ्गे पुल । रङ्गीबिरङ्गी झण्डासँग सजिएको यो पुल अहिले गाउँको नयाँ आकर्षण बनेको छ । कृष्णपुर–१ का कबिन्द्रसिंह धामीले आफ्नै  खर्चबाट २० हजार रुपैयाँ खर्च गरेर पुल सजाएका छन । पहिले साधारण देखिने पुल अहिले फोटोग्राफी प्रेमी र आन्तरिक पर्यटकका […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/856908/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/856908/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T07:45:37+00:00",
+              "datePublished": "2025-09-25T07:44:46+00:00",
+              "headline": "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856908/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/856908/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856908/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+              "wordCount": 21
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856908/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T07:45:37+00:00",
+              "datePublished": "2025-09-25T07:44:46+00:00",
+              "description": "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/856908/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/856908/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/856908/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+              "url": "https://khabarhub.com/2025/25/856908/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/856908/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+              "height": 875,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कञ्चनपुर– शुक्लाफाँटा नगरपालिका–८ बेलडाँडी गाउँ नजिकैको अनौखी खोला, बीचमा कलकल बगेको पानी र माथि झुलिरहेको झोलुङ्गे पुल । रङ्गीबिरङ्गी झण्डासँग सजिएको यो पुल अहिले गाउँको नयाँ आकर्षण बनेको छ । कृष्णपुर–१ का कबिन्द्रसिंह धामीले आफ्नै  खर्चबाट २० हजार रुपैयाँ खर्च गरेर पुल सजाएका छन । पहिले साधारण देखिने पुल अहिले फोटोग्राफी प्रेमी र आन्तरिक पर्यटकका […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/856908/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2022/08/202208231431-5855fced-a758-4718-b6f8-21ca7e2aa785_medium-e1758786332633.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T07:44:46Z",
+  "source": "Khabarhub",
+  "store_path": "_store/c6/c651f97afc5385db900f3df6b2e4ee200baa300019aafe6522d39b456a09386c.json",
+  "title": "झोलुङ्गे पुललाई सजावट : आन्तरिक पर्यटकको नयाँ आकर्षण",
+  "url": "https://khabarhub.com/2025/25/856908/",
+  "version": 1
+}
