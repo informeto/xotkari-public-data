@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n9\nShares",
+  "description": "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T17:21:57.895771Z",
+  "id": "50af68b92122becf5385e5f703f7fe6acb20d776718339919e790fba117f3ad4",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/857211/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T17:18:27+00:00",
+            "datePublished": "2025-09-25T17:18:25+00:00",
+            "headline": "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857211/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/857211/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857211/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857211/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T17:18:27+00:00",
+            "datePublished": "2025-09-25T17:18:25+00:00",
+            "description": "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857211/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/857211/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857211/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+            "url": "https://khabarhub.com/2025/25/857211/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857211/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "चितवन – मुग्लिन–नारायणगढ सडकखण्डको तुइनखोलानजिकै खसेको पहिरो पूर्ण रूपमा हटाइएको छ । सडक डिभिजन कार्यालय भरतपुरका अनुसार पहिरो पूर्ण रुपमा हटाएपछि दुईतर्फी सडक खुलेको छ । विभागले जारी गरेको सूचनामा भनिएको छ, “मुग्लिन–नारायणगढ सडकखण्डको तुइनखोला नजिक खसेको पहिरो सफा गरिएको छ र अब दुबै तर्फका सवारीसाधन सहजै सञ्चालनमा आउनेछन्।” विगत केही दिनयता वर्षाका कारण सो […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/857211/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/857211/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T17:18:27+00:00",
+              "datePublished": "2025-09-25T17:18:25+00:00",
+              "headline": "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857211/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/857211/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857211/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857211/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T17:18:27+00:00",
+              "datePublished": "2025-09-25T17:18:25+00:00",
+              "description": "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857211/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/857211/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857211/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+              "url": "https://khabarhub.com/2025/25/857211/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857211/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "चितवन – मुग्लिन–नारायणगढ सडकखण्डको तुइनखोलानजिकै खसेको पहिरो पूर्ण रूपमा हटाइएको छ । सडक डिभिजन कार्यालय भरतपुरका अनुसार पहिरो पूर्ण रुपमा हटाएपछि दुईतर्फी सडक खुलेको छ । विभागले जारी गरेको सूचनामा भनिएको छ, “मुग्लिन–नारायणगढ सडकखण्डको तुइनखोला नजिक खसेको पहिरो सफा गरिएको छ र अब दुबै तर्फका सवारीसाधन सहजै सञ्चालनमा आउनेछन्।” विगत केही दिनयता वर्षाका कारण सो […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/857211/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/tuin-khola-landslide.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T17:18:25Z",
+  "source": "Khabarhub",
+  "store_path": "_store/50/50af68b92122becf5385e5f703f7fe6acb20d776718339919e790fba117f3ad4.json",
+  "title": "तुइनखोलाको पहिरो हटाएपछि दुईतर्फी खुल्यो मुग्लिन–नारायणगढ सडक",
+  "url": "https://khabarhub.com/2025/25/857211/",
+  "version": 1
+}

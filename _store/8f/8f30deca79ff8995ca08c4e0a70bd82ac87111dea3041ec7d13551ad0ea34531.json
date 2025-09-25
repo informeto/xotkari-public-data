@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n57\nShares",
+  "description": "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T17:21:58.325741Z",
+  "id": "8f30deca79ff8995ca08c4e0a70bd82ac87111dea3041ec7d13551ad0ea34531",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/857209/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T17:02:55+00:00",
+            "datePublished": "2025-09-25T17:02:53+00:00",
+            "headline": "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857209/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/857209/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857209/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857209/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T17:02:55+00:00",
+            "datePublished": "2025-09-25T17:02:53+00:00",
+            "description": "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857209/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/857209/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857209/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "url": "https://khabarhub.com/2025/25/857209/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857209/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)का अध्यक्ष पुष्पकमल दाहाल ‘प्रचण्ड’ले पार्टीभित्र नेतृत्वलाई लिएर भइरहेको बसहलाई तार्किक निष्कर्षमा पुर्याइने बताए । आजदेखि राजधानीमा सुरु भएको केन्द्रीय समिति बैठकको प्रारम्भमा राजनीतिक प्रस्ताव प्रस्तुत गर्दै उनले आफूलाई नेतृत्वमा बसिरहने इच्छा नभएको र यसलाई निश्चित विधि र प्रक्रियाबाट टुङ्ग्याइने बताएको उपाध्यक्ष एवं प्रवक्ता अग्निप्रसाद सापकोटाले जानकारी दिए । […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/857209/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/857209/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T17:02:55+00:00",
+              "datePublished": "2025-09-25T17:02:53+00:00",
+              "headline": "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857209/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/857209/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857209/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857209/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T17:02:55+00:00",
+              "datePublished": "2025-09-25T17:02:53+00:00",
+              "description": "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857209/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/857209/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857209/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "url": "https://khabarhub.com/2025/25/857209/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857209/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र)का अध्यक्ष पुष्पकमल दाहाल ‘प्रचण्ड’ले पार्टीभित्र नेतृत्वलाई लिएर भइरहेको बसहलाई तार्किक निष्कर्षमा पुर्याइने बताए । आजदेखि राजधानीमा सुरु भएको केन्द्रीय समिति बैठकको प्रारम्भमा राजनीतिक प्रस्ताव प्रस्तुत गर्दै उनले आफूलाई नेतृत्वमा बसिरहने इच्छा नभएको र यसलाई निश्चित विधि र प्रक्रियाबाट टुङ्ग्याइने बताएको उपाध्यक्ष एवं प्रवक्ता अग्निप्रसाद सापकोटाले जानकारी दिए । […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/857209/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T17:02:53Z",
+  "source": "Khabarhub",
+  "store_path": "_store/8f/8f30deca79ff8995ca08c4e0a70bd82ac87111dea3041ec7d13551ad0ea34531.json",
+  "title": "प्रचण्ड भन्छन् : पार्टी नेतृत्वसम्बन्धी बहसलाई निकर्षमा पुर्‍याउँछौं",
+  "url": "https://khabarhub.com/2025/25/857209/",
+  "version": 1
+}
