@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n९ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n63\nShares",
+  "description": "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ) समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-09-25T12:41:19.164010Z",
+  "id": "06b79b5893d1fb9e5fccaa946ecd31e6cf0254d896538fad5081e432f22e9a3c",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/25/857083/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-09-25T12:36:29+00:00",
+            "datePublished": "2025-09-25T12:28:41+00:00",
+            "headline": "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ)",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857083/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/25/857083/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857083/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857083/",
+            "@type": "WebPage",
+            "dateModified": "2025-09-25T12:36:29+00:00",
+            "datePublished": "2025-09-25T12:28:41+00:00",
+            "description": "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ) समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/25/857083/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ) | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/25/857083/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/25/857083/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg",
+            "url": "https://khabarhub.com/2025/25/857083/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/25/857083/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ)"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- प्रधानमन्त्री सुशीला कार्कीले राष्ट्रका नाममा सम्बोधन गरिरहेकी छन् । उनले बिहीबार साँझ ६ बजे राष्ट्रका नाममा सम्बोधन गरिरहेकी छन् । गत भदौ २३ र २४ गतेको जेन-जी आन्दोलनको बलमा भदौ २७ गते अन्तरिम सरकार बनेको थियो । त्यसयता पहिलो पटक कार्कीले राष्ट्रका नाममा सम्बोधन गरेकी हुन् ।"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/25/857083/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/25/857083/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-09-25T12:36:29+00:00",
+              "datePublished": "2025-09-25T12:28:41+00:00",
+              "headline": "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ)",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857083/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/25/857083/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857083/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857083/",
+              "@type": "WebPage",
+              "dateModified": "2025-09-25T12:36:29+00:00",
+              "datePublished": "2025-09-25T12:28:41+00:00",
+              "description": "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ) समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/25/857083/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ) | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/25/857083/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/25/857083/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg",
+              "url": "https://khabarhub.com/2025/25/857083/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/25/857083/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ)"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- प्रधानमन्त्री सुशीला कार्कीले राष्ट्रका नाममा सम्बोधन गरिरहेकी छन् । उनले बिहीबार साँझ ६ बजे राष्ट्रका नाममा सम्बोधन गरिरहेकी छन् । गत भदौ २३ र २४ गतेको जेन-जी आन्दोलनको बलमा भदौ २७ गते अन्तरिम सरकार बनेको थियो । त्यसयता पहिलो पटक कार्कीले राष्ट्रका नाममा सम्बोधन गरेकी हुन् ।"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/25/857083/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-4.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-09-25T12:28:41Z",
+  "source": "Khabarhub",
+  "store_path": "_store/06/06b79b5893d1fb9e5fccaa946ecd31e6cf0254d896538fad5081e432f22e9a3c.json",
+  "title": "राष्ट्रका नाममा प्रधानमन्त्रीको सम्बोधन (लाइभ)",
+  "url": "https://khabarhub.com/2025/25/857083/",
+  "version": 1
+}
