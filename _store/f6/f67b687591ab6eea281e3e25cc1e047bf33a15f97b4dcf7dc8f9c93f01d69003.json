@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१५ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n849\nShares",
+  "description": "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-01T14:37:54.768816Z",
+  "id": "f67b687591ab6eea281e3e25cc1e047bf33a15f97b4dcf7dc8f9c93f01d69003",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/01/859364/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-01T13:50:18+00:00",
+            "datePublished": "2025-10-01T13:49:37+00:00",
+            "headline": "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859364/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/01/859364/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859364/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+            "wordCount": 9
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859364/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-01T13:50:18+00:00",
+            "datePublished": "2025-10-01T13:49:37+00:00",
+            "description": "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859364/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/01/859364/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859364/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+            "url": "https://khabarhub.com/2025/01/859364/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859364/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+            "height": 1080,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+            "width": 1920
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी– अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले मंगलबार (स्थानीय समय) देशभित्रै ‘आक्रमण’ को सम्भावना रहेको चेतावनी दिएका छन् । यसलाई उनले ‘विदेशी शत्रुभन्दा फरक छैन, तर अझै गाह्रो’ भन्दै चिन्ता व्यक्त गरेका छन्।  उनका अनुसार यस्ता शत्रुहरूले वर्दी नलगाउने हुनाले तिनीहरूलाई शत्रुहरू पत्ता लगाउन कठिन हुन्छ ।  भर्जिनियाको क्वान्टिकोस्थित मरीन कप्र्स बेसमा शीर्ष अमेरिकी सैन्य अधिकारीहरूको भेलालाई […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/01/859364/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/01/859364/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-01T13:50:18+00:00",
+              "datePublished": "2025-10-01T13:49:37+00:00",
+              "headline": "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859364/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/01/859364/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859364/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+              "wordCount": 9
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859364/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-01T13:50:18+00:00",
+              "datePublished": "2025-10-01T13:49:37+00:00",
+              "description": "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859364/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/01/859364/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859364/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+              "url": "https://khabarhub.com/2025/01/859364/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859364/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+              "height": 1080,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp",
+              "width": 1920
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी– अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले मंगलबार (स्थानीय समय) देशभित्रै ‘आक्रमण’ को सम्भावना रहेको चेतावनी दिएका छन् । यसलाई उनले ‘विदेशी शत्रुभन्दा फरक छैन, तर अझै गाह्रो’ भन्दै चिन्ता व्यक्त गरेका छन्।  उनका अनुसार यस्ता शत्रुहरूले वर्दी नलगाउने हुनाले तिनीहरूलाई शत्रुहरू पत्ता लगाउन कठिन हुन्छ ।  भर्जिनियाको क्वान्टिकोस्थित मरीन कप्र्स बेसमा शीर्ष अमेरिकी सैन्य अधिकारीहरूको भेलालाई […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/01/859364/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/08/trump-tariffs.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-01T13:49:37Z",
+  "source": "Khabarhub",
+  "store_path": "_store/f6/f67b687591ab6eea281e3e25cc1e047bf33a15f97b4dcf7dc8f9c93f01d69003.json",
+  "title": "राष्ट्रपति ट्रम्पद्वारा देशभित्रै आक्रमण हुने चेतावनी",
+  "url": "https://khabarhub.com/2025/01/859364/",
+  "version": 1
+}

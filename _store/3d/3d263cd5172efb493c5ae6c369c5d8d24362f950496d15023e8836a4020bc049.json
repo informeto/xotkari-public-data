@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१५ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n342\nShares",
+  "description": "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-01T14:37:54.304456Z",
+  "id": "3d263cd5172efb493c5ae6c369c5d8d24362f950496d15023e8836a4020bc049",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/01/859367/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-01T13:58:07+00:00",
+            "datePublished": "2025-10-01T13:58:05+00:00",
+            "headline": "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859367/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/01/859367/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859367/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859367/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-01T13:58:07+00:00",
+            "datePublished": "2025-10-01T13:58:05+00:00",
+            "description": "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859367/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/01/859367/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859367/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+            "url": "https://khabarhub.com/2025/01/859367/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859367/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- नेपाल क्रिकेट सङ्घ क्यानले पूर्वकप्तान सन्दीप लामिछानेलाई वेस्ट इन्डिजसँगको युनिटी कप सिरिजअन्तर्गतका अन्तिम दुई खेलमा निलम्बन गरिएको जानकारी दिएको छ । क्यानले बुधबार साँझ विज्ञप्ति जारी गर्दै सन्दीपलाई सिरिजका अन्तिम दुई खेलमा निलम्बन गरिएको जनाएको हो । सेप्टेम्बर २७ मा पहिलो खेल सुरु हुनुभन्दा करिब ४५ मिनेटअघि सन्दीपले आफैं नखेल्ने निर्णय गरेको विज्ञप्तिमा उल्लेख […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/01/859367/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/01/859367/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-01T13:58:07+00:00",
+              "datePublished": "2025-10-01T13:58:05+00:00",
+              "headline": "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859367/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/01/859367/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859367/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859367/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-01T13:58:07+00:00",
+              "datePublished": "2025-10-01T13:58:05+00:00",
+              "description": "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859367/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/01/859367/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859367/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+              "url": "https://khabarhub.com/2025/01/859367/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859367/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- नेपाल क्रिकेट सङ्घ क्यानले पूर्वकप्तान सन्दीप लामिछानेलाई वेस्ट इन्डिजसँगको युनिटी कप सिरिजअन्तर्गतका अन्तिम दुई खेलमा निलम्बन गरिएको जानकारी दिएको छ । क्यानले बुधबार साँझ विज्ञप्ति जारी गर्दै सन्दीपलाई सिरिजका अन्तिम दुई खेलमा निलम्बन गरिएको जनाएको हो । सेप्टेम्बर २७ मा पहिलो खेल सुरु हुनुभन्दा करिब ४५ मिनेटअघि सन्दीपले आफैं नखेल्ने निर्णय गरेको विज्ञप्तिमा उल्लेख […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/01/859367/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/01/sandeep-lamichhane.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-01T13:58:05Z",
+  "source": "Khabarhub",
+  "store_path": "_store/3d/3d263cd5172efb493c5ae6c369c5d8d24362f950496d15023e8836a4020bc049.json",
+  "title": "क्यानले भन्यो- सन्दीपलाई वेस्ट इन्डिजसँगको अन्तिम दुई खेलमा निलम्बन गरियो",
+  "url": "https://khabarhub.com/2025/01/859367/",
+  "version": 1
+}
