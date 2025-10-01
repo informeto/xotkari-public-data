@@ -1,0 +1,437 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n6:16 pm, Wed, 1 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-01T13:03:53.662446Z",
+  "id": "17ae043e51e4389d9bcb976f6a3898b79808b63cfa19b78f4f65a800238c92e9",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509490/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अर्थ",
+              "गण्डकी",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-01T12:32:26+00:00",
+            "datePublished": "2025-10-01T12:31:34+00:00",
+            "headline": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509490/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509490/"
+            },
+            "keywords": [
+              "मनाङ सुसान"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509490/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509490/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509490/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509490/#breadcrumb"
+            },
+            "dateModified": "2025-10-01T12:32:26+00:00",
+            "datePublished": "2025-10-01T12:31:34+00:00",
+            "description": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509490/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509490/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509490/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+            "url": "https://www.imagekhabar.com/news/509490/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509490/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+            "height": 686,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509490/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । विदेशी तथा स्वदेशी पर्यटकले भरिभराउ हुने हिमाली जिल्ला मनाङमा यो वर्ष सुनसान देखिएको छ । असोजको पहिलो सातादेखि पर्यटकले भरिने मनाङमा यसपालि पर्यटक नआउँदा सुनसान देखिएको हो । विदेशी पर्यटक आगमनको हिसाबले विश्वकै १०औं स्थानमा पर्ने अन्नपूर्ण पदमार्ग अन्तर्गत मनाङ र मुस्ताङको सिमानास्थित थोराङ्ला भञ्ज्याङ, विश्वकै अग्लो स्थानमा अवस्थित तिलिचो तालको भ्रमण तथा […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509490/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509490/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अर्थ",
+                "गण्डकी",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-01T12:32:26+00:00",
+              "datePublished": "2025-10-01T12:31:34+00:00",
+              "headline": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509490/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509490/"
+              },
+              "keywords": [
+                "मनाङ सुसान"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509490/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509490/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509490/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509490/#breadcrumb"
+              },
+              "dateModified": "2025-10-01T12:32:26+00:00",
+              "datePublished": "2025-10-01T12:31:34+00:00",
+              "description": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509490/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509490/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509490/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+              "url": "https://www.imagekhabar.com/news/509490/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509490/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+              "height": 686,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509490/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । विदेशी तथा स्वदेशी पर्यटकले भरिभराउ हुने हिमाली जिल्ला मनाङमा यो वर्ष सुनसान देखिएको छ । असोजको पहिलो सातादेखि पर्यटकले भरिने मनाङमा यसपालि पर्यटक नआउँदा सुनसान देखिएको हो । विदेशी पर्यटक आगमनको हिसाबले विश्वकै १०औं स्थानमा पर्ने अन्नपूर्ण पदमार्ग अन्तर्गत मनाङ र मुस्ताङको सिमानास्थित थोराङ्ला भञ्ज्याङ, विश्वकै अग्लो स्थानमा अवस्थित तिलिचो तालको भ्रमण तथा […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509490/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/himtal-manang.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-01T12:31:34Z",
+  "source": "Image Khabar",
+  "store_path": "_store/17/17ae043e51e4389d9bcb976f6a3898b79808b63cfa19b78f4f65a800238c92e9.json",
+  "title": "पर्यटकले भरिभराउ हुने मनाङ, यस वर्ष भने सुनसान",
+  "url": "https://www.imagekhabar.com/news/509490/",
+  "version": 1
+}
