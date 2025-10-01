@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१५ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n264\nShares",
+  "description": "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-01T16:41:29.200349Z",
+  "id": "1e255d7c0750550e59a6db438b5f1759eebb33b515d7e2244fadc388cd88270b",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/01/859380/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-01T15:52:38+00:00",
+            "datePublished": "2025-10-01T15:39:17+00:00",
+            "headline": "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859380/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/01/859380/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859380/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859380/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-01T15:52:38+00:00",
+            "datePublished": "2025-10-01T15:39:17+00:00",
+            "description": "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859380/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/01/859380/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859380/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg",
+            "url": "https://khabarhub.com/2025/01/859380/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859380/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg",
+            "height": 700,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- कुमारी आर्यताराले सर्वसाधारणलाई दशमीमा टीका लगाइदिने भएकी छिन् । महानवमीको रातमा जीवित देवी कुमारीलाई तलेजु भवानीको दर्शन गराएपछि सर्वसाधरणलाई दशमीको टीका ११ बजेपछि लगाउने कार्यसूची रहेको हनुमानढोकास्थित कुमारीघर व्यवस्थापन समितिका संयोजक गौतम शाक्यले जानकारी दिए । जीवित देवी कुमारीलाई विशेष शक्ति प्राप्त हुने विश्वासका साथ महानवमीको मध्यरातमा तलेजु भवानीको दर्शन गराइने प्रचलन छ । […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/01/859380/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/01/859380/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-01T15:52:38+00:00",
+              "datePublished": "2025-10-01T15:39:17+00:00",
+              "headline": "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859380/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/01/859380/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859380/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859380/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-01T15:52:38+00:00",
+              "datePublished": "2025-10-01T15:39:17+00:00",
+              "description": "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859380/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/01/859380/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859380/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg",
+              "url": "https://khabarhub.com/2025/01/859380/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859380/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg",
+              "height": 700,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- कुमारी आर्यताराले सर्वसाधारणलाई दशमीमा टीका लगाइदिने भएकी छिन् । महानवमीको रातमा जीवित देवी कुमारीलाई तलेजु भवानीको दर्शन गराएपछि सर्वसाधरणलाई दशमीको टीका ११ बजेपछि लगाउने कार्यसूची रहेको हनुमानढोकास्थित कुमारीघर व्यवस्थापन समितिका संयोजक गौतम शाक्यले जानकारी दिए । जीवित देवी कुमारीलाई विशेष शक्ति प्राप्त हुने विश्वासका साथ महानवमीको मध्यरातमा तलेजु भवानीको दर्शन गराइने प्रचलन छ । […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/01/859380/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/Kumari-8.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-01T15:39:17Z",
+  "source": "Khabarhub",
+  "store_path": "_store/1e/1e255d7c0750550e59a6db438b5f1759eebb33b515d7e2244fadc388cd88270b.json",
+  "title": "जीवित देवी कुमारीले सर्वसाधारणलाई दशमीको टीका लगाइदिने",
+  "url": "https://khabarhub.com/2025/01/859380/",
+  "version": 1
+}

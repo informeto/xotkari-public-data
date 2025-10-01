@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१५ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-01T16:41:28.404324Z",
+  "id": "a2684e1b82c7b43c39caf45273d5d296e1eaf7b346f09a44394e669cfeb34823",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/01/859386/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-01T16:23:12+00:00",
+            "datePublished": "2025-10-01T16:23:10+00:00",
+            "headline": "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859386/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/01/859386/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859386/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859386/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-01T16:23:12+00:00",
+            "datePublished": "2025-10-01T16:23:10+00:00",
+            "description": "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859386/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/01/859386/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859386/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+            "url": "https://khabarhub.com/2025/01/859386/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859386/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+            "height": 753,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं, १५ असोजः राष्ट्रपति रामचन्द्र पौडेलले मुलुकमा स्थायित्व, सुशासन र समृद्धिको कामना गरेका छन् । राष्ट्रपति पौडेलले आज हिन्दू धर्मावलम्वीहरूको महान् चाड विजयादशमी, २०८२ को पावन अवसरमा स्वदेश तथा विदेशमा रहेका सम्पूर्ण नेपाली दिदीबहिनी तथा दाजुभाइमा सुख, शान्ति, समृद्धि एवम् उत्तरोत्तर प्रगतिका लागि शुभकामना व्यक्त गर्दै समृद्धिको कामना गरेका हुन् । उनले भनेका छन्, “सत्य, […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/01/859386/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/01/859386/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-01T16:23:12+00:00",
+              "datePublished": "2025-10-01T16:23:10+00:00",
+              "headline": "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859386/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/01/859386/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859386/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859386/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-01T16:23:12+00:00",
+              "datePublished": "2025-10-01T16:23:10+00:00",
+              "description": "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859386/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/01/859386/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859386/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+              "url": "https://khabarhub.com/2025/01/859386/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859386/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+              "height": 753,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं, १५ असोजः राष्ट्रपति रामचन्द्र पौडेलले मुलुकमा स्थायित्व, सुशासन र समृद्धिको कामना गरेका छन् । राष्ट्रपति पौडेलले आज हिन्दू धर्मावलम्वीहरूको महान् चाड विजयादशमी, २०८२ को पावन अवसरमा स्वदेश तथा विदेशमा रहेका सम्पूर्ण नेपाली दिदीबहिनी तथा दाजुभाइमा सुख, शान्ति, समृद्धि एवम् उत्तरोत्तर प्रगतिका लागि शुभकामना व्यक्त गर्दै समृद्धिको कामना गरेका हुन् । उनले भनेका छन्, “सत्य, […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/01/859386/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/04/ramchandra-paudel-2.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-01T16:23:10Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a2/a2684e1b82c7b43c39caf45273d5d296e1eaf7b346f09a44394e669cfeb34823.json",
+  "title": "दशैं सत्य, धर्म र न्यायको विजयको प्रतीक : राष्ट्रपति",
+  "url": "https://khabarhub.com/2025/01/859386/",
+  "version": 1
+}
