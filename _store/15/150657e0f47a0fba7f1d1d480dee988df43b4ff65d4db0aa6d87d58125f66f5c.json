@@ -1,0 +1,445 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n3:37 pm, Wed, 1 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-01T12:06:43.735892Z",
+  "id": "150657e0f47a0fba7f1d1d480dee988df43b4ff65d4db0aa6d87d58125f66f5c",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509467/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "uncategorized",
+              "अर्थ",
+              "बागमती",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-01T10:23:41+00:00",
+            "datePublished": "2025-10-01T09:52:02+00:00",
+            "headline": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509467/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509467/"
+            },
+            "keywords": [
+              "कुलमान घिसिङ"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509467/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509467/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509467/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509467/#breadcrumb"
+            },
+            "dateModified": "2025-10-01T10:23:41+00:00",
+            "datePublished": "2025-10-01T09:52:02+00:00",
+            "description": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509467/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509467/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509467/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp",
+            "url": "https://www.imagekhabar.com/news/509467/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509467/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp",
+            "height": 800,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp",
+            "width": 1500
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509467/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं। भाैतिक पूर्वाधार तथा यातायात मन्त्री कुलमान घिसिङले तोकिएको वैधानिक भाडादर भन्दा बढी असुल्ने यातायात व्यवसायीलाई तत्कालै कारबाही गर्ने बताउनुभएको छ । चाडबाडको मौका छोपेर कानून विपरित बढी भाडा लिइरहेको, टिकटको कालोबजारी गरेको लगायतका गुनासो यात्रुबाट निरन्तर आइरहेको उल्लेख गर्दै मन्त्री घिसिङले त्यस्ता यातायात व्यवसायीलाई तत्काल कारबाही गर्न सम्बन्धित निकायलाई निर्देशन दिनुभएको हो । देशको […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509467/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509467/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "uncategorized",
+                "अर्थ",
+                "बागमती",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-01T10:23:41+00:00",
+              "datePublished": "2025-10-01T09:52:02+00:00",
+              "headline": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509467/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509467/"
+              },
+              "keywords": [
+                "कुलमान घिसिङ"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509467/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509467/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509467/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509467/#breadcrumb"
+              },
+              "dateModified": "2025-10-01T10:23:41+00:00",
+              "datePublished": "2025-10-01T09:52:02+00:00",
+              "description": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509467/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509467/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509467/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp",
+              "url": "https://www.imagekhabar.com/news/509467/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509467/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp",
+              "height": 800,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp",
+              "width": 1500
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509467/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं। भाैतिक पूर्वाधार तथा यातायात मन्त्री कुलमान घिसिङले तोकिएको वैधानिक भाडादर भन्दा बढी असुल्ने यातायात व्यवसायीलाई तत्कालै कारबाही गर्ने बताउनुभएको छ । चाडबाडको मौका छोपेर कानून विपरित बढी भाडा लिइरहेको, टिकटको कालोबजारी गरेको लगायतका गुनासो यात्रुबाट निरन्तर आइरहेको उल्लेख गर्दै मन्त्री घिसिङले त्यस्ता यातायात व्यवसायीलाई तत्काल कारबाही गर्न सम्बन्धित निकायलाई निर्देशन दिनुभएको हो । देशको […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509467/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/kulman-ghising.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-01T09:52:02Z",
+  "source": "Image Khabar",
+  "store_path": "_store/15/150657e0f47a0fba7f1d1d480dee988df43b4ff65d4db0aa6d87d58125f66f5c.json",
+  "title": "बढी भाडा असुल्ने यातायात व्यवसायीलाई तत्काल कारबाही गर्न मन्त्री घिसिङको निर्देशन",
+  "url": "https://www.imagekhabar.com/news/509467/",
+  "version": 1
+}

@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१५ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n33\nShares",
+  "description": "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-01T12:07:05.693710Z",
+  "id": "2e0756c8c52bba44b72a9e125dea6784bb1a691568745ef09431b1e5176c3942",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/01/859303/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-01T10:50:21+00:00",
+            "datePublished": "2025-10-01T10:50:06+00:00",
+            "headline": "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859303/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/01/859303/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859303/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg",
+            "wordCount": 10
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859303/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-01T10:50:21+00:00",
+            "datePublished": "2025-10-01T10:50:06+00:00",
+            "description": "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/01/859303/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/01/859303/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/01/859303/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg",
+            "url": "https://khabarhub.com/2025/01/859303/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/01/859303/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल फोटो",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg",
+            "height": 490,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg",
+            "width": 760
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "गलकोट– हिमालपारीको जिल्ला मुस्ताङबाट आयात गरेका च्याङ्ग्रा गाउँ पुग्न नपाएपछि खसीबोकामै स्यानीयले दसैँ मान्न थालेका छन् ।    बागलुङमा कम मात्रमा च्याङ्ग्रा आयात तथा महँगो भएपछि स्थानीय खसीबोकाकै भरमा दसैँ मान्न थालिएको हो । हिमाली च्याङ्ग्रा बागलुङ बजार क्षेत्रमै खपत भएपछि गाउँ–गाउँमा दसैँ मनाउन स्थानीय खसीबोकाकै भर पर्नुपर्ने अवस्था रहेको छ ।  मुस्ताङबाट बागलुङमा करिब […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/01/859303/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/01/859303/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-01T10:50:21+00:00",
+              "datePublished": "2025-10-01T10:50:06+00:00",
+              "headline": "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859303/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/01/859303/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859303/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg",
+              "wordCount": 10
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859303/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-01T10:50:21+00:00",
+              "datePublished": "2025-10-01T10:50:06+00:00",
+              "description": "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/01/859303/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/01/859303/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/01/859303/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg",
+              "url": "https://khabarhub.com/2025/01/859303/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/01/859303/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल फोटो",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg",
+              "height": 490,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg",
+              "width": 760
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "गलकोट– हिमालपारीको जिल्ला मुस्ताङबाट आयात गरेका च्याङ्ग्रा गाउँ पुग्न नपाएपछि खसीबोकामै स्यानीयले दसैँ मान्न थालेका छन् ।    बागलुङमा कम मात्रमा च्याङ्ग्रा आयात तथा महँगो भएपछि स्थानीय खसीबोकाकै भरमा दसैँ मान्न थालिएको हो । हिमाली च्याङ्ग्रा बागलुङ बजार क्षेत्रमै खपत भएपछि गाउँ–गाउँमा दसैँ मनाउन स्थानीय खसीबोकाकै भर पर्नुपर्ने अवस्था रहेको छ ।  मुस्ताङबाट बागलुङमा करिब […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/01/859303/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2019/08/khasi-boka.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-01T10:50:06Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2e/2e0756c8c52bba44b72a9e125dea6784bb1a691568745ef09431b1e5176c3942.json",
+  "title": "च्याङ्ग्रा गाउँ पुग्न नपाएपछि स्थानीय खसीबोकामै निर्भर",
+  "url": "https://khabarhub.com/2025/01/859303/",
+  "version": 1
+}
