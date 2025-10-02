@@ -1,14 +1,16 @@
 {
   "author": "",
-  "content": "खबरहब\n१६ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
-  "description": "hello world",
+  "content": "खबरहब\n१६ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n243\nShares",
+  "description": "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर अन्तर्राष्ट्रिय",
   "domain": "khabarhub.com",
   "enhanced": true,
-  "fetched_at": "2025-10-02T08:40:36.739358Z",
+  "fetched_at": "2025-10-02T09:33:50.344179Z",
   "id": "484619eb44bb474ba634eefa51a1605d808d50ce0f9e585e30a245880aef2966",
   "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
     "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
-    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
   ],
   "language": "en",
   "metadata": {
@@ -19,13 +21,19 @@
           {
             "@id": "https://khabarhub.com/2025/02/859510/#article",
             "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय"
+            ],
             "author": {
               "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
               "name": "खबरहब"
             },
-            "dateModified": "2025-10-02T08:33:19+00:00",
+            "dateModified": "2025-10-02T08:44:00+00:00",
             "datePublished": "2025-10-02T08:33:19+00:00",
-            "headline": "hello world",
+            "headline": "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859510/#primaryimage"
+            },
             "inLanguage": "en-US",
             "isPartOf": {
               "@id": "https://khabarhub.com/2025/02/859510/"
@@ -36,19 +44,23 @@
             "publisher": {
               "@id": "https://khabarhub.com/#organization"
             },
-            "wordCount": 4
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
+            "wordCount": 5
           },
           {
             "@id": "https://khabarhub.com/2025/02/859510/",
             "@type": "WebPage",
-            "dateModified": "2025-10-02T08:33:19+00:00",
+            "dateModified": "2025-10-02T08:44:00+00:00",
             "datePublished": "2025-10-02T08:33:19+00:00",
-            "description": "hello world",
+            "description": "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859510/#primaryimage"
+            },
             "inLanguage": "en-US",
             "isPartOf": {
               "@id": "https://khabarhub.com/#website"
             },
-            "name": "hello world | Khabarhub",
+            "name": "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर | Khabarhub",
             "potentialAction": [
               {
                 "@type": "ReadAction",
@@ -57,7 +69,20 @@
                 ]
               }
             ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859510/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
             "url": "https://khabarhub.com/2025/02/859510/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859510/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
+            "width": 1200
           },
           {
             "@id": "https://khabarhub.com/#website",
@@ -133,7 +158,7 @@
         "properties": [
           [
             "og:title",
-            "hello world"
+            "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर"
           ],
           [
             "og:type",
@@ -153,7 +178,7 @@
           ],
           [
             "og:image",
-            "https://khabarhub.com/wp-content/themes/KhabarhubOfficial/img/logo.png"
+            "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg"
           ]
         ]
       }
@@ -166,13 +191,19 @@
             {
               "@id": "https://khabarhub.com/2025/02/859510/#article",
               "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय"
+              ],
               "author": {
                 "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
                 "name": "खबरहब"
               },
-              "dateModified": "2025-10-02T08:33:19+00:00",
+              "dateModified": "2025-10-02T08:44:00+00:00",
               "datePublished": "2025-10-02T08:33:19+00:00",
-              "headline": "hello world",
+              "headline": "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859510/#primaryimage"
+              },
               "inLanguage": "en-US",
               "isPartOf": {
                 "@id": "https://khabarhub.com/2025/02/859510/"
@@ -183,19 +214,23 @@
               "publisher": {
                 "@id": "https://khabarhub.com/#organization"
               },
-              "wordCount": 4
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
+              "wordCount": 5
             },
             {
               "@id": "https://khabarhub.com/2025/02/859510/",
               "@type": "WebPage",
-              "dateModified": "2025-10-02T08:33:19+00:00",
+              "dateModified": "2025-10-02T08:44:00+00:00",
               "datePublished": "2025-10-02T08:33:19+00:00",
-              "description": "hello world",
+              "description": "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859510/#primaryimage"
+              },
               "inLanguage": "en-US",
               "isPartOf": {
                 "@id": "https://khabarhub.com/#website"
               },
-              "name": "hello world | Khabarhub",
+              "name": "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर | Khabarhub",
               "potentialAction": [
                 {
                   "@type": "ReadAction",
@@ -204,7 +239,20 @@
                   ]
                 }
               ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859510/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
               "url": "https://khabarhub.com/2025/02/859510/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859510/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg",
+              "width": 1200
             },
             {
               "@id": "https://khabarhub.com/#website",
@@ -280,7 +328,7 @@
           "properties": [
             [
               "og:title",
-              "hello world"
+              "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर"
             ],
             [
               "og:type",
@@ -300,7 +348,7 @@
             ],
             [
               "og:image",
-              "https://khabarhub.com/wp-content/themes/KhabarhubOfficial/img/logo.png"
+              "https://www.khabarhub.com/wp-content/uploads/2025/06/donald-trump.jpg"
             ]
           ]
         }
@@ -315,7 +363,7 @@
   "published_at": "2025-10-02T08:33:19Z",
   "source": "Khabarhub",
   "store_path": "_store/48/484619eb44bb474ba634eefa51a1605d808d50ce0f9e585e30a245880aef2966.json",
-  "title": "hello world",
+  "title": "ट्रम्पद्वारा इजरायली आक्रमणपछि कतारको रक्षा गर्ने कार्यकारी आदेशमा हस्ताक्षर",
   "url": "https://khabarhub.com/2025/02/859510/",
   "version": 1
 }

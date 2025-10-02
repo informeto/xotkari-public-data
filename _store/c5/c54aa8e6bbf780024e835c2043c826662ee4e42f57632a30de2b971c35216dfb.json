@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१६ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-02T09:33:48.700762Z",
+  "id": "c54aa8e6bbf780024e835c2043c826662ee4e42f57632a30de2b971c35216dfb",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/02/859525/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-02T09:11:42+00:00",
+            "datePublished": "2025-10-02T09:11:39+00:00",
+            "headline": "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859525/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/02/859525/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859525/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859525/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-02T09:11:42+00:00",
+            "datePublished": "2025-10-02T09:11:39+00:00",
+            "description": "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859525/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/02/859525/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859525/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg",
+            "url": "https://khabarhub.com/2025/02/859525/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859525/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg",
+            "height": 800,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– प्रत्येक वर्ष विजयादशमीको दिन भक्तपुरको ब्रह्मायणी मन्दिरमा लाग्ने ब्रह्मायणी जात्रामा हजारौँ दर्शनार्थीको धुइचो लागेको छ ।  नवदुर्गाको शक्तिपीठका रूपमा मानिने ब्रह्मायणी मन्दिरमा नवदुर्गा प्रकट हुने जनविश्वास अनुरूप परम्परादेखि नै विजयादशमीको दिन भव्य मेला लाग्ने गर्दछ । ब्रह्मायणी मन्दिरमा पूजा गर्न भक्तपुर, मध्यपुरथिमि, ताथली, सुडाल, बागेश्वरी, चित्तपोल, सिपाडोल, नङ्खेल, गुण्डुलगायत काभ्रे, ललितपुर र काठमाडौंदेखिका भक्तजन […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/02/859525/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/02/859525/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-02T09:11:42+00:00",
+              "datePublished": "2025-10-02T09:11:39+00:00",
+              "headline": "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859525/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/02/859525/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859525/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859525/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-02T09:11:42+00:00",
+              "datePublished": "2025-10-02T09:11:39+00:00",
+              "description": "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859525/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/02/859525/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859525/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg",
+              "url": "https://khabarhub.com/2025/02/859525/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859525/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg",
+              "height": 800,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– प्रत्येक वर्ष विजयादशमीको दिन भक्तपुरको ब्रह्मायणी मन्दिरमा लाग्ने ब्रह्मायणी जात्रामा हजारौँ दर्शनार्थीको धुइचो लागेको छ ।  नवदुर्गाको शक्तिपीठका रूपमा मानिने ब्रह्मायणी मन्दिरमा नवदुर्गा प्रकट हुने जनविश्वास अनुरूप परम्परादेखि नै विजयादशमीको दिन भव्य मेला लाग्ने गर्दछ । ब्रह्मायणी मन्दिरमा पूजा गर्न भक्तपुर, मध्यपुरथिमि, ताथली, सुडाल, बागेश्वरी, चित्तपोल, सिपाडोल, नङ्खेल, गुण्डुलगायत काभ्रे, ललितपुर र काठमाडौंदेखिका भक्तजन […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/02/859525/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/bhaktapur.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-02T09:11:39Z",
+  "source": "Khabarhub",
+  "store_path": "_store/c5/c54aa8e6bbf780024e835c2043c826662ee4e42f57632a30de2b971c35216dfb.json",
+  "title": "भक्तपुरको ब्रह्मायणी मन्दिरमा दर्शनार्थीको घुँइचो",
+  "url": "https://khabarhub.com/2025/02/859525/",
+  "version": 1
+}
