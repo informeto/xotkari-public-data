@@ -1,0 +1,435 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n5:16 pm, Thu, 2 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-02T12:59:50.196249Z",
+  "id": "51bc64644e7acb345c91bdf6ba33aee9b089192ad9d94d6034047e7d38670924",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509553/#article",
+            "@type": "Article",
+            "articleSection": [
+              "बागमती",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-02T11:34:18+00:00",
+            "datePublished": "2025-10-02T11:31:15+00:00",
+            "headline": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509553/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509553/"
+            },
+            "keywords": [
+              "कुलमान घिसिङ"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509553/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509553/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509553/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509553/#breadcrumb"
+            },
+            "dateModified": "2025-10-02T11:34:18+00:00",
+            "datePublished": "2025-10-02T11:31:15+00:00",
+            "description": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509553/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509553/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509553/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+            "url": "https://www.imagekhabar.com/news/509553/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509553/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509553/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । भौतिक पूर्वाधार तथा यातायातमन्त्री कुलमान घिसिङले अबको ३ दिनसम्म अत्याधिक वर्षा हुनसक्ने पूर्वानुमान रहेको बताउदै शतर्कताका साथ यात्रा गर्न आग्रह गर्नुभएको छ । वीपी राजमार्गको अवलोकन एवं निरीक्षण गर्ने क्रममा सञ्चारकर्मीसँग कुरा गर्दै उहाँले यस्तो आग्रह गर्नुभएकाे हाे । मन्त्री घिसिङले बुधबार वीपी राजमार्गको अवलोकन एवं निरीक्षण गर्नुभएको थियो । जसमा गत वर्षको […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509553/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509553/#article",
+              "@type": "Article",
+              "articleSection": [
+                "बागमती",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-02T11:34:18+00:00",
+              "datePublished": "2025-10-02T11:31:15+00:00",
+              "headline": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509553/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509553/"
+              },
+              "keywords": [
+                "कुलमान घिसिङ"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509553/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509553/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509553/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509553/#breadcrumb"
+              },
+              "dateModified": "2025-10-02T11:34:18+00:00",
+              "datePublished": "2025-10-02T11:31:15+00:00",
+              "description": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509553/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509553/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509553/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+              "url": "https://www.imagekhabar.com/news/509553/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509553/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509553/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । भौतिक पूर्वाधार तथा यातायातमन्त्री कुलमान घिसिङले अबको ३ दिनसम्म अत्याधिक वर्षा हुनसक्ने पूर्वानुमान रहेको बताउदै शतर्कताका साथ यात्रा गर्न आग्रह गर्नुभएको छ । वीपी राजमार्गको अवलोकन एवं निरीक्षण गर्ने क्रममा सञ्चारकर्मीसँग कुरा गर्दै उहाँले यस्तो आग्रह गर्नुभएकाे हाे । मन्त्री घिसिङले बुधबार वीपी राजमार्गको अवलोकन एवं निरीक्षण गर्नुभएको थियो । जसमा गत वर्षको […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509553/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/kulman-ghising.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-02T11:31:15Z",
+  "source": "Image Khabar",
+  "store_path": "_store/51/51bc64644e7acb345c91bdf6ba33aee9b089192ad9d94d6034047e7d38670924.json",
+  "title": "वर्तमान सरकारले विषम परिस्थितिलाई सुरक्षित अवतरण गर्नुपर्नेछः मन्त्री घिसिङ",
+  "url": "https://www.imagekhabar.com/news/509553/",
+  "version": 1
+}

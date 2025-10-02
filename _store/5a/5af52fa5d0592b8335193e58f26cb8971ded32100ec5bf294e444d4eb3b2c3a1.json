@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१६ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "नेपाल मलेसियासँग पराजित खेलकुद",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-02T13:00:11.135436Z",
+  "id": "5af52fa5d0592b8335193e58f26cb8971ded32100ec5bf294e444d4eb3b2c3a1",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/02/859583/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-02T12:43:03+00:00",
+            "datePublished": "2025-10-02T12:43:01+00:00",
+            "headline": "नेपाल मलेसियासँग पराजित",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859583/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/02/859583/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859583/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859583/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-02T12:43:03+00:00",
+            "datePublished": "2025-10-02T12:43:01+00:00",
+            "description": "नेपाल मलेसियासँग पराजित खेलकुद",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859583/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "नेपाल मलेसियासँग पराजित | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/02/859583/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859583/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+            "url": "https://khabarhub.com/2025/02/859583/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859583/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+            "height": 540,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+            "width": 810
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "नेपाल मलेसियासँग पराजित"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– नेपाल अन्तर्राष्ट्रिय महिला ट्वान्टी–२० शृङ्खलाको पहिलो खेलमा मलेसियासँग तीन रनले पराजित भएको छ । मलेसियाको बायुमास ओभलमा आज सम्पन्न खेलमा १०५ रनको लक्ष्य पछ्याएको नेपाल २० ओभरमा पाँच विकेट गुमाउँदै १०१ रन मात्रै बनाउन सक्यो । नेपालका लागि पूजा महतोले २९ बलमा सर्वाधिक ३० रन बनाइन भने सम्झना खड्काले १६ बलमा १८ रन जोडिन् […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/02/859583/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/02/859583/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-02T12:43:03+00:00",
+              "datePublished": "2025-10-02T12:43:01+00:00",
+              "headline": "नेपाल मलेसियासँग पराजित",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859583/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/02/859583/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859583/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859583/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-02T12:43:03+00:00",
+              "datePublished": "2025-10-02T12:43:01+00:00",
+              "description": "नेपाल मलेसियासँग पराजित खेलकुद",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859583/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "नेपाल मलेसियासँग पराजित | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/02/859583/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859583/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+              "url": "https://khabarhub.com/2025/02/859583/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859583/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+              "height": 540,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg",
+              "width": 810
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "नेपाल मलेसियासँग पराजित"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– नेपाल अन्तर्राष्ट्रिय महिला ट्वान्टी–२० शृङ्खलाको पहिलो खेलमा मलेसियासँग तीन रनले पराजित भएको छ । मलेसियाको बायुमास ओभलमा आज सम्पन्न खेलमा १०५ रनको लक्ष्य पछ्याएको नेपाल २० ओभरमा पाँच विकेट गुमाउँदै १०१ रन मात्रै बनाउन सक्यो । नेपालका लागि पूजा महतोले २९ बलमा सर्वाधिक ३० रन बनाइन भने सम्झना खड्काले १६ बलमा १८ रन जोडिन् […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/02/859583/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-women-cricket.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-02T12:43:01Z",
+  "source": "Khabarhub",
+  "store_path": "_store/5a/5af52fa5d0592b8335193e58f26cb8971ded32100ec5bf294e444d4eb3b2c3a1.json",
+  "title": "नेपाल मलेसियासँग पराजित",
+  "url": "https://khabarhub.com/2025/02/859583/",
+  "version": 1
+}
