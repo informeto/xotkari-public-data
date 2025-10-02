@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n१६ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n60\nShares",
+  "description": "आजका लागि तरकारी तथा फलफूलको मूल्य कति ? उपभोक्ता",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-02T03:09:00.213587Z",
+  "id": "690c1dfc227ee9b42b688d1961a0599997ffc948bb4bfeeaf347b75e4269087a",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/02/859416/#article",
+            "@type": "Article",
+            "articleSection": [
+              "आर्थिक",
+              "उपभोक्ता",
+              "देश/प्रदेश"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-02T02:53:05+00:00",
+            "datePublished": "2025-10-02T02:53:03+00:00",
+            "headline": "आजका लागि तरकारी तथा फलफूलको मूल्य कति ?",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859416/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/02/859416/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859416/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859416/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-02T02:53:05+00:00",
+            "datePublished": "2025-10-02T02:53:03+00:00",
+            "description": "आजका लागि तरकारी तथा फलफूलको मूल्य कति ? उपभोक्ता",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859416/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "आजका लागि तरकारी तथा फलफूलको मूल्य कति ? | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/02/859416/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859416/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+            "url": "https://khabarhub.com/2025/02/859416/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859416/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+            "height": 667,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "आजका लागि तरकारी तथा फलफूलको मूल्य कति ?"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौँ- कालीमाटी फलफूल तथा तरकारी बजार विकास समितिले आजका लागि कृषिउपजको थोक मूल्य निर्धारण गरेको छ । समितिका अनुसार आजका लागि नेपाली ठूलो गोलभेडाको मूल्य प्रतिकेजी ८० रुपैयाँ तोकिएको छ । यस्तै, भारतीय ठूलो गोलभेडा ८०, सानो लोकल गोलभेडा ३५, टनेल सानो गोलभेडा ४८ तथा भारतीय सानो गोलभेडा प्रतिकेजी ३५ रुपैयाँमा मा किनबेच भइरहेको छ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/02/859416/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/02/859416/#article",
+              "@type": "Article",
+              "articleSection": [
+                "आर्थिक",
+                "उपभोक्ता",
+                "देश/प्रदेश"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-02T02:53:05+00:00",
+              "datePublished": "2025-10-02T02:53:03+00:00",
+              "headline": "आजका लागि तरकारी तथा फलफूलको मूल्य कति ?",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859416/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/02/859416/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859416/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859416/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-02T02:53:05+00:00",
+              "datePublished": "2025-10-02T02:53:03+00:00",
+              "description": "आजका लागि तरकारी तथा फलफूलको मूल्य कति ? उपभोक्ता",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859416/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "आजका लागि तरकारी तथा फलफूलको मूल्य कति ? | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/02/859416/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859416/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+              "url": "https://khabarhub.com/2025/02/859416/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859416/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+              "height": 667,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "आजका लागि तरकारी तथा फलफूलको मूल्य कति ?"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौँ- कालीमाटी फलफूल तथा तरकारी बजार विकास समितिले आजका लागि कृषिउपजको थोक मूल्य निर्धारण गरेको छ । समितिका अनुसार आजका लागि नेपाली ठूलो गोलभेडाको मूल्य प्रतिकेजी ८० रुपैयाँ तोकिएको छ । यस्तै, भारतीय ठूलो गोलभेडा ८०, सानो लोकल गोलभेडा ३५, टनेल सानो गोलभेडा ४८ तथा भारतीय सानो गोलभेडा प्रतिकेजी ३५ रुपैयाँमा मा किनबेच भइरहेको छ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/02/859416/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/05/tarkari.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-02T02:53:03Z",
+  "source": "Khabarhub",
+  "store_path": "_store/69/690c1dfc227ee9b42b688d1961a0599997ffc948bb4bfeeaf347b75e4269087a.json",
+  "title": "आजका लागि तरकारी तथा फलफूलको मूल्य कति ?",
+  "url": "https://khabarhub.com/2025/02/859416/",
+  "version": 1
+}
