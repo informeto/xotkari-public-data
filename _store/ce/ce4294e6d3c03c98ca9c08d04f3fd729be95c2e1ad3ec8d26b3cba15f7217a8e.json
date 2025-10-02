@@ -1,0 +1,490 @@
+{
+  "author": "देश सञ्चार",
+  "content": "",
+  "description": "काठमाडौँ– जिल्ला प्रशासन कार्यालय ललितपुरले मनसुनको समयमा सतर्कता अपनाउन आग्रह गरेको छ। एक सूचना सम्प्रेसन गर्दै कार्यालयले यही १७ गतेदेखि २० गतेसम्म",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-02T08:40:24.119287Z",
+  "id": "ce4294e6d3c03c98ca9c08d04f3fd729be95c2e1ad3ec8d26b3cba15f7217a8e",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/10/02/1100373/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "name": "देश सञ्चार"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-02T07:51:22+00:00",
+            "datePublished": "2025-10-02T07:49:19+00:00",
+            "headline": "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/10/02/1100373/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/02/1100373/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/#breadcrumb"
+            },
+            "dateModified": "2025-10-02T07:51:22+00:00",
+            "datePublished": "2025-10-02T07:49:19+00:00",
+            "description": "काठमाडौँ– जिल्ला प्रशासन कार्यालय ललितपुरले मनसुनको समयमा सतर्कता अपनाउन आग्रह गरेको छ। एक सूचना सम्प्रेसन गर्दै कार्यालयले यही १७ गतेदेखि २० गतेसम्म",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/10/02/1100373/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg",
+            "url": "https://deshsanchar.com/2025/10/02/1100373/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/02/1100373/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg",
+            "height": 551,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg",
+            "width": 820
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/02/1100373/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "देश सञ्चार",
+              "contentUrl": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g"
+            },
+            "name": "देश सञ्चार",
+            "url": "https://deshsanchar.com/author/deshsanchar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह"
+          ],
+          [
+            "og:description",
+            "काठमाडौँ– जिल्ला प्रशासन कार्यालय ललितपुरले मनसुनको समयमा सतर्कता अपनाउन आग्रह गरेको छ। एक सूचना सम्प्रेसन गर्दै कार्यालयले यही १७ गतेदेखि २० गतेसम्म"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/02/1100373/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-10-02T07:49:19+00:00"
+          ],
+          [
+            "article:modified_time",
+            "2025-10-02T07:51:22+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg"
+          ],
+          [
+            "og:image:width",
+            "820"
+          ],
+          [
+            "og:image:height",
+            "551"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+                "name": "देश सञ्चार"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-02T07:51:22+00:00",
+              "datePublished": "2025-10-02T07:49:19+00:00",
+              "headline": "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/02/1100373/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/10/02/1100373/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/02/1100373/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/02/1100373/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/10/02/1100373/#breadcrumb"
+              },
+              "dateModified": "2025-10-02T07:51:22+00:00",
+              "datePublished": "2025-10-02T07:49:19+00:00",
+              "description": "काठमाडौँ– जिल्ला प्रशासन कार्यालय ललितपुरले मनसुनको समयमा सतर्कता अपनाउन आग्रह गरेको छ। एक सूचना सम्प्रेसन गर्दै कार्यालयले यही १७ गतेदेखि २० गतेसम्म",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/02/1100373/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/02/1100373/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/02/1100373/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg",
+              "url": "https://deshsanchar.com/2025/10/02/1100373/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg",
+              "height": 551,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg",
+              "width": 820
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/02/1100373/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "देश सञ्चार",
+                "contentUrl": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/d30e74f10a0f72efbd9274e44fd64dca?s=96&d=mm&r=g"
+              },
+              "name": "देश सञ्चार",
+              "url": "https://deshsanchar.com/author/deshsanchar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह"
+            ],
+            [
+              "og:description",
+              "काठमाडौँ– जिल्ला प्रशासन कार्यालय ललितपुरले मनसुनको समयमा सतर्कता अपनाउन आग्रह गरेको छ। एक सूचना सम्प्रेसन गर्दै कार्यालयले यही १७ गतेदेखि २० गतेसम्म"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/02/1100373/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-10-02T07:49:19+00:00"
+            ],
+            [
+              "article:modified_time",
+              "2025-10-02T07:51:22+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2025/09/09074812/dao-lalitpur.jpg"
+            ],
+            [
+              "og:image:width",
+              "820"
+            ],
+            [
+              "og:image:height",
+              "551"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-02T07:49:19Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/ce/ce4294e6d3c03c98ca9c08d04f3fd729be95c2e1ad3ec8d26b3cba15f7217a8e.json",
+  "title": "मनसुनको समयमा सतर्कता अपनाउन ललितपुर प्रशासनको आग्रह",
+  "url": "https://deshsanchar.com/2025/10/02/1100373/",
+  "version": 1
+}

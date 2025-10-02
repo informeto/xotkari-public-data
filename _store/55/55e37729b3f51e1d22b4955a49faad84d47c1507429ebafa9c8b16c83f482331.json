@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१६ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n24\nShares",
+  "description": "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य खेलकुद",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-02T08:40:37.138976Z",
+  "id": "55e37729b3f51e1d22b4955a49faad84d47c1507429ebafa9c8b16c83f482331",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/02/859507/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-02T08:31:22+00:00",
+            "datePublished": "2025-10-02T08:31:21+00:00",
+            "headline": "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859507/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/02/859507/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859507/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859507/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-02T08:31:22+00:00",
+            "datePublished": "2025-10-02T08:31:21+00:00",
+            "description": "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य खेलकुद",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859507/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/02/859507/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859507/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+            "url": "https://khabarhub.com/2025/02/859507/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859507/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+            "height": 1280,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+            "width": 2560
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– मलेसियाले अन्तर्राष्ट्रिय महिला ट्वेन्टी २० अन्तर्राष्ट्रिय शृङ्खलाको पहिलो खेलमा नेपाललाई जितको लागि १०५ रनको लक्ष्य दिएको छ  । टस जितेर पहिले ब्याटिङ गरेको मलेसियाले निर्धारित २० ओभरमा पाँच विकेट गुमाउँदै एक सय ४ रनको योगफल बनाएको छ । मलेसियाको लागि कप्तान विनिफ्रेड डुरैसिंगमले सर्वाधिक २७ रन बनाइन्भने ओपनर ऐना हमिजा हसिमाले २६ रन बनाइन् […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/02/859507/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/02/859507/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-02T08:31:22+00:00",
+              "datePublished": "2025-10-02T08:31:21+00:00",
+              "headline": "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859507/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/02/859507/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859507/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859507/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-02T08:31:22+00:00",
+              "datePublished": "2025-10-02T08:31:21+00:00",
+              "description": "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य खेलकुद",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859507/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/02/859507/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859507/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+              "url": "https://khabarhub.com/2025/02/859507/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859507/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+              "height": 1280,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+              "width": 2560
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– मलेसियाले अन्तर्राष्ट्रिय महिला ट्वेन्टी २० अन्तर्राष्ट्रिय शृङ्खलाको पहिलो खेलमा नेपाललाई जितको लागि १०५ रनको लक्ष्य दिएको छ  । टस जितेर पहिले ब्याटिङ गरेको मलेसियाले निर्धारित २० ओभरमा पाँच विकेट गुमाउँदै एक सय ४ रनको योगफल बनाएको छ । मलेसियाको लागि कप्तान विनिफ्रेड डुरैसिंगमले सर्वाधिक २७ रन बनाइन्भने ओपनर ऐना हमिजा हसिमाले २६ रन बनाइन् […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/02/859507/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-02T08:31:21Z",
+  "source": "Khabarhub",
+  "store_path": "_store/55/55e37729b3f51e1d22b4955a49faad84d47c1507429ebafa9c8b16c83f482331.json",
+  "title": "मलेसियाले नेपाललाई दियो १०५ रनको लक्ष्य",
+  "url": "https://khabarhub.com/2025/02/859507/",
+  "version": 1
+}
