@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१६ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-02T15:36:04.895560Z",
+  "id": "5ea3eaf9552b0c0a49d13842d7fe255f47e9d4b78f90b1382e5bc9d44359947d",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/02/859604/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय",
+              "एसिया"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-02T15:21:09+00:00",
+            "datePublished": "2025-10-02T15:21:07+00:00",
+            "headline": "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859604/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/02/859604/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859604/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859604/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-02T15:21:09+00:00",
+            "datePublished": "2025-10-02T15:21:07+00:00",
+            "description": "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/02/859604/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/02/859604/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/02/859604/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+            "url": "https://khabarhub.com/2025/02/859604/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/02/859604/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+            "height": 525,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "मनिला- मध्य फिलिपिन्सको बोगो र सेबू सहरमा मङ्गलबार आएको ६।९ म्याग्निच्युडको सेबू भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुगेको छ । नेसनल डिजास्टर रिस्क रिडक्सन एण्ड म्यानेजमेन्ट काउन्सिलले बिहीबार मध्य विसाया क्षेत्रमा उनीहरुको मृत्यु भएको र भूकम्पमा कम्तीमा २९४ जना घाइते भएको जनाएको छ । मध्य बिसायाका ५३ वटा गाउँमा बसोबास गर्ने ४७ हजार २२१ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/02/859604/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/02/859604/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय",
+                "एसिया"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-02T15:21:09+00:00",
+              "datePublished": "2025-10-02T15:21:07+00:00",
+              "headline": "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859604/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/02/859604/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859604/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859604/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-02T15:21:09+00:00",
+              "datePublished": "2025-10-02T15:21:07+00:00",
+              "description": "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/02/859604/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/02/859604/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/02/859604/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+              "url": "https://khabarhub.com/2025/02/859604/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/02/859604/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+              "height": 525,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "मनिला- मध्य फिलिपिन्सको बोगो र सेबू सहरमा मङ्गलबार आएको ६।९ म्याग्निच्युडको सेबू भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुगेको छ । नेसनल डिजास्टर रिस्क रिडक्सन एण्ड म्यानेजमेन्ट काउन्सिलले बिहीबार मध्य विसाया क्षेत्रमा उनीहरुको मृत्यु भएको र भूकम्पमा कम्तीमा २९४ जना घाइते भएको जनाएको छ । मध्य बिसायाका ५३ वटा गाउँमा बसोबास गर्ने ४७ हजार २२१ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/02/859604/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/philippines-earthquake.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-02T15:21:07Z",
+  "source": "Khabarhub",
+  "store_path": "_store/5e/5ea3eaf9552b0c0a49d13842d7fe255f47e9d4b78f90b1382e5bc9d44359947d.json",
+  "title": "फिलिपिन्समा भूकम्पमा परी ज्यान गुमाउनेको सङ्ख्या ७२ पुग्यो, २९४ घाइते",
+  "url": "https://khabarhub.com/2025/02/859604/",
+  "version": 1
+}
