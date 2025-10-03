@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१७ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-03T13:39:42.994602Z",
+  "id": "91f49be742bb8ab505b61df9daa14887aec9423777af9c635014f6c5edd6acb7",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/03/859795/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-03T13:37:46+00:00",
+            "datePublished": "2025-10-03T13:37:43+00:00",
+            "headline": "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859795/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/03/859795/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859795/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859795/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-03T13:37:46+00:00",
+            "datePublished": "2025-10-03T13:37:43+00:00",
+            "description": "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859795/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/03/859795/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859795/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg",
+            "url": "https://khabarhub.com/2025/03/859795/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859795/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg",
+            "height": 851,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– गृहमन्त्री ओमप्रकाश अर्यालले सम्भावित विपद् जोखिम व्यवस्थापन र न्यूनीकरणका लागि तयारी अवस्थामा रहन सुरक्षा निकायलाई निर्देशन दिएका छन् । आज नेपाल प्रहरी विपद् व्यवस्थापन कार्यालय सामाखुसीको निरीक्षण भ्रमण गरेर उनले उक्त निर्देशन दिएका हुन् । निरीक्षण भ्रमणका क्रममा गृहमन्त्री अर्यालले विपद्सम्बन्धी कृत्रिम घटना उद्धार अभ्यास प्रदर्शन एवम् विपद् उद्धार सामग्री भण्डारको अवलोकन गर्नाका साथै […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/03/859795/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/03/859795/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-03T13:37:46+00:00",
+              "datePublished": "2025-10-03T13:37:43+00:00",
+              "headline": "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859795/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/03/859795/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859795/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859795/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-03T13:37:46+00:00",
+              "datePublished": "2025-10-03T13:37:43+00:00",
+              "description": "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859795/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/03/859795/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859795/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg",
+              "url": "https://khabarhub.com/2025/03/859795/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859795/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg",
+              "height": 851,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– गृहमन्त्री ओमप्रकाश अर्यालले सम्भावित विपद् जोखिम व्यवस्थापन र न्यूनीकरणका लागि तयारी अवस्थामा रहन सुरक्षा निकायलाई निर्देशन दिएका छन् । आज नेपाल प्रहरी विपद् व्यवस्थापन कार्यालय सामाखुसीको निरीक्षण भ्रमण गरेर उनले उक्त निर्देशन दिएका हुन् । निरीक्षण भ्रमणका क्रममा गृहमन्त्री अर्यालले विपद्सम्बन्धी कृत्रिम घटना उद्धार अभ्यास प्रदर्शन एवम् विपद् उद्धार सामग्री भण्डारको अवलोकन गर्नाका साथै […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/03/859795/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/pic-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-03T13:37:43Z",
+  "source": "Khabarhub",
+  "store_path": "_store/91/91f49be742bb8ab505b61df9daa14887aec9423777af9c635014f6c5edd6acb7.json",
+  "title": "विपद् जोखिम न्यूनीकरणका लागि तयारी अवस्थामा रहन गृहमन्त्रीको निर्देशन",
+  "url": "https://khabarhub.com/2025/03/859795/",
+  "version": 1
+}
