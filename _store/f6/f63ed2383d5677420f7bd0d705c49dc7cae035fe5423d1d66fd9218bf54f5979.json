@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१७ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n39\nShares",
+  "description": "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-03T15:33:13.450592Z",
+  "id": "f63ed2383d5677420f7bd0d705c49dc7cae035fe5423d1d66fd9218bf54f5979",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/03/859807/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-03T14:53:02+00:00",
+            "datePublished": "2025-10-03T14:52:59+00:00",
+            "headline": "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859807/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/03/859807/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859807/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859807/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-03T14:53:02+00:00",
+            "datePublished": "2025-10-03T14:52:59+00:00",
+            "description": "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859807/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/03/859807/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859807/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg",
+            "url": "https://khabarhub.com/2025/03/859807/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859807/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg",
+            "height": 800,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- सडक विभागले दसैँमा विभिन्न स्थानमा आवतजावत गर्ने सडक यात्रुहरूलाई केही दिन मुख्य राजमार्गको प्रयोग गर्न सुझाव दिएको छ । मुख्य राजमार्गमा नेपाल प्रहरी, ट्राफिक प्रहरीलगायत सुरक्षाकर्मीको व्यवस्था हुनाका साथै बाटो मर्मतको कार्य पनि चाँडो हुने भएकाले मुख्य राजमार्ग प्रयोग गर्न विभागले सुझाएको हो । जल तथा मौसम विज्ञान विभागले असोज २० गतेसम्म मुलुकका विभिन्न […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/03/859807/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/03/859807/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-03T14:53:02+00:00",
+              "datePublished": "2025-10-03T14:52:59+00:00",
+              "headline": "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859807/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/03/859807/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859807/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859807/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-03T14:53:02+00:00",
+              "datePublished": "2025-10-03T14:52:59+00:00",
+              "description": "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859807/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/03/859807/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859807/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg",
+              "url": "https://khabarhub.com/2025/03/859807/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859807/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg",
+              "height": 800,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- सडक विभागले दसैँमा विभिन्न स्थानमा आवतजावत गर्ने सडक यात्रुहरूलाई केही दिन मुख्य राजमार्गको प्रयोग गर्न सुझाव दिएको छ । मुख्य राजमार्गमा नेपाल प्रहरी, ट्राफिक प्रहरीलगायत सुरक्षाकर्मीको व्यवस्था हुनाका साथै बाटो मर्मतको कार्य पनि चाँडो हुने भएकाले मुख्य राजमार्ग प्रयोग गर्न विभागले सुझाएको हो । जल तथा मौसम विज्ञान विभागले असोज २० गतेसम्म मुलुकका विभिन्न […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/03/859807/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/07/Tanahun_Prithivi-Highway_13-copy.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-03T14:52:59Z",
+  "source": "Khabarhub",
+  "store_path": "_store/f6/f63ed2383d5677420f7bd0d705c49dc7cae035fe5423d1d66fd9218bf54f5979.json",
+  "title": "केही दिन मुख्य राजमार्ग नै प्रयोग गर्न सुझाव",
+  "url": "https://khabarhub.com/2025/03/859807/",
+  "version": 1
+}
