@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१७ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’ समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-03T16:38:58.790322Z",
+  "id": "7f6aeaa0d939f6738a0e6254883bd8e6903097eccd648835dcd12c7c1d2c5f21",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/03/859821/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-03T15:55:36+00:00",
+            "datePublished": "2025-10-03T15:55:33+00:00",
+            "headline": "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859821/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/03/859821/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859821/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859821/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-03T15:55:36+00:00",
+            "datePublished": "2025-10-03T15:55:33+00:00",
+            "description": "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’ समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859821/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’ | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/03/859821/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859821/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+            "url": "https://khabarhub.com/2025/03/859821/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859821/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+            "height": 440,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+            "width": 900
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- जल तथा मौसम विज्ञान विभागले यही असोज १७ गतेदेखि २० गतेसम्म देशका अधिकांश स्थानमा भारी वर्षा र कतिपय स्थानमा अतिभारी वर्षा हुन सक्ने प्रक्षेपण गरेसँगै सशस्त्र प्रहरी बल नेपालले शुक्रबार साँझ देखिनै काठमाडौँका जोखिमयुक्त स्थानमा ‘पट्रोलिङ’ र ‘माइकिङ’ गरेको छ । सम्भावित मनसुनजन्य विपदलाई मध्यनजर गर्दै चोभार, बल्खु, बालाजु, माछापोखरी र बनस्थलीलगायत स्थानमा ‘पट्रोलिङ’ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/03/859821/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/03/859821/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-03T15:55:36+00:00",
+              "datePublished": "2025-10-03T15:55:33+00:00",
+              "headline": "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859821/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/03/859821/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859821/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859821/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-03T15:55:36+00:00",
+              "datePublished": "2025-10-03T15:55:33+00:00",
+              "description": "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’ समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859821/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’ | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/03/859821/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859821/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+              "url": "https://khabarhub.com/2025/03/859821/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859821/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+              "height": 440,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg",
+              "width": 900
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- जल तथा मौसम विज्ञान विभागले यही असोज १७ गतेदेखि २० गतेसम्म देशका अधिकांश स्थानमा भारी वर्षा र कतिपय स्थानमा अतिभारी वर्षा हुन सक्ने प्रक्षेपण गरेसँगै सशस्त्र प्रहरी बल नेपालले शुक्रबार साँझ देखिनै काठमाडौँका जोखिमयुक्त स्थानमा ‘पट्रोलिङ’ र ‘माइकिङ’ गरेको छ । सम्भावित मनसुनजन्य विपदलाई मध्यनजर गर्दै चोभार, बल्खु, बालाजु, माछापोखरी र बनस्थलीलगायत स्थानमा ‘पट्रोलिङ’ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/03/859821/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2023/08/1562937275apf-police_.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-03T15:55:33Z",
+  "source": "Khabarhub",
+  "store_path": "_store/7f/7f6aeaa0d939f6738a0e6254883bd8e6903097eccd648835dcd12c7c1d2c5f21.json",
+  "title": "काठमाडौँ उपत्यकामा सशस्त्र प्रहरी बलको ‘पट्रोलिङ’ र ‘माइकिङ’",
+  "url": "https://khabarhub.com/2025/03/859821/",
+  "version": 1
+}

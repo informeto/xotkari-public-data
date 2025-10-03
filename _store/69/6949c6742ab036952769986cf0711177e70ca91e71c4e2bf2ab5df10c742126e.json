@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१७ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-03T16:38:56.844400Z",
+  "id": "6949c6742ab036952769986cf0711177e70ca91e71c4e2bf2ab5df10c742126e",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/03/859827/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय",
+              "एसिया"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-03T16:01:18+00:00",
+            "datePublished": "2025-10-03T16:01:16+00:00",
+            "headline": "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859827/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/03/859827/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859827/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859827/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-03T16:01:18+00:00",
+            "datePublished": "2025-10-03T16:01:16+00:00",
+            "description": "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859827/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/03/859827/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859827/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+            "url": "https://khabarhub.com/2025/03/859827/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859827/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+            "height": 1365,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+            "width": 2048
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "तेल अभिभ- इजरायलले गाजा पट्टीमा शुक्रबार गरेको हवाई आक्रमणमा १५ जना प्यालेस्टिनीहरुको मृत्यु भएको जनाइएको छ । प्यालेस्टिनी समाचार एजेन्सी (वफा) ले १५ जना मृतक मध्ये ११ जनाको मृत्यु गाजा सहरमै भएको जनाएको गरेको छ । यसैबिच, दक्षिणी गाजाको अल–मवासी, खान युनूसमा इजरायलले एउटा गाडीलाई लक्षित गरी आक्रमण गर्दा तीन जनाको मृत्यु भएको एजेन्सीले जनाएको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/03/859827/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/03/859827/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय",
+                "एसिया"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-03T16:01:18+00:00",
+              "datePublished": "2025-10-03T16:01:16+00:00",
+              "headline": "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859827/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/03/859827/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859827/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859827/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-03T16:01:18+00:00",
+              "datePublished": "2025-10-03T16:01:16+00:00",
+              "description": "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859827/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/03/859827/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859827/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+              "url": "https://khabarhub.com/2025/03/859827/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859827/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+              "height": 1365,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg",
+              "width": 2048
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "तेल अभिभ- इजरायलले गाजा पट्टीमा शुक्रबार गरेको हवाई आक्रमणमा १५ जना प्यालेस्टिनीहरुको मृत्यु भएको जनाइएको छ । प्यालेस्टिनी समाचार एजेन्सी (वफा) ले १५ जना मृतक मध्ये ११ जनाको मृत्यु गाजा सहरमै भएको जनाएको गरेको छ । यसैबिच, दक्षिणी गाजाको अल–मवासी, खान युनूसमा इजरायलले एउटा गाडीलाई लक्षित गरी आक्रमण गर्दा तीन जनाको मृत्यु भएको एजेन्सीले जनाएको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/03/859827/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/gaza.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-03T16:01:16Z",
+  "source": "Khabarhub",
+  "store_path": "_store/69/6949c6742ab036952769986cf0711177e70ca91e71c4e2bf2ab5df10c742126e.json",
+  "title": "गाजामा भएको इजरायली आक्रमणमा १५ जना प्यालेस्टिनीको मृत्यु",
+  "url": "https://khabarhub.com/2025/03/859827/",
+  "version": 1
+}
