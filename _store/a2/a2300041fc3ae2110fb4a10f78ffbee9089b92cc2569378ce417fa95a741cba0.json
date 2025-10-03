@@ -1,0 +1,374 @@
+{
+  "author": "",
+  "content": "डा. सन्तोष अधिकारी\n१७ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n5\nमिनेट\n0\nShares",
+  "description": "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ? ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-03T03:09:17.464906Z",
+  "id": "a2300041fc3ae2110fb4a10f78ffbee9089b92cc2569378ce417fa95a741cba0",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/gen-z-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dr.-Santosh-Adhikari-photo-150x100.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Gen-z-protest-kathmandu-parliament-4-768x512.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Gen-Z-sahid-shabyatra-10-768x454.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/03/859630/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी",
+              "विचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-03T03:00:42+00:00",
+            "datePublished": "2025-10-03T03:00:39+00:00",
+            "headline": "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ?",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859630/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/03/859630/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859630/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859630/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-03T03:00:42+00:00",
+            "datePublished": "2025-10-03T03:00:39+00:00",
+            "description": "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ? ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859630/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ? | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/03/859630/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859630/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+            "url": "https://khabarhub.com/2025/03/859630/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859630/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ?"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "यो रात फरक छ। यो केवल अन्धकारको पर्याय होइन, यो त सामूहिक चेतनाको द्वन्द्वकाल हो। घडीको टिक–टिक सुनिँदैछ, एउटा क्रूर, निरन्तर ध्वनि, जसले मेरो कानमा होइन, सिधै आत्मग्लानीको स्नायुमा प्रहार गरिरहेको छ। बाहिर सडकमा गाडीको आवाज, जीवनको कोलाहल तर यी सबै बाह्य ध्वनिभन्दा लाखौँ गुणा ठूलो त मेरो भित्रको एक्लोपनको महासागर हो। म यहाँ, विदेशी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/03/859630/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/03/859630/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी",
+                "विचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-03T03:00:42+00:00",
+              "datePublished": "2025-10-03T03:00:39+00:00",
+              "headline": "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ?",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859630/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/03/859630/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859630/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859630/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-03T03:00:42+00:00",
+              "datePublished": "2025-10-03T03:00:39+00:00",
+              "description": "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ? ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859630/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ? | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/03/859630/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859630/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+              "url": "https://khabarhub.com/2025/03/859630/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859630/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ?"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "यो रात फरक छ। यो केवल अन्धकारको पर्याय होइन, यो त सामूहिक चेतनाको द्वन्द्वकाल हो। घडीको टिक–टिक सुनिँदैछ, एउटा क्रूर, निरन्तर ध्वनि, जसले मेरो कानमा होइन, सिधै आत्मग्लानीको स्नायुमा प्रहार गरिरहेको छ। बाहिर सडकमा गाडीको आवाज, जीवनको कोलाहल तर यी सबै बाह्य ध्वनिभन्दा लाखौँ गुणा ठूलो त मेरो भित्रको एक्लोपनको महासागर हो। म यहाँ, विदेशी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/03/859630/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Khabar-Hub-Article_Dr-Santosh-Adhikari_1200px-630X-px-Final_2025.10.01-Upload.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-03T03:00:39Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a2/a2300041fc3ae2110fb4a10f78ffbee9089b92cc2569378ce417fa95a741cba0.json",
+  "title": "भत्किएको घरको कोठा कहाँ सुरक्षित हुन्छ ?",
+  "url": "https://khabarhub.com/2025/03/859630/",
+  "version": 1
+}
