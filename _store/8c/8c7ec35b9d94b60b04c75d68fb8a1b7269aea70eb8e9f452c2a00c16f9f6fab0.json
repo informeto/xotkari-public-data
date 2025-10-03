@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१७ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n15\nShares",
+  "description": "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’ समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-03T07:30:57.195387Z",
+  "id": "8c7ec35b9d94b60b04c75d68fb8a1b7269aea70eb8e9f452c2a00c16f9f6fab0",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/03/859670/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-03T06:46:19+00:00",
+            "datePublished": "2025-10-03T06:46:13+00:00",
+            "headline": "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859670/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/03/859670/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859670/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+            "wordCount": 19
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859670/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-03T06:46:19+00:00",
+            "datePublished": "2025-10-03T06:46:13+00:00",
+            "description": "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’ समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/03/859670/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’ | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/03/859670/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/03/859670/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+            "url": "https://khabarhub.com/2025/03/859670/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/03/859670/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+            "height": 719,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "तुलसीपुर– दाङको तुलसीपुर–७ गणेशपुरस्थित राप्ती शान्ति उद्यान (गणेशपुर पार्क) मा पर्यटकको आकर्षण बढ्न थालेको छ । त्यहाँ राखिएको शान्तिका अग्रदुत गौतमबुद्धको मूर्ति हेर्न र वनजङ्गलसहितको सुन्दर वातावरणमा रमाउन धेरै जना यहाँ पुग्ने गरेका छन् ।  उद्यान व्यवस्थापन समितिका अध्यक्ष डिल्लीराज भण्डारीले भने, ‘यो ठाउँ आफैँमा सुन्दर छ, सामुदायिक वन दृश्य हेर्न लायक छ’। त्यसैमा गौतमबुद्धको मूर्ति […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/03/859670/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/03/859670/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-03T06:46:19+00:00",
+              "datePublished": "2025-10-03T06:46:13+00:00",
+              "headline": "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859670/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/03/859670/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859670/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+              "wordCount": 19
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859670/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-03T06:46:19+00:00",
+              "datePublished": "2025-10-03T06:46:13+00:00",
+              "description": "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’ समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/03/859670/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’ | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/03/859670/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/03/859670/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+              "url": "https://khabarhub.com/2025/03/859670/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/03/859670/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+              "height": 719,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "तुलसीपुर– दाङको तुलसीपुर–७ गणेशपुरस्थित राप्ती शान्ति उद्यान (गणेशपुर पार्क) मा पर्यटकको आकर्षण बढ्न थालेको छ । त्यहाँ राखिएको शान्तिका अग्रदुत गौतमबुद्धको मूर्ति हेर्न र वनजङ्गलसहितको सुन्दर वातावरणमा रमाउन धेरै जना यहाँ पुग्ने गरेका छन् ।  उद्यान व्यवस्थापन समितिका अध्यक्ष डिल्लीराज भण्डारीले भने, ‘यो ठाउँ आफैँमा सुन्दर छ, सामुदायिक वन दृश्य हेर्न लायक छ’। त्यसैमा गौतमबुद्धको मूर्ति […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/03/859670/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/ganes-park.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-03T06:46:13Z",
+  "source": "Khabarhub",
+  "store_path": "_store/8c/8c7ec35b9d94b60b04c75d68fb8a1b7269aea70eb8e9f452c2a00c16f9f6fab0.json",
+  "title": "पर्यटनको केन्द्र बन्दै ‘गणेशपुर पार्क’",
+  "url": "https://khabarhub.com/2025/03/859670/",
+  "version": 1
+}
