@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n33\nShares",
+  "description": "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T12:55:22.712638Z",
+  "id": "60ed83a30abbbdbc79b6f93e953844a1f5fa852e92255e63eeb92857d0d83892",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/860071/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T11:49:18+00:00",
+            "datePublished": "2025-10-04T11:49:15+00:00",
+            "headline": "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/860071/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/860071/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/860071/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/860071/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T11:49:18+00:00",
+            "datePublished": "2025-10-04T11:49:15+00:00",
+            "description": "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/860071/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/860071/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/860071/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+            "url": "https://khabarhub.com/2025/04/860071/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/860071/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+            "height": 799,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले काठमाडौँ उपत्यकाका नदी खोला किनारका सडक (करिडर सडक)मा साँझ ६ः०० देखि बिहान ६ः०० बजेसम्म सवारी आवागमनमा रोक लगाउन आग्रह गरेको छ । प्राधिकरणले आज एक सूचना जारी गर्दै काठमाडौँ उपत्यकासहित देशका विभिन्न भागमा भारीदेखि अतिभारी वर्षा भइरहेको जनाउँदै करिडोर सडकमा आवागमन रोक लगाउन उपत्यकाका तीनवटै जिल्ला प्रशासन […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/860071/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/860071/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T11:49:18+00:00",
+              "datePublished": "2025-10-04T11:49:15+00:00",
+              "headline": "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/860071/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/860071/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/860071/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/860071/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T11:49:18+00:00",
+              "datePublished": "2025-10-04T11:49:15+00:00",
+              "description": "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/860071/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/860071/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/860071/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+              "url": "https://khabarhub.com/2025/04/860071/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/860071/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+              "height": 799,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले काठमाडौँ उपत्यकाका नदी खोला किनारका सडक (करिडर सडक)मा साँझ ६ः०० देखि बिहान ६ः०० बजेसम्म सवारी आवागमनमा रोक लगाउन आग्रह गरेको छ । प्राधिकरणले आज एक सूचना जारी गर्दै काठमाडौँ उपत्यकासहित देशका विभिन्न भागमा भारीदेखि अतिभारी वर्षा भइरहेको जनाउँदै करिडोर सडकमा आवागमन रोक लगाउन उपत्यकाका तीनवटै जिल्ला प्रशासन […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/860071/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/bagmati-kinara-duban-5.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T11:49:15Z",
+  "source": "Khabarhub",
+  "store_path": "_store/60/60ed83a30abbbdbc79b6f93e953844a1f5fa852e92255e63eeb92857d0d83892.json",
+  "title": "उपत्यकाका नदी किनारका सडकमा साँझ ६ बजेदेखि सवारी आवागमनमा रोक",
+  "url": "https://khabarhub.com/2025/04/860071/",
+  "version": 1
+}

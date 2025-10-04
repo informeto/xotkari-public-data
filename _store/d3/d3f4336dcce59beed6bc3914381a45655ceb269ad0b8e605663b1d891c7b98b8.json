@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n45\nShares",
+  "description": "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T12:55:21.952427Z",
+  "id": "d3f4336dcce59beed6bc3914381a45655ceb269ad0b8e605663b1d891c7b98b8",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/860073/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T11:52:28+00:00",
+            "datePublished": "2025-10-04T11:52:26+00:00",
+            "headline": "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/860073/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/860073/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/860073/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/860073/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T11:52:28+00:00",
+            "datePublished": "2025-10-04T11:52:26+00:00",
+            "description": "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/860073/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/860073/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/860073/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+            "url": "https://khabarhub.com/2025/04/860073/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/860073/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले राजमार्गमा रोकिएका यात्रुलाई सुरक्षित स्थानमा राख्दै खानपान र स्वास्थ्योपचारलगायत आवश्यक बन्दोवस्त गर्न आग्रह गरेको छ । प्राधिकरणले आज सबै जिल्ला प्रशासन कार्यालयलाई परिपत्र गर्दै अलपत्र यात्रुलाई सम्बन्धित स्थानीय तह, यातायात व्यवसायी एवं सरकारी तथा गैरसरकारी सङ्घसंस्थाको समन्वयमा आवश्यक सहयोग गर्न आग्रह गरेको हो । सरकारले देशका विभिन्न […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/860073/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/860073/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T11:52:28+00:00",
+              "datePublished": "2025-10-04T11:52:26+00:00",
+              "headline": "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/860073/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/860073/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/860073/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/860073/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T11:52:28+00:00",
+              "datePublished": "2025-10-04T11:52:26+00:00",
+              "description": "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/860073/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/860073/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/860073/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+              "url": "https://khabarhub.com/2025/04/860073/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/860073/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणले राजमार्गमा रोकिएका यात्रुलाई सुरक्षित स्थानमा राख्दै खानपान र स्वास्थ्योपचारलगायत आवश्यक बन्दोवस्त गर्न आग्रह गरेको छ । प्राधिकरणले आज सबै जिल्ला प्रशासन कार्यालयलाई परिपत्र गर्दै अलपत्र यात्रुलाई सम्बन्धित स्थानीय तह, यातायात व्यवसायी एवं सरकारी तथा गैरसरकारी सङ्घसंस्थाको समन्वयमा आवश्यक सहयोग गर्न आग्रह गरेको हो । सरकारले देशका विभिन्न […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/860073/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/fisling.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T11:52:26Z",
+  "source": "Khabarhub",
+  "store_path": "_store/d3/d3f4336dcce59beed6bc3914381a45655ceb269ad0b8e605663b1d891c7b98b8.json",
+  "title": "राजमार्गमा रोकिएका यात्रुको व्यवस्थापन गर्न आग्रह",
+  "url": "https://khabarhub.com/2025/04/860073/",
+  "version": 1
+}

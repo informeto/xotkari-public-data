@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n3\nShares",
+  "description": "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T12:55:18.225913Z",
+  "id": "9dc9ead1431ee7741fb28e9e016daa7c5b8b0b832f37492fb475a8ce8ada78d8",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/860107/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T12:22:09+00:00",
+            "datePublished": "2025-10-04T12:22:07+00:00",
+            "headline": "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/860107/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/860107/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/860107/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/860107/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T12:22:09+00:00",
+            "datePublished": "2025-10-04T12:22:07+00:00",
+            "description": "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/860107/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/860107/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/860107/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+            "url": "https://khabarhub.com/2025/04/860107/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/860107/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+            "height": 581,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "मलेखु- वर्षासँगै पृथ्वी राजमार्ग र त्रिभुवन राजपथअन्तर्गत धादिङ खण्डका १६ स्थान पहिरोको जोखिममा परेका छन् । आज जिल्ला विपद् व्यवस्थापन समिति र प्राविधिक टोलीको संयुक्त अनुगमनले राजधानी भित्रिने प्रमुख राजमार्गका १६ स्थानमा पहिरो र सडक भासिने उच्च जोखिम पहिचान गरेको जनाइएको छ । जिल्ला प्रहरी कार्यालयका प्रहरी उपरीक्षक भेषराज रिजालले राजमार्गमा यात्रा गर्न सकिने अवस्था […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/860107/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/860107/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T12:22:09+00:00",
+              "datePublished": "2025-10-04T12:22:07+00:00",
+              "headline": "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/860107/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/860107/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/860107/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/860107/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T12:22:09+00:00",
+              "datePublished": "2025-10-04T12:22:07+00:00",
+              "description": "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/860107/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/860107/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/860107/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+              "url": "https://khabarhub.com/2025/04/860107/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/860107/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+              "height": 581,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "मलेखु- वर्षासँगै पृथ्वी राजमार्ग र त्रिभुवन राजपथअन्तर्गत धादिङ खण्डका १६ स्थान पहिरोको जोखिममा परेका छन् । आज जिल्ला विपद् व्यवस्थापन समिति र प्राविधिक टोलीको संयुक्त अनुगमनले राजधानी भित्रिने प्रमुख राजमार्गका १६ स्थानमा पहिरो र सडक भासिने उच्च जोखिम पहिचान गरेको जनाइएको छ । जिल्ला प्रहरी कार्यालयका प्रहरी उपरीक्षक भेषराज रिजालले राजमार्गमा यात्रा गर्न सकिने अवस्था […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/860107/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/narayangadh-muglin-pahiro.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T12:22:07Z",
+  "source": "Khabarhub",
+  "store_path": "_store/9d/9dc9ead1431ee7741fb28e9e016daa7c5b8b0b832f37492fb475a8ce8ada78d8.json",
+  "title": "नागढुङ्गा-मुग्लिन सडकका १६ स्थानमा पहिरोको उच्च जोखिम",
+  "url": "https://khabarhub.com/2025/04/860107/",
+  "version": 1
+}

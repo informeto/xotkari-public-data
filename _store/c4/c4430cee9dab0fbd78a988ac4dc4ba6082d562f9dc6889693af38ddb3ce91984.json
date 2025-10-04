@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n5:46 pm, Sat, 4 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T12:54:57.713336Z",
+  "id": "c4430cee9dab0fbd78a988ac4dc4ba6082d562f9dc6889693af38ddb3ce91984",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509712/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "uncategorized",
+              "बागमती",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-04T12:04:24+00:00",
+            "datePublished": "2025-10-04T12:01:57+00:00",
+            "headline": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509712/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509712/"
+            },
+            "keywords": [
+              "काठमाडौं महानगर"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509712/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509712/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509712/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509712/#breadcrumb"
+            },
+            "dateModified": "2025-10-04T12:04:24+00:00",
+            "datePublished": "2025-10-04T12:01:57+00:00",
+            "description": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509712/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509712/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509712/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+            "url": "https://www.imagekhabar.com/news/509712/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509712/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+            "height": 574,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+            "width": 1000
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509712/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं।शुक्रबार रातिदेखिकाे निरन्तर वर्षाका कारण काठमाडौं महानगरपालिकाभित्रका खोलाहरूमा पानीको बहाव बढ्दै गएको छ । महानगरले डुबानको सम्भावना बढेपछि महानगरपालिकाको शिक्षा विभागले सबै सामुदायिक तथा संस्थागत विद्यालयहरूलाई विपद व्यवस्थापनका लागि तयारी अवस्थामा रहन निर्देशन जारी गरेको हाे। नदी किनारका जोखिमयुक्त बस्तीमा बसोबास गर्ने बासीन्दाहरूलाई नजिकैका विद्यालयहरूमा स्थानान्तरण गर्ने कार्य भइरहेको छ। महानगरपालिकाको विपद व्यवस्थापन विभागका अनुसार, […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509712/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509712/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "uncategorized",
+                "बागमती",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-04T12:04:24+00:00",
+              "datePublished": "2025-10-04T12:01:57+00:00",
+              "headline": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509712/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509712/"
+              },
+              "keywords": [
+                "काठमाडौं महानगर"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509712/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509712/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509712/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509712/#breadcrumb"
+              },
+              "dateModified": "2025-10-04T12:04:24+00:00",
+              "datePublished": "2025-10-04T12:01:57+00:00",
+              "description": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509712/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509712/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509712/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+              "url": "https://www.imagekhabar.com/news/509712/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509712/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+              "height": 574,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png",
+              "width": 1000
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509712/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं।शुक्रबार रातिदेखिकाे निरन्तर वर्षाका कारण काठमाडौं महानगरपालिकाभित्रका खोलाहरूमा पानीको बहाव बढ्दै गएको छ । महानगरले डुबानको सम्भावना बढेपछि महानगरपालिकाको शिक्षा विभागले सबै सामुदायिक तथा संस्थागत विद्यालयहरूलाई विपद व्यवस्थापनका लागि तयारी अवस्थामा रहन निर्देशन जारी गरेको हाे। नदी किनारका जोखिमयुक्त बस्तीमा बसोबास गर्ने बासीन्दाहरूलाई नजिकैका विद्यालयहरूमा स्थानान्तरण गर्ने कार्य भइरहेको छ। महानगरपालिकाको विपद व्यवस्थापन विभागका अनुसार, […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509712/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2023/10/ktm.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T12:01:57Z",
+  "source": "Image Khabar",
+  "store_path": "_store/c4/c4430cee9dab0fbd78a988ac4dc4ba6082d562f9dc6889693af38ddb3ce91984.json",
+  "title": "जोखिमयुक्त बस्तीका बासीन्दालाई विद्यालयमा स्थानान्तरण गर्न काठमाडौं महानगरकाे निर्देशन",
+  "url": "https://www.imagekhabar.com/news/509712/",
+  "version": 1
+}
