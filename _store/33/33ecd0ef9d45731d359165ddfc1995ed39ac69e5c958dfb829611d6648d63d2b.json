@@ -1,0 +1,363 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n84\nShares",
+  "description": "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस् Uncategorized",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T01:58:54.965976Z",
+  "id": "33ecd0ef9d45731d359165ddfc1995ed39ac69e5c958dfb829611d6648d63d2b",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859833/#article",
+            "@type": "Article",
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-03T23:38:02+00:00",
+            "datePublished": "2025-10-03T23:38:00+00:00",
+            "headline": "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस्",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859833/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859833/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859833/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859833/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-03T23:38:02+00:00",
+            "datePublished": "2025-10-03T23:38:00+00:00",
+            "description": "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस् Uncategorized",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859833/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस् | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859833/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859833/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg",
+            "url": "https://khabarhub.com/2025/04/859833/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859833/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg",
+            "height": 681,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस्"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – आज २०८२ साल असोज १८ गते शनिबार। आश्विन शुक्ल पक्षको द्वादशी तिथि। तदनुसार सन् २०२५ अक्टोबर ४ तारिख। विश्व पशु दिवस। शनिबारका दिन शनिदेवलाई खुशी पारेर तपाईंले आफ्नो जीवनमा नयाँ ऊर्जा ल्याउन सक्नुहुन्छ। शनिदेवको व्रत बस्नुभन्दा पहिले शनिदेवसँग जोडिएका केही महत्वपूर्ण कुराबारे जानकारी लिनु आवश्यक हुन्छ। शनि देवलाई एक महत्त्वपूर्ण देवता भनिएको छ। […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859833/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859833/#article",
+              "@type": "Article",
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-03T23:38:02+00:00",
+              "datePublished": "2025-10-03T23:38:00+00:00",
+              "headline": "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस्",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859833/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859833/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859833/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859833/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-03T23:38:02+00:00",
+              "datePublished": "2025-10-03T23:38:00+00:00",
+              "description": "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस् Uncategorized",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859833/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस् | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859833/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859833/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg",
+              "url": "https://khabarhub.com/2025/04/859833/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859833/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg",
+              "height": 681,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस्"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – आज २०८२ साल असोज १८ गते शनिबार। आश्विन शुक्ल पक्षको द्वादशी तिथि। तदनुसार सन् २०२५ अक्टोबर ४ तारिख। विश्व पशु दिवस। शनिबारका दिन शनिदेवलाई खुशी पारेर तपाईंले आफ्नो जीवनमा नयाँ ऊर्जा ल्याउन सक्नुहुन्छ। शनिदेवको व्रत बस्नुभन्दा पहिले शनिदेवसँग जोडिएका केही महत्वपूर्ण कुराबारे जानकारी लिनु आवश्यक हुन्छ। शनि देवलाई एक महत्त्वपूर्ण देवता भनिएको छ। […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859833/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/10/Sanidev1-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-03T23:38:00Z",
+  "source": "Khabarhub",
+  "store_path": "_store/33/33ecd0ef9d45731d359165ddfc1995ed39ac69e5c958dfb829611d6648d63d2b.json",
+  "title": "जीवनमा नयाँ ऊर्जा ल्याउन शनिबार शनिदेवको पूजा गर्नुहोस्",
+  "url": "https://khabarhub.com/2025/04/859833/",
+  "version": 1
+}

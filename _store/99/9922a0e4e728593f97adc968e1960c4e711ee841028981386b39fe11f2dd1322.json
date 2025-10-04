@@ -1,0 +1,375 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n333\nShares",
+  "description": "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T01:58:52.879489Z",
+  "id": "9922a0e4e728593f97adc968e1960c4e711ee841028981386b39fe11f2dd1322",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859844/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T01:23:08+00:00",
+            "datePublished": "2025-10-04T01:23:05+00:00",
+            "headline": "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859844/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859844/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859844/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859844/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T01:23:08+00:00",
+            "datePublished": "2025-10-04T01:23:05+00:00",
+            "description": "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859844/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859844/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859844/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+            "url": "https://khabarhub.com/2025/04/859844/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859844/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "केएल राहुललको शतक सेलिब्रेसन । तस्बिरः क्रिकइन्फो",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+            "height": 616,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+            "width": 981
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – वेस्ट इन्डिडविरुद्धको टेस्टको सुरुवातमै भारतको बल र ब्याटमै दबदबा देखिएको छ। अहमदावादस्थित नरेन्द्र मोदी स्टेडियममा सुरु भएको टेस्टको पहिलो दिन वेस्ट इन्डिजले कमजोर प्रदर्शन गरेपछि भारतको दबदबा देखिएको हो। टस जितेर सुरुमा ब्याटिङ गरेको वेस्ट इन्डिजको पहिलो इनिङ्स कमजोर भयो। उसले ४४ ओभर १ बल खेल्दा सबै विकेट गुमाएर मात्र १६२ रन बनाउन […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859844/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859844/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T01:23:08+00:00",
+              "datePublished": "2025-10-04T01:23:05+00:00",
+              "headline": "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859844/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859844/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859844/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859844/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T01:23:08+00:00",
+              "datePublished": "2025-10-04T01:23:05+00:00",
+              "description": "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859844/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859844/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859844/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+              "url": "https://khabarhub.com/2025/04/859844/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859844/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "केएल राहुललको शतक सेलिब्रेसन । तस्बिरः क्रिकइन्फो",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+              "height": 616,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg",
+              "width": 981
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – वेस्ट इन्डिडविरुद्धको टेस्टको सुरुवातमै भारतको बल र ब्याटमै दबदबा देखिएको छ। अहमदावादस्थित नरेन्द्र मोदी स्टेडियममा सुरु भएको टेस्टको पहिलो दिन वेस्ट इन्डिजले कमजोर प्रदर्शन गरेपछि भारतको दबदबा देखिएको हो। टस जितेर सुरुमा ब्याटिङ गरेको वेस्ट इन्डिजको पहिलो इनिङ्स कमजोर भयो। उसले ४४ ओभर १ बल खेल्दा सबै विकेट गुमाएर मात्र १६२ रन बनाउन […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859844/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/kl.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T01:23:05Z",
+  "source": "Khabarhub",
+  "store_path": "_store/99/9922a0e4e728593f97adc968e1960c4e711ee841028981386b39fe11f2dd1322.json",
+  "title": "वेस्ट इन्डिजविरुद्ध बल र ब्याटमा भारतको दबदबा : तीन ब्याट्सम्यानले बनाए शतक",
+  "url": "https://khabarhub.com/2025/04/859844/",
+  "version": 1
+}

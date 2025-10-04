@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n264\nShares",
+  "description": "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज खेलकुद",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T01:58:54.543189Z",
+  "id": "df1ca722bf2edd1fec2d3acaa1dccdad55b596c42cb6f2561dd33ed36e5f3a43",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859835/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद",
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-03T23:47:41+00:00",
+            "datePublished": "2025-10-03T23:47:39+00:00",
+            "headline": "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859835/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859835/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859835/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859835/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-03T23:47:41+00:00",
+            "datePublished": "2025-10-03T23:47:39+00:00",
+            "description": "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज खेलकुद",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859835/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859835/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859835/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+            "url": "https://khabarhub.com/2025/04/859835/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859835/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+            "height": 731,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – नेपाली राष्ट्रिय महिला टोलीले मलेसियासँग टी–२० सिरिजको दोस्रो खेल आज खेल्दैछ । बिहीबार भएको पहिलो खेलमा तीन रनले पराजित भएको नेपालले शनिबार दोस्रो खेल खेल्न लागेको हो । यो खेल नेपाली समय अनुसार शनिबार बिहान १०ः १५ बजे मलेसियाको बायुमास ओभलमा सुरु हुनेछ । सोही मैदानमा बिहीबार सम्पन्न पहिलो खेलमा १०५ रनको लक्ष्य […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859835/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859835/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद",
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-03T23:47:41+00:00",
+              "datePublished": "2025-10-03T23:47:39+00:00",
+              "headline": "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859835/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859835/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859835/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859835/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-03T23:47:41+00:00",
+              "datePublished": "2025-10-03T23:47:39+00:00",
+              "description": "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज खेलकुद",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859835/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859835/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859835/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+              "url": "https://khabarhub.com/2025/04/859835/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859835/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+              "height": 731,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – नेपाली राष्ट्रिय महिला टोलीले मलेसियासँग टी–२० सिरिजको दोस्रो खेल आज खेल्दैछ । बिहीबार भएको पहिलो खेलमा तीन रनले पराजित भएको नेपालले शनिबार दोस्रो खेल खेल्न लागेको हो । यो खेल नेपाली समय अनुसार शनिबार बिहान १०ः १५ बजे मलेसियाको बायुमास ओभलमा सुरु हुनेछ । सोही मैदानमा बिहीबार सम्पन्न पहिलो खेलमा १०५ रनको लक्ष्य […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859835/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-malaysia.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-03T23:47:39Z",
+  "source": "Khabarhub",
+  "store_path": "_store/df/df1ca722bf2edd1fec2d3acaa1dccdad55b596c42cb6f2561dd33ed36e5f3a43.json",
+  "title": "टी-२० सिरिज : नेपाल र मलेसियाको दोस्रो प्रतिस्पर्धा आज",
+  "url": "https://khabarhub.com/2025/04/859835/",
+  "version": 1
+}
