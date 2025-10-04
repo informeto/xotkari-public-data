@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n51\nShares",
+  "description": "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T07:28:48.642291Z",
+  "id": "de3b2120bb9ac5c69b49f47d6ccbf3a859acbd4890d028f1a455ef2b2ace045e",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859939/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T07:20:40+00:00",
+            "datePublished": "2025-10-04T07:20:37+00:00",
+            "headline": "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859939/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859939/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859939/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859939/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T07:20:40+00:00",
+            "datePublished": "2025-10-04T07:20:37+00:00",
+            "description": "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859939/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859939/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859939/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+            "url": "https://khabarhub.com/2025/04/859939/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859939/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+            "height": 720,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "चितवन– नारायणगढ हुँदै काठामाडौँ जाने सवारीसाधनलाई यहाँ रोकिएको छ । शुक्रबार साँझदेखि परेको वर्षाका कारण लोथरदेखि फिस्लिङ बजारसम्म ‘स्टपिङ प्लान’अनुसार सवारीसाधन रोकिएको छ । जिल्ला प्रहरी कार्यालयका प्रवक्ता प्रहरी नायब उपरीक्षक रवीन्द्र खनालका अनुसार धादिङको जवाङ खोलामा पहिरोका कारण सडक अवरुद्ध भएकाले काठमाडौँ जाने सवारीसाधनलाई स्थानीय प्रशासनले तोकेको स्थानमा रोकिएको हो । उनले भने, ‘भरतपुर–मुग्लिन–पोखरा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859939/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859939/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T07:20:40+00:00",
+              "datePublished": "2025-10-04T07:20:37+00:00",
+              "headline": "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859939/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859939/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859939/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859939/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T07:20:40+00:00",
+              "datePublished": "2025-10-04T07:20:37+00:00",
+              "description": "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859939/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859939/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859939/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+              "url": "https://khabarhub.com/2025/04/859939/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859939/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+              "height": 720,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "चितवन– नारायणगढ हुँदै काठामाडौँ जाने सवारीसाधनलाई यहाँ रोकिएको छ । शुक्रबार साँझदेखि परेको वर्षाका कारण लोथरदेखि फिस्लिङ बजारसम्म ‘स्टपिङ प्लान’अनुसार सवारीसाधन रोकिएको छ । जिल्ला प्रहरी कार्यालयका प्रवक्ता प्रहरी नायब उपरीक्षक रवीन्द्र खनालका अनुसार धादिङको जवाङ खोलामा पहिरोका कारण सडक अवरुद्ध भएकाले काठमाडौँ जाने सवारीसाधनलाई स्थानीय प्रशासनले तोकेको स्थानमा रोकिएको हो । उनले भने, ‘भरतपुर–मुग्लिन–पोखरा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859939/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2019/09/Bharatpur_Chitawan.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T07:20:37Z",
+  "source": "Khabarhub",
+  "store_path": "_store/de/de3b2120bb9ac5c69b49f47d6ccbf3a859acbd4890d028f1a455ef2b2ace045e.json",
+  "title": "नारायणगढ हुँदै काठमाडौँ जाने सवारीसाधन चितवनमा रोकिए",
+  "url": "https://khabarhub.com/2025/04/859939/",
+  "version": 1
+}

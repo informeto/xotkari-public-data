@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n30\nShares",
+  "description": "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T07:28:50.683461Z",
+  "id": "2ab681971c02a48bcd9bdf9f4375f07ba7e3421e64023745cc2dba829efadf0a",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859923/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T07:06:11+00:00",
+            "datePublished": "2025-10-04T07:06:08+00:00",
+            "headline": "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859923/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859923/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859923/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+            "wordCount": 9
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859923/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T07:06:11+00:00",
+            "datePublished": "2025-10-04T07:06:08+00:00",
+            "description": "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859923/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859923/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859923/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+            "url": "https://khabarhub.com/2025/04/859923/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859923/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+            "height": 293,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+            "width": 524
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "राजविराज– यहाँ छुट्टाछुट्टै दुर्घटनामा परी आज तीन जनाको ज्यान गएको छ । हुलाकी सडक खण्डअन्तर्गत जिल्लाको खड्क नगरपालिका–११ बनौलीमा दुई मोटरसाइकल एकापसमा ठोक्किएर दुर्घटना हुँदा दुवै मोटरसाइकलका चालकको ज्यान गएको छ ।   बोदेबर्साइनबाट राजविराजतर्फ आउँदै गरेको मधेस प्रदेश ०१–००५ प ६८३२ नम्बरको मोटरसाइकल र विपरीत दिशातर्फ जाँदै गरेको मधेस प्रदेश २–०१–००३ प ६९३२ नम्बरको मोटरसाइकल […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859923/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859923/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T07:06:11+00:00",
+              "datePublished": "2025-10-04T07:06:08+00:00",
+              "headline": "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859923/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859923/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859923/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+              "wordCount": 9
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859923/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T07:06:11+00:00",
+              "datePublished": "2025-10-04T07:06:08+00:00",
+              "description": "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859923/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859923/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859923/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+              "url": "https://khabarhub.com/2025/04/859923/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859923/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+              "height": 293,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg",
+              "width": 524
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "राजविराज– यहाँ छुट्टाछुट्टै दुर्घटनामा परी आज तीन जनाको ज्यान गएको छ । हुलाकी सडक खण्डअन्तर्गत जिल्लाको खड्क नगरपालिका–११ बनौलीमा दुई मोटरसाइकल एकापसमा ठोक्किएर दुर्घटना हुँदा दुवै मोटरसाइकलका चालकको ज्यान गएको छ ।   बोदेबर्साइनबाट राजविराजतर्फ आउँदै गरेको मधेस प्रदेश ०१–००५ प ६८३२ नम्बरको मोटरसाइकल र विपरीत दिशातर्फ जाँदै गरेको मधेस प्रदेश २–०१–००३ प ६९३२ नम्बरको मोटरसाइकल […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859923/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/08/death.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T07:06:08Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2a/2ab681971c02a48bcd9bdf9f4375f07ba7e3421e64023745cc2dba829efadf0a.json",
+  "title": "छुट्टाछुट्टै दुर्घटनामा तीन जनाको मृत्यु",
+  "url": "https://khabarhub.com/2025/04/859923/",
+  "version": 1
+}

@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n9\nShares",
+  "description": "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T07:28:50.247614Z",
+  "id": "a0d283706a8a7bd68c51c5c2d0766b2eaae550e4d90ea4aeda9164358d268c8b",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859926/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T07:06:16+00:00",
+            "datePublished": "2025-10-04T07:06:12+00:00",
+            "headline": "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859926/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859926/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859926/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859926/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T07:06:16+00:00",
+            "datePublished": "2025-10-04T07:06:12+00:00",
+            "description": "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859926/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859926/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859926/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+            "url": "https://khabarhub.com/2025/04/859926/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859926/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल फोटो",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+            "width": 1266
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– राष्ट्रिय मानव अधिकार आयोगले वर्षाबाट हुनसक्ने बाढीपहिरोबाट सचेत रहन सबैलाई आग्रह गरेको छ ।  आयोगले आज विज्ञप्ति जारी गरी प्राकृतिक विपद्पूर्वका कार्यहरूमा उचित ध्यान दिनु, विपद्को अवस्थाका बारेमा सर्वसाधारणलाई सुसूचित गर्नु र जोखिममा रहेकाहरुलाई उद्धार गर्नु राज्यको जिम्मेवारी भएको जनाउँदै विपद्पूर्वको तयारी र विपद्प्रतिकार्यमा केन्द्रित  हुनुपर्नेमा जोड दिएको छ ।  साथै आयोगले विपद्पूर्वको तयारी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859926/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859926/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T07:06:16+00:00",
+              "datePublished": "2025-10-04T07:06:12+00:00",
+              "headline": "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859926/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859926/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859926/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859926/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T07:06:16+00:00",
+              "datePublished": "2025-10-04T07:06:12+00:00",
+              "description": "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859926/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859926/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859926/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+              "url": "https://khabarhub.com/2025/04/859926/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859926/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल फोटो",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg",
+              "width": 1266
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– राष्ट्रिय मानव अधिकार आयोगले वर्षाबाट हुनसक्ने बाढीपहिरोबाट सचेत रहन सबैलाई आग्रह गरेको छ ।  आयोगले आज विज्ञप्ति जारी गरी प्राकृतिक विपद्पूर्वका कार्यहरूमा उचित ध्यान दिनु, विपद्को अवस्थाका बारेमा सर्वसाधारणलाई सुसूचित गर्नु र जोखिममा रहेकाहरुलाई उद्धार गर्नु राज्यको जिम्मेवारी भएको जनाउँदै विपद्पूर्वको तयारी र विपद्प्रतिकार्यमा केन्द्रित  हुनुपर्नेमा जोड दिएको छ ।  साथै आयोगले विपद्पूर्वको तयारी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859926/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2022/02/rastriya-manab-adhikar-aayog.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T07:06:12Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a0/a0d283706a8a7bd68c51c5c2d0766b2eaae550e4d90ea4aeda9164358d268c8b.json",
+  "title": "बाढीपहिरोबाट सचेत रहन मानव अधिकार आयोगको आग्रह",
+  "url": "https://khabarhub.com/2025/04/859926/",
+  "version": 1
+}

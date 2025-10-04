@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n75\nShares",
+  "description": "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T07:28:52.019458Z",
+  "id": "fe08acf7ec3baa4f788ed7ca8f4ab4b2f36ad419670f2b332c8fb40e7bab5312",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859918/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T06:59:35+00:00",
+            "datePublished": "2025-10-04T06:59:32+00:00",
+            "headline": "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859918/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859918/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859918/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859918/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T06:59:35+00:00",
+            "datePublished": "2025-10-04T06:59:32+00:00",
+            "description": "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859918/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859918/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859918/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+            "url": "https://khabarhub.com/2025/04/859918/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859918/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+            "height": 1514,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+            "width": 2560
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– मुलुकका अधिकांश स्थानमा परिरहेको भारी वर्षासँगै आज बिहानैदेखि उपत्यकाबाट बाहिरिएका सवारीसाधन धमाधम उपत्यकामा नै फर्किन थालेका छन् । काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयले विभिन्न राजमार्गमा पहिरो जान थालेपछि सुरक्षित रहन सवारीसाधन उपत्यकामा नै फर्किन थालेको जानकारी दिएको छ । काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयका प्रवक्ता नरेशराज सुवेदीले बीपी, अरनिको, पृथ्वीलगायतका मुख्य राजमार्गमा पहिरो जान […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859918/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859918/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T06:59:35+00:00",
+              "datePublished": "2025-10-04T06:59:32+00:00",
+              "headline": "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859918/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859918/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859918/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859918/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T06:59:35+00:00",
+              "datePublished": "2025-10-04T06:59:32+00:00",
+              "description": "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859918/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859918/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859918/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+              "url": "https://khabarhub.com/2025/04/859918/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859918/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+              "height": 1514,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg",
+              "width": 2560
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– मुलुकका अधिकांश स्थानमा परिरहेको भारी वर्षासँगै आज बिहानैदेखि उपत्यकाबाट बाहिरिएका सवारीसाधन धमाधम उपत्यकामा नै फर्किन थालेका छन् । काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयले विभिन्न राजमार्गमा पहिरो जान थालेपछि सुरक्षित रहन सवारीसाधन उपत्यकामा नै फर्किन थालेको जानकारी दिएको छ । काठमाडौँ उपत्यका ट्राफिक प्रहरी कार्यालयका प्रवक्ता नरेशराज सुवेदीले बीपी, अरनिको, पृथ्वीलगायतका मुख्य राजमार्गमा पहिरो जान […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859918/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/04/Pokhara-mugling-3-scaled.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T06:59:32Z",
+  "source": "Khabarhub",
+  "store_path": "_store/fe/fe08acf7ec3baa4f788ed7ca8f4ab4b2f36ad419670f2b332c8fb40e7bab5312.json",
+  "title": "भारी वर्षासँगै काठमाडौँ फर्किन थाले सवारीसाधन",
+  "url": "https://khabarhub.com/2025/04/859918/",
+  "version": 1
+}
