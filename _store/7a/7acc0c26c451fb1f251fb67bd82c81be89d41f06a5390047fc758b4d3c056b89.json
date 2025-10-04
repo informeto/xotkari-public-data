@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n36\nShares",
+  "description": "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह देश/प्रदेश",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T03:03:59.464977Z",
+  "id": "7acc0c26c451fb1f251fb67bd82c81be89d41f06a5390047fc758b4d3c056b89",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859855/#article",
+            "@type": "Article",
+            "articleSection": [
+              "देश/प्रदेश",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T02:33:47+00:00",
+            "datePublished": "2025-10-04T02:33:43+00:00",
+            "headline": "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859855/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859855/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859855/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859855/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T02:33:47+00:00",
+            "datePublished": "2025-10-04T02:33:43+00:00",
+            "description": "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह देश/प्रदेश",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859855/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859855/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859855/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+            "url": "https://khabarhub.com/2025/04/859855/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859855/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+            "height": 388,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+            "width": 763
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कास्की– जिल्ला प्रशासन कार्यालय कास्कीले उच्च हिमाली क्षेत्रमा हिमपात र भारी वर्षाको सम्भावना रहेकाले पदयात्रामा ननिस्कन पर्यटकहरूलाई आग्रह गरेको छ । प्रशासनले आजदेखि असोज २० गतेसम्म देशभर तथा गण्डकी प्रदेशमा समेत मध्यमदेखि भारी वर्षा र हिमपातको समेत सम्भावना रहेकाले पदयात्रीहरूलाई सो आग्रह गरेको हो । विश्व प्रख्यात अन्नपूर्ण आधार शिविर (एबीसी), मर्दी हिमाल आधार शिविर, […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859855/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859855/#article",
+              "@type": "Article",
+              "articleSection": [
+                "देश/प्रदेश",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T02:33:47+00:00",
+              "datePublished": "2025-10-04T02:33:43+00:00",
+              "headline": "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859855/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859855/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859855/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859855/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T02:33:47+00:00",
+              "datePublished": "2025-10-04T02:33:43+00:00",
+              "description": "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह देश/प्रदेश",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859855/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859855/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859855/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+              "url": "https://khabarhub.com/2025/04/859855/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859855/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+              "height": 388,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg",
+              "width": 763
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कास्की– जिल्ला प्रशासन कार्यालय कास्कीले उच्च हिमाली क्षेत्रमा हिमपात र भारी वर्षाको सम्भावना रहेकाले पदयात्रामा ननिस्कन पर्यटकहरूलाई आग्रह गरेको छ । प्रशासनले आजदेखि असोज २० गतेसम्म देशभर तथा गण्डकी प्रदेशमा समेत मध्यमदेखि भारी वर्षा र हिमपातको समेत सम्भावना रहेकाले पदयात्रीहरूलाई सो आग्रह गरेको हो । विश्व प्रख्यात अन्नपूर्ण आधार शिविर (एबीसी), मर्दी हिमाल आधार शिविर, […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859855/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/10/Jilla-prasashan-Kaski1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T02:33:43Z",
+  "source": "Khabarhub",
+  "store_path": "_store/7a/7acc0c26c451fb1f251fb67bd82c81be89d41f06a5390047fc758b4d3c056b89.json",
+  "title": "पर्यटकलाई पदयात्रामा नजान कास्की प्रशासनको आग्रह",
+  "url": "https://khabarhub.com/2025/04/859855/",
+  "version": 1
+}

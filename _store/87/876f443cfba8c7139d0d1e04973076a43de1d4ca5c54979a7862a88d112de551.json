@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n6\nShares",
+  "description": "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न धर्म / संस्कृति",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T03:03:58.813354Z",
+  "id": "876f443cfba8c7139d0d1e04973076a43de1d4ca5c54979a7862a88d112de551",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859857/#article",
+            "@type": "Article",
+            "articleSection": [
+              "धर्म / संस्कृति",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T02:50:19+00:00",
+            "datePublished": "2025-10-04T02:50:16+00:00",
+            "headline": "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859857/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859857/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859857/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859857/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T02:50:19+00:00",
+            "datePublished": "2025-10-04T02:50:16+00:00",
+            "description": "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न धर्म / संस्कृति",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859857/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859857/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859857/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+            "url": "https://khabarhub.com/2025/04/859857/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859857/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल तस्बिर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+            "height": 584,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+            "width": 1189
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "भादगाउँ– बडादशैँको ११औँ दिन पापाङ्कुशा एकादशीको अवसरमा शुक्रबार मध्यपुर थिमिमा मल्लकालीन युद्धको झल्को दिने गरी ‘खाँ पिहाँवईगु’ (खाँ निस्कने) जात्रा सम्पन्न भएको छ । तत्कालीन राजदरबारको रूपमा रहेको लाय्कुस्थित तलेजु भवानीको द्यो छेँबाट खड्ग, तरबार, ढाल, युद्धकवजलगायत मल्लकालीन युद्धमा प्रयोग हुने साधन बोकेर युद्ध कला प्रदर्शन गर्दै खाँ पिहाँवईगु जात्रा निकालिएको हो । दरबारसँग सम्बन्धित […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859857/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859857/#article",
+              "@type": "Article",
+              "articleSection": [
+                "धर्म / संस्कृति",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T02:50:19+00:00",
+              "datePublished": "2025-10-04T02:50:16+00:00",
+              "headline": "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859857/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859857/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859857/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859857/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T02:50:19+00:00",
+              "datePublished": "2025-10-04T02:50:16+00:00",
+              "description": "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न धर्म / संस्कृति",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859857/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859857/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859857/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+              "url": "https://khabarhub.com/2025/04/859857/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859857/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल तस्बिर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+              "height": 584,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg",
+              "width": 1189
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "भादगाउँ– बडादशैँको ११औँ दिन पापाङ्कुशा एकादशीको अवसरमा शुक्रबार मध्यपुर थिमिमा मल्लकालीन युद्धको झल्को दिने गरी ‘खाँ पिहाँवईगु’ (खाँ निस्कने) जात्रा सम्पन्न भएको छ । तत्कालीन राजदरबारको रूपमा रहेको लाय्कुस्थित तलेजु भवानीको द्यो छेँबाट खड्ग, तरबार, ढाल, युद्धकवजलगायत मल्लकालीन युद्धमा प्रयोग हुने साधन बोकेर युद्ध कला प्रदर्शन गर्दै खाँ पिहाँवईगु जात्रा निकालिएको हो । दरबारसँग सम्बन्धित […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859857/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/khan-jatra-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T02:50:16Z",
+  "source": "Khabarhub",
+  "store_path": "_store/87/876f443cfba8c7139d0d1e04973076a43de1d4ca5c54979a7862a88d112de551.json",
+  "title": "मध्यपुर थिमिमा ‘खाँ पिहाँवईगु’ जात्रा सम्पन्न",
+  "url": "https://khabarhub.com/2025/04/859857/",
+  "version": 1
+}

@@ -1,0 +1,490 @@
+{
+  "author": "देश सञ्चार",
+  "content": "",
+  "description": "काठमाडौँ- अत्याधिक वर्षाका कारण पहिरो खसिरहेकाले प्रहरीले स्थितिमा सुधार नआउन्जेलसम्मका लागि मुग्लिन-नारायणगढ सडक खण्ड बन्द गरेको छ। प्रहरीले एक सूचना",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T03:03:36.906079Z",
+  "id": "c807c7e901670c2f26b98fc43a2e5e632d8bcda9ed66ca7c569d187333a6d510",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/10/04/1100754/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "name": "देश सञ्चार"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-04T02:18:13+00:00",
+            "datePublished": "2025-10-04T02:16:05+00:00",
+            "headline": "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/10/04/1100754/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/04/1100754/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/#breadcrumb"
+            },
+            "dateModified": "2025-10-04T02:18:13+00:00",
+            "datePublished": "2025-10-04T02:16:05+00:00",
+            "description": "काठमाडौँ- अत्याधिक वर्षाका कारण पहिरो खसिरहेकाले प्रहरीले स्थितिमा सुधार नआउन्जेलसम्मका लागि मुग्लिन-नारायणगढ सडक खण्ड बन्द गरेको छ। प्रहरीले एक सूचना",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/10/04/1100754/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg",
+            "url": "https://deshsanchar.com/2025/10/04/1100754/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/04/1100754/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg",
+            "height": 1536,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg",
+            "width": 2048
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/04/1100754/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "देश सञ्चार",
+              "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
+            },
+            "name": "देश सञ्चार",
+            "url": "https://deshsanchar.com/author/deshsanchar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक"
+          ],
+          [
+            "og:description",
+            "काठमाडौँ- अत्याधिक वर्षाका कारण पहिरो खसिरहेकाले प्रहरीले स्थितिमा सुधार नआउन्जेलसम्मका लागि मुग्लिन-नारायणगढ सडक खण्ड बन्द गरेको छ। प्रहरीले एक सूचना"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/04/1100754/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-10-04T02:16:05+00:00"
+          ],
+          [
+            "article:modified_time",
+            "2025-10-04T02:18:13+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg"
+          ],
+          [
+            "og:image:width",
+            "2048"
+          ],
+          [
+            "og:image:height",
+            "1536"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+                "name": "देश सञ्चार"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-04T02:18:13+00:00",
+              "datePublished": "2025-10-04T02:16:05+00:00",
+              "headline": "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/04/1100754/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/10/04/1100754/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/04/1100754/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/04/1100754/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/10/04/1100754/#breadcrumb"
+              },
+              "dateModified": "2025-10-04T02:18:13+00:00",
+              "datePublished": "2025-10-04T02:16:05+00:00",
+              "description": "काठमाडौँ- अत्याधिक वर्षाका कारण पहिरो खसिरहेकाले प्रहरीले स्थितिमा सुधार नआउन्जेलसम्मका लागि मुग्लिन-नारायणगढ सडक खण्ड बन्द गरेको छ। प्रहरीले एक सूचना",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/04/1100754/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/04/1100754/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/04/1100754/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg",
+              "url": "https://deshsanchar.com/2025/10/04/1100754/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg",
+              "height": 1536,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg",
+              "width": 2048
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/04/1100754/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "देश सञ्चार",
+                "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
+              },
+              "name": "देश सञ्चार",
+              "url": "https://deshsanchar.com/author/deshsanchar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक"
+            ],
+            [
+              "og:description",
+              "काठमाडौँ- अत्याधिक वर्षाका कारण पहिरो खसिरहेकाले प्रहरीले स्थितिमा सुधार नआउन्जेलसम्मका लागि मुग्लिन-नारायणगढ सडक खण्ड बन्द गरेको छ। प्रहरीले एक सूचना"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/04/1100754/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-10-04T02:16:05+00:00"
+            ],
+            [
+              "article:modified_time",
+              "2025-10-04T02:18:13+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2025/09/20120552/pahiro-chitwan.jpg"
+            ],
+            [
+              "og:image:width",
+              "2048"
+            ],
+            [
+              "og:image:height",
+              "1536"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T02:16:05Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/c8/c807c7e901670c2f26b98fc43a2e5e632d8bcda9ed66ca7c569d187333a6d510.json",
+  "title": "जोखिमका कारण प्रहरीले बन्द गर्‍यो मुग्लिन-नारायणगढ सडक",
+  "url": "https://deshsanchar.com/2025/10/04/1100754/",
+  "version": 1
+}
