@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n3:56 pm, Sat, 4 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T10:33:41.034735Z",
+  "id": "7411400eb4b3c3daca56a6e744e2dec31ce9adbdd1a6532dad9845120922cca7",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509682/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "बागमती",
+              "विज्ञान तथा प्रविधि",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-04T10:11:10+00:00",
+            "datePublished": "2025-10-04T10:11:07+00:00",
+            "headline": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509682/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509682/"
+            },
+            "keywords": [
+              "जगदीश खरेल"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509682/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509682/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509682/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509682/#breadcrumb"
+            },
+            "dateModified": "2025-10-04T10:11:10+00:00",
+            "datePublished": "2025-10-04T10:11:07+00:00",
+            "description": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509682/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509682/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509682/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+            "url": "https://www.imagekhabar.com/news/509682/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509682/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509682/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । सञ्चार तथा सूचना प्रविधिमन्त्री जगदीश खरेलले सञ्चार सम्पर्क अवरुद्ध भए तत्काल मन्त्रालयमा जानकारी गर्न आग्रह गर्नुभएकाे छ। मन्त्री खरेलले शनिबार जुनसुकै ठाउँमा संचार सम्पर्क अवरुद्ध भए नेपाल टेलिकमको १४९८ र एनसेलको ९००५ आइएसपी ९८०१८७८९४१ र सञ्चार मन्त्रालयको सिधा नम्बर ९८४१५२०११५ नम्बरमा तत्काल खबर गर्न समेत अनुराेध गर्नुभएकाे हाे । मन्त्री खरेलले तत्काल मर्मत […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509682/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509682/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "बागमती",
+                "विज्ञान तथा प्रविधि",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-04T10:11:10+00:00",
+              "datePublished": "2025-10-04T10:11:07+00:00",
+              "headline": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509682/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509682/"
+              },
+              "keywords": [
+                "जगदीश खरेल"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509682/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509682/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509682/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509682/#breadcrumb"
+              },
+              "dateModified": "2025-10-04T10:11:10+00:00",
+              "datePublished": "2025-10-04T10:11:07+00:00",
+              "description": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509682/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509682/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509682/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+              "url": "https://www.imagekhabar.com/news/509682/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509682/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509682/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । सञ्चार तथा सूचना प्रविधिमन्त्री जगदीश खरेलले सञ्चार सम्पर्क अवरुद्ध भए तत्काल मन्त्रालयमा जानकारी गर्न आग्रह गर्नुभएकाे छ। मन्त्री खरेलले शनिबार जुनसुकै ठाउँमा संचार सम्पर्क अवरुद्ध भए नेपाल टेलिकमको १४९८ र एनसेलको ९००५ आइएसपी ९८०१८७८९४१ र सञ्चार मन्त्रालयको सिधा नम्बर ९८४१५२०११५ नम्बरमा तत्काल खबर गर्न समेत अनुराेध गर्नुभएकाे हाे । मन्त्री खरेलले तत्काल मर्मत […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509682/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/jagadish-kharel-5.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T10:11:07Z",
+  "source": "Image Khabar",
+  "store_path": "_store/74/7411400eb4b3c3daca56a6e744e2dec31ce9adbdd1a6532dad9845120922cca7.json",
+  "title": "सञ्चार सम्पर्क अवरूद्ध भएमा तत्काल मन्त्रालयमा खबर गर्न सञ्चारमन्त्री खरेलकाे आग्रह",
+  "url": "https://www.imagekhabar.com/news/509682/",
+  "version": 1
+}
