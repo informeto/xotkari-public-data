@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n120\nShares",
+  "description": "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T09:30:48.574580Z",
+  "id": "48540dac8d4598284c556c1c2c2d691b34b2d30d0f9063dc909667f36f9b5b6d",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859986/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T08:43:02+00:00",
+            "datePublished": "2025-10-04T08:43:00+00:00",
+            "headline": "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859986/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859986/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859986/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg",
+            "wordCount": 11
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859986/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T08:43:02+00:00",
+            "datePublished": "2025-10-04T08:43:00+00:00",
+            "description": "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859986/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859986/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859986/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg",
+            "url": "https://khabarhub.com/2025/04/859986/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859986/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल फोटो",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg",
+            "height": 527,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "बागमती– बाढीपहिरोको जोखिम बढेकाले हेटौँडा–काठमाडौँ जोड्ने सडकमा सवारीसाधन सञ्चालनमा स्थानीय प्रशासनले रोक लगाएको छ ।  राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणको निर्णयअनुसार हेटौँडा–काठमाडौँ जोड्ने मुख्य सडकमा सवारीसाधन सञ्चालनमा रोक लगाइएको जिल्ला प्रहरी कार्यालय मकवानपुरका प्रहरी प्रवक्ता पुष्कर बोगटीले जानकारी दिए ।  उनका अनुसार हेटौँडा–काठमाडौँ जोड्ने कान्तिलोकपथ, हेटौँडा–भैँसे–फाखेल सडक र हेटौँडा–चित्लाङ–काठमाडौँ सडकमा सवारीसाधनलाई आज बिहानैदेखि […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859986/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859986/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T08:43:02+00:00",
+              "datePublished": "2025-10-04T08:43:00+00:00",
+              "headline": "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859986/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859986/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859986/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg",
+              "wordCount": 11
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859986/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T08:43:02+00:00",
+              "datePublished": "2025-10-04T08:43:00+00:00",
+              "description": "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859986/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859986/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859986/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg",
+              "url": "https://khabarhub.com/2025/04/859986/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859986/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल फोटो",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg",
+              "height": 527,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "बागमती– बाढीपहिरोको जोखिम बढेकाले हेटौँडा–काठमाडौँ जोड्ने सडकमा सवारीसाधन सञ्चालनमा स्थानीय प्रशासनले रोक लगाएको छ ।  राष्ट्रिय विपद् जोखिम न्यूनीकरण तथा व्यवस्थापन प्राधिकरणको निर्णयअनुसार हेटौँडा–काठमाडौँ जोड्ने मुख्य सडकमा सवारीसाधन सञ्चालनमा रोक लगाइएको जिल्ला प्रहरी कार्यालय मकवानपुरका प्रहरी प्रवक्ता पुष्कर बोगटीले जानकारी दिए ।  उनका अनुसार हेटौँडा–काठमाडौँ जोड्ने कान्तिलोकपथ, हेटौँडा–भैँसे–फाखेल सडक र हेटौँडा–चित्लाङ–काठमाडौँ सडकमा सवारीसाधनलाई आज बिहानैदेखि […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859986/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/09/sadak1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T08:43:00Z",
+  "source": "Khabarhub",
+  "store_path": "_store/48/48540dac8d4598284c556c1c2c2d691b34b2d30d0f9063dc909667f36f9b5b6d.json",
+  "title": "हेटौँडा-काठमाडौँ सडकमा सवारीसाधन सञ्चालन गर्न नपाइने",
+  "url": "https://khabarhub.com/2025/04/859986/",
+  "version": 1
+}
