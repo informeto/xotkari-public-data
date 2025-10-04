@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेज खबर\n11:39 am, Sat, 4 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T06:41:05.860337Z",
+  "id": "05f778e47f769439d2728c7161df12d1d0882c304b567cba74aac76abf2ada08",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509658/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/80ce1d21f32837447ea1a187b5416ed3",
+              "name": "ईमेज खबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-04T05:54:59+00:00",
+            "datePublished": "2025-10-04T05:54:55+00:00",
+            "headline": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509658/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509658/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509658/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509658/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509658/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509658/#breadcrumb"
+            },
+            "dateModified": "2025-10-04T05:54:59+00:00",
+            "datePublished": "2025-10-04T05:54:55+00:00",
+            "description": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509658/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ? - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509658/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509658/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg",
+            "url": "https://www.imagekhabar.com/news/509658/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509658/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg",
+            "height": 684,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg",
+            "width": 1267
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509658/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/80ce1d21f32837447ea1a187b5416ed3",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेज खबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/887d2d911923c6ec657f8b0e1e50346d?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/887d2d911923c6ec657f8b0e1e50346d?s=96&d=mm&r=g"
+            },
+            "name": "ईमेज खबर",
+            "url": "https://www.imagekhabar.com/news/author/shambhu/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "लगातारको वर्षाले देशभरिको सवारी आवागमन प्रभावित भएको छ । लामो दूरी र काठमाडौं भित्रिने/बाहिरिने सवारी साधन सञ्चालनमा २० गतेसम्म रोक लगाइएको छ । नेपाल प्रहरीले अहिले ११ बजेसम्म दिएको अपडेटअनुसार देशभरिका राजमार्गहरूको अवस्था निम्न रहेको छ । -काठमाडौं जिल्ला चन्द्रागिरि नगरपालिकाबाट विभिन्न नाका हुँदै काठमाण्डौबाट धादिङ र मकवानपुर हुँदै बाहिरिने नागढुङ्गा, गोदाम, टखेल हुँदै जाने […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509658/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509658/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/80ce1d21f32837447ea1a187b5416ed3",
+                "name": "ईमेज खबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-04T05:54:59+00:00",
+              "datePublished": "2025-10-04T05:54:55+00:00",
+              "headline": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509658/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509658/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509658/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509658/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509658/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509658/#breadcrumb"
+              },
+              "dateModified": "2025-10-04T05:54:59+00:00",
+              "datePublished": "2025-10-04T05:54:55+00:00",
+              "description": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509658/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ? - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509658/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509658/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg",
+              "url": "https://www.imagekhabar.com/news/509658/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509658/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg",
+              "height": 684,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg",
+              "width": 1267
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509658/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/80ce1d21f32837447ea1a187b5416ed3",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेज खबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/887d2d911923c6ec657f8b0e1e50346d?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/887d2d911923c6ec657f8b0e1e50346d?s=96&d=mm&r=g"
+              },
+              "name": "ईमेज खबर",
+              "url": "https://www.imagekhabar.com/news/author/shambhu/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "लगातारको वर्षाले देशभरिको सवारी आवागमन प्रभावित भएको छ । लामो दूरी र काठमाडौं भित्रिने/बाहिरिने सवारी साधन सञ्चालनमा २० गतेसम्म रोक लगाइएको छ । नेपाल प्रहरीले अहिले ११ बजेसम्म दिएको अपडेटअनुसार देशभरिका राजमार्गहरूको अवस्था निम्न रहेको छ । -काठमाडौं जिल्ला चन्द्रागिरि नगरपालिकाबाट विभिन्न नाका हुँदै काठमाण्डौबाट धादिङ र मकवानपुर हुँदै बाहिरिने नागढुङ्गा, गोदाम, टखेल हुँदै जाने […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509658/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2021/11/weather-copy.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T05:54:55Z",
+  "source": "Image Khabar",
+  "store_path": "_store/05/05f778e47f769439d2728c7161df12d1d0882c304b567cba74aac76abf2ada08.json",
+  "title": "देशभरि कुन राजमार्गको अवस्था कस्तो छ ?",
+  "url": "https://www.imagekhabar.com/news/509658/",
+  "version": 1
+}
