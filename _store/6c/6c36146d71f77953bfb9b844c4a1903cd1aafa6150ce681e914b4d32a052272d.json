@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n39\nShares",
+  "description": "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T18:40:17.052725Z",
+  "id": "6c36146d71f77953bfb9b844c4a1903cd1aafa6150ce681e914b4d32a052272d",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/860164/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T17:45:01+00:00",
+            "datePublished": "2025-10-04T17:44:59+00:00",
+            "headline": "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/860164/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/860164/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/860164/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/860164/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T17:45:01+00:00",
+            "datePublished": "2025-10-04T17:44:59+00:00",
+            "description": "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/860164/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/860164/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/860164/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+            "url": "https://khabarhub.com/2025/04/860164/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/860164/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "राजविराज- आज बिहानैदेखि परेको अविरल वर्षाका कारण सप्तकोशी नदीमा पानीको सतह बढेको छ । जिल्ला प्रहरी कार्यालय सप्तरीका प्रहरी प्रवक्ता एवम प्रहरी नायब उपरीक्षक डम्बरबहादुर पुरीका अनुसार सप्तरी र सुनसरीको बीचमा रहेको सप्तकोशी ब्यारेजमा पानीको प्रवाह प्रतिसेकेण्ड एक लाख नौ हजार ३६० क्युसेक पुगेको छ । पानीको बहाव बढ्न थालेपछि कोशी ब्यारेजका ५६ ढोकामध्ये आज […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/860164/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/860164/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T17:45:01+00:00",
+              "datePublished": "2025-10-04T17:44:59+00:00",
+              "headline": "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/860164/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/860164/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/860164/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/860164/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T17:45:01+00:00",
+              "datePublished": "2025-10-04T17:44:59+00:00",
+              "description": "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/860164/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/860164/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/860164/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+              "url": "https://khabarhub.com/2025/04/860164/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/860164/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "राजविराज- आज बिहानैदेखि परेको अविरल वर्षाका कारण सप्तकोशी नदीमा पानीको सतह बढेको छ । जिल्ला प्रहरी कार्यालय सप्तरीका प्रहरी प्रवक्ता एवम प्रहरी नायब उपरीक्षक डम्बरबहादुर पुरीका अनुसार सप्तरी र सुनसरीको बीचमा रहेको सप्तकोशी ब्यारेजमा पानीको प्रवाह प्रतिसेकेण्ड एक लाख नौ हजार ३६० क्युसेक पुगेको छ । पानीको बहाव बढ्न थालेपछि कोशी ब्यारेजका ५६ ढोकामध्ये आज […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/860164/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/koshi.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T17:44:59Z",
+  "source": "Khabarhub",
+  "store_path": "_store/6c/6c36146d71f77953bfb9b844c4a1903cd1aafa6150ce681e914b4d32a052272d.json",
+  "title": "सप्तकोशीमा पानीको प्रवाह उच्च, ब्यारेजका ५६ मध्ये १५ ढोका खोलियो",
+  "url": "https://khabarhub.com/2025/04/860164/",
+  "version": 1
+}
