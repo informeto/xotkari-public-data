@@ -1,0 +1,439 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n8:39 pm, Sat, 4 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T15:29:58.818149Z",
+  "id": "cf53fd130449c9a51977b11c24ddeaf18f532720d28fa0a3293cd11ab12a0f55",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509739/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "बागमती",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-04T14:54:09+00:00",
+            "datePublished": "2025-10-04T14:54:03+00:00",
+            "headline": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509739/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509739/"
+            },
+            "keywords": [
+              "सुकुम्बासी"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509739/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509739/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509739/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509739/#breadcrumb"
+            },
+            "dateModified": "2025-10-04T14:54:09+00:00",
+            "datePublished": "2025-10-04T14:54:03+00:00",
+            "description": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509739/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509739/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509739/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+            "url": "https://www.imagekhabar.com/news/509739/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509739/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+            "height": 1024,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+            "width": 1536
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509739/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । काठमाडौं महानगरपालिका-१४ बल्खुस्थित बागमती खोलामा पानीको बहाव बढेपछि नदी किनारमा बसोबास गरिरहेका १ सय भन्दा बढी सुकुम्बासी परिवारलाई स्थानान्तरण गरेको छ। सशस्त्र प्रहरी बलले बल्खु कुलेश्वर नदी नजिकका रहेको बस्तीमा पानी पसेपछि साेही परिवारलाई जनविकास माध्यमिक विद्यालय बल्खुमा स्थानान्तरण गरेको हो। सशस्त्र प्रहरी बलले बल्खुस्थित तरकारी बजारमा पानी पसेपछि बजार समेत खाली गराइएको […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509739/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509739/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "बागमती",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-04T14:54:09+00:00",
+              "datePublished": "2025-10-04T14:54:03+00:00",
+              "headline": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509739/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509739/"
+              },
+              "keywords": [
+                "सुकुम्बासी"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509739/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509739/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509739/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509739/#breadcrumb"
+              },
+              "dateModified": "2025-10-04T14:54:09+00:00",
+              "datePublished": "2025-10-04T14:54:03+00:00",
+              "description": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509739/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509739/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509739/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+              "url": "https://www.imagekhabar.com/news/509739/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509739/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+              "height": 1024,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+              "width": 1536
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509739/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । काठमाडौं महानगरपालिका-१४ बल्खुस्थित बागमती खोलामा पानीको बहाव बढेपछि नदी किनारमा बसोबास गरिरहेका १ सय भन्दा बढी सुकुम्बासी परिवारलाई स्थानान्तरण गरेको छ। सशस्त्र प्रहरी बलले बल्खु कुलेश्वर नदी नजिकका रहेको बस्तीमा पानी पसेपछि साेही परिवारलाई जनविकास माध्यमिक विद्यालय बल्खुमा स्थानान्तरण गरेको हो। सशस्त्र प्रहरी बलले बल्खुस्थित तरकारी बजारमा पानी पसेपछि बजार समेत खाली गराइएको […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509739/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T14:54:03Z",
+  "source": "Image Khabar",
+  "store_path": "_store/cf/cf53fd130449c9a51977b11c24ddeaf18f532720d28fa0a3293cd11ab12a0f55.json",
+  "title": "बल्खुस्थित बागमती नदी किनारका १ सय बढी सुकुम्बासीलाई विद्यालयमा सारियो",
+  "url": "https://www.imagekhabar.com/news/509739/",
+  "version": 1
+}
