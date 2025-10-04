@@ -1,0 +1,372 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n171\nShares",
+  "description": "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T05:33:02.200701Z",
+  "id": "bc14757a9de5e68edb940d444c053b847e6738487ffa83f018f5a0b38046f4e9",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood-news1-768x489.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859886/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T05:08:52+00:00",
+            "datePublished": "2025-10-04T05:06:01+00:00",
+            "headline": "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859886/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859886/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859886/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859886/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T05:08:52+00:00",
+            "datePublished": "2025-10-04T05:06:01+00:00",
+            "description": "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859886/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859886/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859886/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+            "url": "https://khabarhub.com/2025/04/859886/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859886/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "खोलाले कटान गरेको सडक ।",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+            "height": 768,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+            "width": 1129
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – काठमाडौं महानगरपालिका १४ स्थित कुइनर हाउजिङ्ग नजिक सडक कटान हुँदा केही घर जोखिममा परेका छन्। खोलाले सडक कटान गरेपछि नदी किनारका घरमा क्षति हुने देखिएको हो । कटान रोक्न महानगर प्रहरी बलले प्रयास गरिरहरको महानगरपालीकाले जनाएको छ । ‘आज बिहान काठमाडौँ महानगरपालिका–१४ कोहिनुर हाउजिङ नजिकै खोलाको छेउमा पहिरो गएर सडक भासिएको छ। उक्त […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859886/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859886/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T05:08:52+00:00",
+              "datePublished": "2025-10-04T05:06:01+00:00",
+              "headline": "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859886/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859886/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859886/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859886/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T05:08:52+00:00",
+              "datePublished": "2025-10-04T05:06:01+00:00",
+              "description": "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859886/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859886/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859886/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+              "url": "https://khabarhub.com/2025/04/859886/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859886/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "खोलाले कटान गरेको सडक ।",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+              "height": 768,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg",
+              "width": 1129
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – काठमाडौं महानगरपालिका १४ स्थित कुइनर हाउजिङ्ग नजिक सडक कटान हुँदा केही घर जोखिममा परेका छन्। खोलाले सडक कटान गरेपछि नदी किनारका घरमा क्षति हुने देखिएको हो । कटान रोक्न महानगर प्रहरी बलले प्रयास गरिरहरको महानगरपालीकाले जनाएको छ । ‘आज बिहान काठमाडौँ महानगरपालिका–१४ कोहिनुर हाउजिङ नजिकै खोलाको छेउमा पहिरो गएर सडक भासिएको छ। उक्त […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859886/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/kathmandu-flood.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T05:06:01Z",
+  "source": "Khabarhub",
+  "store_path": "_store/bc/bc14757a9de5e68edb940d444c053b847e6738487ffa83f018f5a0b38046f4e9.json",
+  "title": "काठमाडौँ महानगर १४ मा सडक कटानले केही घर जोखिममा",
+  "url": "https://khabarhub.com/2025/04/859886/",
+  "version": 1
+}

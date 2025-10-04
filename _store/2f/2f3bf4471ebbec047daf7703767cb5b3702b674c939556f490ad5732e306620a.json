@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n42\nShares",
+  "description": "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T05:33:02.988672Z",
+  "id": "2f3bf4471ebbec047daf7703767cb5b3702b674c939556f490ad5732e306620a",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859879/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T04:43:26+00:00",
+            "datePublished": "2025-10-04T04:43:25+00:00",
+            "headline": "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859879/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859879/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859879/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859879/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T04:43:26+00:00",
+            "datePublished": "2025-10-04T04:43:25+00:00",
+            "description": "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859879/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859879/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859879/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+            "url": "https://khabarhub.com/2025/04/859879/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859879/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+            "height": 705,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– देशभर मनसुन सक्रिय भएसँगै वर्षातका कारण सडक दुर्घटनाको जोखिम बढेको भन्दै ट्राफिक प्रहरीले सबै सवारी चालकहरूलाई अत्यधिक सावधानी अपनाउन माइकिङसहित आग्रह गरेको छ । आगामी तीन दिनसम्म भारी वर्षाको सम्भावना रहेकाले विशेष सावधानी आवश्यक भएको बताउँदै ट्राफिक प्रहरीले सडक सुरक्षामा उच्च सतर्कता अपनाएको र विभिन्न नाकाहरूमा माइकिङ गर्ने कार्य भइरहेको जनाइएको छ । वर्षातका […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859879/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859879/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T04:43:26+00:00",
+              "datePublished": "2025-10-04T04:43:25+00:00",
+              "headline": "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859879/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859879/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859879/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859879/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T04:43:26+00:00",
+              "datePublished": "2025-10-04T04:43:25+00:00",
+              "description": "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859879/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859879/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859879/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+              "url": "https://khabarhub.com/2025/04/859879/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859879/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+              "height": 705,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– देशभर मनसुन सक्रिय भएसँगै वर्षातका कारण सडक दुर्घटनाको जोखिम बढेको भन्दै ट्राफिक प्रहरीले सबै सवारी चालकहरूलाई अत्यधिक सावधानी अपनाउन माइकिङसहित आग्रह गरेको छ । आगामी तीन दिनसम्म भारी वर्षाको सम्भावना रहेकाले विशेष सावधानी आवश्यक भएको बताउँदै ट्राफिक प्रहरीले सडक सुरक्षामा उच्च सतर्कता अपनाएको र विभिन्न नाकाहरूमा माइकिङ गर्ने कार्य भइरहेको जनाइएको छ । वर्षातका […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859879/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T04:43:25Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2f/2f3bf4471ebbec047daf7703767cb5b3702b674c939556f490ad5732e306620a.json",
+  "title": "नागढुङ्गासहितका नाकाहरूमा ट्राफिक प्रहरीको ‘माइकिङ’, उच्च सतर्कता अपनाउन आग्रह",
+  "url": "https://khabarhub.com/2025/04/859879/",
+  "version": 1
+}
