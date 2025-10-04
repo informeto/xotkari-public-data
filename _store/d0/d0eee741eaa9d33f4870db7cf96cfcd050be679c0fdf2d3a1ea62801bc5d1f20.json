@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१८ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n36\nShares",
+  "description": "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-04T08:37:29.105705Z",
+  "id": "d0eee741eaa9d33f4870db7cf96cfcd050be679c0fdf2d3a1ea62801bc5d1f20",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/04/859958/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-04T07:50:22+00:00",
+            "datePublished": "2025-10-04T07:44:18+00:00",
+            "headline": "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859958/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/04/859958/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859958/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859958/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-04T07:50:22+00:00",
+            "datePublished": "2025-10-04T07:44:18+00:00",
+            "description": "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/04/859958/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/04/859958/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/04/859958/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+            "url": "https://khabarhub.com/2025/04/859958/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/04/859958/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+            "height": 888,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+            "width": 1500
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– ऊर्जा, भौतिक पूर्वाधार तथा यातायात एवम् सहरी विकासमन्त्री कुलमान घिसिङले वपद् प्रतिकार्यका लागि तयारी अवस्थामा बस्न निर्देशन दिएका छन् । शनिबार सिंहदरबारमा मनसुनको अवस्था र पूर्वतयारी सम्बन्धमा सरोकारवालासँगको छलफलपछि सञ्चारकर्मीसँग कुरा गर्दै मन्त्री घिसिङले मुलुकका विभिन्न स्थानमा भारीदेखि अति भारी वर्षा भइरहेकाले बिपद् प्रतिकार्यका लागि तयारी अवस्थामा बस्न निर्देशन दिइएको जानकारी दिए ।  शनिबार […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/04/859958/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/04/859958/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-04T07:50:22+00:00",
+              "datePublished": "2025-10-04T07:44:18+00:00",
+              "headline": "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859958/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/04/859958/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859958/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859958/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-04T07:50:22+00:00",
+              "datePublished": "2025-10-04T07:44:18+00:00",
+              "description": "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/04/859958/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/04/859958/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/04/859958/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+              "url": "https://khabarhub.com/2025/04/859958/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/04/859958/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+              "height": 888,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg",
+              "width": 1500
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– ऊर्जा, भौतिक पूर्वाधार तथा यातायात एवम् सहरी विकासमन्त्री कुलमान घिसिङले वपद् प्रतिकार्यका लागि तयारी अवस्थामा बस्न निर्देशन दिएका छन् । शनिबार सिंहदरबारमा मनसुनको अवस्था र पूर्वतयारी सम्बन्धमा सरोकारवालासँगको छलफलपछि सञ्चारकर्मीसँग कुरा गर्दै मन्त्री घिसिङले मुलुकका विभिन्न स्थानमा भारीदेखि अति भारी वर्षा भइरहेकाले बिपद् प्रतिकार्यका लागि तयारी अवस्थामा बस्न निर्देशन दिइएको जानकारी दिए ।  शनिबार […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/04/859958/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/Kulman-Ghising.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-04T07:44:18Z",
+  "source": "Khabarhub",
+  "store_path": "_store/d0/d0eee741eaa9d33f4870db7cf96cfcd050be679c0fdf2d3a1ea62801bc5d1f20.json",
+  "title": "विपद् प्रतिकार्यका लागि तयार रहन मन्त्री घिसिङको निर्देशन",
+  "url": "https://khabarhub.com/2025/04/859958/",
+  "version": 1
+}
