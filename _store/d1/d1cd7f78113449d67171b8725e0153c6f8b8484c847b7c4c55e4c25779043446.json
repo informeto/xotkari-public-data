@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n129\nShares",
+  "description": "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प  समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T05:33:34.138682Z",
+  "id": "d1cd7f78113449d67171b8725e0153c6f8b8484c847b7c4c55e4c25779043446",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860215/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T04:43:31+00:00",
+            "datePublished": "2025-10-05T04:43:28+00:00",
+            "headline": "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860215/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860215/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860215/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860215/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T04:43:31+00:00",
+            "datePublished": "2025-10-05T04:43:28+00:00",
+            "description": "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प  समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860215/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प  | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860215/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860215/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg",
+            "url": "https://khabarhub.com/2025/05/860215/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860215/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg",
+            "height": 559,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg",
+            "width": 1054
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प "
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "धादिङ– शुक्रबार र शनिबारको अविरल वर्षाका कारण पृथ्वीराजमार्गका विभिन्न स्थानका पहिराले सवारी आवागमन प्रभावित भएका छन् । सडकमा रोकिएका सवारीहरू गन्तव्यतर्फ जान अनुमति दिएर  शुक्रबार साँझदेखि अत्यावश्यकबाहेक अन्य सवारी आवागमनमा रोक लगाइएको थियो । अहिले पृथ्वीराजमार्गमा सवारी आवागमन प्रायः शून्यजस्तै बनेको छ । वेनिघाट रोराङ गाउँपालिका–१० ज्यामिरेघाटमा आज बिहान करिब साढे ८ बजे पहिरोले  सडक […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860215/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860215/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T04:43:31+00:00",
+              "datePublished": "2025-10-05T04:43:28+00:00",
+              "headline": "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860215/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860215/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860215/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860215/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T04:43:31+00:00",
+              "datePublished": "2025-10-05T04:43:28+00:00",
+              "description": "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प  समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860215/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प  | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860215/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860215/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg",
+              "url": "https://khabarhub.com/2025/05/860215/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860215/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg",
+              "height": 559,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg",
+              "width": 1054
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प "
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "धादिङ– शुक्रबार र शनिबारको अविरल वर्षाका कारण पृथ्वीराजमार्गका विभिन्न स्थानका पहिराले सवारी आवागमन प्रभावित भएका छन् । सडकमा रोकिएका सवारीहरू गन्तव्यतर्फ जान अनुमति दिएर  शुक्रबार साँझदेखि अत्यावश्यकबाहेक अन्य सवारी आवागमनमा रोक लगाइएको थियो । अहिले पृथ्वीराजमार्गमा सवारी आवागमन प्रायः शून्यजस्तै बनेको छ । वेनिघाट रोराङ गाउँपालिका–१० ज्यामिरेघाटमा आज बिहान करिब साढे ८ बजे पहिरोले  सडक […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860215/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/pahiro.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T04:43:28Z",
+  "source": "Khabarhub",
+  "store_path": "_store/d1/d1cd7f78113449d67171b8725e0153c6f8b8484c847b7c4c55e4c25779043446.json",
+  "title": "पृथ्वीराजमार्गका विभिन्न स्थानमा पहिरो, आवागमन ठप्प",
+  "url": "https://khabarhub.com/2025/05/860215/",
+  "version": 1
+}
