@@ -1,0 +1,439 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n6:51 pm, Sun, 5 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T13:33:05.034916Z",
+  "id": "3cfe95774638482a4829ccca1286d4881a42f67184681812c2570f5a0d3401bc",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509855/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "बागमती",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-05T13:06:12+00:00",
+            "datePublished": "2025-10-05T13:06:06+00:00",
+            "headline": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509855/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509855/"
+            },
+            "keywords": [
+              "कोशी व्यारेज"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509855/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509855/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509855/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509855/#breadcrumb"
+            },
+            "dateModified": "2025-10-05T13:06:12+00:00",
+            "datePublished": "2025-10-05T13:06:06+00:00",
+            "description": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509855/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509855/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509855/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg",
+            "url": "https://www.imagekhabar.com/news/509855/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509855/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg",
+            "height": 533,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg",
+            "width": 800
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509855/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । सप्तकोशी नदीमा पानीको सतहले खतराको रेखा पार गरेपछि ५६ वटै ढोका खुला गरिएको छ । जिल्ला प्रहरी कार्यालय सुनसरीले अत्यधिक भारयुक्त (हेभी) सवारी साधनलाई आवत-जावतमा रोक लगाएको जनाएकाे हाे । तर साना र मझौला सवारी साधनलाई भने रोक नलगाएको प्रहरीले बताएकाे छ। आइतबार दिउँसाेदेखि फेरि भारी वर्षाको क्रम शुरु भएपछि हेभी गाडीलाई कोशी […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509855/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509855/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "बागमती",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-05T13:06:12+00:00",
+              "datePublished": "2025-10-05T13:06:06+00:00",
+              "headline": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509855/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509855/"
+              },
+              "keywords": [
+                "कोशी व्यारेज"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509855/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509855/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509855/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509855/#breadcrumb"
+              },
+              "dateModified": "2025-10-05T13:06:12+00:00",
+              "datePublished": "2025-10-05T13:06:06+00:00",
+              "description": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509855/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509855/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509855/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg",
+              "url": "https://www.imagekhabar.com/news/509855/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509855/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg",
+              "height": 533,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg",
+              "width": 800
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509855/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । सप्तकोशी नदीमा पानीको सतहले खतराको रेखा पार गरेपछि ५६ वटै ढोका खुला गरिएको छ । जिल्ला प्रहरी कार्यालय सुनसरीले अत्यधिक भारयुक्त (हेभी) सवारी साधनलाई आवत-जावतमा रोक लगाएको जनाएकाे हाे । तर साना र मझौला सवारी साधनलाई भने रोक नलगाएको प्रहरीले बताएकाे छ। आइतबार दिउँसाेदेखि फेरि भारी वर्षाको क्रम शुरु भएपछि हेभी गाडीलाई कोशी […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509855/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/saptakoshi.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T13:06:06Z",
+  "source": "Image Khabar",
+  "store_path": "_store/3c/3cfe95774638482a4829ccca1286d4881a42f67184681812c2570f5a0d3401bc.json",
+  "title": "सप्तकोशी नदीमा ५६ वटै ढोका खुला, हेभी गाडीलाई कोशी व्यारेजमा रोक, भारतमा पनि पस्याे बाढी",
+  "url": "https://www.imagekhabar.com/news/509855/",
+  "version": 1
+}
