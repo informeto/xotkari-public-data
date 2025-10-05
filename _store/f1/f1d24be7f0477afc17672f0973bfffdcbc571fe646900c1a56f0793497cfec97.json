@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n12\nShares",
+  "description": "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T03:46:18.985022Z",
+  "id": "f1d24be7f0477afc17672f0973bfffdcbc571fe646900c1a56f0793497cfec97",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860204/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी",
+              "विज्ञान/प्रविधि"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T03:37:47+00:00",
+            "datePublished": "2025-10-05T03:37:46+00:00",
+            "headline": "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860204/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860204/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860204/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860204/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T03:37:47+00:00",
+            "datePublished": "2025-10-05T03:37:46+00:00",
+            "description": "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860204/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860204/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860204/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+            "url": "https://khabarhub.com/2025/05/860204/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860204/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+            "height": 627,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– अविरल वर्षाका कारण देशका विभिन्न आठ नदीले खतराको तह पार गरेका छन् ।  जल तथा मौसम विज्ञान विभागको आज बिहानसम्मको अद्यावधिक ‘रेकर्ड’अनुसार बागमती, सुनकोशी, अरुण, तमोर, कन्काई, बूढीखोला–सुनसरी, बिरिङ खोला झापालगायत नदीका बाढी मापन केन्द्रहरूमा बाढीले खतराको तह पार गरेका हुन् । विभागको बाढी पूर्वानुमान शाखा प्रमुख विनोद पराजुलीका अनुसार अन्य १२ नदी केन्द्रहरूमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860204/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860204/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी",
+                "विज्ञान/प्रविधि"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T03:37:47+00:00",
+              "datePublished": "2025-10-05T03:37:46+00:00",
+              "headline": "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860204/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860204/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860204/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860204/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T03:37:47+00:00",
+              "datePublished": "2025-10-05T03:37:46+00:00",
+              "description": "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860204/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860204/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860204/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+              "url": "https://khabarhub.com/2025/05/860204/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860204/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+              "height": 627,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– अविरल वर्षाका कारण देशका विभिन्न आठ नदीले खतराको तह पार गरेका छन् ।  जल तथा मौसम विज्ञान विभागको आज बिहानसम्मको अद्यावधिक ‘रेकर्ड’अनुसार बागमती, सुनकोशी, अरुण, तमोर, कन्काई, बूढीखोला–सुनसरी, बिरिङ खोला झापालगायत नदीका बाढी मापन केन्द्रहरूमा बाढीले खतराको तह पार गरेका हुन् । विभागको बाढी पूर्वानुमान शाखा प्रमुख विनोद पराजुलीका अनुसार अन्य १२ नदी केन्द्रहरूमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860204/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/sunkoshi.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T03:37:46Z",
+  "source": "Khabarhub",
+  "store_path": "_store/f1/f1d24be7f0477afc17672f0973bfffdcbc571fe646900c1a56f0793497cfec97.json",
+  "title": "प्रमुख आठ नदीमा खतराको तह पार, केहीमा सतर्कताको तह नजिक",
+  "url": "https://khabarhub.com/2025/05/860204/",
+  "version": 1
+}
