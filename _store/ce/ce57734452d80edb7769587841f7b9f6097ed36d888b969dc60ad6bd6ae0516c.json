@@ -1,0 +1,494 @@
+{
+  "author": "रासस",
+  "content": "",
+  "description": "बङ्गलादेशमा आइतबार डेङ्गु रोग सङ्क्रमित नौ जनाको मृत्यु भएको छ । बङ्गलादेशमा यो वर्ष एकै दिनमा सबैभन्दा धेरै डेङ्गु सङ्क्रमितको मृत्यु भएको हो। यो बर्ष",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T17:29:03.683171Z",
+  "id": "ce57734452d80edb7769587841f7b9f6097ed36d888b969dc60ad6bd6ae0516c",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/10/05/1101362/#article",
+            "@type": "Article",
+            "articleSection": [
+              "विश्व",
+              "समाज",
+              "स्वास्थ्य"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+              "name": "रासस"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-05T16:36:43+00:00",
+            "datePublished": "2025-10-05T16:35:51+00:00",
+            "headline": "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/10/05/1101362/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/05/1101362/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/#breadcrumb"
+            },
+            "dateModified": "2025-10-05T16:36:43+00:00",
+            "datePublished": "2025-10-05T16:35:51+00:00",
+            "description": "बङ्गलादेशमा आइतबार डेङ्गु रोग सङ्क्रमित नौ जनाको मृत्यु भएको छ । बङ्गलादेशमा यो वर्ष एकै दिनमा सबैभन्दा धेरै डेङ्गु सङ्क्रमितको मृत्यु भएको हो। यो बर्ष",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/10/05/1101362/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg",
+            "url": "https://deshsanchar.com/2025/10/05/1101362/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/05/1101362/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg",
+            "height": 469,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg",
+            "width": 835
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/05/1101362/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "रासस",
+              "contentUrl": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g"
+            },
+            "name": "रासस",
+            "url": "https://deshsanchar.com/author/rasasa/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु"
+          ],
+          [
+            "og:description",
+            "बङ्गलादेशमा आइतबार डेङ्गु रोग सङ्क्रमित नौ जनाको मृत्यु भएको छ । बङ्गलादेशमा यो वर्ष एकै दिनमा सबैभन्दा धेरै डेङ्गु सङ्क्रमितको मृत्यु भएको हो। यो बर्ष"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/05/1101362/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-10-05T16:35:51+00:00"
+          ],
+          [
+            "article:modified_time",
+            "2025-10-05T16:36:43+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg"
+          ],
+          [
+            "og:image:width",
+            "835"
+          ],
+          [
+            "og:image:height",
+            "469"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/#article",
+              "@type": "Article",
+              "articleSection": [
+                "विश्व",
+                "समाज",
+                "स्वास्थ्य"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+                "name": "रासस"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-05T16:36:43+00:00",
+              "datePublished": "2025-10-05T16:35:51+00:00",
+              "headline": "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/05/1101362/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/10/05/1101362/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/05/1101362/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/05/1101362/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/10/05/1101362/#breadcrumb"
+              },
+              "dateModified": "2025-10-05T16:36:43+00:00",
+              "datePublished": "2025-10-05T16:35:51+00:00",
+              "description": "बङ्गलादेशमा आइतबार डेङ्गु रोग सङ्क्रमित नौ जनाको मृत्यु भएको छ । बङ्गलादेशमा यो वर्ष एकै दिनमा सबैभन्दा धेरै डेङ्गु सङ्क्रमितको मृत्यु भएको हो। यो बर्ष",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/05/1101362/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/05/1101362/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/05/1101362/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg",
+              "url": "https://deshsanchar.com/2025/10/05/1101362/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg",
+              "height": 469,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg",
+              "width": 835
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/05/1101362/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "रासस",
+                "contentUrl": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g"
+              },
+              "name": "रासस",
+              "url": "https://deshsanchar.com/author/rasasa/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु"
+            ],
+            [
+              "og:description",
+              "बङ्गलादेशमा आइतबार डेङ्गु रोग सङ्क्रमित नौ जनाको मृत्यु भएको छ । बङ्गलादेशमा यो वर्ष एकै दिनमा सबैभन्दा धेरै डेङ्गु सङ्क्रमितको मृत्यु भएको हो। यो बर्ष"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/05/1101362/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-10-05T16:35:51+00:00"
+            ],
+            [
+              "article:modified_time",
+              "2025-10-05T16:36:43+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2022/08/24180417/degu.jpg"
+            ],
+            [
+              "og:image:width",
+              "835"
+            ],
+            [
+              "og:image:height",
+              "469"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T16:35:51Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/ce/ce57734452d80edb7769587841f7b9f6097ed36d888b969dc60ad6bd6ae0516c.json",
+  "title": "बङ्गलादेशः डेङ्गु ज्वरोका कारण २१२ जनाको मृत्यु",
+  "url": "https://deshsanchar.com/2025/10/05/1101362/",
+  "version": 1
+}

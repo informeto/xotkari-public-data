@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n12\nShares",
+  "description": "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T17:29:21.650376Z",
+  "id": "d76baf6805548901242c1496bb86a6f321303176e3332a69a18c4715618eb6bd",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860554/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T17:17:00+00:00",
+            "datePublished": "2025-10-05T17:16:57+00:00",
+            "headline": "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860554/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860554/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860554/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860554/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T17:17:00+00:00",
+            "datePublished": "2025-10-05T17:16:57+00:00",
+            "description": "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860554/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860554/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860554/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+            "url": "https://khabarhub.com/2025/05/860554/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860554/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+            "height": 1013,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+            "width": 1800
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "राजविराज- जिता नदी र खाडो खोलाको बाढी बस्तीमा पस्दा सप्तरीको तिलाठी कोइलाडीका ३०० बढी घर डुबानमा परेका छन् । तिलाठी कोइलाडी गाउँपालिकाका पाँचवटै वडामा बाढी पसेको छ । गाउँपालिकाका विपद् संयोजक राजेशकुमार झाका अनुसार वडा नं २ लौनियामा खाँडो खोलाको बाँध कटान हुँदा गाउँभर बाढी फैलिएको छभने वडा नं ४ रामटोलमा एक घर भत्किएको छ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860554/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860554/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T17:17:00+00:00",
+              "datePublished": "2025-10-05T17:16:57+00:00",
+              "headline": "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860554/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860554/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860554/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860554/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T17:17:00+00:00",
+              "datePublished": "2025-10-05T17:16:57+00:00",
+              "description": "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860554/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860554/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860554/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+              "url": "https://khabarhub.com/2025/05/860554/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860554/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+              "height": 1013,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg",
+              "width": 1800
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "राजविराज- जिता नदी र खाडो खोलाको बाढी बस्तीमा पस्दा सप्तरीको तिलाठी कोइलाडीका ३०० बढी घर डुबानमा परेका छन् । तिलाठी कोइलाडी गाउँपालिकाका पाँचवटै वडामा बाढी पसेको छ । गाउँपालिकाका विपद् संयोजक राजेशकुमार झाका अनुसार वडा नं २ लौनियामा खाँडो खोलाको बाँध कटान हुँदा गाउँभर बाढी फैलिएको छभने वडा नं ४ रामटोलमा एक घर भत्किएको छ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860554/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/ArunYadav_RajbirajSaptari_RSS-badhi-duban.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T17:16:57Z",
+  "source": "Khabarhub",
+  "store_path": "_store/d7/d76baf6805548901242c1496bb86a6f321303176e3332a69a18c4715618eb6bd.json",
+  "title": "तिलाठी कोइलाडीका तीन सय बढी घर डुबानमा",
+  "url": "https://khabarhub.com/2025/05/860554/",
+  "version": 1
+}
