@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n42\nShares",
+  "description": "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T16:36:26.281342Z",
+  "id": "81e43b3511842a5cbe760a4ab0e8c3cc3d778306591074f2d9a050c31937ac20",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860547/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T15:50:07+00:00",
+            "datePublished": "2025-10-05T15:50:04+00:00",
+            "headline": "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860547/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860547/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860547/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860547/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T15:50:07+00:00",
+            "datePublished": "2025-10-05T15:50:04+00:00",
+            "description": "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860547/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860547/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860547/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+            "url": "https://khabarhub.com/2025/05/860547/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860547/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+            "height": 720,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- असोज १७ गते बेलुकीदेखि परेको अविरल वर्षाका कारण देशका विभिन्न स्थानमा फसेका नागरिकलाई नेपाली सेनाले उद्धार गरेको छ । मोरङ्गको कटहरी गाउँपालिका–४ नयाँबजार इलाकास्थित लोहन्द्रा खोलामा आएको बाढीका कारण सुकुम्बासी टोल डुबानमा परेर फसेका छ जना बालबालिकालाई शिवदल गणको टोलीले सुरक्षित स्थानमा स्थानान्तरण गरेको सैनिक जनसम्पर्क तथा सूचना निर्देशनालयले जनाएको छ । यस्तै, झापाको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860547/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860547/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T15:50:07+00:00",
+              "datePublished": "2025-10-05T15:50:04+00:00",
+              "headline": "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860547/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860547/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860547/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860547/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T15:50:07+00:00",
+              "datePublished": "2025-10-05T15:50:04+00:00",
+              "description": "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860547/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860547/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860547/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+              "url": "https://khabarhub.com/2025/05/860547/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860547/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+              "height": 720,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- असोज १७ गते बेलुकीदेखि परेको अविरल वर्षाका कारण देशका विभिन्न स्थानमा फसेका नागरिकलाई नेपाली सेनाले उद्धार गरेको छ । मोरङ्गको कटहरी गाउँपालिका–४ नयाँबजार इलाकास्थित लोहन्द्रा खोलामा आएको बाढीका कारण सुकुम्बासी टोल डुबानमा परेर फसेका छ जना बालबालिकालाई शिवदल गणको टोलीले सुरक्षित स्थानमा स्थानान्तरण गरेको सैनिक जनसम्पर्क तथा सूचना निर्देशनालयले जनाएको छ । यस्तै, झापाको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860547/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-army-rescue.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T15:50:04Z",
+  "source": "Khabarhub",
+  "store_path": "_store/81/81e43b3511842a5cbe760a4ab0e8c3cc3d778306591074f2d9a050c31937ac20.json",
+  "title": "अविरल वर्षाका कारण फसेका नागरिकलाई सेनाले गर्‍यो उद्धार",
+  "url": "https://khabarhub.com/2025/05/860547/",
+  "version": 1
+}

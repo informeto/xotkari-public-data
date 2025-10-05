@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n54\nShares",
+  "description": "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते देश/प्रदेश",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T16:36:27.153475Z",
+  "id": "54afaab1d053b1b6818844b64a4f295c0e92311a396da7d40b72a7f06c2745e1",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860545/#article",
+            "@type": "Article",
+            "articleSection": [
+              "देश/प्रदेश"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T15:45:17+00:00",
+            "datePublished": "2025-10-05T15:45:14+00:00",
+            "headline": "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860545/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860545/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860545/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860545/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T15:45:17+00:00",
+            "datePublished": "2025-10-05T15:45:14+00:00",
+            "description": "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते देश/प्रदेश",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860545/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860545/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860545/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "url": "https://khabarhub.com/2025/05/860545/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860545/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "तनहुँ- तनहुँको शुक्लागण्डकी नगरपालिका–४ दुलेगौँडा हेल्थ पोष्टचोक नजिकैको पहिरोमा माइक्रोबस दुर्घटना हुँदा ११ जना घाइते भएका छन् । आज दुलेगौँडाबाट लालिमतर्फ जादै गरेको ग १ ज ८३१७ नम्बरको माइक्रो सडकबाट २० मिटर तल खसेको हो । विङ्गरमा सवार चौध महिने बच्चासहित ११ जना घाइते भएका इलाका प्रहरी कार्यालय बेलचौताराका प्रमुख प्रहरी निरीक्षक पोषण थापाले जानकारी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860545/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860545/#article",
+              "@type": "Article",
+              "articleSection": [
+                "देश/प्रदेश"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T15:45:17+00:00",
+              "datePublished": "2025-10-05T15:45:14+00:00",
+              "headline": "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860545/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860545/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860545/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860545/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T15:45:17+00:00",
+              "datePublished": "2025-10-05T15:45:14+00:00",
+              "description": "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते देश/प्रदेश",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860545/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860545/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860545/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "url": "https://khabarhub.com/2025/05/860545/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860545/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "तनहुँ- तनहुँको शुक्लागण्डकी नगरपालिका–४ दुलेगौँडा हेल्थ पोष्टचोक नजिकैको पहिरोमा माइक्रोबस दुर्घटना हुँदा ११ जना घाइते भएका छन् । आज दुलेगौँडाबाट लालिमतर्फ जादै गरेको ग १ ज ८३१७ नम्बरको माइक्रो सडकबाट २० मिटर तल खसेको हो । विङ्गरमा सवार चौध महिने बच्चासहित ११ जना घाइते भएका इलाका प्रहरी कार्यालय बेलचौताराका प्रमुख प्रहरी निरीक्षक पोषण थापाले जानकारी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860545/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T15:45:14Z",
+  "source": "Khabarhub",
+  "store_path": "_store/54/54afaab1d053b1b6818844b64a4f295c0e92311a396da7d40b72a7f06c2745e1.json",
+  "title": "तनहुँमा माइक्रोबस दुर्घटना हुँदा ११ घाइते",
+  "url": "https://khabarhub.com/2025/05/860545/",
+  "version": 1
+}
