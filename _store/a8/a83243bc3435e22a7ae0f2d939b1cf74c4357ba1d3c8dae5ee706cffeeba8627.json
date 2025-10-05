@@ -1,0 +1,376 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n228\nShares",
+  "description": "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज खेलकुद",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T02:15:22.943111Z",
+  "id": "a83243bc3435e22a7ae0f2d939b1cf74c4357ba1d3c8dae5ee706cffeeba8627",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/558195687_1256107653212279_6906005147039708837_n-614x768.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860177/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T00:44:04+00:00",
+            "datePublished": "2025-10-05T00:44:01+00:00",
+            "headline": "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860177/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860177/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860177/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860177/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T00:44:04+00:00",
+            "datePublished": "2025-10-05T00:44:01+00:00",
+            "description": "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज खेलकुद",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860177/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860177/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860177/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+            "url": "https://khabarhub.com/2025/05/860177/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860177/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल तस्बिरः क्यान",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+            "height": 1280,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+            "width": 2560
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – अन्तर्राष्ट्रिय टी-२० शृङ्खलाको तेस्रो खेलमा आज नेपाली महिला राष्ट्रिय टिमले मलेसियासँग प्रतिस्पर्धा गर्दैछ। पहिलो खेलमा तीन रनले पराजित भएको नेपाली महिला टिम दोस्रो खेलमा ६ विकेटले विजयी भएको थियो। आज नेपालले सिरिजको तेस्रो खेलमा प्रतिस्पर्धा गर्न लागेको हो। शनिबार भएको दोस्रो खेलमा नेपाल विजयी भएसँगै पाँच खेलको सिरिजमा नेपाल र मलेसियाले १-१ को […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860177/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860177/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T00:44:04+00:00",
+              "datePublished": "2025-10-05T00:44:01+00:00",
+              "headline": "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860177/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860177/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860177/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860177/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T00:44:04+00:00",
+              "datePublished": "2025-10-05T00:44:01+00:00",
+              "description": "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज खेलकुद",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860177/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860177/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860177/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+              "url": "https://khabarhub.com/2025/05/860177/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860177/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल तस्बिरः क्यान",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+              "height": 1280,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg",
+              "width": 2560
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – अन्तर्राष्ट्रिय टी-२० शृङ्खलाको तेस्रो खेलमा आज नेपाली महिला राष्ट्रिय टिमले मलेसियासँग प्रतिस्पर्धा गर्दैछ। पहिलो खेलमा तीन रनले पराजित भएको नेपाली महिला टिम दोस्रो खेलमा ६ विकेटले विजयी भएको थियो। आज नेपालले सिरिजको तेस्रो खेलमा प्रतिस्पर्धा गर्न लागेको हो। शनिबार भएको दोस्रो खेलमा नेपाल विजयी भएसँगै पाँच खेलको सिरिजमा नेपाल र मलेसियाले १-१ को […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860177/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Cricket-women-NP-scaled.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T00:44:01Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a8/a83243bc3435e22a7ae0f2d939b1cf74c4357ba1d3c8dae5ee706cffeeba8627.json",
+  "title": "मलेसियाविरुद्ध टी-२० सिरिज : नेपालको तेस्रो प्रतिस्पर्धा आज",
+  "url": "https://khabarhub.com/2025/05/860177/",
+  "version": 1
+}

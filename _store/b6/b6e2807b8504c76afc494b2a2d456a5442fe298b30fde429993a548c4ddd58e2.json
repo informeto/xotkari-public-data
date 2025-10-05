@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n261\nShares",
+  "description": "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T02:15:22.500332Z",
+  "id": "b6e2807b8504c76afc494b2a2d456a5442fe298b30fde429993a548c4ddd58e2",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860190/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T00:52:05+00:00",
+            "datePublished": "2025-10-05T00:52:03+00:00",
+            "headline": "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860190/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860190/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860190/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+            "wordCount": 9
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860190/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T00:52:05+00:00",
+            "datePublished": "2025-10-05T00:52:03+00:00",
+            "description": "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860190/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860190/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860190/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+            "url": "https://khabarhub.com/2025/05/860190/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860190/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+            "height": 700,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – हाल देशभर बङ्गालको खाडीबाट आएको जलवाष्प युक्त हावा (मनसुनी वायुको) प्रभाव रहँदा देशभर वर्षा भइरहेको छ। जल तथा मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाका अनुसार कोशी र मधेस प्रदेशका अधिकांश स्थामा पूर्ण बदली रही बागमती, लुम्बिनी प्रदेशमा साधारणतया बदली र बाँकी भू-भागहरुमा आंशिक बदली रहने छ। कोशी र मधेस प्रदेशका धेरै स्थानहरूमा तथा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860190/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860190/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T00:52:05+00:00",
+              "datePublished": "2025-10-05T00:52:03+00:00",
+              "headline": "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860190/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860190/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860190/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+              "wordCount": 9
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860190/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T00:52:05+00:00",
+              "datePublished": "2025-10-05T00:52:03+00:00",
+              "description": "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860190/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860190/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860190/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+              "url": "https://khabarhub.com/2025/05/860190/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860190/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+              "height": 700,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – हाल देशभर बङ्गालको खाडीबाट आएको जलवाष्प युक्त हावा (मनसुनी वायुको) प्रभाव रहँदा देशभर वर्षा भइरहेको छ। जल तथा मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाका अनुसार कोशी र मधेस प्रदेशका अधिकांश स्थामा पूर्ण बदली रही बागमती, लुम्बिनी प्रदेशमा साधारणतया बदली र बाँकी भू-भागहरुमा आंशिक बदली रहने छ। कोशी र मधेस प्रदेशका धेरै स्थानहरूमा तथा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860190/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/5.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T00:52:03Z",
+  "source": "Khabarhub",
+  "store_path": "_store/b6/b6e2807b8504c76afc494b2a2d456a5442fe298b30fde429993a548c4ddd58e2.json",
+  "title": "आजको मौसम पूर्वानुमान : देशभर वर्षा हुने, बाढी, पहिरो र डुबानाको जोखिम कायमै",
+  "url": "https://khabarhub.com/2025/05/860190/",
+  "version": 1
+}
