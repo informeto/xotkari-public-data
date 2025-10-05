@@ -1,0 +1,380 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n5\nमिनेट\n78\nShares",
+  "description": "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते….. ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T10:34:48.060554Z",
+  "id": "10cb55b0d444376594b827c1c9b9e3a2b6d3939033e8541a0be0d9f87ee21016",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/2-1-768x576.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/10/khabarhub-logo-150x150.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/APF1-768x401.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/police--768x728.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/ilam-landslide3-645x768.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Police-miking-768x451.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860397/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/6b76eac89304d59a8104b483da75cf72",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T10:07:02+00:00",
+            "datePublished": "2025-10-05T10:07:00+00:00",
+            "headline": "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते…..",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860397/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860397/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860397/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+            "wordCount": 22
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860397/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T10:07:02+00:00",
+            "datePublished": "2025-10-05T10:07:00+00:00",
+            "description": "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते….. ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860397/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते….. | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860397/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860397/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+            "url": "https://khabarhub.com/2025/05/860397/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860397/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+            "height": 650,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/6b76eac89304d59a8104b483da75cf72",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/10/khabarhub-logo-96x96.jpg",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/10/khabarhub-logo-96x96.jpg"
+            },
+            "name": "खबरहब",
+            "sameAs": [
+              "http://appharu"
+            ],
+            "url": "https://khabarhub.com/author/bishnu-bibek/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते….."
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "जब प्रकोपको सामना गर्नुपर्ने घडी आउँछ, त्यतिबेला मुख ताक्ने पहिलो र अन्तिम स्रोत भनेकै सरकार हो । सरकारी संयन्त्रको ढाडस पनि पीडितका लागि बाँच्ने आधार बन्छ । हेलिकोप्टरबाट निरीक्षण गर्ने यसअघिका अभ्यास विपरीत यसपल्टको विपत्तिमा सरकारबाट प्राप्त सदाशयताको आमनागरिकले प्रशंसा गरेका छन् । सामाजिक सञ्जालमा अधिकांशको प्रतिक्रिया छ- ‘आपतमा सरकार भेटियो’ । कतिपय जेन जी आन्दोलनमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860397/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860397/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/6b76eac89304d59a8104b483da75cf72",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T10:07:02+00:00",
+              "datePublished": "2025-10-05T10:07:00+00:00",
+              "headline": "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते…..",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860397/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860397/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860397/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+              "wordCount": 22
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860397/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T10:07:02+00:00",
+              "datePublished": "2025-10-05T10:07:00+00:00",
+              "description": "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते….. ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860397/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते….. | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860397/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860397/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+              "url": "https://khabarhub.com/2025/05/860397/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860397/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+              "height": 650,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/6b76eac89304d59a8104b483da75cf72",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/10/khabarhub-logo-96x96.jpg",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/10/khabarhub-logo-96x96.jpg"
+              },
+              "name": "खबरहब",
+              "sameAs": [
+                "http://appharu"
+              ],
+              "url": "https://khabarhub.com/author/bishnu-bibek/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते….."
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "जब प्रकोपको सामना गर्नुपर्ने घडी आउँछ, त्यतिबेला मुख ताक्ने पहिलो र अन्तिम स्रोत भनेकै सरकार हो । सरकारी संयन्त्रको ढाडस पनि पीडितका लागि बाँच्ने आधार बन्छ । हेलिकोप्टरबाट निरीक्षण गर्ने यसअघिका अभ्यास विपरीत यसपल्टको विपत्तिमा सरकारबाट प्राप्त सदाशयताको आमनागरिकले प्रशंसा गरेका छन् । सामाजिक सञ्जालमा अधिकांशको प्रतिक्रिया छ- ‘आपतमा सरकार भेटियो’ । कतिपय जेन जी आन्दोलनमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860397/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/1-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T10:07:00Z",
+  "source": "Khabarhub",
+  "store_path": "_store/10/10cb55b0d444376594b827c1c9b9e3a2b6d3939033e8541a0be0d9f87ee21016.json",
+  "title": "विपत्तिमा जब सरकार जागा बस्यो, नागरिक सुते…..",
+  "url": "https://khabarhub.com/2025/05/860397/",
+  "version": 1
+}
