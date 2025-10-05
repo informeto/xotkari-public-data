@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "रमेश धमला\n1:42 pm, Sun, 5 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T08:36:09.765441Z",
+  "id": "3eeacc61add826e2f71f71cca2c7c915b2f249c78ccf47a7130b9025876396d2",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/ramesh-dhamala-150x150.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509783/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+              "name": "रमेश धमला"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-05T08:13:34+00:00",
+            "datePublished": "2025-10-05T07:57:01+00:00",
+            "headline": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509783/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509783/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509783/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509783/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509783/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509783/#breadcrumb"
+            },
+            "dateModified": "2025-10-05T08:13:34+00:00",
+            "datePublished": "2025-10-05T07:57:01+00:00",
+            "description": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509783/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509783/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509783/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg",
+            "url": "https://www.imagekhabar.com/news/509783/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509783/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg",
+            "height": 960,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg",
+            "width": 1280
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509783/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "रमेश धमला",
+              "contentUrl": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g"
+            },
+            "name": "रमेश धमला",
+            "url": "https://www.imagekhabar.com/news/author/ramesh-dhamala/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । गृह मन्त्रालयको तथ्याँक अनुसार वर्षाका कारण गएको पहिरोमा परी सबै भन्दा धेरै इलाममा २७ जनाको मृत्यु भएको छ। इलामको सूर्योदय नगरपालिकामा ५ , इलाम नगरपालिका घोषमा ६ जना , देउमाइ नगरपालिकामा २ जनाको ज्यान गएको छ । त्यस्तै माइजोकमाइ गाउँपालिकामा गएको पहिरोमा परी ८ जनाको मृत्यु भएको छ भने ,मान्सेबुङ गाउँपालिकामा पनि ३ […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509783/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509783/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+                "name": "रमेश धमला"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-05T08:13:34+00:00",
+              "datePublished": "2025-10-05T07:57:01+00:00",
+              "headline": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509783/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509783/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509783/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509783/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509783/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509783/#breadcrumb"
+              },
+              "dateModified": "2025-10-05T08:13:34+00:00",
+              "datePublished": "2025-10-05T07:57:01+00:00",
+              "description": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509783/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509783/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509783/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg",
+              "url": "https://www.imagekhabar.com/news/509783/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509783/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg",
+              "height": 960,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg",
+              "width": 1280
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509783/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "रमेश धमला",
+                "contentUrl": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g"
+              },
+              "name": "रमेश धमला",
+              "url": "https://www.imagekhabar.com/news/author/ramesh-dhamala/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । गृह मन्त्रालयको तथ्याँक अनुसार वर्षाका कारण गएको पहिरोमा परी सबै भन्दा धेरै इलाममा २७ जनाको मृत्यु भएको छ। इलामको सूर्योदय नगरपालिकामा ५ , इलाम नगरपालिका घोषमा ६ जना , देउमाइ नगरपालिकामा २ जनाको ज्यान गएको छ । त्यस्तै माइजोकमाइ गाउँपालिकामा गएको पहिरोमा परी ८ जनाको मृत्यु भएको छ भने ,मान्सेबुङ गाउँपालिकामा पनि ३ […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509783/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/badi.jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T07:57:01Z",
+  "source": "Image Khabar",
+  "store_path": "_store/3e/3eeacc61add826e2f71f71cca2c7c915b2f249c78ccf47a7130b9025876396d2.json",
+  "title": "बाढी र पहिरोमा परी दुई दिनमा ३९ जनाको मृत्यु ११ जना बेपत्ता",
+  "url": "https://www.imagekhabar.com/news/509783/",
+  "version": 1
+}
