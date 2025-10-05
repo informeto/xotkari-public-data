@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n57\nShares",
+  "description": "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T11:27:38.438572Z",
+  "id": "134f5780095de0932c7a482ceea934f1f5a18bab1feb0399b2c7adb55f056d03",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860451/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T11:00:56+00:00",
+            "datePublished": "2025-10-05T10:59:36+00:00",
+            "headline": "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860451/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860451/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860451/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860451/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T11:00:56+00:00",
+            "datePublished": "2025-10-05T10:59:36+00:00",
+            "description": "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860451/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860451/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860451/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+            "url": "https://khabarhub.com/2025/05/860451/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860451/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+            "height": 700,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– ऊर्जा, भौतिक पूर्वाधार तथा यातायातमन्त्री कुलमान घिसिङले वर्षाका कारण बन्द भएको काठमाडौँबाट पश्चिमतर्फका सडक तत्कालै खोल्ने गरी तयारी भइरहेको र विपद्बाट क्षतिग्रस्त विभिन्न सडकको मर्मत कार्य तीव्र गतिमा गरिने प्रतिबद्धता जनाएका छन् ।  आज मन्त्रालयमा गरिएको पत्रकार सम्मेलनमा घिसिङले नेपालको पूर्व क्षेत्रमा अझै पनि वर्षा हुनेक्रम जारी रहेको वर्षा कम भएपछि मात्रै सडक सुधारको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860451/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860451/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T11:00:56+00:00",
+              "datePublished": "2025-10-05T10:59:36+00:00",
+              "headline": "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860451/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860451/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860451/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860451/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T11:00:56+00:00",
+              "datePublished": "2025-10-05T10:59:36+00:00",
+              "description": "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860451/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860451/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860451/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+              "url": "https://khabarhub.com/2025/05/860451/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860451/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+              "height": 700,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– ऊर्जा, भौतिक पूर्वाधार तथा यातायातमन्त्री कुलमान घिसिङले वर्षाका कारण बन्द भएको काठमाडौँबाट पश्चिमतर्फका सडक तत्कालै खोल्ने गरी तयारी भइरहेको र विपद्बाट क्षतिग्रस्त विभिन्न सडकको मर्मत कार्य तीव्र गतिमा गरिने प्रतिबद्धता जनाएका छन् ।  आज मन्त्रालयमा गरिएको पत्रकार सम्मेलनमा घिसिङले नेपालको पूर्व क्षेत्रमा अझै पनि वर्षा हुनेक्रम जारी रहेको वर्षा कम भएपछि मात्रै सडक सुधारको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860451/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-ghising.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T10:59:36Z",
+  "source": "Khabarhub",
+  "store_path": "_store/13/134f5780095de0932c7a482ceea934f1f5a18bab1feb0399b2c7adb55f056d03.json",
+  "title": "विपदबाट क्षतिग्रस्त सडकको मर्मत कार्य तीव्र गतिमा गरिने",
+  "url": "https://khabarhub.com/2025/05/860451/",
+  "version": 1
+}
