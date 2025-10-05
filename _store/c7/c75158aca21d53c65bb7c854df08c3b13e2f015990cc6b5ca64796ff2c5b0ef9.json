@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n१९ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n75\nShares",
+  "description": "सुनसरीमा बाढीले सयौँ घर डुबानमा समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-05T14:31:50.755758Z",
+  "id": "c75158aca21d53c65bb7c854df08c3b13e2f015990cc6b5ca64796ff2c5b0ef9",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/05/860524/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-05T13:39:01+00:00",
+            "datePublished": "2025-10-05T13:38:59+00:00",
+            "headline": "सुनसरीमा बाढीले सयौँ घर डुबानमा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860524/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/05/860524/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860524/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860524/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-05T13:39:01+00:00",
+            "datePublished": "2025-10-05T13:38:59+00:00",
+            "description": "सुनसरीमा बाढीले सयौँ घर डुबानमा समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/05/860524/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "सुनसरीमा बाढीले सयौँ घर डुबानमा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/05/860524/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/05/860524/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+            "url": "https://khabarhub.com/2025/05/860524/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/05/860524/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+            "height": 589,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+            "width": 1092
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सुनसरीमा बाढीले सयौँ घर डुबानमा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "धरान- लगातारको वर्षाले सुनसरीमा बाढीपहिरोको जोखिम बढेको छ । सुनसरीमा बाढीका कारण आज करिब एक हजार ३६ घर डुबानमा परेको जिल्ला प्रहरी कार्यालयले जनाएको छ । कार्यालयका प्रवक्ता प्रहरी नायब उपरीक्षक योगराज खतिवडाले वर्षाका कारण खोलानाला बढेपछि जिल्लाका विभिन्न नगर तथा गाउँपालिका क्षेत्रका बस्तीहरूमा बाढी पसेको बताए । डुबानमा परेका अधिकांश घरहरूबाट मानिसहरू अस्थायी रूपमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/05/860524/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/05/860524/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-05T13:39:01+00:00",
+              "datePublished": "2025-10-05T13:38:59+00:00",
+              "headline": "सुनसरीमा बाढीले सयौँ घर डुबानमा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860524/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/05/860524/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860524/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860524/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-05T13:39:01+00:00",
+              "datePublished": "2025-10-05T13:38:59+00:00",
+              "description": "सुनसरीमा बाढीले सयौँ घर डुबानमा समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/05/860524/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "सुनसरीमा बाढीले सयौँ घर डुबानमा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/05/860524/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/05/860524/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+              "url": "https://khabarhub.com/2025/05/860524/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/05/860524/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+              "height": 589,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg",
+              "width": 1092
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सुनसरीमा बाढीले सयौँ घर डुबानमा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "धरान- लगातारको वर्षाले सुनसरीमा बाढीपहिरोको जोखिम बढेको छ । सुनसरीमा बाढीका कारण आज करिब एक हजार ३६ घर डुबानमा परेको जिल्ला प्रहरी कार्यालयले जनाएको छ । कार्यालयका प्रवक्ता प्रहरी नायब उपरीक्षक योगराज खतिवडाले वर्षाका कारण खोलानाला बढेपछि जिल्लाका विभिन्न नगर तथा गाउँपालिका क्षेत्रका बस्तीहरूमा बाढी पसेको बताए । डुबानमा परेका अधिकांश घरहरूबाट मानिसहरू अस्थायी रूपमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/05/860524/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2020/07/basti-duban-badhi-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-05T13:38:59Z",
+  "source": "Khabarhub",
+  "store_path": "_store/c7/c75158aca21d53c65bb7c854df08c3b13e2f015990cc6b5ca64796ff2c5b0ef9.json",
+  "title": "सुनसरीमा बाढीले सयौँ घर डुबानमा",
+  "url": "https://khabarhub.com/2025/05/860524/",
+  "version": 1
+}
