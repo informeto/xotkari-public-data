@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n0\nShares",
+  "description": "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T13:04:12.599049Z",
+  "id": "93de09bba46e8d996624e4d80344f328e17ae3023ef419663bf8e10227e66b11",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860782/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T11:40:34+00:00",
+            "datePublished": "2025-10-06T11:38:32+00:00",
+            "headline": "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860782/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860782/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860782/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860782/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T11:40:34+00:00",
+            "datePublished": "2025-10-06T11:38:32+00:00",
+            "description": "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860782/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860782/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860782/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg",
+            "url": "https://khabarhub.com/2025/06/860782/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860782/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg",
+            "height": 477,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg",
+            "width": 1130
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– यही असोज १७ गतेदेखि १९ गतेसम्म आएको भारी वर्षाका कारण ३ प्रदेशका १० जिल्लामा ३२ जलविद्युत आयोजना प्रभावित भएका छन् । स्वतन्त्र ऊर्जा उत्पादकहरूको सस्था, नेपाल (इप्पान)ले संकलन गरेको सोमवार दिउँसोसम्मको प्रारम्भिक तथ्यांक अनुसार सञ्चालनमा रहेका १८० मेगावाट क्षमताका १७ आयोजना र निर्माणाधीन अवस्थामा रहेका ३३८ मेगावाट क्षमताका १५ जलविद्युत आयोजना बाढीबाट प्रभावित भएका […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860782/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860782/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T11:40:34+00:00",
+              "datePublished": "2025-10-06T11:38:32+00:00",
+              "headline": "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860782/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860782/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860782/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860782/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T11:40:34+00:00",
+              "datePublished": "2025-10-06T11:38:32+00:00",
+              "description": "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860782/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860782/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860782/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg",
+              "url": "https://khabarhub.com/2025/06/860782/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860782/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg",
+              "height": 477,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg",
+              "width": 1130
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– यही असोज १७ गतेदेखि १९ गतेसम्म आएको भारी वर्षाका कारण ३ प्रदेशका १० जिल्लामा ३२ जलविद्युत आयोजना प्रभावित भएका छन् । स्वतन्त्र ऊर्जा उत्पादकहरूको सस्था, नेपाल (इप्पान)ले संकलन गरेको सोमवार दिउँसोसम्मको प्रारम्भिक तथ्यांक अनुसार सञ्चालनमा रहेका १८० मेगावाट क्षमताका १७ आयोजना र निर्माणाधीन अवस्थामा रहेका ३३८ मेगावाट क्षमताका १५ जलविद्युत आयोजना बाढीबाट प्रभावित भएका […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860782/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/04/ippan.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T11:38:32Z",
+  "source": "Khabarhub",
+  "store_path": "_store/93/93de09bba46e8d996624e4d80344f328e17ae3023ef419663bf8e10227e66b11.json",
+  "title": "बाढीबाट ३२ जलविद्युत आयोजना प्रभावित, इलाममा मात्रै १६ आयोजनामा क्षति",
+  "url": "https://khabarhub.com/2025/06/860782/",
+  "version": 1
+}

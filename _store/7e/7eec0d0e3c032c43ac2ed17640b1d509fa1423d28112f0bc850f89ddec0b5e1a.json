@@ -1,0 +1,370 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n267\nShares",
+  "description": "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T13:04:08.111695Z",
+  "id": "7eec0d0e3c032c43ac2ed17640b1d509fa1423d28112f0bc850f89ddec0b5e1a",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/551179420_1114552520867619_4011742110028442585_n-526x768.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860816/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T12:41:04+00:00",
+            "datePublished": "2025-10-06T12:32:53+00:00",
+            "headline": "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860816/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860816/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860816/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860816/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T12:41:04+00:00",
+            "datePublished": "2025-10-06T12:32:53+00:00",
+            "description": "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860816/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860816/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860816/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png",
+            "url": "https://khabarhub.com/2025/06/860816/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860816/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png",
+            "height": 1080,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png",
+            "width": 1920
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– निर्वाचन आयोगले आगामी फागुन २१ गते हुने निर्वाचनको कार्यतालिका स्वीकृत गरेको छ।  सोमबार एक विज्ञप्ति जारी गरेर आयोगले निर्वाचन कार्यतालिका स्वीकृत गरिएको जनाएको हो ।  जारी विज्ञप्तिअनुसार, निर्वाचन कार्यतालिका स्वीकृतसँगै दल दर्तादेखि मतगणनासम्मका सबै प्रक्रिया चरणबद्ध रूपमा सञ्चालन गरिने भएको छ। आयोगले समयबद्ध तयारीमार्फत निष्पक्ष र पारदर्शी निर्वाचन सम्पन्न गर्ने लक्ष्य राखेको छ। पहिलो […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860816/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860816/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T12:41:04+00:00",
+              "datePublished": "2025-10-06T12:32:53+00:00",
+              "headline": "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860816/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860816/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860816/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860816/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T12:41:04+00:00",
+              "datePublished": "2025-10-06T12:32:53+00:00",
+              "description": "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860816/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860816/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860816/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png",
+              "url": "https://khabarhub.com/2025/06/860816/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860816/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png",
+              "height": 1080,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png",
+              "width": 1920
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– निर्वाचन आयोगले आगामी फागुन २१ गते हुने निर्वाचनको कार्यतालिका स्वीकृत गरेको छ।  सोमबार एक विज्ञप्ति जारी गरेर आयोगले निर्वाचन कार्यतालिका स्वीकृत गरिएको जनाएको हो ।  जारी विज्ञप्तिअनुसार, निर्वाचन कार्यतालिका स्वीकृतसँगै दल दर्तादेखि मतगणनासम्मका सबै प्रक्रिया चरणबद्ध रूपमा सञ्चालन गरिने भएको छ। आयोगले समयबद्ध तयारीमार्फत निष्पक्ष र पारदर्शी निर्वाचन सम्पन्न गर्ने लक्ष्य राखेको छ। पहिलो […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860816/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2021/07/Nirbachan-Aayog-1-2.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T12:32:53Z",
+  "source": "Khabarhub",
+  "store_path": "_store/7e/7eec0d0e3c032c43ac2ed17640b1d509fa1423d28112f0bc850f89ddec0b5e1a.json",
+  "title": "यस्तो छ फागुन २१ मा हुने चुनावको कार्यतालिका",
+  "url": "https://khabarhub.com/2025/06/860816/",
+  "version": 1
+}

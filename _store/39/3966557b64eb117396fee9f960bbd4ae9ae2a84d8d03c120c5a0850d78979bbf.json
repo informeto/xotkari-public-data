@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n27\nShares",
+  "description": "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T13:04:10.271522Z",
+  "id": "3966557b64eb117396fee9f960bbd4ae9ae2a84d8d03c120c5a0850d78979bbf",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860794/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T11:52:50+00:00",
+            "datePublished": "2025-10-06T11:52:47+00:00",
+            "headline": "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860794/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860794/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860794/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860794/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T11:52:50+00:00",
+            "datePublished": "2025-10-06T11:52:47+00:00",
+            "description": "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860794/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860794/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860794/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg",
+            "url": "https://khabarhub.com/2025/06/860794/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860794/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg",
+            "height": 1452,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg",
+            "width": 1800
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "चन्द्रपुर– गत शनिबार र आइतबार आएको अविरल वर्षाले जिल्लामा ठूलो क्षति पुर्‍याएको छ । सदरमुकाम गौर हालसम्म जलमग्न छ । पूर्वतर्फ रहेको बागमती नदी र पश्चिमतर्फ रहेको लालबकैया नदीको बाढी पसेपछि गौर जलमग्न भएको हो ।  बाढीबाट हालसम्म ४१२ परिवार विस्थापित भएका जिल्ला प्रहरी कार्यालयका प्रहरी उपरीक्षक नेत्रमणी गिरीले जानकारी दिए । सबैभन्दा बढी दुर्गाभगवती […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860794/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860794/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T11:52:50+00:00",
+              "datePublished": "2025-10-06T11:52:47+00:00",
+              "headline": "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860794/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860794/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860794/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860794/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T11:52:50+00:00",
+              "datePublished": "2025-10-06T11:52:47+00:00",
+              "description": "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860794/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860794/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860794/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg",
+              "url": "https://khabarhub.com/2025/06/860794/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860794/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg",
+              "height": 1452,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg",
+              "width": 1800
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "चन्द्रपुर– गत शनिबार र आइतबार आएको अविरल वर्षाले जिल्लामा ठूलो क्षति पुर्‍याएको छ । सदरमुकाम गौर हालसम्म जलमग्न छ । पूर्वतर्फ रहेको बागमती नदी र पश्चिमतर्फ रहेको लालबकैया नदीको बाढी पसेपछि गौर जलमग्न भएको हो ।  बाढीबाट हालसम्म ४१२ परिवार विस्थापित भएका जिल्ला प्रहरी कार्यालयका प्रहरी उपरीक्षक नेत्रमणी गिरीले जानकारी दिए । सबैभन्दा बढी दुर्गाभगवती […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860794/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/rautahat-e1759751561212.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T11:52:47Z",
+  "source": "Khabarhub",
+  "store_path": "_store/39/3966557b64eb117396fee9f960bbd4ae9ae2a84d8d03c120c5a0850d78979bbf.json",
+  "title": "बाढीबाट रौतहटमा ४१२ परिवार विस्थापित",
+  "url": "https://khabarhub.com/2025/06/860794/",
+  "version": 1
+}

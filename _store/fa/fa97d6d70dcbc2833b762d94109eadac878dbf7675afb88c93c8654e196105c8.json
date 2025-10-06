@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n75\nShares",
+  "description": "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T13:04:07.668820Z",
+  "id": "fa97d6d70dcbc2833b762d94109eadac878dbf7675afb88c93c8654e196105c8",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860827/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T12:44:06+00:00",
+            "datePublished": "2025-10-06T12:44:04+00:00",
+            "headline": "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860827/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860827/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860827/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860827/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T12:44:06+00:00",
+            "datePublished": "2025-10-06T12:44:04+00:00",
+            "description": "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860827/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860827/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860827/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+            "url": "https://khabarhub.com/2025/06/860827/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860827/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+            "height": 952,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+            "width": 1587
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "भैरहवा– अविरल वर्षाका कारण भैरहवामा अलपत्र यात्रुहरूको हवाई उद्धार उडान गरिएको छ ।   नेपाल वायुसेवा निगमको ए ३२० विमान ७६ जना यात्रुसहित दिउँसो ३ः४३ बजे भैरहवा अवतरण भएको थियो । भैरहवाबाट भने विमानले ५ः४० बजे एक सय ५७ जना यात्रु बोकेर काठमाडौँ फर्किएको गौतमबुद्ध अन्तर्राष्ट्रिय विमानस्थलका सूचना अधिकारी विनोदसिंह राउतले जानकारी दिए । उद्धार […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860827/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860827/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T12:44:06+00:00",
+              "datePublished": "2025-10-06T12:44:04+00:00",
+              "headline": "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860827/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860827/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860827/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860827/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T12:44:06+00:00",
+              "datePublished": "2025-10-06T12:44:04+00:00",
+              "description": "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860827/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860827/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860827/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+              "url": "https://khabarhub.com/2025/06/860827/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860827/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+              "height": 952,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+              "width": 1587
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "भैरहवा– अविरल वर्षाका कारण भैरहवामा अलपत्र यात्रुहरूको हवाई उद्धार उडान गरिएको छ ।   नेपाल वायुसेवा निगमको ए ३२० विमान ७६ जना यात्रुसहित दिउँसो ३ः४३ बजे भैरहवा अवतरण भएको थियो । भैरहवाबाट भने विमानले ५ः४० बजे एक सय ५७ जना यात्रु बोकेर काठमाडौँ फर्किएको गौतमबुद्ध अन्तर्राष्ट्रिय विमानस्थलका सूचना अधिकारी विनोदसिंह राउतले जानकारी दिए । उद्धार […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860827/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T12:44:04Z",
+  "source": "Khabarhub",
+  "store_path": "_store/fa/fa97d6d70dcbc2833b762d94109eadac878dbf7675afb88c93c8654e196105c8.json",
+  "title": "भैरहवाबाट एक सय ५७ जनाको हवाई उद्धार",
+  "url": "https://khabarhub.com/2025/06/860827/",
+  "version": 1
+}

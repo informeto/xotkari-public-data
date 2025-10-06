@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n78\nShares",
+  "description": "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T13:04:08.585491Z",
+  "id": "432ccc769ec6f2d739cc289397660008913bc33856be624feb0e5e3dc2ab7556",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860808/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T12:14:16+00:00",
+            "datePublished": "2025-10-06T12:14:15+00:00",
+            "headline": "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860808/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860808/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860808/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860808/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T12:14:16+00:00",
+            "datePublished": "2025-10-06T12:14:15+00:00",
+            "description": "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860808/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860808/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860808/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+            "url": "https://khabarhub.com/2025/06/860808/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860808/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+            "height": 765,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+            "width": 1360
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी – युक्रेनबाट भएको तीव्र ड्रोन आक्रमणपछि रुसले आफ्नो सीमावर्ती क्षेत्रमा बिजुली आपूर्ति अवरुद्ध भएको जनाएको छ । किएभले गरेको यो प्रहारलाई युद्ध सुरु भएपछिका सबैभन्दा ठूलो आक्रमणहरूमध्ये एक मानिएको छ । किएभले रुसको भूमिमा, विशेषगरी तेल पूर्वाधारमा, आक्रमण तीव्र बनाउने घोषणा गरेको छ । यसलाई उसले मस्कोले युक्रेनी सहरहरूमा दैनिक तोप र ड्रोन प्रहार […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860808/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860808/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T12:14:16+00:00",
+              "datePublished": "2025-10-06T12:14:15+00:00",
+              "headline": "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860808/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860808/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860808/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860808/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T12:14:16+00:00",
+              "datePublished": "2025-10-06T12:14:15+00:00",
+              "description": "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860808/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860808/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860808/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+              "url": "https://khabarhub.com/2025/06/860808/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860808/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+              "height": 765,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg",
+              "width": 1360
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी – युक्रेनबाट भएको तीव्र ड्रोन आक्रमणपछि रुसले आफ्नो सीमावर्ती क्षेत्रमा बिजुली आपूर्ति अवरुद्ध भएको जनाएको छ । किएभले गरेको यो प्रहारलाई युद्ध सुरु भएपछिका सबैभन्दा ठूलो आक्रमणहरूमध्ये एक मानिएको छ । किएभले रुसको भूमिमा, विशेषगरी तेल पूर्वाधारमा, आक्रमण तीव्र बनाउने घोषणा गरेको छ । यसलाई उसले मस्कोले युक्रेनी सहरहरूमा दैनिक तोप र ड्रोन प्रहार […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860808/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/AFP__20251005__77QM69E__v1__HighRes__UkraineRussiaConflictWar.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T12:14:15Z",
+  "source": "Khabarhub",
+  "store_path": "_store/43/432ccc769ec6f2d739cc289397660008913bc33856be624feb0e5e3dc2ab7556.json",
+  "title": "युक्रेनी ड्रोन आक्रमणपछि रुसमा व्यापक बिजुली कटौती",
+  "url": "https://khabarhub.com/2025/06/860808/",
+  "version": 1
+}
