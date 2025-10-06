@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T08:43:29.992937Z",
+  "id": "b5902512cb4ebccee62703fa14199fe5e6a6ea4d335637858bf13f00c8034e5b",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860692/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T07:36:56+00:00",
+            "datePublished": "2025-10-06T07:36:54+00:00",
+            "headline": "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860692/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860692/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860692/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860692/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T07:36:56+00:00",
+            "datePublished": "2025-10-06T07:36:54+00:00",
+            "description": "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860692/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860692/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860692/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+            "url": "https://khabarhub.com/2025/06/860692/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860692/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+            "height": 700,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– विपी राजमार्गका विभिन्न स्थानमा पहिरो र खोलाको कटानका कारण सडक अवरुद्ध भएपछि वैकल्पिक सडक हुँदै सवारी साधनलाई काठमाडौं पठाइएको छ ।  विपी राजमार्गमा बनाइएको अस्थायी सडक हालैको बाढीले बगाएपछि सवारी साधनलाई दोलखा चरिकोट हुँदै काठमााडौं पठाइएको हो । काभ्रेको रोशी गाउँपालिकाको विभिन्न स्थानमा रोशी खोलाले राजमार्ग कटान गरेको छ भने नमोबुद्ध र धुलिखेलका क्षेत्रमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860692/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860692/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T07:36:56+00:00",
+              "datePublished": "2025-10-06T07:36:54+00:00",
+              "headline": "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860692/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860692/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860692/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860692/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T07:36:56+00:00",
+              "datePublished": "2025-10-06T07:36:54+00:00",
+              "description": "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860692/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860692/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860692/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+              "url": "https://khabarhub.com/2025/06/860692/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860692/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+              "height": 700,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– विपी राजमार्गका विभिन्न स्थानमा पहिरो र खोलाको कटानका कारण सडक अवरुद्ध भएपछि वैकल्पिक सडक हुँदै सवारी साधनलाई काठमाडौं पठाइएको छ ।  विपी राजमार्गमा बनाइएको अस्थायी सडक हालैको बाढीले बगाएपछि सवारी साधनलाई दोलखा चरिकोट हुँदै काठमााडौं पठाइएको हो । काभ्रेको रोशी गाउँपालिकाको विभिन्न स्थानमा रोशी खोलाले राजमार्ग कटान गरेको छ भने नमोबुद्ध र धुलिखेलका क्षेत्रमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860692/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Bhalu-khola-diversion-15.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T07:36:54Z",
+  "source": "Khabarhub",
+  "store_path": "_store/b5/b5902512cb4ebccee62703fa14199fe5e6a6ea4d335637858bf13f00c8034e5b.json",
+  "title": "विपी राजमार्ग अवरुद्ध, वैकल्पिक सडकबाट सवारी साधन काठमाडौं पठाइयो",
+  "url": "https://khabarhub.com/2025/06/860692/",
+  "version": 1
+}
