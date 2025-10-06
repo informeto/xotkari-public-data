@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n51\nShares",
+  "description": "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो देश/प्रदेश",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T04:37:37.216068Z",
+  "id": "8a2a72642e3951f5a371347c780857b4d8e04cf7042efaaad07207d69bb9ba2c",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860614/#article",
+            "@type": "Article",
+            "articleSection": [
+              "देश/प्रदेश"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T03:55:00+00:00",
+            "datePublished": "2025-10-06T03:54:58+00:00",
+            "headline": "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860614/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860614/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860614/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860614/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T03:55:00+00:00",
+            "datePublished": "2025-10-06T03:54:58+00:00",
+            "description": "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो देश/प्रदेश",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860614/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860614/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860614/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png",
+            "url": "https://khabarhub.com/2025/06/860614/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860614/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png",
+            "height": 631,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png",
+            "width": 833
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "विराटनगर– कोशी प्रदेश माओवादी संसदीय दलका नेता इन्द्र आङ्बोले कोशी प्रदेश सरकारले आफ्नो क्षमता प्रस्तुत गर्ने समय यही रहेको बताएका छन् । सामाजिक सञ्जाल मार्फत उनले लगातारको वर्षका कारण आएको बाढी पहिरोले कोशी प्रदेशमा सबैभन्दा बढी जनधनको क्षति भएपछि सरकारलाई सुझाव दिँदै विपदका बेला नै सरकारले आफ्ना नागरिकप्रति उत्तरदायित्व बहन गर्नुपर्ने उल्लेख गरेका छन् । […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860614/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860614/#article",
+              "@type": "Article",
+              "articleSection": [
+                "देश/प्रदेश"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T03:55:00+00:00",
+              "datePublished": "2025-10-06T03:54:58+00:00",
+              "headline": "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860614/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860614/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860614/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860614/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T03:55:00+00:00",
+              "datePublished": "2025-10-06T03:54:58+00:00",
+              "description": "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो देश/प्रदेश",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860614/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860614/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860614/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png",
+              "url": "https://khabarhub.com/2025/06/860614/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860614/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png",
+              "height": 631,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png",
+              "width": 833
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "यो समय कोशी सरकारले औचित्य र क्षमता  पुष्टि गर्ने समय हो : इन्द्र आङ्बो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "विराटनगर– कोशी प्रदेश माओवादी संसदीय दलका नेता इन्द्र आङ्बोले कोशी प्रदेश सरकारले आफ्नो क्षमता प्रस्तुत गर्ने समय यही रहेको बताएका छन् । सामाजिक सञ्जाल मार्फत उनले लगातारको वर्षका कारण आएको बाढी पहिरोले कोशी प्रदेशमा सबैभन्दा बढी जनधनको क्षति भएपछि सरकारलाई सुझाव दिँदै विपदका बेला नै सरकारले आफ्ना नागरिकप्रति उत्तरदायित्व बहन गर्नुपर्ने उल्लेख गरेका छन् । […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860614/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2023/10/aangbo.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T03:54:58Z",
+  "source": "Khabarhub",
+  "store_path": "_store/8a/8a2a72642e3951f5a371347c780857b4d8e04cf7042efaaad07207d69bb9ba2c.json",
+  "title": "यो समय कोशी सरकारले औचित्य र क्षमता पुष्टि गर्ने समय हो : इन्द्र आङ्बो",
+  "url": "https://khabarhub.com/2025/06/860614/",
+  "version": 1
+}
