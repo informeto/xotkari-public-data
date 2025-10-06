@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n18\nShares",
+  "description": "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T10:39:12.928438Z",
+  "id": "637fd1affb9c631a8097cd6793b0d0f2f262740470ebd11dea2f3865d334dffe",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860759/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T10:33:47+00:00",
+            "datePublished": "2025-10-06T10:33:46+00:00",
+            "headline": "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860759/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860759/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860759/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860759/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T10:33:47+00:00",
+            "datePublished": "2025-10-06T10:33:46+00:00",
+            "description": "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860759/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860759/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860759/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+            "url": "https://khabarhub.com/2025/06/860759/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860759/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+            "height": 952,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+            "width": 1587
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं–  भैरहवामा अलपत्र यात्रुको चार्टर्ड उडानमार्फत काठमाडौँ ल्याउन भनी नेपाल वायुसेवा निगम (नेपाल एयरलाइन्स) को ‘न्यारो बडी ए ३२०’ विमान त्यसतर्फ उडेको छ ।  काठमाडौँबाट ८३ यात्रु लिएर गएको ‘आरए १७३१’ उडान नम्बरको विमानले भैरहवास्थित गौतमबुद्ध अन्तर्राष्ट्रिय विमानस्थलबाट १५१ यात्रु लिएर काठमाडौँ आउनेछ । यद्यपि यात्रु सङ्ख्या केही तलमाथि हुनसक्ने निगमले जनाएको छ ।  निगमले […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860759/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860759/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T10:33:47+00:00",
+              "datePublished": "2025-10-06T10:33:46+00:00",
+              "headline": "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860759/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860759/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860759/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860759/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T10:33:47+00:00",
+              "datePublished": "2025-10-06T10:33:46+00:00",
+              "description": "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860759/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860759/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860759/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+              "url": "https://khabarhub.com/2025/06/860759/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860759/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+              "height": 952,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg",
+              "width": 1587
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं–  भैरहवामा अलपत्र यात्रुको चार्टर्ड उडानमार्फत काठमाडौँ ल्याउन भनी नेपाल वायुसेवा निगम (नेपाल एयरलाइन्स) को ‘न्यारो बडी ए ३२०’ विमान त्यसतर्फ उडेको छ ।  काठमाडौँबाट ८३ यात्रु लिएर गएको ‘आरए १७३१’ उडान नम्बरको विमानले भैरहवास्थित गौतमबुद्ध अन्तर्राष्ट्रिय विमानस्थलबाट १५१ यात्रु लिएर काठमाडौँ आउनेछ । यद्यपि यात्रु सङ्ख्या केही तलमाथि हुनसक्ने निगमले जनाएको छ ।  निगमले […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860759/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2020/03/nepal-airlines.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T10:33:46Z",
+  "source": "Khabarhub",
+  "store_path": "_store/63/637fd1affb9c631a8097cd6793b0d0f2f262740470ebd11dea2f3865d334dffe.json",
+  "title": "भैरहवाबाट अलपत्र यात्रु ल्याउन वायुसेवा निगमको विमान उड्यो",
+  "url": "https://khabarhub.com/2025/06/860759/",
+  "version": 1
+}
