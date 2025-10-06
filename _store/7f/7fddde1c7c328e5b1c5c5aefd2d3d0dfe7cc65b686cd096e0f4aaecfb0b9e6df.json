@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२० आश्विन २०८२, सोमबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n21\nShares",
+  "description": "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T02:06:57.495183Z",
+  "id": "7fddde1c7c328e5b1c5c5aefd2d3d0dfe7cc65b686cd096e0f4aaecfb0b9e6df",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/06/860588/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-06T01:06:24+00:00",
+            "datePublished": "2025-10-06T01:06:21+00:00",
+            "headline": "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860588/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/06/860588/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860588/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860588/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-06T01:06:24+00:00",
+            "datePublished": "2025-10-06T01:06:21+00:00",
+            "description": "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/06/860588/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/06/860588/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/06/860588/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+            "url": "https://khabarhub.com/2025/06/860588/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/06/860588/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल तस्बिर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+            "height": 741,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "पाँचथर – बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु भएको छ भने तीन जना घाइते भएका छन् । जिल्ला प्रहरी कार्यालय पाँचथरका अनुसार तुम्बेवा गाउँपालिका–४ ओलनेकी ७९ वर्षीया कान्छीमाया शेर्माको पहिरोमा परेर मृत्यु भएको छ । शेर्माको घरमा पहिरो झर्दा पुरिएर मृत्यु भएको हो । फाल्गुनन्द गाउँपालिका–३ त्रिवेणी दोभानमा निबु खोलाले बगाउँदा सोही स्थानका थलीबहादुर नेम्बाङका […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/06/860588/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/06/860588/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-06T01:06:24+00:00",
+              "datePublished": "2025-10-06T01:06:21+00:00",
+              "headline": "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860588/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/06/860588/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860588/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860588/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-06T01:06:24+00:00",
+              "datePublished": "2025-10-06T01:06:21+00:00",
+              "description": "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/06/860588/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/06/860588/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/06/860588/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+              "url": "https://khabarhub.com/2025/06/860588/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/06/860588/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल तस्बिर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+              "height": 741,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "पाँचथर – बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु भएको छ भने तीन जना घाइते भएका छन् । जिल्ला प्रहरी कार्यालय पाँचथरका अनुसार तुम्बेवा गाउँपालिका–४ ओलनेकी ७९ वर्षीया कान्छीमाया शेर्माको पहिरोमा परेर मृत्यु भएको छ । शेर्माको घरमा पहिरो झर्दा पुरिएर मृत्यु भएको हो । फाल्गुनन्द गाउँपालिका–३ त्रिवेणी दोभानमा निबु खोलाले बगाउँदा सोही स्थानका थलीबहादुर नेम्बाङका […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/06/860588/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/ILam-landslide.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T01:06:21Z",
+  "source": "Khabarhub",
+  "store_path": "_store/7f/7fddde1c7c328e5b1c5c5aefd2d3d0dfe7cc65b686cd096e0f4aaecfb0b9e6df.json",
+  "title": "बाढीपहिरोका कारण पाँचथरमा दुई जनाको मृत्यु, तीन घाइते",
+  "url": "https://khabarhub.com/2025/06/860588/",
+  "version": 1
+}
