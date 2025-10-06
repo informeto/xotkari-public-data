@@ -1,0 +1,480 @@
+{
+  "author": "राजन रावत",
+  "content": "",
+  "description": "हुम्ला– कर्णाली प्रदेशमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु भएको छ। मृत्यु हुनेमा चार पुरुष, एक महिला र एक बालक रहेका छन्। यस अवधिमा १३२ जना",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T09:36:54.740544Z",
+  "id": "ec18470ba482931ddf658048205f2a72b006c40008e9e51e527badf8e1fec245",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/10/06/1101464/#article",
+            "@type": "Article",
+            "articleSection": [
+              "कर्णाली प्रदेश",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/5ceb38718243fecb924d0f784d054500",
+              "name": "राजन रावत"
+            },
+            "commentCount": 0,
+            "datePublished": "2025-10-06T09:11:02+00:00",
+            "headline": "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/10/06/1101464/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/06/1101464/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/#breadcrumb"
+            },
+            "datePublished": "2025-10-06T09:11:02+00:00",
+            "description": "हुम्ला– कर्णाली प्रदेशमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु भएको छ। मृत्यु हुनेमा चार पुरुष, एक महिला र एक बालक रहेका छन्। यस अवधिमा १३२ जना",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/10/06/1101464/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg",
+            "url": "https://deshsanchar.com/2025/10/06/1101464/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/06/1101464/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg",
+            "height": 1152,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg",
+            "width": 2048
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/06/1101464/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/5ceb38718243fecb924d0f784d054500",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "राजन रावत",
+              "contentUrl": "https://secure.gravatar.com/avatar/83b45d1bec7021eaf566b4aa8bc568a6ae035badbef2b45a11c9fbb63c1f6e98?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/83b45d1bec7021eaf566b4aa8bc568a6ae035badbef2b45a11c9fbb63c1f6e98?s=96&d=mm&r=g"
+            },
+            "name": "राजन रावत",
+            "url": "https://deshsanchar.com/author/rawat/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु"
+          ],
+          [
+            "og:description",
+            "हुम्ला– कर्णाली प्रदेशमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु भएको छ। मृत्यु हुनेमा चार पुरुष, एक महिला र एक बालक रहेका छन्। यस अवधिमा १३२ जना"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/06/1101464/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-10-06T09:11:02+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg"
+          ],
+          [
+            "og:image:width",
+            "2048"
+          ],
+          [
+            "og:image:height",
+            "1152"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/#article",
+              "@type": "Article",
+              "articleSection": [
+                "कर्णाली प्रदेश",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/5ceb38718243fecb924d0f784d054500",
+                "name": "राजन रावत"
+              },
+              "commentCount": 0,
+              "datePublished": "2025-10-06T09:11:02+00:00",
+              "headline": "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101464/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101464/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101464/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/06/1101464/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101464/#breadcrumb"
+              },
+              "datePublished": "2025-10-06T09:11:02+00:00",
+              "description": "हुम्ला– कर्णाली प्रदेशमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु भएको छ। मृत्यु हुनेमा चार पुरुष, एक महिला र एक बालक रहेका छन्। यस अवधिमा १३२ जना",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101464/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/06/1101464/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101464/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg",
+              "url": "https://deshsanchar.com/2025/10/06/1101464/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg",
+              "height": 1152,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg",
+              "width": 2048
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/06/1101464/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/5ceb38718243fecb924d0f784d054500",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "राजन रावत",
+                "contentUrl": "https://secure.gravatar.com/avatar/83b45d1bec7021eaf566b4aa8bc568a6ae035badbef2b45a11c9fbb63c1f6e98?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/83b45d1bec7021eaf566b4aa8bc568a6ae035badbef2b45a11c9fbb63c1f6e98?s=96&d=mm&r=g"
+              },
+              "name": "राजन रावत",
+              "url": "https://deshsanchar.com/author/rawat/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु"
+            ],
+            [
+              "og:description",
+              "हुम्ला– कर्णाली प्रदेशमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु भएको छ। मृत्यु हुनेमा चार पुरुष, एक महिला र एक बालक रहेका छन्। यस अवधिमा १३२ जना"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/06/1101464/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-10-06T09:11:02+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2025/10/04150850/pachthar-accident-2.jpg"
+            ],
+            [
+              "og:image:width",
+              "2048"
+            ],
+            [
+              "og:image:height",
+              "1152"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T09:11:02Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/ec/ec18470ba482931ddf658048205f2a72b006c40008e9e51e527badf8e1fec245.json",
+  "title": "कर्णालीमा दुई हप्तामा सडक दुर्घटनामा परी छ जनाको मृत्यु",
+  "url": "https://deshsanchar.com/2025/10/06/1101464/",
+  "version": 1
+}

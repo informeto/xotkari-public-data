@@ -1,0 +1,439 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n3:19 pm, Mon, 6 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T09:36:38.826130Z",
+  "id": "41f4f7aab1268152d9f8d2b84d73d43ad473eb536c15d42cf8622471ace550fb",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509964/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "बागमती",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-06T09:35:11+00:00",
+            "datePublished": "2025-10-06T09:34:56+00:00",
+            "headline": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509964/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509964/"
+            },
+            "keywords": [
+              "पुष्पकमल दाहाल"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509964/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509964/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509964/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509964/#breadcrumb"
+            },
+            "dateModified": "2025-10-06T09:35:11+00:00",
+            "datePublished": "2025-10-06T09:34:56+00:00",
+            "description": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509964/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509964/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509964/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+            "url": "https://www.imagekhabar.com/news/509964/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509964/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509964/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । नेकपा माओवादी केन्द्रका महाधिवेशन संयाेजक पुष्पकमल दाहालले पार्टी सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुने बताउनुभएको छ । पार्टी केन्द्रीय कार्यालय पेसिडाँडामा साेमबार बसेको पार्टीको सचिवालय बैठकपछि सञ्चारकर्मीसँग कुरा गर्दै उहाँले यस्तो बताउनुभएको हो । उहाँले आफ्नो पार्टी घोषित मितिमिा निर्वाचन हुनुपर्छ र सबै राजनीतिक दल निर्वाचनमा सहभागी हुनुपर्छ भन्ने पक्षमा रहेको बताउनुभयो । […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509964/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509964/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "बागमती",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-06T09:35:11+00:00",
+              "datePublished": "2025-10-06T09:34:56+00:00",
+              "headline": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509964/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509964/"
+              },
+              "keywords": [
+                "पुष्पकमल दाहाल"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509964/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509964/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509964/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509964/#breadcrumb"
+              },
+              "dateModified": "2025-10-06T09:35:11+00:00",
+              "datePublished": "2025-10-06T09:34:56+00:00",
+              "description": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509964/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509964/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509964/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+              "url": "https://www.imagekhabar.com/news/509964/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509964/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509964/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । नेकपा माओवादी केन्द्रका महाधिवेशन संयाेजक पुष्पकमल दाहालले पार्टी सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुने बताउनुभएको छ । पार्टी केन्द्रीय कार्यालय पेसिडाँडामा साेमबार बसेको पार्टीको सचिवालय बैठकपछि सञ्चारकर्मीसँग कुरा गर्दै उहाँले यस्तो बताउनुभएको हो । उहाँले आफ्नो पार्टी घोषित मितिमिा निर्वाचन हुनुपर्छ र सबै राजनीतिक दल निर्वाचनमा सहभागी हुनुपर्छ भन्ने पक्षमा रहेको बताउनुभयो । […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509964/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/prachanda-.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T09:34:56Z",
+  "source": "Image Khabar",
+  "store_path": "_store/41/41f4f7aab1268152d9f8d2b84d73d43ad473eb536c15d42cf8622471ace550fb.json",
+  "title": "माओवादी केन्द्र सक्रियताका साथ आगामी निर्वाचनमा सहभागी हुन्छः महाधिवेशन संयाेजक दाहाल",
+  "url": "https://www.imagekhabar.com/news/509964/",
+  "version": 1
+}

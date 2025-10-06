@@ -1,0 +1,445 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n3:06 pm, Mon, 6 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T09:36:40.803962Z",
+  "id": "5dd6e604727816e43ed7cd23425dc5931977cd7e74bc39672cf75299fda3bec1",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509961/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-06T09:21:11+00:00",
+            "datePublished": "2025-10-06T09:21:04+00:00",
+            "headline": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509961/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509961/"
+            },
+            "keywords": [
+              "काभ्रे",
+              "महिला",
+              "मृत्यु"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509961/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509961/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509961/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509961/#breadcrumb"
+            },
+            "dateModified": "2025-10-06T09:21:11+00:00",
+            "datePublished": "2025-10-06T09:21:04+00:00",
+            "description": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509961/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509961/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509961/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+            "url": "https://www.imagekhabar.com/news/509961/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509961/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509961/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं। काभ्रेमा रोशी खोलाले बगाएर एक जना महिलाको मृत्यु भएको छ । रोशी खोलाले बगाएर तेमाल गाउँपालिका-८ की ५७ वर्षीया ल्होमो तामाङको मृत्यु भएको इलाका प्रहरी कार्यालय मंगलटारले जनाएकाे हाे। रोशी खोलामा आएको बाढीले आफ्नो खेत बगाए-नबगाएको हेर्न जाँदा खोला तर्ने क्रममा तामाङलाई बगाएको प्रहरीले बताएकाे छ। तामाङको शव स्थानीयले खोलाबाट निकालेर सर्जिवन गर्ने क्रममा […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509961/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509961/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-06T09:21:11+00:00",
+              "datePublished": "2025-10-06T09:21:04+00:00",
+              "headline": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509961/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509961/"
+              },
+              "keywords": [
+                "काभ्रे",
+                "महिला",
+                "मृत्यु"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509961/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509961/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509961/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509961/#breadcrumb"
+              },
+              "dateModified": "2025-10-06T09:21:11+00:00",
+              "datePublished": "2025-10-06T09:21:04+00:00",
+              "description": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509961/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509961/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509961/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+              "url": "https://www.imagekhabar.com/news/509961/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509961/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509961/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं। काभ्रेमा रोशी खोलाले बगाएर एक जना महिलाको मृत्यु भएको छ । रोशी खोलाले बगाएर तेमाल गाउँपालिका-८ की ५७ वर्षीया ल्होमो तामाङको मृत्यु भएको इलाका प्रहरी कार्यालय मंगलटारले जनाएकाे हाे। रोशी खोलामा आएको बाढीले आफ्नो खेत बगाए-नबगाएको हेर्न जाँदा खोला तर्ने क्रममा तामाङलाई बगाएको प्रहरीले बताएकाे छ। तामाङको शव स्थानीयले खोलाबाट निकालेर सर्जिवन गर्ने क्रममा […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509961/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-3-imagekhabar.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T09:21:04Z",
+  "source": "Image Khabar",
+  "store_path": "_store/5d/5dd6e604727816e43ed7cd23425dc5931977cd7e74bc39672cf75299fda3bec1.json",
+  "title": "काभ्रेमा रोशी खोलाले बगाएर एक महिलाको मृत्यु",
+  "url": "https://www.imagekhabar.com/news/509961/",
+  "version": 1
+}
