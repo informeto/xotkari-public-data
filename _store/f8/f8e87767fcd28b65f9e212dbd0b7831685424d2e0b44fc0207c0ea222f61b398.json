@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n4:38 pm, Mon, 6 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T11:28:52.564751Z",
+  "id": "f8e87767fcd28b65f9e212dbd0b7831685424d2e0b44fc0207c0ea222f61b398",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/509978/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "स्वास्थ्य"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-06T10:55:38+00:00",
+            "datePublished": "2025-10-06T10:53:40+00:00",
+            "headline": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509978/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/509978/"
+            },
+            "keywords": [
+              "स्वास्थ्य तथा जनसंख्या मन्त्रालय"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509978/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/509978/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509978/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/509978/#breadcrumb"
+            },
+            "dateModified": "2025-10-06T10:55:38+00:00",
+            "datePublished": "2025-10-06T10:53:40+00:00",
+            "description": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/509978/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/509978/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/509978/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+            "url": "https://www.imagekhabar.com/news/509978/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509978/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/509978/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । स्वास्थ्य तथा जनसंख्या मन्त्रालयले गत शुक्रबार र शनिबारको अविरल वर्षासँगै आएको बाढी-पहिरोबाट विस्थापित भएका परिवारहरूलाई शुद्ध खानेपानी र स्वच्छ खानाको व्यवस्था गर्न सबै स्थानीय तह र सरोकारवालासँग सहकार्य गर्न आह्वान गरेको छ । मन्त्रालयका प्रवक्ता डा. प्रकाश बुढाथोकीले विपदपछि निम्तिने स्वास्थ्य जोखिमहरू रोक्न सरोकारवाला सबै निकायलाई सक्रिय भूमिका खेल्न आह्वान गर्नुभएको हो । […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/509978/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/509978/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "स्वास्थ्य"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-06T10:55:38+00:00",
+              "datePublished": "2025-10-06T10:53:40+00:00",
+              "headline": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509978/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/509978/"
+              },
+              "keywords": [
+                "स्वास्थ्य तथा जनसंख्या मन्त्रालय"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509978/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509978/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509978/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/509978/#breadcrumb"
+              },
+              "dateModified": "2025-10-06T10:55:38+00:00",
+              "datePublished": "2025-10-06T10:53:40+00:00",
+              "description": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/509978/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/509978/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/509978/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+              "url": "https://www.imagekhabar.com/news/509978/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509978/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/509978/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । स्वास्थ्य तथा जनसंख्या मन्त्रालयले गत शुक्रबार र शनिबारको अविरल वर्षासँगै आएको बाढी-पहिरोबाट विस्थापित भएका परिवारहरूलाई शुद्ध खानेपानी र स्वच्छ खानाको व्यवस्था गर्न सबै स्थानीय तह र सरोकारवालासँग सहकार्य गर्न आह्वान गरेको छ । मन्त्रालयका प्रवक्ता डा. प्रकाश बुढाथोकीले विपदपछि निम्तिने स्वास्थ्य जोखिमहरू रोक्न सरोकारवाला सबै निकायलाई सक्रिय भूमिका खेल्न आह्वान गर्नुभएको हो । […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/509978/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T10:53:40Z",
+  "source": "Image Khabar",
+  "store_path": "_store/f8/f8e87767fcd28b65f9e212dbd0b7831685424d2e0b44fc0207c0ea222f61b398.json",
+  "title": "बाढी-पहिरो प्रभावित परिवारलाई शुद्ध खानेपानी र स्वच्छ खाना सुनिश्चित गर्न सरकारकाे अपिल",
+  "url": "https://www.imagekhabar.com/news/509978/",
+  "version": 1
+}
