@@ -1,0 +1,435 @@
+{
+  "author": "",
+  "content": "रमेश धमला\n7:47 pm, Mon, 6 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T14:37:08.188692Z",
+  "id": "7ab1fbc9f9b4475218d193ab283b53a5e77d1cc73dd985c09c14bf8a2b9bc4a7",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/ramesh-dhamala-150x150.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510016/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+              "name": "रमेश धमला"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-06T14:02:13+00:00",
+            "datePublished": "2025-10-06T14:02:09+00:00",
+            "headline": "&#8216;विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव&#8217;",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510016/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510016/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510016/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510016/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510016/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510016/#breadcrumb"
+            },
+            "dateModified": "2025-10-06T14:02:13+00:00",
+            "datePublished": "2025-10-06T14:02:09+00:00",
+            "description": "'विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव'",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510016/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "'विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव' - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510016/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510016/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+            "url": "https://www.imagekhabar.com/news/510016/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510016/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+            "height": 1024,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+            "width": 1536
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510016/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "&#8216;विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव&#8217;",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "रमेश धमला",
+              "contentUrl": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g"
+            },
+            "name": "रमेश धमला",
+            "url": "https://www.imagekhabar.com/news/author/ramesh-dhamala/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "‘विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव’"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । गत शुक्रबारदेखि परेको अविरल वर्षाका कारण भएको मानवीय र भौतिक क्षतिको विवरण आउने क्रम जारी नै छ । सरकारले समयमै सतर्कता अपनाएका कारण क्षति कम गराउन सकिएको दावी गरेको हाे । तर नेपालमा प्राकृतिक विपत्तिमा परिचानल गरिने संयन्त्र र स्रोत साधनको व्यवस्थापन अझै पर्याप्त हुन सकिरहेको छैन । विशेष गरेर पहाडी क्षेत्रमा जाने […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510016/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510016/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+                "name": "रमेश धमला"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-06T14:02:13+00:00",
+              "datePublished": "2025-10-06T14:02:09+00:00",
+              "headline": "&#8216;विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव&#8217;",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510016/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510016/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510016/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510016/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510016/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510016/#breadcrumb"
+              },
+              "dateModified": "2025-10-06T14:02:13+00:00",
+              "datePublished": "2025-10-06T14:02:09+00:00",
+              "description": "'विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव'",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510016/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "'विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव' - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510016/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510016/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+              "url": "https://www.imagekhabar.com/news/510016/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510016/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+              "height": 1024,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg",
+              "width": 1536
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510016/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "&#8216;विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव&#8217;",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/97923686f47e2c85dce08aac1e408774",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "रमेश धमला",
+                "contentUrl": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/7ae7f81f8f231a21ec3d94c4602d3392?s=96&d=mm&r=g"
+              },
+              "name": "रमेश धमला",
+              "url": "https://www.imagekhabar.com/news/author/ramesh-dhamala/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "‘विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव’"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । गत शुक्रबारदेखि परेको अविरल वर्षाका कारण भएको मानवीय र भौतिक क्षतिको विवरण आउने क्रम जारी नै छ । सरकारले समयमै सतर्कता अपनाएका कारण क्षति कम गराउन सकिएको दावी गरेको हाे । तर नेपालमा प्राकृतिक विपत्तिमा परिचानल गरिने संयन्त्र र स्रोत साधनको व्यवस्थापन अझै पर्याप्त हुन सकिरहेको छैन । विशेष गरेर पहाडी क्षेत्रमा जाने […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510016/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/balkhu.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T14:02:09Z",
+  "source": "Image Khabar",
+  "store_path": "_store/7a/7ab1fbc9f9b4475218d193ab283b53a5e77d1cc73dd985c09c14bf8a2b9bc4a7.json",
+  "title": "‘विपद व्यवस्थपनमा दक्ष जनशक्ति र स्रोत साधनकाे अभाव’",
+  "url": "https://www.imagekhabar.com/news/510016/",
+  "version": 1
+}
