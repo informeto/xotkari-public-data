@@ -1,0 +1,480 @@
+{
+  "author": "देश सञ्चार",
+  "content": "",
+  "description": "हुम्ला – पर्यटकीय क्षेत्रसमेत रहेका हिमालपारिको गाउँ लिमी उपत्यकामा बाह्य पर्यटक प्रवेश थालेका छन्। हरेक वर्ष अक्टोरमा लिमी उपत्यकामा बाह्य पर्यटक हिँडेर",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-06T17:32:43.132952Z",
+  "id": "46a5c2f3688eccb2602004ffe9ce1fda4a93617289d4daea7d082c2d4eccaec6",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/10/06/1101504/#article",
+            "@type": "Article",
+            "articleSection": [
+              "कर्णाली प्रदेश",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "name": "देश सञ्चार"
+            },
+            "commentCount": 0,
+            "datePublished": "2025-10-06T16:45:01+00:00",
+            "headline": "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/10/06/1101504/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/06/1101504/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/#breadcrumb"
+            },
+            "datePublished": "2025-10-06T16:45:01+00:00",
+            "description": "हुम्ला – पर्यटकीय क्षेत्रसमेत रहेका हिमालपारिको गाउँ लिमी उपत्यकामा बाह्य पर्यटक प्रवेश थालेका छन्। हरेक वर्ष अक्टोरमा लिमी उपत्यकामा बाह्य पर्यटक हिँडेर",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/10/06/1101504/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg",
+            "url": "https://deshsanchar.com/2025/10/06/1101504/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/06/1101504/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg",
+            "height": 1536,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg",
+            "width": 2048
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/06/1101504/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "देश सञ्चार",
+              "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
+            },
+            "name": "देश सञ्चार",
+            "url": "https://deshsanchar.com/author/deshsanchar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक"
+          ],
+          [
+            "og:description",
+            "हुम्ला – पर्यटकीय क्षेत्रसमेत रहेका हिमालपारिको गाउँ लिमी उपत्यकामा बाह्य पर्यटक प्रवेश थालेका छन्। हरेक वर्ष अक्टोरमा लिमी उपत्यकामा बाह्य पर्यटक हिँडेर"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/06/1101504/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-10-06T16:45:01+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg"
+          ],
+          [
+            "og:image:width",
+            "2048"
+          ],
+          [
+            "og:image:height",
+            "1536"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/#article",
+              "@type": "Article",
+              "articleSection": [
+                "कर्णाली प्रदेश",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+                "name": "देश सञ्चार"
+              },
+              "commentCount": 0,
+              "datePublished": "2025-10-06T16:45:01+00:00",
+              "headline": "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101504/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101504/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101504/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/06/1101504/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101504/#breadcrumb"
+              },
+              "datePublished": "2025-10-06T16:45:01+00:00",
+              "description": "हुम्ला – पर्यटकीय क्षेत्रसमेत रहेका हिमालपारिको गाउँ लिमी उपत्यकामा बाह्य पर्यटक प्रवेश थालेका छन्। हरेक वर्ष अक्टोरमा लिमी उपत्यकामा बाह्य पर्यटक हिँडेर",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101504/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/06/1101504/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/06/1101504/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg",
+              "url": "https://deshsanchar.com/2025/10/06/1101504/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg",
+              "height": 1536,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg",
+              "width": 2048
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/06/1101504/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "देश सञ्चार",
+                "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
+              },
+              "name": "देश सञ्चार",
+              "url": "https://deshsanchar.com/author/deshsanchar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक"
+            ],
+            [
+              "og:description",
+              "हुम्ला – पर्यटकीय क्षेत्रसमेत रहेका हिमालपारिको गाउँ लिमी उपत्यकामा बाह्य पर्यटक प्रवेश थालेका छन्। हरेक वर्ष अक्टोरमा लिमी उपत्यकामा बाह्य पर्यटक हिँडेर"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/06/1101504/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-10-06T16:45:01+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2025/10/06170802/limi-humla-Rajan.jpg"
+            ],
+            [
+              "og:image:width",
+              "2048"
+            ],
+            [
+              "og:image:height",
+              "1536"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-06T16:45:01Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/46/46a5c2f3688eccb2602004ffe9ce1fda4a93617289d4daea7d082c2d4eccaec6.json",
+  "title": "हिमालपारिको गाउँ लिमी प्रवेश गर्न थाले पर्यटक",
+  "url": "https://deshsanchar.com/2025/10/06/1101504/",
+  "version": 1
+}
