@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n15\nShares",
+  "description": "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T04:37:40.864589Z",
+  "id": "cbde0b62c7eb91bd8997d3f248918bb5c21f1e5e613612c03f79656fdd105f65",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/860931/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T04:30:04+00:00",
+            "datePublished": "2025-10-07T04:30:01+00:00",
+            "headline": "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/860931/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/860931/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/860931/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/860931/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T04:30:04+00:00",
+            "datePublished": "2025-10-07T04:30:01+00:00",
+            "description": "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/860931/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/860931/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/860931/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+            "url": "https://khabarhub.com/2025/07/860931/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/860931/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "काठमाडौंको स्यूचाटारस्थित विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री कुलमान घिसिङ।",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+            "height": 692,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री कुलमान घिसिङले नेपाल विद्युत प्राधिकरण मातहतको विद्युत् भार प्रेषण केन्द्रको अनुगमन गरेका छन् । काठमाडौंको स्यूचाटारस्थित केन्द्रको अनुगमन गरी मन्त्री घिसिङले देशभरको विद्युत उत्पादन, प्रसारण र वितरण प्रणालीको अवस्था, ग्रिड सञ्चालन, विद्युत् माग तथा आपूर्ति व्यवस्थापन, विद्युत् निर्यात, बाढी पहिरोबाट क्षति भएका विद्युत् आयोजनालगायतका विषयमा जानकारी लिएका हुन् […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/860931/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/860931/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T04:30:04+00:00",
+              "datePublished": "2025-10-07T04:30:01+00:00",
+              "headline": "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/860931/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/860931/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/860931/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/860931/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T04:30:04+00:00",
+              "datePublished": "2025-10-07T04:30:01+00:00",
+              "description": "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/860931/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/860931/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/860931/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+              "url": "https://khabarhub.com/2025/07/860931/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/860931/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "काठमाडौंको स्यूचाटारस्थित विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री कुलमान घिसिङ।",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+              "height": 692,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – ऊर्जा, जलस्रोत तथा सिँचाइ मन्त्री कुलमान घिसिङले नेपाल विद्युत प्राधिकरण मातहतको विद्युत् भार प्रेषण केन्द्रको अनुगमन गरेका छन् । काठमाडौंको स्यूचाटारस्थित केन्द्रको अनुगमन गरी मन्त्री घिसिङले देशभरको विद्युत उत्पादन, प्रसारण र वितरण प्रणालीको अवस्था, ग्रिड सञ्चालन, विद्युत् माग तथा आपूर्ति व्यवस्थापन, विद्युत् निर्यात, बाढी पहिरोबाट क्षति भएका विद्युत् आयोजनालगायतका विषयमा जानकारी लिएका हुन् […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/860931/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/kulman-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T04:30:01Z",
+  "source": "Khabarhub",
+  "store_path": "_store/cb/cbde0b62c7eb91bd8997d3f248918bb5c21f1e5e613612c03f79656fdd105f65.json",
+  "title": "विद्युत् भार प्रेषण केन्द्रको अनुगमनमा ऊर्जामन्त्री घिसिङ",
+  "url": "https://khabarhub.com/2025/07/860931/",
+  "version": 1
+}
