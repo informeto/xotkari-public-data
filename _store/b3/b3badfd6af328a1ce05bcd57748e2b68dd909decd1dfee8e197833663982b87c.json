@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "हुम्लाको उच्च भेगमा हिमपात समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T09:35:41.365062Z",
+  "id": "b3badfd6af328a1ce05bcd57748e2b68dd909decd1dfee8e197833663982b87c",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/861083/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T09:22:07+00:00",
+            "datePublished": "2025-10-07T09:22:02+00:00",
+            "headline": "हुम्लाको उच्च भेगमा हिमपात",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861083/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/861083/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861083/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861083/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T09:22:07+00:00",
+            "datePublished": "2025-10-07T09:22:02+00:00",
+            "description": "हुम्लाको उच्च भेगमा हिमपात समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861083/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "हुम्लाको उच्च भेगमा हिमपात | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/861083/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861083/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+            "url": "https://khabarhub.com/2025/07/861083/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861083/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+            "height": 478,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+            "width": 1074
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हुम्लाको उच्च भेगमा हिमपात"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "सिमकोट– हुम्लाको उच्च भेगमा हिमपात सुरु भएको छ । सोमबार साँझदेखि हुम्लाको उत्तरी नाम्खा गाउँपालिकाको यारी, हिल्सा, लिमीलगायत उच्च भेगमा हिमपात भएको हो । हिमपातसँगै हिल्सामा चिसो बढेको स्थानीय सोनाम ग्याल्जेन लामाले बताए ।  सोमबार दिउँसोदेखि हल्का वर्षा भएकामा आज बिहान हिमपात भएको लामाले टेलिफोनमार्फत जानकारी दिए । हिमपातसँगै यहाँको जनजीवन प्रभावित बनेको छ ।  त्यसैगरी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/861083/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/861083/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T09:22:07+00:00",
+              "datePublished": "2025-10-07T09:22:02+00:00",
+              "headline": "हुम्लाको उच्च भेगमा हिमपात",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861083/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/861083/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861083/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861083/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T09:22:07+00:00",
+              "datePublished": "2025-10-07T09:22:02+00:00",
+              "description": "हुम्लाको उच्च भेगमा हिमपात समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861083/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "हुम्लाको उच्च भेगमा हिमपात | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/861083/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861083/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+              "url": "https://khabarhub.com/2025/07/861083/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861083/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+              "height": 478,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg",
+              "width": 1074
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हुम्लाको उच्च भेगमा हिमपात"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "सिमकोट– हुम्लाको उच्च भेगमा हिमपात सुरु भएको छ । सोमबार साँझदेखि हुम्लाको उत्तरी नाम्खा गाउँपालिकाको यारी, हिल्सा, लिमीलगायत उच्च भेगमा हिमपात भएको हो । हिमपातसँगै हिल्सामा चिसो बढेको स्थानीय सोनाम ग्याल्जेन लामाले बताए ।  सोमबार दिउँसोदेखि हल्का वर्षा भएकामा आज बिहान हिमपात भएको लामाले टेलिफोनमार्फत जानकारी दिए । हिमपातसँगै यहाँको जनजीवन प्रभावित बनेको छ ।  त्यसैगरी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/861083/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2021/10/humla-himpat.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T09:22:02Z",
+  "source": "Khabarhub",
+  "store_path": "_store/b3/b3badfd6af328a1ce05bcd57748e2b68dd909decd1dfee8e197833663982b87c.json",
+  "title": "हुम्लाको उच्च भेगमा हिमपात",
+  "url": "https://khabarhub.com/2025/07/861083/",
+  "version": 1
+}

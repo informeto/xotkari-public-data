@@ -1,0 +1,439 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n3:18 pm, Tue, 7 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T09:35:17.444758Z",
+  "id": "9bcb1d4531539b747b92653f5f371510a1046e75bee42fba27e10f0bb52d88f0",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510082/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "कर्णाली",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-07T09:33:14+00:00",
+            "datePublished": "2025-10-07T09:33:09+00:00",
+            "headline": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510082/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510082/"
+            },
+            "keywords": [
+              "हिमपात"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510082/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510082/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510082/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510082/#breadcrumb"
+            },
+            "dateModified": "2025-10-07T09:33:14+00:00",
+            "datePublished": "2025-10-07T09:33:09+00:00",
+            "description": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510082/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510082/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510082/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+            "url": "https://www.imagekhabar.com/news/510082/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510082/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+            "height": 800,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+            "width": 1500
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510082/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । हुम्लाको उच्च हिमाली भू-भागमा हिमपात पर्न शुरु भएको छ । सोमबार साँझदेखि हुम्लाको उत्तरी नाम्खा गाउँपालिकाको यारी, हिल्सा र लिमीलगायत उच्च भेगमा हिमपात भएको हो । हिमपातसँगै हिल्सामा चिसो बढेको स्थानीयले बताएका छन् । सोमबार दिउँसोदेखि हल्का वर्षा भएकामा मंगलबार बिहान झनै बढी हिमपात भएको हाे। हिमपातसँगै यहाँको जनजीवन प्रभावित बनेको छ । […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510082/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510082/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "कर्णाली",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-07T09:33:14+00:00",
+              "datePublished": "2025-10-07T09:33:09+00:00",
+              "headline": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510082/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510082/"
+              },
+              "keywords": [
+                "हिमपात"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510082/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510082/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510082/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510082/#breadcrumb"
+              },
+              "dateModified": "2025-10-07T09:33:14+00:00",
+              "datePublished": "2025-10-07T09:33:09+00:00",
+              "description": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510082/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510082/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510082/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+              "url": "https://www.imagekhabar.com/news/510082/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510082/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+              "height": 800,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg",
+              "width": 1500
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510082/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । हुम्लाको उच्च हिमाली भू-भागमा हिमपात पर्न शुरु भएको छ । सोमबार साँझदेखि हुम्लाको उत्तरी नाम्खा गाउँपालिकाको यारी, हिल्सा र लिमीलगायत उच्च भेगमा हिमपात भएको हो । हिमपातसँगै हिल्सामा चिसो बढेको स्थानीयले बताएका छन् । सोमबार दिउँसोदेखि हल्का वर्षा भएकामा मंगलबार बिहान झनै बढी हिमपात भएको हाे। हिमपातसँगै यहाँको जनजीवन प्रभावित बनेको छ । […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510082/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2022/09/humla-hiu-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T09:33:09Z",
+  "source": "Image Khabar",
+  "store_path": "_store/9b/9bcb1d4531539b747b92653f5f371510a1046e75bee42fba27e10f0bb52d88f0.json",
+  "title": "हुम्लाकाे हिमाली भू-भागमा हिमपात, हिमपातसँगै जनजीवन प्रभावित",
+  "url": "https://www.imagekhabar.com/news/510082/",
+  "version": 1
+}
