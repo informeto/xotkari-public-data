@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T08:42:06.340632Z",
+  "id": "2194994bd0a389247d1ee8f908138cc6226a8cbec86cca262fca302cd34c732e",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/861037/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T08:35:58+00:00",
+            "datePublished": "2025-10-07T08:35:53+00:00",
+            "headline": "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861037/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/861037/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861037/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+            "wordCount": 11
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861037/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T08:35:58+00:00",
+            "datePublished": "2025-10-07T08:35:53+00:00",
+            "description": "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861037/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/861037/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861037/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+            "url": "https://khabarhub.com/2025/07/861037/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861037/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "प्रतिकात्मक तस्वीर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+            "height": 487,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+            "width": 850
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काँक्रेविहार– कर्णाली प्रदेश सरकारले गरिब तथा विपन्नका लागि हालसम्म चार हजार ८५६ घर निर्माण गरेको छ । जनता आवास (प्रदेश), जनता आवास (सङ्घ) र विपन्नको घर निर्माण कार्यक्रमअन्तर्गत कर्णालीका १० जिल्लाका विभिन्न पालिकामा घर निर्माण गरिएको हो ।  भौतिक पूर्वाधार तथा सहरी विकास मन्त्रालयका प्रवक्ता रमेश सुवेदीका अनुसार आर्थिक वर्ष २०८०-८१ मा जनता आवास (सङ्घ)तर्फ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/861037/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/861037/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T08:35:58+00:00",
+              "datePublished": "2025-10-07T08:35:53+00:00",
+              "headline": "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861037/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/861037/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861037/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+              "wordCount": 11
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861037/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T08:35:58+00:00",
+              "datePublished": "2025-10-07T08:35:53+00:00",
+              "description": "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861037/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/861037/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861037/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+              "url": "https://khabarhub.com/2025/07/861037/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861037/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "प्रतिकात्मक तस्वीर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+              "height": 487,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg",
+              "width": 850
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काँक्रेविहार– कर्णाली प्रदेश सरकारले गरिब तथा विपन्नका लागि हालसम्म चार हजार ८५६ घर निर्माण गरेको छ । जनता आवास (प्रदेश), जनता आवास (सङ्घ) र विपन्नको घर निर्माण कार्यक्रमअन्तर्गत कर्णालीका १० जिल्लाका विभिन्न पालिकामा घर निर्माण गरिएको हो ।  भौतिक पूर्वाधार तथा सहरी विकास मन्त्रालयका प्रवक्ता रमेश सुवेदीका अनुसार आर्थिक वर्ष २०८०-८१ मा जनता आवास (सङ्घ)तर्फ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/861037/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2020/06/Janata-aawash.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T08:35:53Z",
+  "source": "Khabarhub",
+  "store_path": "_store/21/2194994bd0a389247d1ee8f908138cc6226a8cbec86cca262fca302cd34c732e.json",
+  "title": "कर्णालीमा गरिब तथा विपन्नका लागि आवास निर्माण",
+  "url": "https://khabarhub.com/2025/07/861037/",
+  "version": 1
+}
