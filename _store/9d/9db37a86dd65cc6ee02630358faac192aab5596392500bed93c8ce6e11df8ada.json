@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n33\nShares",
+  "description": "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T11:30:01.239947Z",
+  "id": "9db37a86dd65cc6ee02630358faac192aab5596392500bed93c8ce6e11df8ada",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/861114/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T11:10:15+00:00",
+            "datePublished": "2025-10-07T11:10:14+00:00",
+            "headline": "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861114/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/861114/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861114/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+            "wordCount": 5
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861114/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T11:10:15+00:00",
+            "datePublished": "2025-10-07T11:10:14+00:00",
+            "description": "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861114/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/861114/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861114/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+            "url": "https://khabarhub.com/2025/07/861114/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861114/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+            "height": 857,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी– जोन क्लार्क, मिशेल एच.डेभरेट र जोन एम. मार्टिनिसले क्वान्टम मेकानिकल टनेलिङमा अग्रगामी अनुसन्धानका लागि यस वर्षको भौतिकशास्त्रको नोबेल पुरस्कार प्राप्त गरेका छन्। क्लार्कले क्यालिफोर्निया विश्वविद्यालय, बर्कलेमा आफ्नो अनुसन्धान गरेका हुन्  भने मार्टिनिसले क्यालिफोर्निया विश्वविद्यालय, सान्ता बार्बरामा र डेभरेटले येल विश्वविद्यालय र सान्ता बार्बरामा काम गरेका थिए। ‘सामान्य शब्दमा भन्नुपर्दा यो मेरो जीवनको सबैभन्दा ठूलो आश्चर्य […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/861114/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/861114/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T11:10:15+00:00",
+              "datePublished": "2025-10-07T11:10:14+00:00",
+              "headline": "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861114/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/861114/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861114/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+              "wordCount": 5
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861114/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T11:10:15+00:00",
+              "datePublished": "2025-10-07T11:10:14+00:00",
+              "description": "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861114/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/861114/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861114/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+              "url": "https://khabarhub.com/2025/07/861114/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861114/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+              "height": 857,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी– जोन क्लार्क, मिशेल एच.डेभरेट र जोन एम. मार्टिनिसले क्वान्टम मेकानिकल टनेलिङमा अग्रगामी अनुसन्धानका लागि यस वर्षको भौतिकशास्त्रको नोबेल पुरस्कार प्राप्त गरेका छन्। क्लार्कले क्यालिफोर्निया विश्वविद्यालय, बर्कलेमा आफ्नो अनुसन्धान गरेका हुन्  भने मार्टिनिसले क्यालिफोर्निया विश्वविद्यालय, सान्ता बार्बरामा र डेभरेटले येल विश्वविद्यालय र सान्ता बार्बरामा काम गरेका थिए। ‘सामान्य शब्दमा भन्नुपर्दा यो मेरो जीवनको सबैभन्दा ठूलो आश्चर्य […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/861114/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/nobel-puraskar.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T11:10:14Z",
+  "source": "Khabarhub",
+  "store_path": "_store/9d/9db37a86dd65cc6ee02630358faac192aab5596392500bed93c8ce6e11df8ada.json",
+  "title": "तीन वैज्ञानिकलाई भौतिकशास्त्रको नोबेल पुरस्कार",
+  "url": "https://khabarhub.com/2025/07/861114/",
+  "version": 1
+}
