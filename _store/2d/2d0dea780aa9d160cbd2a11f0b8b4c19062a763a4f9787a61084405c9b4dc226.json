@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n3\nमिनेट\n24\nShares",
+  "description": "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T05:35:41.834284Z",
+  "id": "2d0dea780aa9d160cbd2a11f0b8b4c19062a763a4f9787a61084405c9b4dc226",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/860948/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T05:03:13+00:00",
+            "datePublished": "2025-10-07T05:03:11+00:00",
+            "headline": "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/860948/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/860948/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/860948/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/860948/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T05:03:13+00:00",
+            "datePublished": "2025-10-07T05:03:11+00:00",
+            "description": "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/860948/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/860948/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/860948/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+            "url": "https://khabarhub.com/2025/07/860948/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/860948/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+            "height": 679,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "मुस्ताङ– मुस्ताङका किसान दशैँ पर्व सकिएसँगै परम्परागत रैथाने बाली थन्क्याउन व्यस्त छन् । यहाँको तल्लो क्षेत्र घरपझोङ, वारागुङ मुक्तिक्षेत्र र थासाङ गाउँपालिका अन्तर्गत किसान खाद्य बाली ‘फापर’ स्याहार्न व्यस्त भएका हुन् । रैथाने बाली फापर यहाँको लोकप्रिय खाद्य बालीको रुपमा लिइन्छ । घरायसी प्रयोजन, धार्मिक अनुष्ठान, व्यवसायिक प्रयोजन तथा विदेशमा बस्ने आफ्ना आफन्तजनलाई कोसेलीको रुपमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/860948/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/860948/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T05:03:13+00:00",
+              "datePublished": "2025-10-07T05:03:11+00:00",
+              "headline": "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/860948/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/860948/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/860948/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/860948/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T05:03:13+00:00",
+              "datePublished": "2025-10-07T05:03:11+00:00",
+              "description": "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/860948/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/860948/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/860948/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+              "url": "https://khabarhub.com/2025/07/860948/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/860948/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+              "height": 679,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "मुस्ताङ– मुस्ताङका किसान दशैँ पर्व सकिएसँगै परम्परागत रैथाने बाली थन्क्याउन व्यस्त छन् । यहाँको तल्लो क्षेत्र घरपझोङ, वारागुङ मुक्तिक्षेत्र र थासाङ गाउँपालिका अन्तर्गत किसान खाद्य बाली ‘फापर’ स्याहार्न व्यस्त भएका हुन् । रैथाने बाली फापर यहाँको लोकप्रिय खाद्य बालीको रुपमा लिइन्छ । घरायसी प्रयोजन, धार्मिक अनुष्ठान, व्यवसायिक प्रयोजन तथा विदेशमा बस्ने आफ्ना आफन्तजनलाई कोसेलीको रुपमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/860948/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/fapar.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T05:03:11Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2d/2d0dea780aa9d160cbd2a11f0b8b4c19062a763a4f9787a61084405c9b4dc226.json",
+  "title": "मुस्ताङका किसान ‘फापर’ थन्क्याउन व्यस्त",
+  "url": "https://khabarhub.com/2025/07/860948/",
+  "version": 1
+}
