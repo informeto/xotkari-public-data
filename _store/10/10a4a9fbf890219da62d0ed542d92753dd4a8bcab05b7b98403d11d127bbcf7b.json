@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n75\nShares",
+  "description": "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T02:04:57.964836Z",
+  "id": "10a4a9fbf890219da62d0ed542d92753dd4a8bcab05b7b98403d11d127bbcf7b",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/860873/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T01:06:51+00:00",
+            "datePublished": "2025-10-07T01:06:49+00:00",
+            "headline": "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/860873/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/860873/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/860873/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+            "wordCount": 14
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/860873/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T01:06:51+00:00",
+            "datePublished": "2025-10-07T01:06:49+00:00",
+            "description": "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/860873/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/860873/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/860873/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+            "url": "https://khabarhub.com/2025/07/860873/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/860873/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+            "height": 620,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+            "width": 960
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – मनसुनी वायुको प्रभाव क्रमशः कमजोर हुँदै गएको छ। सुदूरपश्चिम, कर्णाली र लुम्बिनी प्रदेशको पश्चिमी भू-भागको धेरै स्थानहरू र गण्डकी प्रदेशको पश्चिमी भू-भागको थोरै स्थानहरूमा पश्चिमी वायुको प्रभाव भने रहेको जल तथा मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाले जनाएको छ। महाशाखाद्वारा जारी मौसम ‘बुलेटिन’का अनुसार गण्डकी, लुम्बिनी , कर्णाली र सुदुरपश्चिम प्रदेश लगायत बाँकी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/860873/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/860873/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T01:06:51+00:00",
+              "datePublished": "2025-10-07T01:06:49+00:00",
+              "headline": "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/860873/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/860873/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/860873/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+              "wordCount": 14
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/860873/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T01:06:51+00:00",
+              "datePublished": "2025-10-07T01:06:49+00:00",
+              "description": "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/860873/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/860873/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/860873/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+              "url": "https://khabarhub.com/2025/07/860873/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/860873/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+              "height": 620,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg",
+              "width": 960
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – मनसुनी वायुको प्रभाव क्रमशः कमजोर हुँदै गएको छ। सुदूरपश्चिम, कर्णाली र लुम्बिनी प्रदेशको पश्चिमी भू-भागको धेरै स्थानहरू र गण्डकी प्रदेशको पश्चिमी भू-भागको थोरै स्थानहरूमा पश्चिमी वायुको प्रभाव भने रहेको जल तथा मौसम विज्ञान विभाग, मौसम पूर्वानुमान महाशाखाले जनाएको छ। महाशाखाद्वारा जारी मौसम ‘बुलेटिन’का अनुसार गण्डकी, लुम्बिनी , कर्णाली र सुदुरपश्चिम प्रदेश लगायत बाँकी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/860873/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2019/11/mausam-badali.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T01:06:49Z",
+  "source": "Khabarhub",
+  "store_path": "_store/10/10a4a9fbf890219da62d0ed542d92753dd4a8bcab05b7b98403d11d127bbcf7b.json",
+  "title": "आजको मौसम पूर्वानुमान : मनसुनी वायुको प्रभाव कमजोर हुँदै",
+  "url": "https://khabarhub.com/2025/07/860873/",
+  "version": 1
+}
