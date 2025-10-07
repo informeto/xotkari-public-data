@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n24\nShares",
+  "description": "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T03:10:46.622054Z",
+  "id": "d1da2d931bbce857f6e98832a52f623e02d9f4db006d4248189a7325f92c597a",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/860886/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार",
+              "सुरक्षा"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T02:09:09+00:00",
+            "datePublished": "2025-10-07T02:09:07+00:00",
+            "headline": "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/860886/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/860886/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/860886/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/860886/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T02:09:09+00:00",
+            "datePublished": "2025-10-07T02:09:07+00:00",
+            "description": "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/860886/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/860886/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/860886/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+            "url": "https://khabarhub.com/2025/07/860886/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/860886/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+            "height": 583,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– जेनजी प्रदर्शनका क्रममा देशका विभिन्न कारागार र सुधारगृहबाट भागेकामध्ये झण्डै पाँच हजार ७०० कैदी अझै फरार छन् । मुलुकभर जेनजी प्रदर्शन चर्केपछि विभिन्न २८ वटा कारागारबाट १३ हजार ५८९ कैदी र नौ वटा बालसुधारगृहबाट ९६४ बालबन्दी गरी १४ हजार ५५३ बन्दी भागेका थिए । त्यसमध्ये सोमबारसम्म ८ हजार ५१० कैदी र ३४१ बालबन्दी गरी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/860886/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/860886/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार",
+                "सुरक्षा"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T02:09:09+00:00",
+              "datePublished": "2025-10-07T02:09:07+00:00",
+              "headline": "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/860886/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/860886/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/860886/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/860886/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T02:09:09+00:00",
+              "datePublished": "2025-10-07T02:09:07+00:00",
+              "description": "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/860886/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/860886/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/860886/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+              "url": "https://khabarhub.com/2025/07/860886/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/860886/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+              "height": 583,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– जेनजी प्रदर्शनका क्रममा देशका विभिन्न कारागार र सुधारगृहबाट भागेकामध्ये झण्डै पाँच हजार ७०० कैदी अझै फरार छन् । मुलुकभर जेनजी प्रदर्शन चर्केपछि विभिन्न २८ वटा कारागारबाट १३ हजार ५८९ कैदी र नौ वटा बालसुधारगृहबाट ९६४ बालबन्दी गरी १४ हजार ५५३ बन्दी भागेका थिए । त्यसमध्ये सोमबारसम्म ८ हजार ५१० कैदी र ३४१ बालबन्दी गरी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/860886/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/karagar-byabasthapan-bibhag.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T02:09:07Z",
+  "source": "Khabarhub",
+  "store_path": "_store/d1/d1da2d931bbce857f6e98832a52f623e02d9f4db006d4248189a7325f92c597a.json",
+  "title": "जेनजी प्रदर्शनका क्रममा भागेका ५ हजार ७ सय कैदीबन्दी अझै फरार",
+  "url": "https://khabarhub.com/2025/07/860886/",
+  "version": 1
+}
