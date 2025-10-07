@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n27\nShares",
+  "description": "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T15:37:20.122995Z",
+  "id": "19c415cacf0dae52f26c58da21ba5d2524e60c455abe2d94e330a57d74048bfa",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/861239/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय",
+              "युरोप"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T14:40:56+00:00",
+            "datePublished": "2025-10-07T14:40:53+00:00",
+            "headline": "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861239/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/861239/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861239/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861239/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T14:40:56+00:00",
+            "datePublished": "2025-10-07T14:40:53+00:00",
+            "description": "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861239/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/861239/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861239/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+            "url": "https://khabarhub.com/2025/07/861239/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861239/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+            "height": 680,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+            "width": 1020
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "स्पेनको राजधानी शहर म्याड्रिडमा निर्माणाधीन भवन भत्किँदा भग्नावशेषमा परी चार जना बेपत्ता भएका छन् । बेपत्ताको खोजी गर्न स्पेनी आपतकालीन सेवाले टोलीहरू परिचालन गरेको अधिकारीहरूले बताएका छन् । म्याड्रिड क्षेत्रका लागि केन्द्रीय सरकारका उच्च प्रतिनिधि फ्रान्सिस्को मार्टिन अगुइरेले घटनाको पुष्टि गर्दै उक्त दुखद् घटनामा कम्तीमा १४ जना हताहत भएको बताए । उनले भने, “मङ्गलबार अहिले […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/861239/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/861239/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय",
+                "युरोप"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T14:40:56+00:00",
+              "datePublished": "2025-10-07T14:40:53+00:00",
+              "headline": "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861239/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/861239/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861239/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861239/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T14:40:56+00:00",
+              "datePublished": "2025-10-07T14:40:53+00:00",
+              "description": "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861239/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/861239/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861239/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+              "url": "https://khabarhub.com/2025/07/861239/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861239/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+              "height": 680,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp",
+              "width": 1020
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "स्पेनको राजधानी शहर म्याड्रिडमा निर्माणाधीन भवन भत्किँदा भग्नावशेषमा परी चार जना बेपत्ता भएका छन् । बेपत्ताको खोजी गर्न स्पेनी आपतकालीन सेवाले टोलीहरू परिचालन गरेको अधिकारीहरूले बताएका छन् । म्याड्रिड क्षेत्रका लागि केन्द्रीय सरकारका उच्च प्रतिनिधि फ्रान्सिस्को मार्टिन अगुइरेले घटनाको पुष्टि गर्दै उक्त दुखद् घटनामा कम्तीमा १४ जना हताहत भएको बताए । उनले भने, “मङ्गलबार अहिले […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/861239/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/madrid-.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T14:40:53Z",
+  "source": "Khabarhub",
+  "store_path": "_store/19/19c415cacf0dae52f26c58da21ba5d2524e60c455abe2d94e330a57d74048bfa.json",
+  "title": "म्याड्रिडमा भवन भत्किँदा चार बेपत्ता, १० जना घाइते",
+  "url": "https://khabarhub.com/2025/07/861239/",
+  "version": 1
+}

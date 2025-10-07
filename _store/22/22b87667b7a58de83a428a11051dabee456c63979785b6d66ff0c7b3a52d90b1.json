@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "नविन सिंह\n9:01 pm, Tue, 7 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T15:36:51.625529Z",
+  "id": "22b87667b7a58de83a428a11051dabee456c63979785b6d66ff0c7b3a52d90b1",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/12/Nabin-Singh-e1639124124949-150x150.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510159/#article",
+            "@type": "Article",
+            "articleSection": [
+              "मधेश",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/27f1c5ab76a8621df0285f7157a21e64",
+              "name": "नविन सिंह"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-07T15:16:22+00:00",
+            "datePublished": "2025-10-07T15:16:18+00:00",
+            "headline": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510159/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510159/"
+            },
+            "keywords": [
+              "कोजाग्रत पूर्णिमा"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510159/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510159/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510159/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510159/#breadcrumb"
+            },
+            "dateModified": "2025-10-07T15:16:22+00:00",
+            "datePublished": "2025-10-07T15:16:18+00:00",
+            "description": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510159/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510159/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510159/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg",
+            "url": "https://www.imagekhabar.com/news/510159/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510159/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg",
+            "height": 711,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg",
+            "width": 1264
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510159/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/27f1c5ab76a8621df0285f7157a21e64",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "नविन सिंह",
+              "contentUrl": "https://secure.gravatar.com/avatar/94bddcc5c66f6a81a410b07f79b2b09b?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/94bddcc5c66f6a81a410b07f79b2b09b?s=96&d=mm&r=g"
+            },
+            "name": "नविन सिंह",
+            "sameAs": [
+              "http://www.imagekhabar.com"
+            ],
+            "url": "https://www.imagekhabar.com/news/author/nabinsingh/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "जनकपुरधाम। कोजाग्रत पूर्णिमा मिथिलाञ्चलमा मनाइएकाे छ। कोजाग्रत पूर्णिमाको अवसर पारेर प्रत्येक वर्ष जस्तै यस वर्ष पनि महोत्तरीको रतौलीबाट १ सय १ पाहुर जानकी मन्दिरमा ल्याइएको हाे । महोत्तरीको रतौलीका स्व. महेन्द्र प्रसाद ठाकुरको घरबाट मन्दिरमा ल्याइएको पाहुरबाटै भगवान सीता-रामको चुमाओन गर्ने परम्परा रहेको छ । पाहुरमा पान, मखान, लड्डु, खाजा, चामल, दाल तरकारी, भगवान राम-माता […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510159/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510159/#article",
+              "@type": "Article",
+              "articleSection": [
+                "मधेश",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/27f1c5ab76a8621df0285f7157a21e64",
+                "name": "नविन सिंह"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-07T15:16:22+00:00",
+              "datePublished": "2025-10-07T15:16:18+00:00",
+              "headline": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510159/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510159/"
+              },
+              "keywords": [
+                "कोजाग्रत पूर्णिमा"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510159/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510159/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510159/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510159/#breadcrumb"
+              },
+              "dateModified": "2025-10-07T15:16:22+00:00",
+              "datePublished": "2025-10-07T15:16:18+00:00",
+              "description": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510159/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510159/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510159/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg",
+              "url": "https://www.imagekhabar.com/news/510159/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510159/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg",
+              "height": 711,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg",
+              "width": 1264
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510159/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/27f1c5ab76a8621df0285f7157a21e64",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "नविन सिंह",
+                "contentUrl": "https://secure.gravatar.com/avatar/94bddcc5c66f6a81a410b07f79b2b09b?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/94bddcc5c66f6a81a410b07f79b2b09b?s=96&d=mm&r=g"
+              },
+              "name": "नविन सिंह",
+              "sameAs": [
+                "http://www.imagekhabar.com"
+              ],
+              "url": "https://www.imagekhabar.com/news/author/nabinsingh/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "जनकपुरधाम। कोजाग्रत पूर्णिमा मिथिलाञ्चलमा मनाइएकाे छ। कोजाग्रत पूर्णिमाको अवसर पारेर प्रत्येक वर्ष जस्तै यस वर्ष पनि महोत्तरीको रतौलीबाट १ सय १ पाहुर जानकी मन्दिरमा ल्याइएको हाे । महोत्तरीको रतौलीका स्व. महेन्द्र प्रसाद ठाकुरको घरबाट मन्दिरमा ल्याइएको पाहुरबाटै भगवान सीता-रामको चुमाओन गर्ने परम्परा रहेको छ । पाहुरमा पान, मखान, लड्डु, खाजा, चामल, दाल तरकारी, भगवान राम-माता […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510159/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/janaki-mandir.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T15:16:18Z",
+  "source": "Image Khabar",
+  "store_path": "_store/22/22b87667b7a58de83a428a11051dabee456c63979785b6d66ff0c7b3a52d90b1.json",
+  "title": "मिथिलाञ्चलमा कोजाग्रत पूर्णिमा मनाइयाे",
+  "url": "https://www.imagekhabar.com/news/510159/",
+  "version": 1
+}

@@ -1,0 +1,447 @@
+{
+  "author": "",
+  "content": "जितेन्द्र भण्डारी\n9:18 pm, Tue, 7 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T15:36:51.283394Z",
+  "id": "e70cec29bb5cac4a221c89650edb6adf06cd732cd207488ee2544bb07c9cdf12",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/12/Jitendra-Bhandari-e1639123715340-150x150.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510164/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner-5",
+              "BREAKING",
+              "Hot News",
+              "कोशी",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/e7a26cacc46bab94c29a77a77d4732d3",
+              "name": "जितेन्द्र भण्डारी"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-07T15:35:31+00:00",
+            "datePublished": "2025-10-07T15:33:43+00:00",
+            "headline": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510164/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510164/"
+            },
+            "keywords": [
+              "पाँचथर"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510164/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510164/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510164/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510164/#breadcrumb"
+            },
+            "dateModified": "2025-10-07T15:35:31+00:00",
+            "datePublished": "2025-10-07T15:33:43+00:00",
+            "description": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510164/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510164/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510164/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg",
+            "url": "https://www.imagekhabar.com/news/510164/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510164/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg",
+            "height": 697,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg",
+            "width": 1257
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510164/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/e7a26cacc46bab94c29a77a77d4732d3",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "जितेन्द्र भण्डारी",
+              "contentUrl": "https://secure.gravatar.com/avatar/f98823bd1b7daf4efc2eea9231b97cdb?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/f98823bd1b7daf4efc2eea9231b97cdb?s=96&d=mm&r=g"
+            },
+            "name": "जितेन्द्र भण्डारी",
+            "sameAs": [
+              "http://www.imagekhabar.com"
+            ],
+            "url": "https://www.imagekhabar.com/news/author/jitendrabhandari/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "जितेन्द्र भण्डारी पाँचथर। पाँचथरकाे फेमे खोलामा लगाइएको डाईभर्सन र हेम पाईप बाढीले बगाएपछि सदरमुकाम फिदिमसँग यातायात सम्पर्क विच्छेद भएको छ । यहि असोज १८ गते अविरल वर्षासँगै आएकाे बाढी-पहिरोका कारण पाँचथरको फिदिम नगरपालिका-१ र ११ स्थित फेमे खोलामा साेही घटना भएकापछि यातायात सम्पर्क विच्छेद भएको हाे। फिदिम नगरपालिका- १०,११,१२,१३ र फालेलुङ गाउँपालिका-४,५,६,७ र ८ नम्बर […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510164/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510164/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner-5",
+                "BREAKING",
+                "Hot News",
+                "कोशी",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/e7a26cacc46bab94c29a77a77d4732d3",
+                "name": "जितेन्द्र भण्डारी"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-07T15:35:31+00:00",
+              "datePublished": "2025-10-07T15:33:43+00:00",
+              "headline": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510164/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510164/"
+              },
+              "keywords": [
+                "पाँचथर"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510164/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510164/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510164/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510164/#breadcrumb"
+              },
+              "dateModified": "2025-10-07T15:35:31+00:00",
+              "datePublished": "2025-10-07T15:33:43+00:00",
+              "description": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510164/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510164/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510164/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg",
+              "url": "https://www.imagekhabar.com/news/510164/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510164/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg",
+              "height": 697,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg",
+              "width": 1257
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510164/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/e7a26cacc46bab94c29a77a77d4732d3",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "जितेन्द्र भण्डारी",
+                "contentUrl": "https://secure.gravatar.com/avatar/f98823bd1b7daf4efc2eea9231b97cdb?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/f98823bd1b7daf4efc2eea9231b97cdb?s=96&d=mm&r=g"
+              },
+              "name": "जितेन्द्र भण्डारी",
+              "sameAs": [
+                "http://www.imagekhabar.com"
+              ],
+              "url": "https://www.imagekhabar.com/news/author/jitendrabhandari/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "जितेन्द्र भण्डारी पाँचथर। पाँचथरकाे फेमे खोलामा लगाइएको डाईभर्सन र हेम पाईप बाढीले बगाएपछि सदरमुकाम फिदिमसँग यातायात सम्पर्क विच्छेद भएको छ । यहि असोज १८ गते अविरल वर्षासँगै आएकाे बाढी-पहिरोका कारण पाँचथरको फिदिम नगरपालिका-१ र ११ स्थित फेमे खोलामा साेही घटना भएकापछि यातायात सम्पर्क विच्छेद भएको हाे। फिदिम नगरपालिका- १०,११,१२,१३ र फालेलुङ गाउँपालिका-४,५,६,७ र ८ नम्बर […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510164/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/pahiro.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T15:33:43Z",
+  "source": "Image Khabar",
+  "store_path": "_store/e7/e70cec29bb5cac4a221c89650edb6adf06cd732cd207488ee2544bb07c9cdf12.json",
+  "title": "पाँचथरमा डाईभर्सन हेम-पाईप बाढीले बगायाे, सदरमुकामसँगको सम्बन्ध विच्छेद",
+  "url": "https://www.imagekhabar.com/news/510164/",
+  "version": 1
+}

@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n27\nShares",
+  "description": "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए ट्राभल",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T15:37:18.946806Z",
+  "id": "527585d0dcff21f958c1d5265ed7743b96ca48e09817c878163030a15fd446da",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/861245/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ट्राभल",
+              "पर्यटन"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T15:14:36+00:00",
+            "datePublished": "2025-10-07T15:14:34+00:00",
+            "headline": "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861245/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/861245/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861245/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861245/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T15:14:36+00:00",
+            "datePublished": "2025-10-07T15:14:34+00:00",
+            "description": "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए ट्राभल",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861245/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/861245/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861245/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+            "url": "https://khabarhub.com/2025/07/861245/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861245/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल फोटो",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+            "height": 926,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- सन् २०२५ को सेप्टेम्बरमा ७८ हजार विदेशी पर्यटक नेपाल भित्रिएका छन् । नेपाल पर्यटन बोर्डले आज सार्वजनिक गरेको तथ्याङ्कअनुसार सेप्टेम्बरमा ७८ हजार ७११ पर्यटक नेपाल भ्रमणमा आएका हुन् । आँकडाअनुसार पर्यटकीय सिजनमै पर्यटक आगमन खुम्चिएको छ । यो सङ्ख्या अघिल्लो सेप्टेम्बर २०२४ को तुलनामा १८.३ प्रतिशत कम हो । अघिल्लो वर्ष सेप्टेम्बरमा ९६ हजार […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/861245/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/861245/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ट्राभल",
+                "पर्यटन"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T15:14:36+00:00",
+              "datePublished": "2025-10-07T15:14:34+00:00",
+              "headline": "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861245/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/861245/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861245/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861245/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T15:14:36+00:00",
+              "datePublished": "2025-10-07T15:14:34+00:00",
+              "description": "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए ट्राभल",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861245/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/861245/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861245/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+              "url": "https://khabarhub.com/2025/07/861245/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861245/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल फोटो",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+              "height": 926,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- सन् २०२५ को सेप्टेम्बरमा ७८ हजार विदेशी पर्यटक नेपाल भित्रिएका छन् । नेपाल पर्यटन बोर्डले आज सार्वजनिक गरेको तथ्याङ्कअनुसार सेप्टेम्बरमा ७८ हजार ७११ पर्यटक नेपाल भ्रमणमा आएका हुन् । आँकडाअनुसार पर्यटकीय सिजनमै पर्यटक आगमन खुम्चिएको छ । यो सङ्ख्या अघिल्लो सेप्टेम्बर २०२४ को तुलनामा १८.३ प्रतिशत कम हो । अघिल्लो वर्ष सेप्टेम्बरमा ९६ हजार […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/861245/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2022/01/tourist-2-.jpg.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T15:14:34Z",
+  "source": "Khabarhub",
+  "store_path": "_store/52/527585d0dcff21f958c1d5265ed7743b96ca48e09817c878163030a15fd446da.json",
+  "title": "सेप्टेम्बरमा ७८ हजार पर्यटक भित्रिए",
+  "url": "https://khabarhub.com/2025/07/861245/",
+  "version": 1
+}
