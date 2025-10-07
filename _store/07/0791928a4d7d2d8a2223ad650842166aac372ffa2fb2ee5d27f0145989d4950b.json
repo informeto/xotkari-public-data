@@ -1,0 +1,490 @@
+{
+  "author": "देश सञ्चार",
+  "content": "",
+  "description": "काठमाडौँ – काठमाडौँमा मध्यरातिदेखि प्रहरीहरुले चौकी छाडेका छन्। जेन-जी आन्दोलनका कारण विस्थापित भएका प्रहरीहरु समुदायकै पहलमा पूर्ववर्त अवस्थामा फर्किए",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T06:51:58.883646Z",
+  "id": "0791928a4d7d2d8a2223ad650842166aac372ffa2fb2ee5d27f0145989d4950b",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/10/07/1101710/#article",
+            "@type": "Article",
+            "articleSection": [
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "name": "देश सञ्चार"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-07T06:23:08+00:00",
+            "datePublished": "2025-10-07T06:13:33+00:00",
+            "headline": "मध्यरातिदेखि प्रहरीले छाडे चौकी",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/10/07/1101710/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/07/1101710/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/#breadcrumb"
+            },
+            "dateModified": "2025-10-07T06:23:08+00:00",
+            "datePublished": "2025-10-07T06:13:33+00:00",
+            "description": "काठमाडौँ – काठमाडौँमा मध्यरातिदेखि प्रहरीहरुले चौकी छाडेका छन्। जेन-जी आन्दोलनका कारण विस्थापित भएका प्रहरीहरु समुदायकै पहलमा पूर्ववर्त अवस्थामा फर्किए",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "मध्यरातिदेखि प्रहरीले छाडे चौकी",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/10/07/1101710/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg",
+            "url": "https://deshsanchar.com/2025/10/07/1101710/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/07/1101710/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg",
+            "height": 853,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg",
+            "width": 1280
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/07/1101710/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "मध्यरातिदेखि प्रहरीले छाडे चौकी",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "देश सञ्चार",
+              "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
+            },
+            "name": "देश सञ्चार",
+            "url": "https://deshsanchar.com/author/deshsanchar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "मध्यरातिदेखि प्रहरीले छाडे चौकी"
+          ],
+          [
+            "og:description",
+            "काठमाडौँ – काठमाडौँमा मध्यरातिदेखि प्रहरीहरुले चौकी छाडेका छन्। जेन-जी आन्दोलनका कारण विस्थापित भएका प्रहरीहरु समुदायकै पहलमा पूर्ववर्त अवस्थामा फर्किए"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/07/1101710/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-10-07T06:13:33+00:00"
+          ],
+          [
+            "article:modified_time",
+            "2025-10-07T06:23:08+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg"
+          ],
+          [
+            "og:image:width",
+            "1280"
+          ],
+          [
+            "og:image:height",
+            "853"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/#article",
+              "@type": "Article",
+              "articleSection": [
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+                "name": "देश सञ्चार"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-07T06:23:08+00:00",
+              "datePublished": "2025-10-07T06:13:33+00:00",
+              "headline": "मध्यरातिदेखि प्रहरीले छाडे चौकी",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/07/1101710/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/10/07/1101710/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/07/1101710/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/07/1101710/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/10/07/1101710/#breadcrumb"
+              },
+              "dateModified": "2025-10-07T06:23:08+00:00",
+              "datePublished": "2025-10-07T06:13:33+00:00",
+              "description": "काठमाडौँ – काठमाडौँमा मध्यरातिदेखि प्रहरीहरुले चौकी छाडेका छन्। जेन-जी आन्दोलनका कारण विस्थापित भएका प्रहरीहरु समुदायकै पहलमा पूर्ववर्त अवस्थामा फर्किए",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/07/1101710/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "मध्यरातिदेखि प्रहरीले छाडे चौकी",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/07/1101710/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/07/1101710/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg",
+              "url": "https://deshsanchar.com/2025/10/07/1101710/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg",
+              "height": 853,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg",
+              "width": 1280
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/07/1101710/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "मध्यरातिदेखि प्रहरीले छाडे चौकी",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "देश सञ्चार",
+                "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
+              },
+              "name": "देश सञ्चार",
+              "url": "https://deshsanchar.com/author/deshsanchar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "मध्यरातिदेखि प्रहरीले छाडे चौकी"
+            ],
+            [
+              "og:description",
+              "काठमाडौँ – काठमाडौँमा मध्यरातिदेखि प्रहरीहरुले चौकी छाडेका छन्। जेन-जी आन्दोलनका कारण विस्थापित भएका प्रहरीहरु समुदायकै पहलमा पूर्ववर्त अवस्थामा फर्किए"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/07/1101710/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-10-07T06:13:33+00:00"
+            ],
+            [
+              "article:modified_time",
+              "2025-10-07T06:23:08+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2025/09/25173614/Koteshwor-Police-Restoration_Nepal-Photo-Library-8.jpeg"
+            ],
+            [
+              "og:image:width",
+              "1280"
+            ],
+            [
+              "og:image:height",
+              "853"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T06:13:33Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/07/0791928a4d7d2d8a2223ad650842166aac372ffa2fb2ee5d27f0145989d4950b.json",
+  "title": "मध्यरातिदेखि प्रहरीले छाडे चौकी",
+  "url": "https://deshsanchar.com/2025/10/07/1101710/",
+  "version": 1
+}

@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n11:50 am, Tue, 7 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T06:51:23.139402Z",
+  "id": "7f36de92d0c5d99518799c9a0557d55bdd6d7463d5a2522e584ea768e203560b",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510059/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-07T06:05:23+00:00",
+            "datePublished": "2025-10-07T06:05:17+00:00",
+            "headline": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510059/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510059/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510059/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510059/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510059/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510059/#breadcrumb"
+            },
+            "dateModified": "2025-10-07T06:05:23+00:00",
+            "datePublished": "2025-10-07T06:05:17+00:00",
+            "description": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510059/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510059/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510059/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg",
+            "url": "https://www.imagekhabar.com/news/510059/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510059/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg",
+            "height": 1080,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg",
+            "width": 1920
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510059/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । मेडिकल व्यवसायी दुर्गा प्रसाईले चाडै देशमा नेपाल र नेपाली नागरिकहरुले चाहेको संबैधानिक राजसंस्था सहितको व्यवस्था आउने दाबी गरेका छन् । मंगलबार सामाजिक संजालमा आफ्नो धारणा राख्दै उनले काठमाडौँ केन्द्रित भई देशभरी हुने आन्दोलनका लागि तयार रहन अनुरोध पनि अनुरोध गरेका छन् । जेनजी आन्दोलन समेत पश्चिमाहरुको डिजाइनमा भएको भन्दै उनले ०४७ सालको संबिधान […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510059/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510059/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-07T06:05:23+00:00",
+              "datePublished": "2025-10-07T06:05:17+00:00",
+              "headline": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510059/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510059/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510059/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510059/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510059/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510059/#breadcrumb"
+              },
+              "dateModified": "2025-10-07T06:05:23+00:00",
+              "datePublished": "2025-10-07T06:05:17+00:00",
+              "description": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510059/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510059/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510059/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg",
+              "url": "https://www.imagekhabar.com/news/510059/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510059/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg",
+              "height": 1080,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg",
+              "width": 1920
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510059/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । मेडिकल व्यवसायी दुर्गा प्रसाईले चाडै देशमा नेपाल र नेपाली नागरिकहरुले चाहेको संबैधानिक राजसंस्था सहितको व्यवस्था आउने दाबी गरेका छन् । मंगलबार सामाजिक संजालमा आफ्नो धारणा राख्दै उनले काठमाडौँ केन्द्रित भई देशभरी हुने आन्दोलनका लागि तयार रहन अनुरोध पनि अनुरोध गरेका छन् । जेनजी आन्दोलन समेत पश्चिमाहरुको डिजाइनमा भएको भन्दै उनले ०४७ सालको संबिधान […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510059/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/Durga-Prasai-2.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T06:05:17Z",
+  "source": "Image Khabar",
+  "store_path": "_store/7f/7f36de92d0c5d99518799c9a0557d55bdd6d7463d5a2522e584ea768e203560b.json",
+  "title": "जेनजी आन्दोलन पनि पश्चिमाहरुको डिजाइमा भयो, अब राजसंस्था आवश्यक भइसक्यो : दुर्गा प्रसाईं",
+  "url": "https://www.imagekhabar.com/news/510059/",
+  "version": 1
+}

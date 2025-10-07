@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n12:25 pm, Tue, 7 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T06:51:20.736748Z",
+  "id": "3dcc194ca240a6f50e8835521aa86f88dbf7c6a5035bff502d773887901292b6",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510062/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-07T06:40:36+00:00",
+            "datePublished": "2025-10-07T06:40:31+00:00",
+            "headline": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510062/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510062/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510062/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510062/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510062/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510062/#breadcrumb"
+            },
+            "dateModified": "2025-10-07T06:40:36+00:00",
+            "datePublished": "2025-10-07T06:40:31+00:00",
+            "description": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510062/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510062/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510062/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp",
+            "url": "https://www.imagekhabar.com/news/510062/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510062/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp",
+            "height": 800,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp",
+            "width": 1500
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510062/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "इलाम । लगातारको बर्षाका कारण अवरुद्ध भएको मेची राजमार्गको विभिन्न खण्डको पहिरो हटाउने काम जारी छ । सडक डिभिजन कार्यालय इलामका अनुसार मेची राजमार्गको बिब्ल्यॉटे–रॉके खण्डमा पहिरो पन्साउने काम भइरहेको छ । बिब्ल्यॉटेबाट पुवाखोला–साखेजुङ–रॉके जाने राजमार्गको सानवीरे खोल्सीमा ठूलो पहिरो पन्साउने काम भइरहेको छ ।रॉकेतिरबाट मिलगोलाईसम्म गाडी आउन अवरोध छैन । तर, मिलगोलाई, बञ्चरे गोलाई […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510062/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510062/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-07T06:40:36+00:00",
+              "datePublished": "2025-10-07T06:40:31+00:00",
+              "headline": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510062/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510062/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510062/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510062/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510062/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510062/#breadcrumb"
+              },
+              "dateModified": "2025-10-07T06:40:36+00:00",
+              "datePublished": "2025-10-07T06:40:31+00:00",
+              "description": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510062/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510062/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510062/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp",
+              "url": "https://www.imagekhabar.com/news/510062/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510062/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp",
+              "height": 800,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp",
+              "width": 1500
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510062/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "इलाम । लगातारको बर्षाका कारण अवरुद्ध भएको मेची राजमार्गको विभिन्न खण्डको पहिरो हटाउने काम जारी छ । सडक डिभिजन कार्यालय इलामका अनुसार मेची राजमार्गको बिब्ल्यॉटे–रॉके खण्डमा पहिरो पन्साउने काम भइरहेको छ । बिब्ल्यॉटेबाट पुवाखोला–साखेजुङ–रॉके जाने राजमार्गको सानवीरे खोल्सीमा ठूलो पहिरो पन्साउने काम भइरहेको छ ।रॉकेतिरबाट मिलगोलाईसम्म गाडी आउन अवरोध छैन । तर, मिलगोलाई, बञ्चरे गोलाई […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510062/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/narayangadh-muglin-sadk-pahiro.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T06:40:31Z",
+  "source": "Image Khabar",
+  "store_path": "_store/3d/3dcc194ca240a6f50e8835521aa86f88dbf7c6a5035bff502d773887901292b6.json",
+  "title": "मेची राजमार्गको ठाउँ-ठाउँमा अवरोध, खुलाउने प्रयास जारी",
+  "url": "https://www.imagekhabar.com/news/510062/",
+  "version": 1
+}
