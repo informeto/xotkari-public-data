@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T13:05:13.642810Z",
+  "id": "b45e8ef1e89a78febe865e480981ffb07247e8d605687fded272bf1cf901c71c",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/861222/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T12:46:40+00:00",
+            "datePublished": "2025-10-07T12:46:37+00:00",
+            "headline": "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861222/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/861222/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861222/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg",
+            "wordCount": 14
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861222/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T12:46:40+00:00",
+            "datePublished": "2025-10-07T12:46:37+00:00",
+            "description": "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861222/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/861222/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861222/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg",
+            "url": "https://khabarhub.com/2025/07/861222/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861222/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "तस्बिर रोयटर्स",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg",
+            "height": 597,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg",
+            "width": 1014
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी – अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पको शान्ति योजना अनुरूप इजरायलले गाजामा सैन्य कारबाही रोकिसक्नुपर्ने कतारको विदेश मन्त्रालयका प्रवक्ताले मङ्गलबार बताएका छन् ।  ‘युद्धविरामको बारेमा यो प्रश्न पहिले इजरायली सरकारतर्फ केन्द्रित गरिनु पर्छ। यदि प्रधानमन्त्रीले ट्रम्पको योजनाको पालना गर्ने सम्बन्धमा दिएको अभिव्यक्ति सत्य हो भने वास्तवमा युद्धविरामको व्यवस्था गर्नु पर्ने थियो,’ माजिद अल–अन्सारीले दोहामा पत्रकारहरूसँगको कुराकानीका […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/861222/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/861222/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T12:46:40+00:00",
+              "datePublished": "2025-10-07T12:46:37+00:00",
+              "headline": "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861222/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/861222/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861222/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg",
+              "wordCount": 14
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861222/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T12:46:40+00:00",
+              "datePublished": "2025-10-07T12:46:37+00:00",
+              "description": "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861222/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/861222/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861222/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg",
+              "url": "https://khabarhub.com/2025/07/861222/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861222/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "तस्बिर रोयटर्स",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg",
+              "height": 597,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg",
+              "width": 1014
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी – अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पको शान्ति योजना अनुरूप इजरायलले गाजामा सैन्य कारबाही रोकिसक्नुपर्ने कतारको विदेश मन्त्रालयका प्रवक्ताले मङ्गलबार बताएका छन् ।  ‘युद्धविरामको बारेमा यो प्रश्न पहिले इजरायली सरकारतर्फ केन्द्रित गरिनु पर्छ। यदि प्रधानमन्त्रीले ट्रम्पको योजनाको पालना गर्ने सम्बन्धमा दिएको अभिव्यक्ति सत्य हो भने वास्तवमा युद्धविरामको व्यवस्था गर्नु पर्ने थियो,’ माजिद अल–अन्सारीले दोहामा पत्रकारहरूसँगको कुराकानीका […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/861222/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/06/gaja.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T12:46:37Z",
+  "source": "Khabarhub",
+  "store_path": "_store/b4/b45e8ef1e89a78febe865e480981ffb07247e8d605687fded272bf1cf901c71c.json",
+  "title": "ट्रम्पको योजनाअनुसार इजरायलले गाजामा पहिले नै कारबाही रोकेको हुनुपर्छ : कतार",
+  "url": "https://khabarhub.com/2025/07/861222/",
+  "version": 1
+}

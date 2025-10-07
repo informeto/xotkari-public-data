@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२१ आश्विन २०८२, मंगलबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n57\nShares",
+  "description": "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-07T13:05:14.393581Z",
+  "id": "e6b86d3a54581d02b590444f5a07c20d7f7bc32d39e6c7538439238442b5dae2",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/07/861220/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-07T12:42:19+00:00",
+            "datePublished": "2025-10-07T12:42:17+00:00",
+            "headline": "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861220/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/07/861220/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861220/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg",
+            "wordCount": 5
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861220/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-07T12:42:19+00:00",
+            "datePublished": "2025-10-07T12:42:17+00:00",
+            "description": "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/07/861220/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/07/861220/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/07/861220/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg",
+            "url": "https://khabarhub.com/2025/07/861220/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/07/861220/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– प्रधानमन्त्री सुशीला कार्कीसँग आसन्न निर्वाचनको तयारीबारे निर्वाचन आयोगका पदाधिकारीले आज छलफल गरेका छन् । सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयमा भएको भेटमा आगामी फागुन २१ गतेको निर्वाचन कार्यतालिका सार्वजनिक भइसकेको अवस्थामा त्यसको कार्यान्वयनमा सरकार र राजनीतिक दलको सहयोगका विषयमा छलफल भएको जनाइएको छ । आयोगले सोमबार निर्वाचन कार्यतालिका सार्वजनिक गरिसकेको छ । छलफलमा अर्थमन्त्री रामेश्वरप्रसाद […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/07/861220/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/07/861220/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-07T12:42:19+00:00",
+              "datePublished": "2025-10-07T12:42:17+00:00",
+              "headline": "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861220/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/07/861220/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861220/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg",
+              "wordCount": 5
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861220/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-07T12:42:19+00:00",
+              "datePublished": "2025-10-07T12:42:17+00:00",
+              "description": "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/07/861220/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/07/861220/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/07/861220/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg",
+              "url": "https://khabarhub.com/2025/07/861220/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/07/861220/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– प्रधानमन्त्री सुशीला कार्कीसँग आसन्न निर्वाचनको तयारीबारे निर्वाचन आयोगका पदाधिकारीले आज छलफल गरेका छन् । सिंहदरबारस्थित प्रधानमन्त्री तथा मन्त्रिपरिषद्को कार्यालयमा भएको भेटमा आगामी फागुन २१ गतेको निर्वाचन कार्यतालिका सार्वजनिक भइसकेको अवस्थामा त्यसको कार्यान्वयनमा सरकार र राजनीतिक दलको सहयोगका विषयमा छलफल भएको जनाइएको छ । आयोगले सोमबार निर्वाचन कार्यतालिका सार्वजनिक गरिसकेको छ । छलफलमा अर्थमन्त्री रामेश्वरप्रसाद […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/07/861220/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/sushila-karki-pm.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-07T12:42:17Z",
+  "source": "Khabarhub",
+  "store_path": "_store/e6/e6b86d3a54581d02b590444f5a07c20d7f7bc32d39e6c7538439238442b5dae2.json",
+  "title": "प्रधानमन्त्री कार्कीसँग निर्वाचन आयोगका पदाधिकारीको छलफल",
+  "url": "https://khabarhub.com/2025/07/861220/",
+  "version": 1
+}
