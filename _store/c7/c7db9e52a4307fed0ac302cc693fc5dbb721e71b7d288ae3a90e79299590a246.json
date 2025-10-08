@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n75\nShares",
+  "description": "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ? ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T13:03:50.906713Z",
+  "id": "c7db9e52a4307fed0ac302cc693fc5dbb721e71b7d288ae3a90e79299590a246",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861599/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T11:36:47+00:00",
+            "datePublished": "2025-10-08T11:35:47+00:00",
+            "headline": "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ?",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861599/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861599/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861599/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861599/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T11:36:47+00:00",
+            "datePublished": "2025-10-08T11:35:47+00:00",
+            "description": "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ? ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861599/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ? | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861599/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861599/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+            "url": "https://khabarhub.com/2025/08/861599/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861599/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+            "height": 600,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ?"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– अख्तियार दुरुपयोग अनुसन्धान आयोगले पोखरा बाटुलेचौरको दीप विर्ता (लिची बगैँचा)को नामसारी सम्बन्धमा घुस डिल अडियो प्रकरणमा पूर्वमन्त्री राजकुमार गुप्तासहित ७ जनाविरुद्ध बुधबार विशेष अदालतमा मुद्दा दायर गरेको छ ।  अख्तियारले पूर्व संघीय मामिला तथा सामान्य प्रशासनमन्त्री राजकुमार गुप्ताले कास्की जिल्ला स्थित मालपोत कार्यालयका तत्कालीन प्रमुख रामचन्द्र अधिकारीलाई सरुवा थमौती गरिदिन्छु भनेर घरजग्गा व्यवसायीसँग घुस […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861599/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861599/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T11:36:47+00:00",
+              "datePublished": "2025-10-08T11:35:47+00:00",
+              "headline": "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ?",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861599/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861599/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861599/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861599/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T11:36:47+00:00",
+              "datePublished": "2025-10-08T11:35:47+00:00",
+              "description": "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ? ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861599/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ? | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861599/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861599/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+              "url": "https://khabarhub.com/2025/08/861599/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861599/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+              "height": 600,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ?"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– अख्तियार दुरुपयोग अनुसन्धान आयोगले पोखरा बाटुलेचौरको दीप विर्ता (लिची बगैँचा)को नामसारी सम्बन्धमा घुस डिल अडियो प्रकरणमा पूर्वमन्त्री राजकुमार गुप्तासहित ७ जनाविरुद्ध बुधबार विशेष अदालतमा मुद्दा दायर गरेको छ ।  अख्तियारले पूर्व संघीय मामिला तथा सामान्य प्रशासनमन्त्री राजकुमार गुप्ताले कास्की जिल्ला स्थित मालपोत कार्यालयका तत्कालीन प्रमुख रामचन्द्र अधिकारीलाई सरुवा थमौती गरिदिन्छु भनेर घरजग्गा व्यवसायीसँग घुस […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861599/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/lichibagan-akthair.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T11:35:47Z",
+  "source": "Khabarhub",
+  "store_path": "_store/c7/c7db9e52a4307fed0ac302cc693fc5dbb721e71b7d288ae3a90e79299590a246.json",
+  "title": "लिची बगैँचा घुस डिल प्रकरणमा के देख्यो अख्तियारले ?",
+  "url": "https://khabarhub.com/2025/08/861599/",
+  "version": 1
+}
