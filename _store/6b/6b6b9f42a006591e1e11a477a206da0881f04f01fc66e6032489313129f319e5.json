@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n30\nShares",
+  "description": "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T04:37:36.520003Z",
+  "id": "6b6b9f42a006591e1e11a477a206da0881f04f01fc66e6032489313129f319e5",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861328/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T04:01:25+00:00",
+            "datePublished": "2025-10-08T04:01:23+00:00",
+            "headline": "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861328/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861328/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861328/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861328/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T04:01:25+00:00",
+            "datePublished": "2025-10-08T04:01:23+00:00",
+            "description": "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861328/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861328/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861328/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg",
+            "url": "https://khabarhub.com/2025/08/861328/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861328/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg",
+            "height": 464,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– कृषि तथा पशुपन्छी विकास मन्त्रालयले हालै भएको भारी वर्षाका कारण देशभर कृषि तथा पशुपालनका क्षेत्रमा भएको क्षतिको विवरण सङ्कलन गर्न सुरु गरेको छ । मन्त्रालयले सातै प्रदेशबाट क्षतिको प्रारम्भिक विवरण सङ्कलन गरी केन्द्रमा पठाउन निर्देशन दिएको हो । बाढीबाट नोक्सान भएको कृषि वस्तुको प्रकार, परिमाण, पशुपन्छीको नोक्सानी, गोठमा भएको क्षतिको अवस्था तथा व्यावसायिक फार्म, […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861328/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861328/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T04:01:25+00:00",
+              "datePublished": "2025-10-08T04:01:23+00:00",
+              "headline": "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861328/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861328/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861328/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861328/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T04:01:25+00:00",
+              "datePublished": "2025-10-08T04:01:23+00:00",
+              "description": "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861328/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861328/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861328/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg",
+              "url": "https://khabarhub.com/2025/08/861328/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861328/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg",
+              "height": 464,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– कृषि तथा पशुपन्छी विकास मन्त्रालयले हालै भएको भारी वर्षाका कारण देशभर कृषि तथा पशुपालनका क्षेत्रमा भएको क्षतिको विवरण सङ्कलन गर्न सुरु गरेको छ । मन्त्रालयले सातै प्रदेशबाट क्षतिको प्रारम्भिक विवरण सङ्कलन गरी केन्द्रमा पठाउन निर्देशन दिएको हो । बाढीबाट नोक्सान भएको कृषि वस्तुको प्रकार, परिमाण, पशुपन्छीको नोक्सानी, गोठमा भएको क्षतिको अवस्था तथा व्यावसायिक फार्म, […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861328/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/06/krishi-mantralaya1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T04:01:23Z",
+  "source": "Khabarhub",
+  "store_path": "_store/6b/6b6b9f42a006591e1e11a477a206da0881f04f01fc66e6032489313129f319e5.json",
+  "title": "देशभर कृषि तथा पशुपालनमा भएको क्षतिको विवरण सङ्कलन गरिँदै",
+  "url": "https://khabarhub.com/2025/08/861328/",
+  "version": 1
+}
