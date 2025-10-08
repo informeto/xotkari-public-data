@@ -1,0 +1,370 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n69\nShares",
+  "description": "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T16:41:54.138509Z",
+  "id": "46b65720b5e10db4749af80d8e31c825fe2fced8b30168272946425adb28ff5d",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-1-512x768.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861760/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T16:35:01+00:00",
+            "datePublished": "2025-10-08T16:34:14+00:00",
+            "headline": "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861760/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861760/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861760/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861760/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T16:35:01+00:00",
+            "datePublished": "2025-10-08T16:34:14+00:00",
+            "description": "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861760/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861760/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861760/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+            "url": "https://khabarhub.com/2025/08/861760/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861760/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+            "height": 960,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+            "width": 1440
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– आईसीसी टी–२० विश्वकप छनोट अन्तर्गत समूह चरणको आफ्नो पहिलो खेलमा नेपालले कुवेतलाई जितका लागि १४२ रनको लक्ष्य दिएको छ । ओमानको अल अमेरतस्थित ओमान क्रिकेट एकेडेमीमा टस हारेर पहिले ब्याटिङ गरेको नेपालले निर्धारित २० ओभरमा सात विकेट गुमाएर १४१ रन बनायो । नेपालका लागि ओपनर कुशल भुर्तेलले ६६ रनको अर्धशतकीय पारी खेले । ५६ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861760/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861760/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T16:35:01+00:00",
+              "datePublished": "2025-10-08T16:34:14+00:00",
+              "headline": "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861760/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861760/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861760/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861760/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T16:35:01+00:00",
+              "datePublished": "2025-10-08T16:34:14+00:00",
+              "description": "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861760/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861760/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861760/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+              "url": "https://khabarhub.com/2025/08/861760/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861760/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+              "height": 960,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg",
+              "width": 1440
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– आईसीसी टी–२० विश्वकप छनोट अन्तर्गत समूह चरणको आफ्नो पहिलो खेलमा नेपालले कुवेतलाई जितका लागि १४२ रनको लक्ष्य दिएको छ । ओमानको अल अमेरतस्थित ओमान क्रिकेट एकेडेमीमा टस हारेर पहिले ब्याटिङ गरेको नेपालले निर्धारित २० ओभरमा सात विकेट गुमाएर १४१ रन बनायो । नेपालका लागि ओपनर कुशल भुर्तेलले ६६ रनको अर्धशतकीय पारी खेले । ५६ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861760/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-cricket-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T16:34:14Z",
+  "source": "Khabarhub",
+  "store_path": "_store/46/46b65720b5e10db4749af80d8e31c825fe2fced8b30168272946425adb28ff5d.json",
+  "title": "कुशल भुर्तेलको अर्धशतकमा नेपालले कुवेतलाई दियो १४२ रनको लक्ष्य",
+  "url": "https://khabarhub.com/2025/08/861760/",
+  "version": 1
+}

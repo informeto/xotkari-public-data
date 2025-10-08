@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n81\nShares",
+  "description": "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T16:41:54.525572Z",
+  "id": "827af302e11476300379fcf2cdb0ef65cda20cce09fad97a098bfe165096b7f4",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861756/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T16:21:44+00:00",
+            "datePublished": "2025-10-08T16:20:05+00:00",
+            "headline": "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861756/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861756/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861756/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861756/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T16:21:44+00:00",
+            "datePublished": "2025-10-08T16:20:05+00:00",
+            "description": "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861756/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861756/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861756/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg",
+            "url": "https://khabarhub.com/2025/08/861756/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861756/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg",
+            "height": 960,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg",
+            "width": 1440
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – आईसीसी टी–२० विश्वकप छनोट अन्तर्गत समूह चरणको आफ्नो पहिलो खेलमा नेपालले अहिले कुवेतसँग प्रतिस्पर्धा गरिरहेको छ । ओमानमा जारी खेलमा टस हारेर पहिले ब्याटिङ गरिरहेको नेपालका लागि ओपनर कुशल भुर्तेलले अर्धशतक प्रहार गरेका छन् । उनले ४६ बलमा अर्धशतक पूरा गरेका हुन् । नेपालसहित ९ राष्ट्रले टी२० विश्वकप एसियाइस्ट एसिया प्यासिफिक छनोटमा प्रतिस्पर्धा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861756/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861756/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T16:21:44+00:00",
+              "datePublished": "2025-10-08T16:20:05+00:00",
+              "headline": "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861756/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861756/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861756/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861756/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T16:21:44+00:00",
+              "datePublished": "2025-10-08T16:20:05+00:00",
+              "description": "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861756/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861756/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861756/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg",
+              "url": "https://khabarhub.com/2025/08/861756/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861756/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg",
+              "height": 960,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg",
+              "width": 1440
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – आईसीसी टी–२० विश्वकप छनोट अन्तर्गत समूह चरणको आफ्नो पहिलो खेलमा नेपालले अहिले कुवेतसँग प्रतिस्पर्धा गरिरहेको छ । ओमानमा जारी खेलमा टस हारेर पहिले ब्याटिङ गरिरहेको नेपालका लागि ओपनर कुशल भुर्तेलले अर्धशतक प्रहार गरेका छन् । उनले ४६ बलमा अर्धशतक पूरा गरेका हुन् । नेपालसहित ९ राष्ट्रले टी२० विश्वकप एसियाइस्ट एसिया प्यासिफिक छनोटमा प्रतिस्पर्धा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861756/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal-bhurtel-ans-rohit-paudel.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T16:20:05Z",
+  "source": "Khabarhub",
+  "store_path": "_store/82/827af302e11476300379fcf2cdb0ef65cda20cce09fad97a098bfe165096b7f4.json",
+  "title": "कुवेतविरुद्ध कुशल भुर्तेलको अर्धशतक",
+  "url": "https://khabarhub.com/2025/08/861756/",
+  "version": 1
+}
