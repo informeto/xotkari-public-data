@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n78\nShares",
+  "description": "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T03:10:59.394777Z",
+  "id": "a3e32a5719a7fc77cb8e92e567015e68e869ad50a982ab8d69821b573f625933",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861307/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T02:24:49+00:00",
+            "datePublished": "2025-10-08T02:24:47+00:00",
+            "headline": "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861307/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861307/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861307/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861307/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T02:24:49+00:00",
+            "datePublished": "2025-10-08T02:24:47+00:00",
+            "description": "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861307/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861307/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861307/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg",
+            "url": "https://khabarhub.com/2025/08/861307/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861307/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "टसपछि नेपाल र मलेसियाका कप्तान । तस्बिरः क्यान",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg",
+            "height": 593,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – अन्तर्राष्ट्रिय टी–२० शृङ्खलाको फाइनलमा अहिले नेपाल र मलेसिया प्रतिस्पर्धा गर्दैछन् । मलेसियाले टस जितेर सुरुमा ब्याटिङ गर्दैछ । पाँच खेलको सिरिजमा २–२ को बराबरी गरेका नेपाल र मलेसिया सिरिज जित्ने लक्ष्यका साथ मैदानमा छन् । पहिलो खेलमा तीन रनले पराजित भएको नेपाली महिला टिम दोस्रो खेलमा ६ विकेटले विजयी भएको थियो। तेस्रो खेलमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861307/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861307/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T02:24:49+00:00",
+              "datePublished": "2025-10-08T02:24:47+00:00",
+              "headline": "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861307/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861307/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861307/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861307/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T02:24:49+00:00",
+              "datePublished": "2025-10-08T02:24:47+00:00",
+              "description": "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861307/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861307/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861307/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg",
+              "url": "https://khabarhub.com/2025/08/861307/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861307/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "टसपछि नेपाल र मलेसियाका कप्तान । तस्बिरः क्यान",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg",
+              "height": 593,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – अन्तर्राष्ट्रिय टी–२० शृङ्खलाको फाइनलमा अहिले नेपाल र मलेसिया प्रतिस्पर्धा गर्दैछन् । मलेसियाले टस जितेर सुरुमा ब्याटिङ गर्दैछ । पाँच खेलको सिरिजमा २–२ को बराबरी गरेका नेपाल र मलेसिया सिरिज जित्ने लक्ष्यका साथ मैदानमा छन् । पहिलो खेलमा तीन रनले पराजित भएको नेपाली महिला टिम दोस्रो खेलमा ६ विकेटले विजयी भएको थियो। तेस्रो खेलमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861307/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-m.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T02:24:47Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a3/a3e32a5719a7fc77cb8e92e567015e68e869ad50a982ab8d69821b573f625933.json",
+  "title": "टी–२० सिरिजको फाइनल: नेपालविरुद्ध सुरुमा ब्याटिङ गर्दै मलेसिया",
+  "url": "https://khabarhub.com/2025/08/861307/",
+  "version": 1
+}
