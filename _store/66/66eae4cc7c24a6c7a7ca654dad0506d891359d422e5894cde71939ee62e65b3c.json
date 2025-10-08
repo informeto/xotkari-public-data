@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n9:00 am, Wed, 8 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T03:43:46.348582Z",
+  "id": "66eae4cc7c24a6c7a7ca654dad0506d891359d422e5894cde71939ee62e65b3c",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510182/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "खेलकुद"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-08T03:15:41+00:00",
+            "datePublished": "2025-10-08T03:15:37+00:00",
+            "headline": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510182/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510182/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510182/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510182/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510182/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510182/#breadcrumb"
+            },
+            "dateModified": "2025-10-08T03:15:41+00:00",
+            "datePublished": "2025-10-08T03:15:37+00:00",
+            "description": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510182/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510182/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510182/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+            "url": "https://www.imagekhabar.com/news/510182/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510182/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+            "height": 389,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+            "width": 608
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510182/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । टी–२० विश्वकप एसिया–इस्ट एसिया प्यासिफिक छनोट प्रतिस्पर्धामा आज नेपाली टिम कुवेतसँग प्रतिस्पर्धा गर्ने भएको छ । नेपालसहित ९ देश सहभागी रहेको टी–२० विश्वकप एसिया–इस्ट एसिया प्यासिफिक छनोटमा बुधबार नेपाल कुवेतसँग प्रतिस्पर्धा गर्न लागेको हो। खेल आज राति ८ः४५ बजे सुरु हुनेछ । समूह ‘बी’मा नेपालसँगै कुवेत र जापान रहेका छन्। नेपालले दोस्रो खेल […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510182/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510182/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "खेलकुद"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-08T03:15:41+00:00",
+              "datePublished": "2025-10-08T03:15:37+00:00",
+              "headline": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510182/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510182/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510182/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510182/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510182/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510182/#breadcrumb"
+              },
+              "dateModified": "2025-10-08T03:15:41+00:00",
+              "datePublished": "2025-10-08T03:15:37+00:00",
+              "description": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510182/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510182/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510182/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+              "url": "https://www.imagekhabar.com/news/510182/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510182/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+              "height": 389,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png",
+              "width": 608
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510182/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । टी–२० विश्वकप एसिया–इस्ट एसिया प्यासिफिक छनोट प्रतिस्पर्धामा आज नेपाली टिम कुवेतसँग प्रतिस्पर्धा गर्ने भएको छ । नेपालसहित ९ देश सहभागी रहेको टी–२० विश्वकप एसिया–इस्ट एसिया प्यासिफिक छनोटमा बुधबार नेपाल कुवेतसँग प्रतिस्पर्धा गर्न लागेको हो। खेल आज राति ८ः४५ बजे सुरु हुनेछ । समूह ‘बी’मा नेपालसँगै कुवेत र जापान रहेका छन्। नेपालले दोस्रो खेल […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510182/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/kheladi.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T03:15:37Z",
+  "source": "Image Khabar",
+  "store_path": "_store/66/66eae4cc7c24a6c7a7ca654dad0506d891359d422e5894cde71939ee62e65b3c.json",
+  "title": "टी–२० विश्वकप छनोट : नेपाली टिम कुवेतसँग खेल्दै",
+  "url": "https://www.imagekhabar.com/news/510182/",
+  "version": 1
+}

@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n33\nShares",
+  "description": "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T03:44:10.782486Z",
+  "id": "c6ffc7a4a2eaf51d2b4a374f6cd9bf315f9b404f0e0bde09d2e3bfecd156ef23",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861317/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T03:11:44+00:00",
+            "datePublished": "2025-10-08T03:11:41+00:00",
+            "headline": "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861317/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861317/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861317/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861317/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T03:11:44+00:00",
+            "datePublished": "2025-10-08T03:11:41+00:00",
+            "description": "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861317/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861317/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861317/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg",
+            "url": "https://khabarhub.com/2025/08/861317/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861317/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "सांकेतिक तस्बिर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg",
+            "height": 532,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg",
+            "width": 797
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "नुवाकोट– नुवाकोटको शिवपुरी गाउँपालिका–७ का जीतमान तामाङले ४९ वर्षीया श्रीमतीको हत्या गरेका छन् । जिल्ला प्रहरी कार्यालयका प्रहरी नायब उपरीक्षक विक्रम लामाका अनुसार मङ्गलबार साँझ निजले खुकुरी हानेर श्रीमती सविनाको हत्या गरेका हुन् । सविनाको घटनास्थलमा नै मृत्यु भएको हो । घटनाबारे जानकारी प्राप्त हुनासाथ अभियुक्त तामाङलाई नियन्त्रणमा लिएर आवश्यक कारबाही थालिएको छ । अभियुक्त […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861317/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861317/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T03:11:44+00:00",
+              "datePublished": "2025-10-08T03:11:41+00:00",
+              "headline": "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861317/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861317/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861317/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861317/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T03:11:44+00:00",
+              "datePublished": "2025-10-08T03:11:41+00:00",
+              "description": "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861317/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861317/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861317/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg",
+              "url": "https://khabarhub.com/2025/08/861317/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861317/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "सांकेतिक तस्बिर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg",
+              "height": 532,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg",
+              "width": 797
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "नुवाकोट– नुवाकोटको शिवपुरी गाउँपालिका–७ का जीतमान तामाङले ४९ वर्षीया श्रीमतीको हत्या गरेका छन् । जिल्ला प्रहरी कार्यालयका प्रहरी नायब उपरीक्षक विक्रम लामाका अनुसार मङ्गलबार साँझ निजले खुकुरी हानेर श्रीमती सविनाको हत्या गरेका हुन् । सविनाको घटनास्थलमा नै मृत्यु भएको हो । घटनाबारे जानकारी प्राप्त हुनासाथ अभियुक्त तामाङलाई नियन्त्रणमा लिएर आवश्यक कारबाही थालिएको छ । अभियुक्त […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861317/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2023/06/hatya.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T03:11:41Z",
+  "source": "Khabarhub",
+  "store_path": "_store/c6/c6ffc7a4a2eaf51d2b4a374f6cd9bf315f9b404f0e0bde09d2e3bfecd156ef23.json",
+  "title": "घरायसी विवादमा श्रीमानले गरे श्रीमतीको हत्या",
+  "url": "https://khabarhub.com/2025/08/861317/",
+  "version": 1
+}
