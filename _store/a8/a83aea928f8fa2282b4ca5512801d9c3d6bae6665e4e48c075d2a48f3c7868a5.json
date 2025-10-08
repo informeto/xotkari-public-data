@@ -1,0 +1,377 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n363\nShares",
+  "description": "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T02:04:30.786859Z",
+  "id": "a83aea928f8fa2282b4ca5512801d9c3d6bae6665e4e48c075d2a48f3c7868a5",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/adil-alam-nepal-cricket-768x512.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/nepal-cricket-1-768x512.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861264/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद",
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T00:48:46+00:00",
+            "datePublished": "2025-10-08T00:07:19+00:00",
+            "headline": "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861264/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861264/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861264/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861264/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T00:48:46+00:00",
+            "datePublished": "2025-10-08T00:07:19+00:00",
+            "description": "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861264/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861264/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861264/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+            "url": "https://khabarhub.com/2025/08/861264/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861264/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "तस्बिरः क्यान",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+            "height": 666,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – टी-२० विश्वकप एसिया-इस्ट एसिया प्यासिफिक छनोट प्रतिस्पर्धामा आज नेपाली राष्ट्रिय क्रिकेट टिम कुवेतसँग भिड्दैछ। नेपालसहित ९ राष्ट्रले टी-२० विश्वकप एसिया-इस्ट एसिया प्यासिफिक छनोटमा प्रतिस्पर्धा गर्न लागेका हुन्। समूह ‘बी’मा रहेको नेपालले आज कुवेतसँग प्रतिस्पर्धा गर्न लागेको हो। यो समूहमा नेपाल, कुवेतसँगै जापान रहेका छन्। नेपाल र कुवेतको भिडन्त बुधबार राति ८ः४५ बजे सुरु […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861264/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861264/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद",
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T00:48:46+00:00",
+              "datePublished": "2025-10-08T00:07:19+00:00",
+              "headline": "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861264/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861264/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861264/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861264/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T00:48:46+00:00",
+              "datePublished": "2025-10-08T00:07:19+00:00",
+              "description": "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861264/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861264/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861264/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+              "url": "https://khabarhub.com/2025/08/861264/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861264/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "तस्बिरः क्यान",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+              "height": 666,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – टी-२० विश्वकप एसिया-इस्ट एसिया प्यासिफिक छनोट प्रतिस्पर्धामा आज नेपाली राष्ट्रिय क्रिकेट टिम कुवेतसँग भिड्दैछ। नेपालसहित ९ राष्ट्रले टी-२० विश्वकप एसिया-इस्ट एसिया प्यासिफिक छनोटमा प्रतिस्पर्धा गर्न लागेका हुन्। समूह ‘बी’मा रहेको नेपालले आज कुवेतसँग प्रतिस्पर्धा गर्न लागेको हो। यो समूहमा नेपाल, कुवेतसँगै जापान रहेका छन्। नेपाल र कुवेतको भिडन्त बुधबार राति ८ः४५ बजे सुरु […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861264/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/Nepali-cricket-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T00:07:19Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a8/a83aea928f8fa2282b4ca5512801d9c3d6bae6665e4e48c075d2a48f3c7868a5.json",
+  "title": "टी-२० विश्वकप छनोट : आज कुवेतसँग भिड्दै नेपाल",
+  "url": "https://khabarhub.com/2025/08/861264/",
+  "version": 1
+}

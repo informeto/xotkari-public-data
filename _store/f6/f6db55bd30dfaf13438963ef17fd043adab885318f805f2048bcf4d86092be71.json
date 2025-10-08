@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n60\nShares",
+  "description": "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना विज्ञान/प्रविधि",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T02:04:29.018789Z",
+  "id": "f6db55bd30dfaf13438963ef17fd043adab885318f805f2048bcf4d86092be71",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861280/#article",
+            "@type": "Article",
+            "articleSection": [
+              "देश/प्रदेश",
+              "विज्ञान/प्रविधि"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T01:05:18+00:00",
+            "datePublished": "2025-10-08T01:04:03+00:00",
+            "headline": "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861280/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861280/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861280/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861280/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T01:05:18+00:00",
+            "datePublished": "2025-10-08T01:04:03+00:00",
+            "description": "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना विज्ञान/प्रविधि",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861280/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861280/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861280/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+            "url": "https://khabarhub.com/2025/08/861280/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861280/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+            "height": 576,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– जल तथा मौसम विज्ञान विभाग मौसम पूर्वानुमान महाशाखाले हाल लुम्बिनी, कर्णाली र सुदूरपश्चिमका अधिकांश तथा गण्डकी प्रदेशका पश्चिमी भागका केही स्थानमा पश्चिमी वायुको प्रभाव तथा बाँकी भेगमा मनसुनी एवं स्थानीय वायुको प्रभाव रहेको जनाएको छ । महाशाखाका अनुसार अहिले सुदूरपश्चिम, कर्णाली, लुम्बिनी र गण्डकी प्रदेशलगायत बाँकी पहाडी भूभागमा साधारणतया बदली रही देशका बाँकी भूभागमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861280/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861280/#article",
+              "@type": "Article",
+              "articleSection": [
+                "देश/प्रदेश",
+                "विज्ञान/प्रविधि"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T01:05:18+00:00",
+              "datePublished": "2025-10-08T01:04:03+00:00",
+              "headline": "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861280/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861280/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861280/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861280/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T01:05:18+00:00",
+              "datePublished": "2025-10-08T01:04:03+00:00",
+              "description": "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना विज्ञान/प्रविधि",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861280/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861280/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861280/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+              "url": "https://khabarhub.com/2025/08/861280/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861280/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+              "height": 576,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– जल तथा मौसम विज्ञान विभाग मौसम पूर्वानुमान महाशाखाले हाल लुम्बिनी, कर्णाली र सुदूरपश्चिमका अधिकांश तथा गण्डकी प्रदेशका पश्चिमी भागका केही स्थानमा पश्चिमी वायुको प्रभाव तथा बाँकी भेगमा मनसुनी एवं स्थानीय वायुको प्रभाव रहेको जनाएको छ । महाशाखाका अनुसार अहिले सुदूरपश्चिम, कर्णाली, लुम्बिनी र गण्डकी प्रदेशलगायत बाँकी पहाडी भूभागमा साधारणतया बदली रही देशका बाँकी भूभागमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861280/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/02/weather.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T01:04:03Z",
+  "source": "Khabarhub",
+  "store_path": "_store/f6/f6db55bd30dfaf13438963ef17fd043adab885318f805f2048bcf4d86092be71.json",
+  "title": "मनसुन कमजोर बन्दै, केही भूभागमा मध्यम वर्षाको सम्भावना",
+  "url": "https://khabarhub.com/2025/08/861280/",
+  "version": 1
+}
