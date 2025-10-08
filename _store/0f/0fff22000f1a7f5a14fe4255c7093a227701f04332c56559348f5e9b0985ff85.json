@@ -1,0 +1,480 @@
+{
+  "author": "देश सञ्चार",
+  "content": "",
+  "description": "काभ्रेको पाँचखाल नगरपालिका- ६ मा बसले ट्रकलाई ठक्कर दिँदा ८ जना घाइते भएका छन्। तीमध्ये तीन जनाको अवस्था गम्भीर रहेको प्रहरीले जानकारी दिएको छ।",
+  "domain": "deshsanchar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T10:38:07.561061Z",
+  "id": "0fff22000f1a7f5a14fe4255c7093a227701f04332c56559348f5e9b0985ff85",
+  "images": [],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/10/08/1102190/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "name": "देश सञ्चार"
+            },
+            "commentCount": 0,
+            "datePublished": "2025-10-08T09:46:07+00:00",
+            "headline": "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/10/08/1102190/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/08/1102190/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/#breadcrumb"
+            },
+            "datePublished": "2025-10-08T09:46:07+00:00",
+            "description": "काभ्रेको पाँचखाल नगरपालिका- ६ मा बसले ट्रकलाई ठक्कर दिँदा ८ जना घाइते भएका छन्। तीमध्ये तीन जनाको अवस्था गम्भीर रहेको प्रहरीले जानकारी दिएको छ।",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/10/08/1102190/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg",
+            "url": "https://deshsanchar.com/2025/10/08/1102190/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/08/1102190/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "सांकेतिक तस्बिर ।",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg",
+            "height": 536,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg",
+            "width": 1100
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/08/1102190/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "देश सञ्चार",
+              "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
+            },
+            "name": "देश सञ्चार",
+            "url": "https://deshsanchar.com/author/deshsanchar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "article": "http://ogp.me/ns/article#",
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते"
+          ],
+          [
+            "og:description",
+            "काभ्रेको पाँचखाल नगरपालिका- ६ मा बसले ट्रकलाई ठक्कर दिँदा ८ जना घाइते भएका छन्। तीमध्ये तीन जनाको अवस्था गम्भीर रहेको प्रहरीले जानकारी दिएको छ।"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/08/1102190/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-10-08T09:46:07+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg"
+          ],
+          [
+            "og:image:width",
+            "1100"
+          ],
+          [
+            "og:image:height",
+            "536"
+          ],
+          [
+            "og:image:type",
+            "image/jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+                "name": "देश सञ्चार"
+              },
+              "commentCount": 0,
+              "datePublished": "2025-10-08T09:46:07+00:00",
+              "headline": "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/08/1102190/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/10/08/1102190/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/08/1102190/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/08/1102190/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/10/08/1102190/#breadcrumb"
+              },
+              "datePublished": "2025-10-08T09:46:07+00:00",
+              "description": "काभ्रेको पाँचखाल नगरपालिका- ६ मा बसले ट्रकलाई ठक्कर दिँदा ८ जना घाइते भएका छन्। तीमध्ये तीन जनाको अवस्था गम्भीर रहेको प्रहरीले जानकारी दिएको छ।",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/08/1102190/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/08/1102190/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/08/1102190/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg",
+              "url": "https://deshsanchar.com/2025/10/08/1102190/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "सांकेतिक तस्बिर ।",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg",
+              "height": 536,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg",
+              "width": 1100
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/08/1102190/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "देश सञ्चार",
+                "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
+              },
+              "name": "देश सञ्चार",
+              "url": "https://deshsanchar.com/author/deshsanchar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "article": "http://ogp.me/ns/article#",
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते"
+            ],
+            [
+              "og:description",
+              "काभ्रेको पाँचखाल नगरपालिका- ६ मा बसले ट्रकलाई ठक्कर दिँदा ८ जना घाइते भएका छन्। तीमध्ये तीन जनाको अवस्था गम्भीर रहेको प्रहरीले जानकारी दिएको छ।"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/08/1102190/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-10-08T09:46:07+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2025/06/23123922/accident.jpg"
+            ],
+            [
+              "og:image:width",
+              "1100"
+            ],
+            [
+              "og:image:height",
+              "536"
+            ],
+            [
+              "og:image:type",
+              "image/jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T09:46:07Z",
+  "source": "Desh Sanchar",
+  "store_path": "_store/0f/0fff22000f1a7f5a14fe4255c7093a227701f04332c56559348f5e9b0985ff85.json",
+  "title": "काभ्रेमा बस र ट्रक ठोक्किँदा ८ घाइते",
+  "url": "https://deshsanchar.com/2025/10/08/1102190/",
+  "version": 1
+}
