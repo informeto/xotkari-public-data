@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२२ आश्विन २०८२, बुधबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n162\nShares",
+  "description": "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-08T14:38:27.073009Z",
+  "id": "023601dc06da831e81acf658a686d5da3960aab0dc83495560d61115aeaad689",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/08/861712/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-08T13:48:48+00:00",
+            "datePublished": "2025-10-08T13:48:46+00:00",
+            "headline": "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861712/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/08/861712/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861712/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+            "wordCount": 5
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861712/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-08T13:48:48+00:00",
+            "datePublished": "2025-10-08T13:48:46+00:00",
+            "description": "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/08/861712/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/08/861712/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/08/861712/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+            "url": "https://khabarhub.com/2025/08/861712/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/08/861712/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+            "height": 819,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "बरहथवा– प्रहरीचौकीमा ढुङ्गामुढा गरेको आरोपमा सर्लाही प्रहरीले गोडैता नगरपालिकाका वडाध्यक्षलाई पक्राउ गरेको छ । जिल्ला प्रहरी कार्यालय सर्लाहीका अनुसार गोडैता नगरपालिका–७ का वडाध्यक्ष छोटेलाल भनिने विनेशकुमार दासलाई प्रहरीले पक्राउ गरेको हो ।  वडाध्यक्ष दासको नेतृत्वमा रहेको समूहले गोडैता प्रहरी चौकीमा ढुङ्गामुढा तथा बाँसको फराठा प्रहार गरेको जिल्ला प्रहरी कार्यालय सर्लाहीका प्रवक्ता प्रहरी नायब उपरीक्षक सरोज […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/08/861712/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/08/861712/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-08T13:48:48+00:00",
+              "datePublished": "2025-10-08T13:48:46+00:00",
+              "headline": "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861712/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/08/861712/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861712/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+              "wordCount": 5
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861712/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-08T13:48:48+00:00",
+              "datePublished": "2025-10-08T13:48:46+00:00",
+              "description": "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/08/861712/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/08/861712/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/08/861712/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+              "url": "https://khabarhub.com/2025/08/861712/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/08/861712/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+              "height": 819,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "बरहथवा– प्रहरीचौकीमा ढुङ्गामुढा गरेको आरोपमा सर्लाही प्रहरीले गोडैता नगरपालिकाका वडाध्यक्षलाई पक्राउ गरेको छ । जिल्ला प्रहरी कार्यालय सर्लाहीका अनुसार गोडैता नगरपालिका–७ का वडाध्यक्ष छोटेलाल भनिने विनेशकुमार दासलाई प्रहरीले पक्राउ गरेको हो ।  वडाध्यक्ष दासको नेतृत्वमा रहेको समूहले गोडैता प्रहरी चौकीमा ढुङ्गामुढा तथा बाँसको फराठा प्रहार गरेको जिल्ला प्रहरी कार्यालय सर्लाहीका प्रवक्ता प्रहरी नायब उपरीक्षक सरोज […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/08/861712/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/10/pakrau-khabarhub.jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-08T13:48:46Z",
+  "source": "Khabarhub",
+  "store_path": "_store/02/023601dc06da831e81acf658a686d5da3960aab0dc83495560d61115aeaad689.json",
+  "title": "प्रहरीचौकीमा आक्रमण गरेको आरोपमा वडाध्यक्ष पक्राउ",
+  "url": "https://khabarhub.com/2025/08/861712/",
+  "version": 1
+}
