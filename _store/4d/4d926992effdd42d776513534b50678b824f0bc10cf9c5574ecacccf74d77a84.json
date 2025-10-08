@@ -4,15 +4,21 @@
   "description": "Nepal's oldest leading online portal",
   "domain": "newsofnepal.com",
   "enhanced": true,
-  "fetched_at": "2025-10-08T05:31:59.208468Z",
+  "fetched_at": "2025-10-08T06:43:25.395444Z",
   "id": "4d926992effdd42d776513534b50678b824f0bc10cf9c5574ecacccf74d77a84",
   "images": [
-    "https://newsofnepal.com/wp-content/uploads/2025/10/illam-1-150x150.jpg"
+    "https://newsofnepal.com/wp-content/uploads/2025/10/illam-1-150x150.jpg",
+    "https://newsofnepal.com/wp-content/uploads/2025/10/Illam-768x345.jpg"
   ],
   "language": "en",
   "metadata": {
     "json_ld": [],
-    "microdata": [],
+    "microdata": [
+      {
+        "type": "https://schema.org/ImageGallery",
+        "value": ""
+      }
+    ],
     "opengraph": [
       {
         "namespace": {
@@ -48,7 +54,12 @@
     ],
     "raw": {
       "json-ld": [],
-      "microdata": [],
+      "microdata": [
+        {
+          "type": "https://schema.org/ImageGallery",
+          "value": ""
+        }
+      ],
       "opengraph": [
         {
           "namespace": {
