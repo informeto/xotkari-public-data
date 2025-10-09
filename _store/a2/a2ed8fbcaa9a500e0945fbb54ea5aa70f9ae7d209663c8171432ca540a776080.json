@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n54\nShares",
+  "description": "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T13:03:51.499276Z",
+  "id": "a2ed8fbcaa9a500e0945fbb54ea5aa70f9ae7d209663c8171432ca540a776080",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/862255/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T12:21:41+00:00",
+            "datePublished": "2025-10-09T12:21:38+00:00",
+            "headline": "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/862255/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/862255/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/862255/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+            "wordCount": 17
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/862255/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T12:21:41+00:00",
+            "datePublished": "2025-10-09T12:21:38+00:00",
+            "description": "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/862255/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/862255/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/862255/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+            "url": "https://khabarhub.com/2025/09/862255/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/862255/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+            "height": 598,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– प्रधानन्यायाधीश प्रकाशमानसिंह राउतले न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न नदिने बताएका छन् ।        सर्वोच्च अदालतमा आज नेपाल बार एशोसिएसनका अध्यक्षसहित पदाधिकारीहरू, सर्वोच्च बार एशोसिएसनका अध्यक्ष तथा सचिव, महान्यायाधिवक्ता सविता भण्डारी बराल, नायब महान्यायाधिवक्ताहरू, उपत्यका बार एशोसिएसनका अध्यक्ष तथा सचिवहरूसँग छलफल गर्दै प्रधानन्यायाधीश राउतले सो कुरा बताएका हुन् ।        […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/862255/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/862255/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T12:21:41+00:00",
+              "datePublished": "2025-10-09T12:21:38+00:00",
+              "headline": "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/862255/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/862255/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/862255/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+              "wordCount": 17
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/862255/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T12:21:41+00:00",
+              "datePublished": "2025-10-09T12:21:38+00:00",
+              "description": "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/862255/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/862255/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/862255/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+              "url": "https://khabarhub.com/2025/09/862255/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/862255/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+              "height": 598,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– प्रधानन्यायाधीश प्रकाशमानसिंह राउतले न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न नदिने बताएका छन् ।        सर्वोच्च अदालतमा आज नेपाल बार एशोसिएसनका अध्यक्षसहित पदाधिकारीहरू, सर्वोच्च बार एशोसिएसनका अध्यक्ष तथा सचिव, महान्यायाधिवक्ता सविता भण्डारी बराल, नायब महान्यायाधिवक्ताहरू, उपत्यका बार एशोसिएसनका अध्यक्ष तथा सचिवहरूसँग छलफल गर्दै प्रधानन्यायाधीश राउतले सो कुरा बताएका हुन् ।        […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/862255/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/10/Prakashman-singh-Raut1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T12:21:38Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a2/a2ed8fbcaa9a500e0945fbb54ea5aa70f9ae7d209663c8171432ca540a776080.json",
+  "title": "न्याय प्राप्त गर्ने नागरिकको अक्षुण हक मर्न दिदैनौँ : प्रधानन्यायाधीश राउत",
+  "url": "https://khabarhub.com/2025/09/862255/",
+  "version": 1
+}
