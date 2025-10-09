@@ -1,198 +1,33 @@
 {
-  "author": "रासस",
+  "author": "",
   "content": "",
-  "description": "रसुवा– यही असोज १८ गतेको वर्षासँगै आएको पहिराेका कारण अवरूद्व उत्तरी रसुवाको रोङ्गा–बृद्विम ग्रामीण सडक आजबाट सञ्चालनमा आएको छ। सडक खुला भएसँगै",
+  "description": "रसुवा– यही असोज १८ गतेको वर्षासँगै आएको पहिराेका कारण अवरूद्व...",
   "domain": "deshsanchar.com",
   "enhanced": true,
-  "fetched_at": "2025-10-09T17:35:38.164794Z",
+  "fetched_at": "2025-10-09T18:46:50.462422Z",
   "id": "b9ea42a8abcb78b8cdb66d16f02a04ae0a34d36ea0d2dc8abea3893a1186c7df",
   "images": [],
   "language": "en",
   "metadata": {
-    "json_ld": [
-      {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@id": "https://deshsanchar.com/2025/10/09/1102735/#article",
-            "@type": "Article",
-            "articleSection": [
-              "समाज"
-            ],
-            "author": {
-              "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
-              "name": "रासस"
-            },
-            "commentCount": 0,
-            "dateModified": "2025-10-09T15:54:22+00:00",
-            "datePublished": "2025-10-09T15:53:58+00:00",
-            "headline": "ग्रामीण क्षेत्रमा यातायात सञ्चालन",
-            "image": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/#primaryimage"
-            },
-            "inLanguage": "en-US",
-            "isPartOf": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/"
-            },
-            "mainEntityOfPage": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/"
-            },
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://deshsanchar.com/2025/10/09/1102735/#respond"
-                ]
-              }
-            ],
-            "publisher": {
-              "@id": "https://deshsanchar.com/#organization"
-            },
-            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg",
-            "wordCount": 0
-          },
-          {
-            "@id": "https://deshsanchar.com/2025/10/09/1102735/",
-            "@type": "WebPage",
-            "breadcrumb": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/#breadcrumb"
-            },
-            "dateModified": "2025-10-09T15:54:22+00:00",
-            "datePublished": "2025-10-09T15:53:58+00:00",
-            "description": "रसुवा– यही असोज १८ गतेको वर्षासँगै आएको पहिराेका कारण अवरूद्व उत्तरी रसुवाको रोङ्गा–बृद्विम ग्रामीण सडक आजबाट सञ्चालनमा आएको छ। सडक खुला भएसँगै",
-            "image": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/#primaryimage"
-            },
-            "inLanguage": "en-US",
-            "isPartOf": {
-              "@id": "https://deshsanchar.com/#website"
-            },
-            "name": "ग्रामीण क्षेत्रमा यातायात सञ्चालन",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://deshsanchar.com/2025/10/09/1102735/"
-                ]
-              }
-            ],
-            "primaryImageOfPage": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/#primaryimage"
-            },
-            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg",
-            "url": "https://deshsanchar.com/2025/10/09/1102735/"
-          },
-          {
-            "@id": "https://deshsanchar.com/2025/10/09/1102735/#primaryimage",
-            "@type": "ImageObject",
-            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg",
-            "height": 783,
-            "inLanguage": "en-US",
-            "url": "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg",
-            "width": 1100
-          },
-          {
-            "@id": "https://deshsanchar.com/2025/10/09/1102735/#breadcrumb",
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "item": "https://deshsanchar.com/",
-                "name": "Home",
-                "position": 1
-              },
-              {
-                "@type": "ListItem",
-                "name": "ग्रामीण क्षेत्रमा यातायात सञ्चालन",
-                "position": 2
-              }
-            ]
-          },
-          {
-            "@id": "https://deshsanchar.com/#website",
-            "@type": "WebSite",
-            "description": "जवाफदेही पत्रकारिता",
-            "inLanguage": "en-US",
-            "name": "देशसञ्चार",
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueName": "search_term_string",
-                  "valueRequired": true
-                },
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
-                }
-              }
-            ],
-            "publisher": {
-              "@id": "https://deshsanchar.com/#organization"
-            },
-            "url": "https://deshsanchar.com/"
-          },
-          {
-            "@id": "https://deshsanchar.com/#organization",
-            "@type": "Organization",
-            "image": {
-              "@id": "https://deshsanchar.com/#/schema/logo/image/"
-            },
-            "logo": {
-              "@id": "https://deshsanchar.com/#/schema/logo/image/",
-              "@type": "ImageObject",
-              "caption": "Deshsanchar Pvt. Ltd.",
-              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
-              "height": 308,
-              "inLanguage": "en-US",
-              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
-              "width": 600
-            },
-            "name": "Deshsanchar Pvt. Ltd.",
-            "sameAs": [
-              "https://www.facebook.com/deshsanchar1/",
-              "https://x.com/deshsanchar1",
-              "https://www.instagram.com/deshsanchar/",
-              "https://www.linkedin.com/company/31130905",
-              "https://www.pinterest.com/deshsanchar/",
-              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
-            ],
-            "url": "https://deshsanchar.com/"
-          },
-          {
-            "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
-            "@type": "Person",
-            "image": {
-              "@id": "https://deshsanchar.com/#/schema/person/image/",
-              "@type": "ImageObject",
-              "caption": "रासस",
-              "contentUrl": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g",
-              "inLanguage": "en-US",
-              "url": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g"
-            },
-            "name": "रासस",
-            "url": "https://deshsanchar.com/author/rasasa/"
-          }
-        ]
-      }
-    ],
+    "json_ld": [],
     "microdata": [],
     "opengraph": [
       {
         "namespace": {
-          "article": "http://ogp.me/ns/article#",
           "og": "http://ogp.me/ns#"
         },
         "properties": [
           [
-            "og:locale",
-            "en_US"
+            "og:site_name",
+            "देशसञ्चार"
           ],
           [
             "og:type",
             "article"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/09/1102735/"
           ],
           [
             "og:title",
@@ -200,232 +35,35 @@
           ],
           [
             "og:description",
-            "रसुवा– यही असोज १८ गतेको वर्षासँगै आएको पहिराेका कारण अवरूद्व उत्तरी रसुवाको रोङ्गा–बृद्विम ग्रामीण सडक आजबाट सञ्चालनमा आएको छ। सडक खुला भएसँगै"
-          ],
-          [
-            "og:url",
-            "https://deshsanchar.com/2025/10/09/1102735/"
-          ],
-          [
-            "og:site_name",
-            "देशसञ्चार"
-          ],
-          [
-            "article:publisher",
-            "https://www.facebook.com/deshsanchar1/"
-          ],
-          [
-            "article:published_time",
-            "2025-10-09T15:53:58+00:00"
-          ],
-          [
-            "article:modified_time",
-            "2025-10-09T15:54:22+00:00"
+            "रसुवा– यही असोज १८ गतेको वर्षासँगै आएको पहिराेका कारण अवरूद्व..."
           ],
           [
             "og:image",
             "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg"
-          ],
-          [
-            "og:image:width",
-            "1100"
-          ],
-          [
-            "og:image:height",
-            "783"
-          ],
-          [
-            "og:image:type",
-            "image/jpeg"
           ]
         ]
       }
     ],
     "raw": {
-      "json-ld": [
-        {
-          "@context": "https://schema.org",
-          "@graph": [
-            {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/#article",
-              "@type": "Article",
-              "articleSection": [
-                "समाज"
-              ],
-              "author": {
-                "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
-                "name": "रासस"
-              },
-              "commentCount": 0,
-              "dateModified": "2025-10-09T15:54:22+00:00",
-              "datePublished": "2025-10-09T15:53:58+00:00",
-              "headline": "ग्रामीण क्षेत्रमा यातायात सञ्चालन",
-              "image": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102735/#primaryimage"
-              },
-              "inLanguage": "en-US",
-              "isPartOf": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102735/"
-              },
-              "mainEntityOfPage": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102735/"
-              },
-              "potentialAction": [
-                {
-                  "@type": "CommentAction",
-                  "name": "Comment",
-                  "target": [
-                    "https://deshsanchar.com/2025/10/09/1102735/#respond"
-                  ]
-                }
-              ],
-              "publisher": {
-                "@id": "https://deshsanchar.com/#organization"
-              },
-              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg",
-              "wordCount": 0
-            },
-            {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/",
-              "@type": "WebPage",
-              "breadcrumb": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102735/#breadcrumb"
-              },
-              "dateModified": "2025-10-09T15:54:22+00:00",
-              "datePublished": "2025-10-09T15:53:58+00:00",
-              "description": "रसुवा– यही असोज १८ गतेको वर्षासँगै आएको पहिराेका कारण अवरूद्व उत्तरी रसुवाको रोङ्गा–बृद्विम ग्रामीण सडक आजबाट सञ्चालनमा आएको छ। सडक खुला भएसँगै",
-              "image": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102735/#primaryimage"
-              },
-              "inLanguage": "en-US",
-              "isPartOf": {
-                "@id": "https://deshsanchar.com/#website"
-              },
-              "name": "ग्रामीण क्षेत्रमा यातायात सञ्चालन",
-              "potentialAction": [
-                {
-                  "@type": "ReadAction",
-                  "target": [
-                    "https://deshsanchar.com/2025/10/09/1102735/"
-                  ]
-                }
-              ],
-              "primaryImageOfPage": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102735/#primaryimage"
-              },
-              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg",
-              "url": "https://deshsanchar.com/2025/10/09/1102735/"
-            },
-            {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/#primaryimage",
-              "@type": "ImageObject",
-              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg",
-              "height": 783,
-              "inLanguage": "en-US",
-              "url": "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg",
-              "width": 1100
-            },
-            {
-              "@id": "https://deshsanchar.com/2025/10/09/1102735/#breadcrumb",
-              "@type": "BreadcrumbList",
-              "itemListElement": [
-                {
-                  "@type": "ListItem",
-                  "item": "https://deshsanchar.com/",
-                  "name": "Home",
-                  "position": 1
-                },
-                {
-                  "@type": "ListItem",
-                  "name": "ग्रामीण क्षेत्रमा यातायात सञ्चालन",
-                  "position": 2
-                }
-              ]
-            },
-            {
-              "@id": "https://deshsanchar.com/#website",
-              "@type": "WebSite",
-              "description": "जवाफदेही पत्रकारिता",
-              "inLanguage": "en-US",
-              "name": "देशसञ्चार",
-              "potentialAction": [
-                {
-                  "@type": "SearchAction",
-                  "query-input": {
-                    "@type": "PropertyValueSpecification",
-                    "valueName": "search_term_string",
-                    "valueRequired": true
-                  },
-                  "target": {
-                    "@type": "EntryPoint",
-                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
-                  }
-                }
-              ],
-              "publisher": {
-                "@id": "https://deshsanchar.com/#organization"
-              },
-              "url": "https://deshsanchar.com/"
-            },
-            {
-              "@id": "https://deshsanchar.com/#organization",
-              "@type": "Organization",
-              "image": {
-                "@id": "https://deshsanchar.com/#/schema/logo/image/"
-              },
-              "logo": {
-                "@id": "https://deshsanchar.com/#/schema/logo/image/",
-                "@type": "ImageObject",
-                "caption": "Deshsanchar Pvt. Ltd.",
-                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
-                "height": 308,
-                "inLanguage": "en-US",
-                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
-                "width": 600
-              },
-              "name": "Deshsanchar Pvt. Ltd.",
-              "sameAs": [
-                "https://www.facebook.com/deshsanchar1/",
-                "https://x.com/deshsanchar1",
-                "https://www.instagram.com/deshsanchar/",
-                "https://www.linkedin.com/company/31130905",
-                "https://www.pinterest.com/deshsanchar/",
-                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
-              ],
-              "url": "https://deshsanchar.com/"
-            },
-            {
-              "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
-              "@type": "Person",
-              "image": {
-                "@id": "https://deshsanchar.com/#/schema/person/image/",
-                "@type": "ImageObject",
-                "caption": "रासस",
-                "contentUrl": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g",
-                "inLanguage": "en-US",
-                "url": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g"
-              },
-              "name": "रासस",
-              "url": "https://deshsanchar.com/author/rasasa/"
-            }
-          ]
-        }
-      ],
+      "json-ld": [],
       "microdata": [],
       "opengraph": [
         {
           "namespace": {
-            "article": "http://ogp.me/ns/article#",
             "og": "http://ogp.me/ns#"
           },
           "properties": [
             [
-              "og:locale",
-              "en_US"
+              "og:site_name",
+              "देशसञ्चार"
             ],
             [
               "og:type",
               "article"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/09/1102735/"
             ],
             [
               "og:title",
@@ -433,43 +71,11 @@
             ],
             [
               "og:description",
-              "रसुवा– यही असोज १८ गतेको वर्षासँगै आएको पहिराेका कारण अवरूद्व उत्तरी रसुवाको रोङ्गा–बृद्विम ग्रामीण सडक आजबाट सञ्चालनमा आएको छ। सडक खुला भएसँगै"
-            ],
-            [
-              "og:url",
-              "https://deshsanchar.com/2025/10/09/1102735/"
-            ],
-            [
-              "og:site_name",
-              "देशसञ्चार"
-            ],
-            [
-              "article:publisher",
-              "https://www.facebook.com/deshsanchar1/"
-            ],
-            [
-              "article:published_time",
-              "2025-10-09T15:53:58+00:00"
-            ],
-            [
-              "article:modified_time",
-              "2025-10-09T15:54:22+00:00"
+              "रसुवा– यही असोज १८ गतेको वर्षासँगै आएको पहिराेका कारण अवरूद्व..."
             ],
             [
               "og:image",
               "https://assets.deshsanchar.com/wp-content/uploads/2019/06/30192214/Rasuwa_District-Final-Map.jpg"
-            ],
-            [
-              "og:image:width",
-              "1100"
-            ],
-            [
-              "og:image:height",
-              "783"
-            ],
-            [
-              "og:image:type",
-              "image/jpeg"
             ]
           ]
         }

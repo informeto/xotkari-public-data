@@ -1,198 +1,33 @@
 {
-  "author": "देश सञ्चार",
+  "author": "",
   "content": "",
-  "description": "हुम्ला – लिमीमा घाम लागे मात्र सञ्चार सेवा चल्ने गर्छ। घाम लागे मोबाइल नेटवर्क सम्पर्क हुने गरे पनि बादल लागे वा पानी परेपछि ठप्प हुने पीडा लिमीका",
+  "description": "हुम्ला – लिमीमा घाम लागे मात्र सञ्चार सेवा चल्ने गर्छ।...",
   "domain": "deshsanchar.com",
   "enhanced": true,
-  "fetched_at": "2025-10-09T17:35:35.763167Z",
+  "fetched_at": "2025-10-09T18:46:48.312094Z",
   "id": "b506d6bdcce46440753e03a1eac1c656361dfdde37f51374fd796b0baac0f16b",
   "images": [],
   "language": "en",
   "metadata": {
-    "json_ld": [
-      {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@id": "https://deshsanchar.com/2025/10/09/1102613/#article",
-            "@type": "Article",
-            "articleSection": [
-              "कर्णाली प्रदेश",
-              "समाज"
-            ],
-            "author": {
-              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
-              "name": "देश सञ्चार"
-            },
-            "commentCount": 0,
-            "datePublished": "2025-10-09T16:46:18+00:00",
-            "headline": "लिमीमा घाम लागे मात्र चल्छ सञ्चार सेवा",
-            "image": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/#primaryimage"
-            },
-            "inLanguage": "en-US",
-            "isPartOf": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/"
-            },
-            "mainEntityOfPage": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/"
-            },
-            "potentialAction": [
-              {
-                "@type": "CommentAction",
-                "name": "Comment",
-                "target": [
-                  "https://deshsanchar.com/2025/10/09/1102613/#respond"
-                ]
-              }
-            ],
-            "publisher": {
-              "@id": "https://deshsanchar.com/#organization"
-            },
-            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg",
-            "wordCount": 0
-          },
-          {
-            "@id": "https://deshsanchar.com/2025/10/09/1102613/",
-            "@type": "WebPage",
-            "breadcrumb": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/#breadcrumb"
-            },
-            "datePublished": "2025-10-09T16:46:18+00:00",
-            "description": "हुम्ला – लिमीमा घाम लागे मात्र सञ्चार सेवा चल्ने गर्छ। घाम लागे मोबाइल नेटवर्क सम्पर्क हुने गरे पनि बादल लागे वा पानी परेपछि ठप्प हुने पीडा लिमीका",
-            "image": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/#primaryimage"
-            },
-            "inLanguage": "en-US",
-            "isPartOf": {
-              "@id": "https://deshsanchar.com/#website"
-            },
-            "name": "लिमीमा घाम लागे मात्र चल्छ सञ्चार सेवा",
-            "potentialAction": [
-              {
-                "@type": "ReadAction",
-                "target": [
-                  "https://deshsanchar.com/2025/10/09/1102613/"
-                ]
-              }
-            ],
-            "primaryImageOfPage": {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/#primaryimage"
-            },
-            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg",
-            "url": "https://deshsanchar.com/2025/10/09/1102613/"
-          },
-          {
-            "@id": "https://deshsanchar.com/2025/10/09/1102613/#primaryimage",
-            "@type": "ImageObject",
-            "caption": "लिमीको हल्जी गाउँ। तस्बिरः देश सञ्चार",
-            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg",
-            "height": 720,
-            "inLanguage": "en-US",
-            "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg",
-            "width": 1080
-          },
-          {
-            "@id": "https://deshsanchar.com/2025/10/09/1102613/#breadcrumb",
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              {
-                "@type": "ListItem",
-                "item": "https://deshsanchar.com/",
-                "name": "Home",
-                "position": 1
-              },
-              {
-                "@type": "ListItem",
-                "name": "लिमीमा घाम लागे मात्र चल्छ सञ्चार सेवा",
-                "position": 2
-              }
-            ]
-          },
-          {
-            "@id": "https://deshsanchar.com/#website",
-            "@type": "WebSite",
-            "description": "जवाफदेही पत्रकारिता",
-            "inLanguage": "en-US",
-            "name": "देशसञ्चार",
-            "potentialAction": [
-              {
-                "@type": "SearchAction",
-                "query-input": {
-                  "@type": "PropertyValueSpecification",
-                  "valueName": "search_term_string",
-                  "valueRequired": true
-                },
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
-                }
-              }
-            ],
-            "publisher": {
-              "@id": "https://deshsanchar.com/#organization"
-            },
-            "url": "https://deshsanchar.com/"
-          },
-          {
-            "@id": "https://deshsanchar.com/#organization",
-            "@type": "Organization",
-            "image": {
-              "@id": "https://deshsanchar.com/#/schema/logo/image/"
-            },
-            "logo": {
-              "@id": "https://deshsanchar.com/#/schema/logo/image/",
-              "@type": "ImageObject",
-              "caption": "Deshsanchar Pvt. Ltd.",
-              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
-              "height": 308,
-              "inLanguage": "en-US",
-              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
-              "width": 600
-            },
-            "name": "Deshsanchar Pvt. Ltd.",
-            "sameAs": [
-              "https://www.facebook.com/deshsanchar1/",
-              "https://x.com/deshsanchar1",
-              "https://www.instagram.com/deshsanchar/",
-              "https://www.linkedin.com/company/31130905",
-              "https://www.pinterest.com/deshsanchar/",
-              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
-            ],
-            "url": "https://deshsanchar.com/"
-          },
-          {
-            "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
-            "@type": "Person",
-            "image": {
-              "@id": "https://deshsanchar.com/#/schema/person/image/",
-              "@type": "ImageObject",
-              "caption": "देश सञ्चार",
-              "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
-              "inLanguage": "en-US",
-              "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
-            },
-            "name": "देश सञ्चार",
-            "url": "https://deshsanchar.com/author/deshsanchar/"
-          }
-        ]
-      }
-    ],
+    "json_ld": [],
     "microdata": [],
     "opengraph": [
       {
         "namespace": {
-          "article": "http://ogp.me/ns/article#",
           "og": "http://ogp.me/ns#"
         },
         "properties": [
           [
-            "og:locale",
-            "en_US"
+            "og:site_name",
+            "देशसञ्चार"
           ],
           [
             "og:type",
             "article"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/09/1102613/"
           ],
           [
             "og:title",
@@ -200,228 +35,35 @@
           ],
           [
             "og:description",
-            "हुम्ला – लिमीमा घाम लागे मात्र सञ्चार सेवा चल्ने गर्छ। घाम लागे मोबाइल नेटवर्क सम्पर्क हुने गरे पनि बादल लागे वा पानी परेपछि ठप्प हुने पीडा लिमीका"
-          ],
-          [
-            "og:url",
-            "https://deshsanchar.com/2025/10/09/1102613/"
-          ],
-          [
-            "og:site_name",
-            "देशसञ्चार"
-          ],
-          [
-            "article:publisher",
-            "https://www.facebook.com/deshsanchar1/"
-          ],
-          [
-            "article:published_time",
-            "2025-10-09T16:46:18+00:00"
+            "हुम्ला – लिमीमा घाम लागे मात्र सञ्चार सेवा चल्ने गर्छ।..."
           ],
           [
             "og:image",
             "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg"
-          ],
-          [
-            "og:image:width",
-            "1080"
-          ],
-          [
-            "og:image:height",
-            "720"
-          ],
-          [
-            "og:image:type",
-            "image/jpeg"
           ]
         ]
       }
     ],
     "raw": {
-      "json-ld": [
-        {
-          "@context": "https://schema.org",
-          "@graph": [
-            {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/#article",
-              "@type": "Article",
-              "articleSection": [
-                "कर्णाली प्रदेश",
-                "समाज"
-              ],
-              "author": {
-                "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
-                "name": "देश सञ्चार"
-              },
-              "commentCount": 0,
-              "datePublished": "2025-10-09T16:46:18+00:00",
-              "headline": "लिमीमा घाम लागे मात्र चल्छ सञ्चार सेवा",
-              "image": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102613/#primaryimage"
-              },
-              "inLanguage": "en-US",
-              "isPartOf": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102613/"
-              },
-              "mainEntityOfPage": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102613/"
-              },
-              "potentialAction": [
-                {
-                  "@type": "CommentAction",
-                  "name": "Comment",
-                  "target": [
-                    "https://deshsanchar.com/2025/10/09/1102613/#respond"
-                  ]
-                }
-              ],
-              "publisher": {
-                "@id": "https://deshsanchar.com/#organization"
-              },
-              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg",
-              "wordCount": 0
-            },
-            {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/",
-              "@type": "WebPage",
-              "breadcrumb": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102613/#breadcrumb"
-              },
-              "datePublished": "2025-10-09T16:46:18+00:00",
-              "description": "हुम्ला – लिमीमा घाम लागे मात्र सञ्चार सेवा चल्ने गर्छ। घाम लागे मोबाइल नेटवर्क सम्पर्क हुने गरे पनि बादल लागे वा पानी परेपछि ठप्प हुने पीडा लिमीका",
-              "image": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102613/#primaryimage"
-              },
-              "inLanguage": "en-US",
-              "isPartOf": {
-                "@id": "https://deshsanchar.com/#website"
-              },
-              "name": "लिमीमा घाम लागे मात्र चल्छ सञ्चार सेवा",
-              "potentialAction": [
-                {
-                  "@type": "ReadAction",
-                  "target": [
-                    "https://deshsanchar.com/2025/10/09/1102613/"
-                  ]
-                }
-              ],
-              "primaryImageOfPage": {
-                "@id": "https://deshsanchar.com/2025/10/09/1102613/#primaryimage"
-              },
-              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg",
-              "url": "https://deshsanchar.com/2025/10/09/1102613/"
-            },
-            {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/#primaryimage",
-              "@type": "ImageObject",
-              "caption": "लिमीको हल्जी गाउँ। तस्बिरः देश सञ्चार",
-              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg",
-              "height": 720,
-              "inLanguage": "en-US",
-              "url": "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg",
-              "width": 1080
-            },
-            {
-              "@id": "https://deshsanchar.com/2025/10/09/1102613/#breadcrumb",
-              "@type": "BreadcrumbList",
-              "itemListElement": [
-                {
-                  "@type": "ListItem",
-                  "item": "https://deshsanchar.com/",
-                  "name": "Home",
-                  "position": 1
-                },
-                {
-                  "@type": "ListItem",
-                  "name": "लिमीमा घाम लागे मात्र चल्छ सञ्चार सेवा",
-                  "position": 2
-                }
-              ]
-            },
-            {
-              "@id": "https://deshsanchar.com/#website",
-              "@type": "WebSite",
-              "description": "जवाफदेही पत्रकारिता",
-              "inLanguage": "en-US",
-              "name": "देशसञ्चार",
-              "potentialAction": [
-                {
-                  "@type": "SearchAction",
-                  "query-input": {
-                    "@type": "PropertyValueSpecification",
-                    "valueName": "search_term_string",
-                    "valueRequired": true
-                  },
-                  "target": {
-                    "@type": "EntryPoint",
-                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
-                  }
-                }
-              ],
-              "publisher": {
-                "@id": "https://deshsanchar.com/#organization"
-              },
-              "url": "https://deshsanchar.com/"
-            },
-            {
-              "@id": "https://deshsanchar.com/#organization",
-              "@type": "Organization",
-              "image": {
-                "@id": "https://deshsanchar.com/#/schema/logo/image/"
-              },
-              "logo": {
-                "@id": "https://deshsanchar.com/#/schema/logo/image/",
-                "@type": "ImageObject",
-                "caption": "Deshsanchar Pvt. Ltd.",
-                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
-                "height": 308,
-                "inLanguage": "en-US",
-                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
-                "width": 600
-              },
-              "name": "Deshsanchar Pvt. Ltd.",
-              "sameAs": [
-                "https://www.facebook.com/deshsanchar1/",
-                "https://x.com/deshsanchar1",
-                "https://www.instagram.com/deshsanchar/",
-                "https://www.linkedin.com/company/31130905",
-                "https://www.pinterest.com/deshsanchar/",
-                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
-              ],
-              "url": "https://deshsanchar.com/"
-            },
-            {
-              "@id": "https://deshsanchar.com/#/schema/person/a9187b92e6e8560efd387e07522a2645",
-              "@type": "Person",
-              "image": {
-                "@id": "https://deshsanchar.com/#/schema/person/image/",
-                "@type": "ImageObject",
-                "caption": "देश सञ्चार",
-                "contentUrl": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g",
-                "inLanguage": "en-US",
-                "url": "https://secure.gravatar.com/avatar/2b78c295b3332d7386ddcc2eda642a94097a6656fb11cddb31adc72ca57a6a10?s=96&d=mm&r=g"
-              },
-              "name": "देश सञ्चार",
-              "url": "https://deshsanchar.com/author/deshsanchar/"
-            }
-          ]
-        }
-      ],
+      "json-ld": [],
       "microdata": [],
       "opengraph": [
         {
           "namespace": {
-            "article": "http://ogp.me/ns/article#",
             "og": "http://ogp.me/ns#"
           },
           "properties": [
             [
-              "og:locale",
-              "en_US"
+              "og:site_name",
+              "देशसञ्चार"
             ],
             [
               "og:type",
               "article"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/09/1102613/"
             ],
             [
               "og:title",
@@ -429,39 +71,11 @@
             ],
             [
               "og:description",
-              "हुम्ला – लिमीमा घाम लागे मात्र सञ्चार सेवा चल्ने गर्छ। घाम लागे मोबाइल नेटवर्क सम्पर्क हुने गरे पनि बादल लागे वा पानी परेपछि ठप्प हुने पीडा लिमीका"
-            ],
-            [
-              "og:url",
-              "https://deshsanchar.com/2025/10/09/1102613/"
-            ],
-            [
-              "og:site_name",
-              "देशसञ्चार"
-            ],
-            [
-              "article:publisher",
-              "https://www.facebook.com/deshsanchar1/"
-            ],
-            [
-              "article:published_time",
-              "2025-10-09T16:46:18+00:00"
+              "हुम्ला – लिमीमा घाम लागे मात्र सञ्चार सेवा चल्ने गर्छ।..."
             ],
             [
               "og:image",
               "https://assets.deshsanchar.com/wp-content/uploads/2025/10/09174904/hokhim-humla-Rajan.jpg"
-            ],
-            [
-              "og:image:width",
-              "1080"
-            ],
-            [
-              "og:image:height",
-              "720"
-            ],
-            [
-              "og:image:type",
-              "image/jpeg"
             ]
           ]
         }
