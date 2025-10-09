@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n0\nShares",
+  "description": "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T07:33:27.470763Z",
+  "id": "40e5837ff03660075c467d1ee4f49b9078d0f543b926df216ab62c4cce31a3e0",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/861945/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T07:04:33+00:00",
+            "datePublished": "2025-10-09T07:04:31+00:00",
+            "headline": "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861945/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/861945/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861945/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+            "wordCount": 12
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861945/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T07:04:33+00:00",
+            "datePublished": "2025-10-09T07:04:31+00:00",
+            "description": "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861945/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/861945/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861945/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+            "url": "https://khabarhub.com/2025/09/861945/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861945/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+            "height": 525,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी– अफगानिस्तानका संयुक्त राष्ट्रसङ्घ–स्वीकृत विदेशमन्त्री आमिर खान मुत्ताकीले बिहीबार भारतको पहिलो औपचारिक भ्रमण आरम्भ गरेका छन् ।  सन् २०२१ मा अमेरिकी नेतृत्वको सेनाको फिर्तीपछि तालिबान पुनः सत्तामा फर्किएयता कुनै पनि शीर्ष तालिवान नेताको यो पहिलो भारत भ्रमण हो ।मुत्ताकीको भ्रमण संयुक्त राष्ट्र सुरक्षा परिषद् (युएनएससी) ले उgलाई विशेष यात्रा छुट दिएपछि सम्भव भएको हो ।  […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/861945/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/861945/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T07:04:33+00:00",
+              "datePublished": "2025-10-09T07:04:31+00:00",
+              "headline": "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861945/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/861945/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861945/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+              "wordCount": 12
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861945/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T07:04:33+00:00",
+              "datePublished": "2025-10-09T07:04:31+00:00",
+              "description": "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861945/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/861945/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861945/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+              "url": "https://khabarhub.com/2025/09/861945/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861945/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+              "height": 525,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी– अफगानिस्तानका संयुक्त राष्ट्रसङ्घ–स्वीकृत विदेशमन्त्री आमिर खान मुत्ताकीले बिहीबार भारतको पहिलो औपचारिक भ्रमण आरम्भ गरेका छन् ।  सन् २०२१ मा अमेरिकी नेतृत्वको सेनाको फिर्तीपछि तालिबान पुनः सत्तामा फर्किएयता कुनै पनि शीर्ष तालिवान नेताको यो पहिलो भारत भ्रमण हो ।मुत्ताकीको भ्रमण संयुक्त राष्ट्र सुरक्षा परिषद् (युएनएससी) ले उgलाई विशेष यात्रा छुट दिएपछि सम्भव भएको हो ।  […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/861945/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/74259779_1004.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T07:04:31Z",
+  "source": "Khabarhub",
+  "store_path": "_store/40/40e5837ff03660075c467d1ee4f49b9078d0f543b926df216ab62c4cce31a3e0.json",
+  "title": "भारतमा तालिवान विदेशमन्त्रीको ऐतिहासिक भ्रमण, दक्षिण एसियाली कूटनीतिमा नयाँ चरणको संकेत",
+  "url": "https://khabarhub.com/2025/09/861945/",
+  "version": 1
+}
