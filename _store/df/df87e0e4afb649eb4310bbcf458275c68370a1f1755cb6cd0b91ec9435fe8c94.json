@@ -1,0 +1,436 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n7:54 am, Thu, 9 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T03:11:59.668479Z",
+  "id": "df87e0e4afb649eb4310bbcf458275c68370a1f1755cb6cd0b91ec9435fe8c94",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/trump-768x591-1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510304/#article",
+            "@type": "Article",
+            "articleSection": [
+              "Hot News",
+              "विश्व"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-09T02:14:22+00:00",
+            "datePublished": "2025-10-09T02:09:49+00:00",
+            "headline": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510304/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510304/"
+            },
+            "keywords": [
+              "डोनाल्ड ट्रम्प"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510304/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510304/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510304/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510304/#breadcrumb"
+            },
+            "dateModified": "2025-10-09T02:14:22+00:00",
+            "datePublished": "2025-10-09T02:09:49+00:00",
+            "description": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510304/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510304/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510304/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+            "url": "https://www.imagekhabar.com/news/510304/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510304/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+            "height": 663,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510304/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी। अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इजरायल र प्यालेस्टाइनस्थित विद्रोही समूह हमासले शान्ति योजनाको पहिलो चरणमा हस्ताक्षर गरेकाे बताउनुभएकाे छ। राष्ट्रपति ट्रम्पले बुधबार राति सामाजिक सञ्जालमार्फत साेही सम्झौता अन्तर्गत सबै बन्धक छिट्टै रिहाइ गरिने बताउनुभएकाे हाे। इजरायली सेना सहमतिको रेखासम्म फिर्ता हुने, यो सम्झौताले मजबुत, दिगो र स्थायी शान्तिको बाटो खोल्ने समेत उहाँले विश्वास व्यक्त गर्नुभएकाे […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510304/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510304/#article",
+              "@type": "Article",
+              "articleSection": [
+                "Hot News",
+                "विश्व"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-09T02:14:22+00:00",
+              "datePublished": "2025-10-09T02:09:49+00:00",
+              "headline": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510304/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510304/"
+              },
+              "keywords": [
+                "डोनाल्ड ट्रम्प"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510304/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510304/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510304/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510304/#breadcrumb"
+              },
+              "dateModified": "2025-10-09T02:14:22+00:00",
+              "datePublished": "2025-10-09T02:09:49+00:00",
+              "description": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510304/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510304/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510304/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+              "url": "https://www.imagekhabar.com/news/510304/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510304/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+              "height": 663,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510304/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी। अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले इजरायल र प्यालेस्टाइनस्थित विद्रोही समूह हमासले शान्ति योजनाको पहिलो चरणमा हस्ताक्षर गरेकाे बताउनुभएकाे छ। राष्ट्रपति ट्रम्पले बुधबार राति सामाजिक सञ्जालमार्फत साेही सम्झौता अन्तर्गत सबै बन्धक छिट्टै रिहाइ गरिने बताउनुभएकाे हाे। इजरायली सेना सहमतिको रेखासम्म फिर्ता हुने, यो सम्झौताले मजबुत, दिगो र स्थायी शान्तिको बाटो खोल्ने समेत उहाँले विश्वास व्यक्त गर्नुभएकाे […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510304/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2022/10/tramp.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T02:09:49Z",
+  "source": "Image Khabar",
+  "store_path": "_store/df/df87e0e4afb649eb4310bbcf458275c68370a1f1755cb6cd0b91ec9435fe8c94.json",
+  "title": "हमास र इजरायलबीच पहिलो चरणको शान्ति योजनामा सम्झौता, सबै बन्धककाे छिट्टै रिहाइ गरिंने अनुमान",
+  "url": "https://www.imagekhabar.com/news/510304/",
+  "version": 1
+}
