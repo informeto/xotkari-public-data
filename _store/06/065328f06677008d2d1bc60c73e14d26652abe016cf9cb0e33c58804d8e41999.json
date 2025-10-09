@@ -1,0 +1,439 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n6:50 am, Thu, 9 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T02:06:06.993051Z",
+  "id": "065328f06677008d2d1bc60c73e14d26652abe016cf9cb0e33c58804d8e41999",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510280/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "खेलकुद"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-09T01:06:34+00:00",
+            "datePublished": "2025-10-09T01:05:03+00:00",
+            "headline": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510280/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510280/"
+            },
+            "keywords": [
+              "नेपाल"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510280/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510280/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510280/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510280/#breadcrumb"
+            },
+            "dateModified": "2025-10-09T01:06:34+00:00",
+            "datePublished": "2025-10-09T01:05:03+00:00",
+            "description": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510280/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510280/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510280/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+            "url": "https://www.imagekhabar.com/news/510280/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510280/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+            "height": 960,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+            "width": 1440
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510280/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । ओमानमा जारी आईसीसी टी-२० क्रिकेट विश्वकप एसिया एन्ड इएपी छनोटमा नेपालले विजयी सुरूवात गरेको छ। ओमानमा बुधबार राति भएकाे खेलमा नेपालले आफ्नो पहिलो खेलमा कुवेतमाथि ५८ रनको जित निकालेको हो। नेपालले दिएको १ सय ४२ रनको लक्ष्य पछ्याएको कुवेत १८ दशमलव १ ओभरमा ८३ रनमै अलआउट भयो। कुवेतका लागि ओपनर क्लिन्टो अन्तोले सबै […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510280/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510280/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "खेलकुद"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-09T01:06:34+00:00",
+              "datePublished": "2025-10-09T01:05:03+00:00",
+              "headline": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510280/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510280/"
+              },
+              "keywords": [
+                "नेपाल"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510280/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510280/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510280/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510280/#breadcrumb"
+              },
+              "dateModified": "2025-10-09T01:06:34+00:00",
+              "datePublished": "2025-10-09T01:05:03+00:00",
+              "description": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510280/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510280/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510280/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+              "url": "https://www.imagekhabar.com/news/510280/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510280/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+              "height": 960,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg",
+              "width": 1440
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510280/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । ओमानमा जारी आईसीसी टी-२० क्रिकेट विश्वकप एसिया एन्ड इएपी छनोटमा नेपालले विजयी सुरूवात गरेको छ। ओमानमा बुधबार राति भएकाे खेलमा नेपालले आफ्नो पहिलो खेलमा कुवेतमाथि ५८ रनको जित निकालेको हो। नेपालले दिएको १ सय ४२ रनको लक्ष्य पछ्याएको कुवेत १८ दशमलव १ ओभरमा ८३ रनमै अलआउट भयो। कुवेतका लागि ओपनर क्लिन्टो अन्तोले सबै […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510280/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/nepal-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T01:05:03Z",
+  "source": "Image Khabar",
+  "store_path": "_store/06/065328f06677008d2d1bc60c73e14d26652abe016cf9cb0e33c58804d8e41999.json",
+  "title": "आईसीसी टी-२० विश्वकप: नेपालकाे कुवेतमाथि ५८ रनको जित",
+  "url": "https://www.imagekhabar.com/news/510280/",
+  "version": 1
+}

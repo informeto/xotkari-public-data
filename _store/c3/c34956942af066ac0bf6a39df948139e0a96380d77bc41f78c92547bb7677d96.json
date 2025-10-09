@@ -1,0 +1,374 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n180\nShares",
+  "description": "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T02:06:41.935502Z",
+  "id": "c34956942af066ac0bf6a39df948139e0a96380d77bc41f78c92547bb7677d96",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/israel-hamas-768x390.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/861797/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय",
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T01:21:39+00:00",
+            "datePublished": "2025-10-09T01:17:20+00:00",
+            "headline": "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861797/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/861797/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861797/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+            "wordCount": 16
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861797/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T01:21:39+00:00",
+            "datePublished": "2025-10-09T01:17:20+00:00",
+            "description": "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861797/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/861797/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861797/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+            "url": "https://khabarhub.com/2025/09/861797/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861797/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "तस्बिर: बिबिसी",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+            "height": 524,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कायरो – अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले बिहीबार इजरायल र हमास दुवैले गाजाक्षेत्रमा जारी युद्ध रोकेर शान्ति स्थापनाका लागि सहमति गरेको जनाएका छन् । सहमतिअनुसार बन्दीको मुद्दामा आफ्नो शान्ति योजनाको पहिलो चरणलाई दुवै पक्षले स्वीकार गर्ने ट्रम्पले ट्रुथ सोसियलमा घोषणा गरेका छन् । उनले यसलाई ऐतिहासिक र अभूतपूर्व कदमका रूपमा व्याख्या गरेका छन् । सम्झौताका मुख्य […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/861797/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/861797/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय",
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T01:21:39+00:00",
+              "datePublished": "2025-10-09T01:17:20+00:00",
+              "headline": "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861797/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/861797/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861797/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+              "wordCount": 16
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861797/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T01:21:39+00:00",
+              "datePublished": "2025-10-09T01:17:20+00:00",
+              "description": "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861797/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/861797/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861797/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+              "url": "https://khabarhub.com/2025/09/861797/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861797/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "तस्बिर: बिबिसी",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+              "height": 524,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कायरो – अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले बिहीबार इजरायल र हमास दुवैले गाजाक्षेत्रमा जारी युद्ध रोकेर शान्ति स्थापनाका लागि सहमति गरेको जनाएका छन् । सहमतिअनुसार बन्दीको मुद्दामा आफ्नो शान्ति योजनाको पहिलो चरणलाई दुवै पक्षले स्वीकार गर्ने ट्रम्पले ट्रुथ सोसियलमा घोषणा गरेका छन् । उनले यसलाई ऐतिहासिक र अभूतपूर्व कदमका रूपमा व्याख्या गरेका छन् । सम्झौताका मुख्य […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/861797/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Trump-cover.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T01:17:20Z",
+  "source": "Khabarhub",
+  "store_path": "_store/c3/c34956942af066ac0bf6a39df948139e0a96380d77bc41f78c92547bb7677d96.json",
+  "title": "इजरायल-हमास सहमति : यी हुन् शान्ति सम्झौताका मुख्य बुँदा",
+  "url": "https://khabarhub.com/2025/09/861797/",
+  "version": 1
+}
