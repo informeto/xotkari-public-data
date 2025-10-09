@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n111\nShares",
+  "description": "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T15:47:49.110969Z",
+  "id": "d9bb4bbf7800318957ae70f54224b93d94756d6b4fd95912ec29094bea457fe2",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-football-768x512.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nepal-vs-vetnam-768x494.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/862368/#article",
+            "@type": "Article",
+            "articleSection": [
+              "फुटबल",
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T15:01:18+00:00",
+            "datePublished": "2025-10-09T15:01:16+00:00",
+            "headline": "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/862368/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/862368/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/862368/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/862368/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T15:01:18+00:00",
+            "datePublished": "2025-10-09T15:01:16+00:00",
+            "description": "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/862368/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/862368/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/862368/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+            "url": "https://khabarhub.com/2025/09/862368/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/862368/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+            "height": 1200,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+            "width": 1600
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – एएफसी एसिया कप २०२७ को छनोट अन्तर्गतको तेस्रो चरणमा नेपाल भियतनामसँग ३–१ गोलअन्तरले पराजित भएको छ। पहिलो हाफसम्म सन्तुलित प्रदर्शन गर्दै खेललाई बराबरीमा राख्न सफल भएको नेपाल दोस्रो हाफमा भने दबाब झेल्न बाध्य बन्यो। खेलको नवौं मिनेटमै ताइन लिन्हले गरेको गोलमार्फत भियतनामले अग्रता लिएको थियो। तर, नेपालका सनिश श्रेष्ठले १७ औँ मिनेटमा बराबरी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/862368/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/862368/#article",
+              "@type": "Article",
+              "articleSection": [
+                "फुटबल",
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T15:01:18+00:00",
+              "datePublished": "2025-10-09T15:01:16+00:00",
+              "headline": "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/862368/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/862368/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/862368/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/862368/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T15:01:18+00:00",
+              "datePublished": "2025-10-09T15:01:16+00:00",
+              "description": "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/862368/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/862368/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/862368/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+              "url": "https://khabarhub.com/2025/09/862368/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/862368/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+              "height": 1200,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg",
+              "width": 1600
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – एएफसी एसिया कप २०२७ को छनोट अन्तर्गतको तेस्रो चरणमा नेपाल भियतनामसँग ३–१ गोलअन्तरले पराजित भएको छ। पहिलो हाफसम्म सन्तुलित प्रदर्शन गर्दै खेललाई बराबरीमा राख्न सफल भएको नेपाल दोस्रो हाफमा भने दबाब झेल्न बाध्य बन्यो। खेलको नवौं मिनेटमै ताइन लिन्हले गरेको गोलमार्फत भियतनामले अग्रता लिएको थियो। तर, नेपालका सनिश श्रेष्ठले १७ औँ मिनेटमा बराबरी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/862368/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepal-vs-vetnam-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T15:01:16Z",
+  "source": "Khabarhub",
+  "store_path": "_store/d9/d9bb4bbf7800318957ae70f54224b93d94756d6b4fd95912ec29094bea457fe2.json",
+  "title": "एएफसी एसिया कप छनोट: नेपाल भियतनामसँग पराजित",
+  "url": "https://khabarhub.com/2025/09/862368/",
+  "version": 1
+}
