@@ -1,0 +1,368 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया स्वास्थ्य",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T06:48:29.679651Z",
+  "id": "bca3bfb16ca00bf6ef9f69d6dabaf12dc93740a9b6557ecce5e42e1d56971f84",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/861905/#article",
+            "@type": "Article",
+            "articleSection": [
+              "स्वास्थ्य"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T06:25:12+00:00",
+            "datePublished": "2025-10-09T06:25:10+00:00",
+            "headline": "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861905/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/861905/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861905/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861905/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T06:25:12+00:00",
+            "datePublished": "2025-10-09T06:25:10+00:00",
+            "description": "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया स्वास्थ्य",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861905/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/861905/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861905/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+            "url": "https://khabarhub.com/2025/09/861905/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861905/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+            "height": 739,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+            "width": 1600
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "चितवन– भरतपुर आँखा अस्पतालले विश्व दृष्टि दिवसको अवसरमा तीन वृद्धाको आँखाको निःशुल्क शल्यक्रिया गरेको छ । देवघाट क्षेत्र विकास समितिद्वारा सञ्चालित देवघाट समाज कल्याण केन्द्रमा आश्रित अन्दाजी ७५ वर्षिया वृद्धाहरुको आँखाको मोतियाविन्दुको शल्यक्रिया गरिएको हो । अस्पतालका प्रशासक दयाशङ्कर चौधरीका अनुसार दिवसको सन्दर्भ पारेर बुधबार शल्यक्रिया गरी आज बिहान आँखाको पट्टी खोलिएको हो । वृद्धाहरुलाई आवाजावतदेखि […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/861905/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/861905/#article",
+              "@type": "Article",
+              "articleSection": [
+                "स्वास्थ्य"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T06:25:12+00:00",
+              "datePublished": "2025-10-09T06:25:10+00:00",
+              "headline": "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861905/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/861905/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861905/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861905/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T06:25:12+00:00",
+              "datePublished": "2025-10-09T06:25:10+00:00",
+              "description": "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया स्वास्थ्य",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861905/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/861905/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861905/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+              "url": "https://khabarhub.com/2025/09/861905/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861905/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+              "height": 739,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg",
+              "width": 1600
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "चितवन– भरतपुर आँखा अस्पतालले विश्व दृष्टि दिवसको अवसरमा तीन वृद्धाको आँखाको निःशुल्क शल्यक्रिया गरेको छ । देवघाट क्षेत्र विकास समितिद्वारा सञ्चालित देवघाट समाज कल्याण केन्द्रमा आश्रित अन्दाजी ७५ वर्षिया वृद्धाहरुको आँखाको मोतियाविन्दुको शल्यक्रिया गरिएको हो । अस्पतालका प्रशासक दयाशङ्कर चौधरीका अनुसार दिवसको सन्दर्भ पारेर बुधबार शल्यक्रिया गरी आज बिहान आँखाको पट्टी खोलिएको हो । वृद्धाहरुलाई आवाजावतदेखि […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/861905/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Eye.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T06:25:10Z",
+  "source": "Khabarhub",
+  "store_path": "_store/bc/bca3bfb16ca00bf6ef9f69d6dabaf12dc93740a9b6557ecce5e42e1d56971f84.json",
+  "title": "विश्व दृष्टि दिवसमा तीन वृद्धाको निःशुल्क आँखाको शल्यक्रिया",
+  "url": "https://khabarhub.com/2025/09/861905/",
+  "version": 1
+}

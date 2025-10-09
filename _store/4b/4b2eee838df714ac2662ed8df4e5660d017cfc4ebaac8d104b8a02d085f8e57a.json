@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n12\nShares",
+  "description": "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T06:48:26.238073Z",
+  "id": "4b2eee838df714ac2662ed8df4e5660d017cfc4ebaac8d104b8a02d085f8e57a",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/861924/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T06:42:41+00:00",
+            "datePublished": "2025-10-09T06:42:37+00:00",
+            "headline": "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861924/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/861924/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861924/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861924/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T06:42:41+00:00",
+            "datePublished": "2025-10-09T06:42:37+00:00",
+            "description": "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861924/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/861924/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861924/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png",
+            "url": "https://khabarhub.com/2025/09/861924/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861924/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png",
+            "height": 1536,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png",
+            "width": 2048
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– एमाले नेता महेश बस्नेतले अर्थमन्त्री रामेश्वर खनालको सम्पत्ति कहाँबाट आयो भन्दै प्रश्न गरेका छन् । बिहीबार भक्तपुरमा एमालेको कार्यक्रममा बोल्दै नेता बस्नेतले पारिश्रमिक र सुविधा नलिने घोषणा गरेका मन्त्री खनालको सम्पत्ति कहाँबाट आयो भनेर प्रश्न गरेका हुन् । ‘रामेश्वर खनाल पूर्व अर्थसचिव म सेक्युरिटी लिन्न, म पिए लिन्न, म गाडी लिन्न, मन्त्री भएर नलिनु […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/861924/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/861924/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T06:42:41+00:00",
+              "datePublished": "2025-10-09T06:42:37+00:00",
+              "headline": "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861924/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/861924/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861924/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861924/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T06:42:41+00:00",
+              "datePublished": "2025-10-09T06:42:37+00:00",
+              "description": "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861924/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/861924/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861924/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png",
+              "url": "https://khabarhub.com/2025/09/861924/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861924/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png",
+              "height": 1536,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png",
+              "width": 2048
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– एमाले नेता महेश बस्नेतले अर्थमन्त्री रामेश्वर खनालको सम्पत्ति कहाँबाट आयो भन्दै प्रश्न गरेका छन् । बिहीबार भक्तपुरमा एमालेको कार्यक्रममा बोल्दै नेता बस्नेतले पारिश्रमिक र सुविधा नलिने घोषणा गरेका मन्त्री खनालको सम्पत्ति कहाँबाट आयो भनेर प्रश्न गरेका हुन् । ‘रामेश्वर खनाल पूर्व अर्थसचिव म सेक्युरिटी लिन्न, म पिए लिन्न, म गाडी लिन्न, मन्त्री भएर नलिनु […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/861924/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/mahesh-basnet-1.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T06:42:37Z",
+  "source": "Khabarhub",
+  "store_path": "_store/4b/4b2eee838df714ac2662ed8df4e5660d017cfc4ebaac8d104b8a02d085f8e57a.json",
+  "title": "रामेश्वर खनालको सम्पत्ति कहाँबाट आयो : महेश बस्नेत",
+  "url": "https://khabarhub.com/2025/09/861924/",
+  "version": 1
+}
