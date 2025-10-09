@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n3:08 pm, Thu, 9 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T09:34:59.617350Z",
+  "id": "aac15e9f6d3c83cdc092ad7939fef08105ba7cb90ac2f3e8ade9559ad37f2a9c",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510421/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-09T09:25:41+00:00",
+            "datePublished": "2025-10-09T09:23:22+00:00",
+            "headline": "केपी ओली भन्छन्: &#8216;म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन&#8217;",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510421/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510421/"
+            },
+            "keywords": [
+              "केपी शर्मा ओली"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510421/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510421/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510421/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510421/#breadcrumb"
+            },
+            "dateModified": "2025-10-09T09:25:41+00:00",
+            "datePublished": "2025-10-09T09:23:22+00:00",
+            "description": "केपी ओली भन्छन्: 'म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन'",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510421/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "केपी ओली भन्छन्: 'म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन' - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510421/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510421/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg",
+            "url": "https://www.imagekhabar.com/news/510421/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510421/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510421/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "केपी ओली भन्छन्: &#8216;म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन&#8217;",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "केपी ओली भन्छन्: ‘म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन’"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले आफू हेपिन तयार रहे पनि देशलाई कसैले हेपेकाे मन-नपर्ने बताउनुभएकाे छ। भक्तपुरको गुण्डुमा बिहीबार आयोजित एक कार्यक्रमलाई सम्बाेधन गर्दै अध्यक्ष ओलीले यस्ताे बताउनुभएकाे हाे। उहाँले भन्नुभयाे,-’म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन, मेरो देश हेपेको सहँदैन।’ उहाँले अहिलेको सरकार संविधान, संसद र लोकतन्त्रमाथि […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510421/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510421/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-09T09:25:41+00:00",
+              "datePublished": "2025-10-09T09:23:22+00:00",
+              "headline": "केपी ओली भन्छन्: &#8216;म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन&#8217;",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510421/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510421/"
+              },
+              "keywords": [
+                "केपी शर्मा ओली"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510421/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510421/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510421/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510421/#breadcrumb"
+              },
+              "dateModified": "2025-10-09T09:25:41+00:00",
+              "datePublished": "2025-10-09T09:23:22+00:00",
+              "description": "केपी ओली भन्छन्: 'म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन'",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510421/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "केपी ओली भन्छन्: 'म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन' - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510421/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510421/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg",
+              "url": "https://www.imagekhabar.com/news/510421/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510421/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510421/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "केपी ओली भन्छन्: &#8216;म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन&#8217;",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "केपी ओली भन्छन्: ‘म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन’"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । नेकपा एमालेका अध्यक्ष केपी शर्मा ओलीले आफू हेपिन तयार रहे पनि देशलाई कसैले हेपेकाे मन-नपर्ने बताउनुभएकाे छ। भक्तपुरको गुण्डुमा बिहीबार आयोजित एक कार्यक्रमलाई सम्बाेधन गर्दै अध्यक्ष ओलीले यस्ताे बताउनुभएकाे हाे। उहाँले भन्नुभयाे,-’म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन, मेरो देश हेपेको सहँदैन।’ उहाँले अहिलेको सरकार संविधान, संसद र लोकतन्त्रमाथि […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510421/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/kp-ba.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T09:23:22Z",
+  "source": "Image Khabar",
+  "store_path": "_store/aa/aac15e9f6d3c83cdc092ad7939fef08105ba7cb90ac2f3e8ade9559ad37f2a9c.json",
+  "title": "केपी ओली भन्छन्: ‘म आफू हेपिन तयार हुन सक्छु, तर मेरो देशलाई हेप्न पाइँदैन’",
+  "url": "https://www.imagekhabar.com/news/510421/",
+  "version": 1
+}
