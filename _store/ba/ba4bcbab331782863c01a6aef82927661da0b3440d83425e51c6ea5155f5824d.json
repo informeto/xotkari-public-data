@@ -1,0 +1,377 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n213\nShares",
+  "description": "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T05:36:18.529753Z",
+  "id": "ba4bcbab331782863c01a6aef82927661da0b3440d83425e51c6ea5155f5824d",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket1-768x394.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/sompal-kami-3-768x512.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kushal1-756x768.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/criket-nepal-768x512.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/861860/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद",
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T05:30:14+00:00",
+            "datePublished": "2025-10-09T04:49:30+00:00",
+            "headline": "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861860/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/861860/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861860/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861860/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T05:30:14+00:00",
+            "datePublished": "2025-10-09T04:49:30+00:00",
+            "description": "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861860/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/861860/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861860/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+            "url": "https://khabarhub.com/2025/09/861860/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861860/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+            "height": 700,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – टी-२० विश्वकप एसिया–इस्ट एसिया प्यासिफिक छनोट प्रतिस्पर्धाको पहिलो खेलमा नेपालले कुवेतमाथि ५८ शानदार जित निकाल्दा नेपालले ब्याट, बल र फिल्ड सबैतिर उत्कृष्ट खेल प्रदर्शन गरेको छ । १४२ रनको लक्ष्य पछ्याएको कुवेतलाई १८.१ ओभरमा ८३ रनमा अलआउट गर्दा नेपालको खेल प्रशंसा योग्य बनेको हो । नेपालविरुद्ध कुवेतका तीनबाहेक कुनै ब्याट्सम्यानले दोहोरो अंकमा रन […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/861860/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/861860/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद",
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T05:30:14+00:00",
+              "datePublished": "2025-10-09T04:49:30+00:00",
+              "headline": "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861860/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/861860/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861860/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861860/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T05:30:14+00:00",
+              "datePublished": "2025-10-09T04:49:30+00:00",
+              "description": "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861860/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/861860/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861860/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+              "url": "https://khabarhub.com/2025/09/861860/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861860/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+              "height": 700,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – टी-२० विश्वकप एसिया–इस्ट एसिया प्यासिफिक छनोट प्रतिस्पर्धाको पहिलो खेलमा नेपालले कुवेतमाथि ५८ शानदार जित निकाल्दा नेपालले ब्याट, बल र फिल्ड सबैतिर उत्कृष्ट खेल प्रदर्शन गरेको छ । १४२ रनको लक्ष्य पछ्याएको कुवेतलाई १८.१ ओभरमा ८३ रनमा अलआउट गर्दा नेपालको खेल प्रशंसा योग्य बनेको हो । नेपालविरुद्ध कुवेतका तीनबाहेक कुनै ब्याट्सम्यानले दोहोरो अंकमा रन […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/861860/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T04:49:30Z",
+  "source": "Khabarhub",
+  "store_path": "_store/ba/ba4bcbab331782863c01a6aef82927661da0b3440d83425e51c6ea5155f5824d.json",
+  "title": "कुवेतविरुद्धः कुशल र गुल्शनको ब्याट चल्दा, फिल्डमा दीपेन्द्रको दबदबा",
+  "url": "https://khabarhub.com/2025/09/861860/",
+  "version": 1
+}

@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n132\nShares",
+  "description": "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो मनोरञ्जन",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T05:36:18.112025Z",
+  "id": "2c22f1409fe9108b1f2464f2685848c5514ce936d07a38cc2ae0c1304d5e5d19",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/861551/#article",
+            "@type": "Article",
+            "articleSection": [
+              "मनोरञ्जन",
+              "सिनेमा"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T05:09:37+00:00",
+            "datePublished": "2025-10-09T05:09:36+00:00",
+            "headline": "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861551/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/861551/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861551/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861551/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T05:09:37+00:00",
+            "datePublished": "2025-10-09T05:09:36+00:00",
+            "description": "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो मनोरञ्जन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861551/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/861551/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861551/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+            "url": "https://khabarhub.com/2025/09/861551/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861551/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+            "height": 600,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – फिल्म ‘बलिदान’को अकुपेन्सी अपेक्षित नभएपछि नायक समीर भट्ट अहिले विभिन्न युट्युब च्यानललाई अन्तर्वार्ता दिन व्यस्त छन् । समीरले अहिले हरेक दिनजसो अन्तर्वार्ता दिइरहेका छन् । फिल्म प्रदर्शनमाअघि भने उनले मिडियासँग दूरी बनाएका थिए । ती अन्तर्वार्तामा उनले आफ्नो फिल्मको अकुपेन्सी कमजोर भएको कारण साइबर आक्रमण भएको दाबी गरेका छन् । कसले र किन […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/861551/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/861551/#article",
+              "@type": "Article",
+              "articleSection": [
+                "मनोरञ्जन",
+                "सिनेमा"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T05:09:37+00:00",
+              "datePublished": "2025-10-09T05:09:36+00:00",
+              "headline": "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861551/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/861551/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861551/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861551/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T05:09:37+00:00",
+              "datePublished": "2025-10-09T05:09:36+00:00",
+              "description": "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो मनोरञ्जन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861551/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/861551/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861551/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+              "url": "https://khabarhub.com/2025/09/861551/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861551/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+              "height": 600,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – फिल्म ‘बलिदान’को अकुपेन्सी अपेक्षित नभएपछि नायक समीर भट्ट अहिले विभिन्न युट्युब च्यानललाई अन्तर्वार्ता दिन व्यस्त छन् । समीरले अहिले हरेक दिनजसो अन्तर्वार्ता दिइरहेका छन् । फिल्म प्रदर्शनमाअघि भने उनले मिडियासँग दूरी बनाएका थिए । ती अन्तर्वार्तामा उनले आफ्नो फिल्मको अकुपेन्सी कमजोर भएको कारण साइबर आक्रमण भएको दाबी गरेका छन् । कसले र किन […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/861551/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/Samir-Bhatta.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T05:09:36Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2c/2c22f1409fe9108b1f2464f2685848c5514ce936d07a38cc2ae0c1304d5e5d19.json",
+  "title": "समीरको ‘कन्फिडेन्ट’ कि ‘ओभर कन्फिडेन्ट’, खुलेयाम भन्छन्- ‘बलिदान’को प्रतिस्पर्धा ‘कांतारा’सँग हो",
+  "url": "https://khabarhub.com/2025/09/861551/",
+  "version": 1
+}

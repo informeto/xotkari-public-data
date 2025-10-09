@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n24\nShares",
+  "description": "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T05:36:18.941527Z",
+  "id": "e26f26d69bdc550c75473f5e056b9fbfe4620d41534b9fa9e9122349dc61b799",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/861864/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T04:47:11+00:00",
+            "datePublished": "2025-10-09T04:47:08+00:00",
+            "headline": "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861864/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/861864/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861864/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861864/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T04:47:11+00:00",
+            "datePublished": "2025-10-09T04:47:08+00:00",
+            "description": "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/861864/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/861864/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/861864/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg",
+            "url": "https://khabarhub.com/2025/09/861864/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/861864/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg",
+            "height": 500,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg",
+            "width": 750
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "तनहुँ– तनहुँका स्थानीय तहले एक वर्षमा १५ किलोमिटर सडक कालोपत्र गरेका छन् । गत आर्थिक वर्षमा जिल्लाका छ गाउँपालिकाले १५ दशमलव ६२ किलोमिटर सडक कालोपत्र गरेका हुन् । त्यस्तै ती पालिकाले ३८ दशमलव ५५ किलोमिटर सडकको नयाँ ट्रयाक खोलेका छन् । म्याग्दे गाउँपालिकाले एक वर्षको अवधिमा एक दशमलव पाँच किलोमिटर सडक कालोपत्र गरेको प्रमुख प्रशासकीय […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/861864/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/861864/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T04:47:11+00:00",
+              "datePublished": "2025-10-09T04:47:08+00:00",
+              "headline": "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861864/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/861864/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861864/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861864/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T04:47:11+00:00",
+              "datePublished": "2025-10-09T04:47:08+00:00",
+              "description": "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/861864/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/861864/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/861864/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg",
+              "url": "https://khabarhub.com/2025/09/861864/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/861864/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg",
+              "height": 500,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg",
+              "width": 750
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "तनहुँ– तनहुँका स्थानीय तहले एक वर्षमा १५ किलोमिटर सडक कालोपत्र गरेका छन् । गत आर्थिक वर्षमा जिल्लाका छ गाउँपालिकाले १५ दशमलव ६२ किलोमिटर सडक कालोपत्र गरेका हुन् । त्यस्तै ती पालिकाले ३८ दशमलव ५५ किलोमिटर सडकको नयाँ ट्रयाक खोलेका छन् । म्याग्दे गाउँपालिकाले एक वर्षको अवधिमा एक दशमलव पाँच किलोमिटर सडक कालोपत्र गरेको प्रमुख प्रशासकीय […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/861864/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/01/Kalopatra-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T04:47:08Z",
+  "source": "Khabarhub",
+  "store_path": "_store/e2/e26f26d69bdc550c75473f5e056b9fbfe4620d41534b9fa9e9122349dc61b799.json",
+  "title": "तनहुँका स्थानीय तहद्वारा १५ किलोमिटर सडक कालोपत्र",
+  "url": "https://khabarhub.com/2025/09/861864/",
+  "version": 1
+}

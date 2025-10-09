@@ -1,0 +1,441 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n11:01 am, Thu, 9 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T05:35:55.984553Z",
+  "id": "55af0971cf2eae68b67d975312fb7a23054b4bfd31d3fabc78e96c3d1e094637",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2020/06/cropped-ALPHA-LOGO-2-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510357/#article",
+            "@type": "Article",
+            "articleSection": [
+              "banner -1",
+              "BREAKING",
+              "Hot News",
+              "बागमती",
+              "स्वास्थ्य"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-09T05:17:00+00:00",
+            "datePublished": "2025-10-09T05:16:56+00:00",
+            "headline": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510357/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510357/"
+            },
+            "keywords": [
+              "स्वास्थ्य तथा जनसंख्या मन्त्रालय"
+            ],
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510357/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510357/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510357/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510357/#breadcrumb"
+            },
+            "dateModified": "2025-10-09T05:17:00+00:00",
+            "datePublished": "2025-10-09T05:16:56+00:00",
+            "description": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510357/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510357/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510357/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg",
+            "url": "https://www.imagekhabar.com/news/510357/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510357/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510357/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/kabita/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । स्वास्थ्य तथा जनसंख्या मन्त्रालयले विपदग्रस्त क्षेत्रमा वितरण गर्ने खाद्यान्न, पानी तथा लत्ता कपडाहरुको गुणस्तरीयता कायम राख्न सम्बन्धित निकायको ध्यानाकर्षण गराएको छ । मन्त्रालयका सहसचिव एवं प्रवक्ता डाक्टर प्रकाश बुढाथोकीले बिहीबार संकटको समयमा वितरण गरिने पिउने पानी, खाद्यान्न स्तरहिन भए विपदग्रस्त क्षेत्रमा महामारी र प्रकोप फैलनसक्ने जोखिम रहेको भन्दै त्यसतर्फ सबैको ध्यानाकर्षण गराउनुभएको हो […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510357/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510357/#article",
+              "@type": "Article",
+              "articleSection": [
+                "banner -1",
+                "BREAKING",
+                "Hot News",
+                "बागमती",
+                "स्वास्थ्य"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-09T05:17:00+00:00",
+              "datePublished": "2025-10-09T05:16:56+00:00",
+              "headline": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510357/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510357/"
+              },
+              "keywords": [
+                "स्वास्थ्य तथा जनसंख्या मन्त्रालय"
+              ],
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510357/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510357/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510357/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510357/#breadcrumb"
+              },
+              "dateModified": "2025-10-09T05:17:00+00:00",
+              "datePublished": "2025-10-09T05:16:56+00:00",
+              "description": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510357/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510357/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510357/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg",
+              "url": "https://www.imagekhabar.com/news/510357/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510357/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510357/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/d5aca17e9d14eb508ce8784550cae658",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/9f008b209e8226d56d7c7e33531e15de?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/kabita/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । स्वास्थ्य तथा जनसंख्या मन्त्रालयले विपदग्रस्त क्षेत्रमा वितरण गर्ने खाद्यान्न, पानी तथा लत्ता कपडाहरुको गुणस्तरीयता कायम राख्न सम्बन्धित निकायको ध्यानाकर्षण गराएको छ । मन्त्रालयका सहसचिव एवं प्रवक्ता डाक्टर प्रकाश बुढाथोकीले बिहीबार संकटको समयमा वितरण गरिने पिउने पानी, खाद्यान्न स्तरहिन भए विपदग्रस्त क्षेत्रमा महामारी र प्रकोप फैलनसक्ने जोखिम रहेको भन्दै त्यसतर्फ सबैको ध्यानाकर्षण गराउनुभएको हो […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510357/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/prakash-budhathoki-2.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T05:16:56Z",
+  "source": "Image Khabar",
+  "store_path": "_store/55/55af0971cf2eae68b67d975312fb7a23054b4bfd31d3fabc78e96c3d1e094637.json",
+  "title": "राहत सामग्रीको गुणस्तरीयता कामय गर्न स्वास्थ्य मन्त्रालयको निर्देशन",
+  "url": "https://www.imagekhabar.com/news/510357/",
+  "version": 1
+}
