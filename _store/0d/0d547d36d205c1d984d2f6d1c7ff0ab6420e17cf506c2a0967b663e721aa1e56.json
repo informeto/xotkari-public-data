@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n72\nShares",
+  "description": "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T08:43:00.138595Z",
+  "id": "0d547d36d205c1d984d2f6d1c7ff0ab6420e17cf506c2a0967b663e721aa1e56",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/862056/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T08:08:01+00:00",
+            "datePublished": "2025-10-09T08:07:55+00:00",
+            "headline": "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/862056/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/862056/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/862056/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/862056/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T08:08:01+00:00",
+            "datePublished": "2025-10-09T08:07:55+00:00",
+            "description": "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/862056/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/862056/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/862056/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg",
+            "url": "https://khabarhub.com/2025/09/862056/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/862056/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg",
+            "height": 650,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– एमाले अध्यक्ष केपी ओलीले गृहमन्त्री ओमप्रकाश अर्याललाई नउत्ताउलिन सुझाव दिएका छन् । बिहीबार भक्तपुरमा आयोजित एमालेको कार्यक्रममा बोल्दै अध्यक्ष ओलीले गृहमन्त्रीलाई आफूले नचिनेको भन्दै सो सुझाव दिएका हुन् । ‘तपाइँहरूले कतिले नाम सुन्नुभएको थियो अहिलेको गृहमन्त्री रु मैले त नाम पनि सुन्याथिइन, गृहमन्त्री भएपछि थाहा पाएँ’, उनले भने, ‘गृहमन्त्रीको सम्बन्धमा मलाई केही भन्न पर्याछैन, […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/862056/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/862056/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T08:08:01+00:00",
+              "datePublished": "2025-10-09T08:07:55+00:00",
+              "headline": "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/862056/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/862056/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/862056/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/862056/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T08:08:01+00:00",
+              "datePublished": "2025-10-09T08:07:55+00:00",
+              "description": "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/862056/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/862056/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/862056/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg",
+              "url": "https://khabarhub.com/2025/09/862056/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/862056/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg",
+              "height": 650,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– एमाले अध्यक्ष केपी ओलीले गृहमन्त्री ओमप्रकाश अर्याललाई नउत्ताउलिन सुझाव दिएका छन् । बिहीबार भक्तपुरमा आयोजित एमालेको कार्यक्रममा बोल्दै अध्यक्ष ओलीले गृहमन्त्रीलाई आफूले नचिनेको भन्दै सो सुझाव दिएका हुन् । ‘तपाइँहरूले कतिले नाम सुन्नुभएको थियो अहिलेको गृहमन्त्री रु मैले त नाम पनि सुन्याथिइन, गृहमन्त्री भएपछि थाहा पाएँ’, उनले भने, ‘गृहमन्त्रीको सम्बन्धमा मलाई केही भन्न पर्याछैन, […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/862056/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/kp-oli.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T08:07:55Z",
+  "source": "Khabarhub",
+  "store_path": "_store/0d/0d547d36d205c1d984d2f6d1c7ff0ab6420e17cf506c2a0967b663e721aa1e56.json",
+  "title": "गृहमन्त्रीलाई नउत्ताउलिन र नचम्किन ओलीको सुझाव",
+  "url": "https://khabarhub.com/2025/09/862056/",
+  "version": 1
+}

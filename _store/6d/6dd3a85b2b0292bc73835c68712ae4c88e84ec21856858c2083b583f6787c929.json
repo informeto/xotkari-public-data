@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२३ आश्विन २०८२, बिहीबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n45\nShares",
+  "description": "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-09T08:42:59.003954Z",
+  "id": "6dd3a85b2b0292bc73835c68712ae4c88e84ec21856858c2083b583f6787c929",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/09/862065/#article",
+            "@type": "Article",
+            "articleSection": [
+              "आर्थिक",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-09T08:20:54+00:00",
+            "datePublished": "2025-10-09T08:20:28+00:00",
+            "headline": "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/862065/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/09/862065/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/09/862065/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/862065/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-09T08:20:54+00:00",
+            "datePublished": "2025-10-09T08:20:28+00:00",
+            "description": "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/09/862065/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/09/862065/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/09/862065/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+            "url": "https://khabarhub.com/2025/09/862065/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/09/862065/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+            "height": 593,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – राष्ट्रिय वाणिज्य बैंकले पछिल्ला दिनमा केही अनधिकृत व्यक्तिले बैँकका नाममा ग्राहकलाई फोन गरी ठगीजन्य गतिविधिमा संलग्न रहेको भन्ने सूचना प्राप्त भएको सन्दर्भमा आफ्नो गम्भीर ध्यानाकर्षण भएको जनाएको छ । त्यस्ता अनधिकृत व्यक्तिले व्यक्तिगत विवरण माग्ने, झुटा अफर तथा योजनाको बारेमा जानकारी दिँदै आर्थिक लाभको प्रलोभनमा पार्ने जस्ता ठगीजन्य गतिविधिहरूमा संलग्न रहेको भन्ने सूचना […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/09/862065/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/09/862065/#article",
+              "@type": "Article",
+              "articleSection": [
+                "आर्थिक",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-09T08:20:54+00:00",
+              "datePublished": "2025-10-09T08:20:28+00:00",
+              "headline": "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/862065/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/09/862065/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/09/862065/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/862065/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-09T08:20:54+00:00",
+              "datePublished": "2025-10-09T08:20:28+00:00",
+              "description": "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/09/862065/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/09/862065/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/09/862065/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+              "url": "https://khabarhub.com/2025/09/862065/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/09/862065/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+              "height": 593,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – राष्ट्रिय वाणिज्य बैंकले पछिल्ला दिनमा केही अनधिकृत व्यक्तिले बैँकका नाममा ग्राहकलाई फोन गरी ठगीजन्य गतिविधिमा संलग्न रहेको भन्ने सूचना प्राप्त भएको सन्दर्भमा आफ्नो गम्भीर ध्यानाकर्षण भएको जनाएको छ । त्यस्ता अनधिकृत व्यक्तिले व्यक्तिगत विवरण माग्ने, झुटा अफर तथा योजनाको बारेमा जानकारी दिँदै आर्थिक लाभको प्रलोभनमा पार्ने जस्ता ठगीजन्य गतिविधिहरूमा संलग्न रहेको भन्ने सूचना […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/09/862065/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/08/rastriya-banijya-bank.jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-09T08:20:28Z",
+  "source": "Khabarhub",
+  "store_path": "_store/6d/6dd3a85b2b0292bc73835c68712ae4c88e84ec21856858c2083b583f6787c929.json",
+  "title": "ग्राहकसँग व्यक्तिगत गोप्य विवरण मागिएको छैन : राष्ट्रिय वाणिज्य बैंक",
+  "url": "https://khabarhub.com/2025/09/862065/",
+  "version": 1
+}
