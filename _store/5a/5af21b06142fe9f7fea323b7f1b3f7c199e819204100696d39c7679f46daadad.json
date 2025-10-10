@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n75\nShares",
+  "description": "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय राजनीति",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T16:42:16.120208Z",
+  "id": "5af21b06142fe9f7fea323b7f1b3f7c199e819204100696d39c7679f46daadad",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862886/#article",
+            "@type": "Article",
+            "articleSection": [
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T16:17:38+00:00",
+            "datePublished": "2025-10-10T16:17:37+00:00",
+            "headline": "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862886/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862886/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862886/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862886/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T16:17:38+00:00",
+            "datePublished": "2025-10-10T16:17:37+00:00",
+            "description": "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय राजनीति",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862886/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862886/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862886/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+            "url": "https://khabarhub.com/2025/10/862886/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862886/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)ले आगामी फागुन २१ गते हुने निर्वाचनको तयारी गर्ने निर्णय गरेको छ । पार्टी अध्यक्ष माधवकुमार नेपालको अध्यक्षतामा आज बसेको सचिवालय बैठकले निर्वाचनको तयारीसँगै देशभर पार्टीका सबै जनवर्गीय सङ्गठन सक्रिय बनाउने निर्णय गरेको हो । संविधान र लोकतान्त्रिक प्रणालीको रक्षाका लागि निर्वाचनमा सहभागी हुने निर्णय गरिएको पार्टीका केन्द्रीय उपाध्यक्ष […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862886/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862886/#article",
+              "@type": "Article",
+              "articleSection": [
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T16:17:38+00:00",
+              "datePublished": "2025-10-10T16:17:37+00:00",
+              "headline": "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862886/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862886/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862886/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862886/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T16:17:38+00:00",
+              "datePublished": "2025-10-10T16:17:37+00:00",
+              "description": "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय राजनीति",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862886/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862886/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862886/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+              "url": "https://khabarhub.com/2025/10/862886/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862886/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – नेपाल कम्युनिष्ट पार्टी (एकीकृत समाजवादी)ले आगामी फागुन २१ गते हुने निर्वाचनको तयारी गर्ने निर्णय गरेको छ । पार्टी अध्यक्ष माधवकुमार नेपालको अध्यक्षतामा आज बसेको सचिवालय बैठकले निर्वाचनको तयारीसँगै देशभर पार्टीका सबै जनवर्गीय सङ्गठन सक्रिय बनाउने निर्णय गरेको हो । संविधान र लोकतान्त्रिक प्रणालीको रक्षाका लागि निर्वाचनमा सहभागी हुने निर्णय गरिएको पार्टीका केन्द्रीय उपाध्यक्ष […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862886/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/06/ekikrit-samajbadi-party-meeting-2.jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T16:17:37Z",
+  "source": "Khabarhub",
+  "store_path": "_store/5a/5af21b06142fe9f7fea323b7f1b3f7c199e819204100696d39c7679f46daadad.json",
+  "title": "निर्वाचनको तयारीमा जुट्ने एकीकृत समाजवादीको निर्णय",
+  "url": "https://khabarhub.com/2025/10/862886/",
+  "version": 1
+}
