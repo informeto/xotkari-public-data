@@ -1,0 +1,432 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n3:48 pm, Fri, 10 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T10:38:54.655583Z",
+  "id": "97c44c83dc6a8be65c3e594b353f59a62c1464842a7452a67d46ef544ab150bf",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-10-at-2.26.26-PM-1-594x768.jpeg",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510538/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "राजनीति",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-10T10:03:49+00:00",
+            "datePublished": "2025-10-10T10:03:45+00:00",
+            "headline": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510538/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510538/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510538/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510538/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510538/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510538/#breadcrumb"
+            },
+            "dateModified": "2025-10-10T10:03:49+00:00",
+            "datePublished": "2025-10-10T10:03:45+00:00",
+            "description": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510538/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510538/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510538/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp",
+            "url": "https://www.imagekhabar.com/news/510538/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510538/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp",
+            "height": 440,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp",
+            "width": 800
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510538/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । काठमाडौँ जिल्ला प्रशासन कार्यालयले आगामी शनिबारका लागि कुनै पनि प्रकारका मोटरसाइकल र्‍याली, सभा वा प्रदर्शन गर्न नपाइने निर्णय गरेको छ। शुक्रबार प्रमुख जिल्ला अधिकारी ईश्वर राज पौडेलको हस्ताक्षरमा जारी गरिएको अत्यन्त जरुरी सूचनामा भनिएको छ कि— शनिबार विभिन्न समूहहरूले काठमाडौंका फरक–फरक स्थानमा मोटरसाइकल र्‍याली र सभा आयोजना गर्ने जानकारी प्रशासनलाई प्राप्त भएकाले त्यस्ता […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510538/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510538/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "राजनीति",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-10T10:03:49+00:00",
+              "datePublished": "2025-10-10T10:03:45+00:00",
+              "headline": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510538/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510538/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510538/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510538/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510538/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510538/#breadcrumb"
+              },
+              "dateModified": "2025-10-10T10:03:49+00:00",
+              "datePublished": "2025-10-10T10:03:45+00:00",
+              "description": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510538/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510538/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510538/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp",
+              "url": "https://www.imagekhabar.com/news/510538/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510538/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp",
+              "height": 440,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp",
+              "width": 800
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510538/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । काठमाडौँ जिल्ला प्रशासन कार्यालयले आगामी शनिबारका लागि कुनै पनि प्रकारका मोटरसाइकल र्‍याली, सभा वा प्रदर्शन गर्न नपाइने निर्णय गरेको छ। शुक्रबार प्रमुख जिल्ला अधिकारी ईश्वर राज पौडेलको हस्ताक्षरमा जारी गरिएको अत्यन्त जरुरी सूचनामा भनिएको छ कि— शनिबार विभिन्न समूहहरूले काठमाडौंका फरक–फरक स्थानमा मोटरसाइकल र्‍याली र सभा आयोजना गर्ने जानकारी प्रशासनलाई प्राप्त भएकाले त्यस्ता […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510538/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/Kathmandu.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T10:03:45Z",
+  "source": "Image Khabar",
+  "store_path": "_store/97/97c44c83dc6a8be65c3e594b353f59a62c1464842a7452a67d46ef544ab150bf.json",
+  "title": "काठमाडौँमा पूर्व स्वीकृति बिना सभा–र्‍याली गर्न नपाइने",
+  "url": "https://www.imagekhabar.com/news/510538/",
+  "version": 1
+}

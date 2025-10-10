@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n57\nShares",
+  "description": "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T10:39:18.219709Z",
+  "id": "03c788f1767f29842ad15404c1ac2e5a73f9fe3e7a7201a40c6ac9d0e54e7bcc",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862736/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T10:21:51+00:00",
+            "datePublished": "2025-10-10T10:21:49+00:00",
+            "headline": "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862736/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862736/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862736/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862736/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T10:21:51+00:00",
+            "datePublished": "2025-10-10T10:21:49+00:00",
+            "description": "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862736/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862736/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862736/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg",
+            "url": "https://khabarhub.com/2025/10/862736/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862736/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg",
+            "height": 700,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– पूर्व गृहमन्त्री रमेश लेखकले भदौ २३ गते भएको जेन-जी आन्दोलनको क्रममा आफू र तत्कालीन प्रधानमन्त्रीले बल प्रयोग गर्न आदेश नदिएको बताएका छन् । शुक्रबार पत्रकारहरूसँग कुरा गर्दै उनले सो बताएका हुन् । ‘त्यहाँ बल प्रयोग गर्ने विषयमा सम्माननीय तत्कालीन प्रधानमन्त्रीजीले गृहमन्त्रीले आदेश गरेको हो भन्ने खालले पनि चर्चाहरू विषयहरू उठेका छन्’, उनले भने, ‘म […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862736/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862736/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T10:21:51+00:00",
+              "datePublished": "2025-10-10T10:21:49+00:00",
+              "headline": "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862736/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862736/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862736/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862736/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T10:21:51+00:00",
+              "datePublished": "2025-10-10T10:21:49+00:00",
+              "description": "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862736/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862736/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862736/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg",
+              "url": "https://khabarhub.com/2025/10/862736/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862736/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg",
+              "height": 700,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– पूर्व गृहमन्त्री रमेश लेखकले भदौ २३ गते भएको जेन-जी आन्दोलनको क्रममा आफू र तत्कालीन प्रधानमन्त्रीले बल प्रयोग गर्न आदेश नदिएको बताएका छन् । शुक्रबार पत्रकारहरूसँग कुरा गर्दै उनले सो बताएका हुन् । ‘त्यहाँ बल प्रयोग गर्ने विषयमा सम्माननीय तत्कालीन प्रधानमन्त्रीजीले गृहमन्त्रीले आदेश गरेको हो भन्ने खालले पनि चर्चाहरू विषयहरू उठेका छन्’, उनले भने, ‘म […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862736/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/ramesh-lekhak.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T10:21:49Z",
+  "source": "Khabarhub",
+  "store_path": "_store/03/03c788f1767f29842ad15404c1ac2e5a73f9fe3e7a7201a40c6ac9d0e54e7bcc.json",
+  "title": "एक महिनापछि रमेश लेखकले भने- मैले र प्रधानमन्त्रीले बल प्रयोगको आदेश दिएको हैन",
+  "url": "https://khabarhub.com/2025/10/862736/",
+  "version": 1
+}
