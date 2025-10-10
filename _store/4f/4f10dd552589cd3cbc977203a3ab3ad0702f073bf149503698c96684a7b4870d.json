@@ -1,0 +1,427 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n1:13 pm, Fri, 10 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T07:36:08.937394Z",
+  "id": "4f10dd552589cd3cbc977203a3ab3ad0702f073bf149503698c96684a7b4870d",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510525/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-10T07:28:17+00:00",
+            "datePublished": "2025-10-10T07:28:12+00:00",
+            "headline": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510525/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510525/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510525/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510525/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510525/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510525/#breadcrumb"
+            },
+            "dateModified": "2025-10-10T07:28:17+00:00",
+            "datePublished": "2025-10-10T07:28:12+00:00",
+            "description": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510525/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510525/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510525/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg",
+            "url": "https://www.imagekhabar.com/news/510525/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510525/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510525/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । लगातार परेको अविरल वर्षाका कारण दुधौरा खोलाको पुलबाट यही असोज १९ गते हाम फालेको टिकटक भिडिओ बनाउने क्रममा बेपत्ता भएका बाराको प्रसौनी गाउँपालिका–२ निवासी २१ वर्षीय विकी गोसाइँको शव फेला परेको जिल्ला प्रहरी कार्यालय बाराले जनाएको छ । उनको छ दिनपछि गण्डक जाने बङ्गरी पुल नजिक शव फेला परेको जिल्ला प्रहरी कार्यालय बाराका […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510525/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510525/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-10T07:28:17+00:00",
+              "datePublished": "2025-10-10T07:28:12+00:00",
+              "headline": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510525/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510525/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510525/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510525/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510525/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510525/#breadcrumb"
+              },
+              "dateModified": "2025-10-10T07:28:17+00:00",
+              "datePublished": "2025-10-10T07:28:12+00:00",
+              "description": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510525/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510525/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510525/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg",
+              "url": "https://www.imagekhabar.com/news/510525/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510525/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510525/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । लगातार परेको अविरल वर्षाका कारण दुधौरा खोलाको पुलबाट यही असोज १९ गते हाम फालेको टिकटक भिडिओ बनाउने क्रममा बेपत्ता भएका बाराको प्रसौनी गाउँपालिका–२ निवासी २१ वर्षीय विकी गोसाइँको शव फेला परेको जिल्ला प्रहरी कार्यालय बाराले जनाएको छ । उनको छ दिनपछि गण्डक जाने बङ्गरी पुल नजिक शव फेला परेको जिल्ला प्रहरी कार्यालय बाराका […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510525/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/09/Panima-dubera-mirtu-Death-imagekhabar.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T07:28:12Z",
+  "source": "Image Khabar",
+  "store_path": "_store/4f/4f10dd552589cd3cbc977203a3ab3ad0702f073bf149503698c96684a7b4870d.json",
+  "title": "टिकटक भिडियो बनाउन खोलामा हाम फालेका व्यक्ति मृत फेला",
+  "url": "https://www.imagekhabar.com/news/510525/",
+  "version": 1
+}

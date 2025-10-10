@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n12\nShares",
+  "description": "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान  समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T07:36:44.924447Z",
+  "id": "d2262f1cd3c9bec067c119b6be94e5ec2612d5f46fd6d2c6b8d7ab63380e8494",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862617/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T07:30:09+00:00",
+            "datePublished": "2025-10-10T07:30:06+00:00",
+            "headline": "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862617/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862617/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862617/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862617/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T07:30:09+00:00",
+            "datePublished": "2025-10-10T07:30:06+00:00",
+            "description": "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान  समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862617/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान  | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862617/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862617/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+            "url": "https://khabarhub.com/2025/10/862617/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862617/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+            "height": 1707,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+            "width": 2560
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान "
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– काठमाडौं महामगरपालिकाले तिहारका अवसरमा नेपाली फूलको प्रयोग र उत्पादन प्रवर्द्धन गर्न महानगर क्षेत्रभित्रका विभिन्न ३२ केन्द्रबाट बिक्री वितरणको व्यवस्था गरेको छ ।  तिहारमा घरघरमा नेपाली फूलको प्रयोग गरी स्वदेशी उत्पादनलाई प्रवर्द्धन र किसानलाई प्रोत्साहन गर्न महानगरभित्रका ३२ स्थानमा बिक्री वितरणको व्यवस्था मिलाइएको महानगर प्रहरी बलका प्रमुख राजुनाथ पाण्डेले जानकारी दिए ।  नेपाली फूल सयपत्री, […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862617/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862617/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T07:30:09+00:00",
+              "datePublished": "2025-10-10T07:30:06+00:00",
+              "headline": "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862617/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862617/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862617/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862617/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T07:30:09+00:00",
+              "datePublished": "2025-10-10T07:30:06+00:00",
+              "description": "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान  समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862617/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान  | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862617/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862617/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+              "url": "https://khabarhub.com/2025/10/862617/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862617/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+              "height": 1707,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg",
+              "width": 2560
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान "
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– काठमाडौं महामगरपालिकाले तिहारका अवसरमा नेपाली फूलको प्रयोग र उत्पादन प्रवर्द्धन गर्न महानगर क्षेत्रभित्रका विभिन्न ३२ केन्द्रबाट बिक्री वितरणको व्यवस्था गरेको छ ।  तिहारमा घरघरमा नेपाली फूलको प्रयोग गरी स्वदेशी उत्पादनलाई प्रवर्द्धन र किसानलाई प्रोत्साहन गर्न महानगरभित्रका ३२ स्थानमा बिक्री वितरणको व्यवस्था मिलाइएको महानगर प्रहरी बलका प्रमुख राजुनाथ पाण्डेले जानकारी दिए ।  नेपाली फूल सयपत्री, […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862617/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/raju-panday-kamanapa-scaled.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T07:30:06Z",
+  "source": "Khabarhub",
+  "store_path": "_store/d2/d2262f1cd3c9bec067c119b6be94e5ec2612d5f46fd6d2c6b8d7ab63380e8494.json",
+  "title": "काठमाडौं महानगरले तोक्यो फूल बिक्री गर्ने स्थान",
+  "url": "https://khabarhub.com/2025/10/862617/",
+  "version": 1
+}
