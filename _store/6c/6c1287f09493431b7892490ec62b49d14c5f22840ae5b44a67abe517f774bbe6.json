@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n21\nShares",
+  "description": "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या स्वास्थ्य",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T08:43:16.652907Z",
+  "id": "6c1287f09493431b7892490ec62b49d14c5f22840ae5b44a67abe517f774bbe6",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862667/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार",
+              "स्वास्थ्य"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T08:31:04+00:00",
+            "datePublished": "2025-10-10T08:31:02+00:00",
+            "headline": "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862667/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862667/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862667/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862667/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T08:31:04+00:00",
+            "datePublished": "2025-10-10T08:31:02+00:00",
+            "description": "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या स्वास्थ्य",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862667/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862667/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862667/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+            "url": "https://khabarhub.com/2025/10/862667/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862667/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+            "height": 1003,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+            "width": 1194
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– काठमाडौं महानगरपालिकाले सामुदायिक विद्यालयमा अध्ययनरत ११ हजार ६ सय ३७ जना छात्रछात्राको आँखा जाँच गर्दा १ हजार २ सय ६० जनामा दृष्टि सम्बन्धी समस्या भेटिएको छ । स्वास्थ्य विभागले नेपाल नेत्रज्योति संघ र कीर्तिपुर आँखा अस्पतालसँगको सहकार्यमा हरेक वडाबाट कम्तीमा एउटा विद्यालय पर्ने गरी विद्यालय छनोट गरेर गएको साउन ५ गतेदेखि असार ६ गतेसम्म […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862667/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862667/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार",
+                "स्वास्थ्य"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T08:31:04+00:00",
+              "datePublished": "2025-10-10T08:31:02+00:00",
+              "headline": "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862667/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862667/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862667/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862667/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T08:31:04+00:00",
+              "datePublished": "2025-10-10T08:31:02+00:00",
+              "description": "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या स्वास्थ्य",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862667/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862667/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862667/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+              "url": "https://khabarhub.com/2025/10/862667/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862667/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+              "height": 1003,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg",
+              "width": 1194
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– काठमाडौं महानगरपालिकाले सामुदायिक विद्यालयमा अध्ययनरत ११ हजार ६ सय ३७ जना छात्रछात्राको आँखा जाँच गर्दा १ हजार २ सय ६० जनामा दृष्टि सम्बन्धी समस्या भेटिएको छ । स्वास्थ्य विभागले नेपाल नेत्रज्योति संघ र कीर्तिपुर आँखा अस्पतालसँगको सहकार्यमा हरेक वडाबाट कम्तीमा एउटा विद्यालय पर्ने गरी विद्यालय छनोट गरेर गएको साउन ५ गतेदेखि असार ६ गतेसम्म […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862667/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/eye-check.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T08:31:02Z",
+  "source": "Khabarhub",
+  "store_path": "_store/6c/6c1287f09493431b7892490ec62b49d14c5f22840ae5b44a67abe517f774bbe6.json",
+  "title": "काठमाडौंका ११ हजार बढी विद्यार्थीको आँखा जाँच्दा १२ सय बढीमा दृष्टिसम्बन्धी समस्या",
+  "url": "https://khabarhub.com/2025/10/862667/",
+  "version": 1
+}
