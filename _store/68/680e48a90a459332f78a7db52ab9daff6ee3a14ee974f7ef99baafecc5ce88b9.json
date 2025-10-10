@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n45\nShares",
+  "description": "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी स्वास्थ्य",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T15:34:35.496213Z",
+  "id": "680e48a90a459332f78a7db52ab9daff6ee3a14ee974f7ef99baafecc5ce88b9",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862870/#article",
+            "@type": "Article",
+            "articleSection": [
+              "स्वास्थ्य"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T15:09:47+00:00",
+            "datePublished": "2025-10-10T15:09:46+00:00",
+            "headline": "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862870/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862870/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862870/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862870/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T15:09:47+00:00",
+            "datePublished": "2025-10-10T15:09:46+00:00",
+            "description": "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी स्वास्थ्य",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862870/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862870/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862870/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+            "url": "https://khabarhub.com/2025/10/862870/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862870/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "सांकेतिक तस्बिर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – काठमाडौँ महानगरपालिकाभित्र गत वर्षको तुलनामा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी आएको छ । गत वर्षभन्दा चालु आर्थिक वर्षमा महानगरभित्र डेङ्गु सङ्क्रमितको सङ्ख्या तुलनात्मक रूपमा कमी आए पनि आगामी कात्तिकसम्म सङ्क्रमणको जोखिम कायम रहेको कामपाले जनाएको छ । सङ्क्रमणको त्रास कायम रहेकाले कामपाले डेङ्गु सार्ने लामखुट्टेको बासस्थान खोज्ने र लार्भा नष्ट गर्ने कार्यलाई […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862870/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862870/#article",
+              "@type": "Article",
+              "articleSection": [
+                "स्वास्थ्य"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T15:09:47+00:00",
+              "datePublished": "2025-10-10T15:09:46+00:00",
+              "headline": "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862870/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862870/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862870/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862870/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T15:09:47+00:00",
+              "datePublished": "2025-10-10T15:09:46+00:00",
+              "description": "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी स्वास्थ्य",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862870/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862870/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862870/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+              "url": "https://khabarhub.com/2025/10/862870/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862870/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "सांकेतिक तस्बिर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – काठमाडौँ महानगरपालिकाभित्र गत वर्षको तुलनामा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी आएको छ । गत वर्षभन्दा चालु आर्थिक वर्षमा महानगरभित्र डेङ्गु सङ्क्रमितको सङ्ख्या तुलनात्मक रूपमा कमी आए पनि आगामी कात्तिकसम्म सङ्क्रमणको जोखिम कायम रहेको कामपाले जनाएको छ । सङ्क्रमणको त्रास कायम रहेकाले कामपाले डेङ्गु सार्ने लामखुट्टेको बासस्थान खोज्ने र लार्भा नष्ट गर्ने कार्यलाई […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862870/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2021/07/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T15:09:46Z",
+  "source": "Khabarhub",
+  "store_path": "_store/68/680e48a90a459332f78a7db52ab9daff6ee3a14ee974f7ef99baafecc5ce88b9.json",
+  "title": "गत वर्षभन्दा यस वर्ष डेङ्गु सङ्क्रमितको सङ्ख्यामा कमी",
+  "url": "https://khabarhub.com/2025/10/862870/",
+  "version": 1
+}
