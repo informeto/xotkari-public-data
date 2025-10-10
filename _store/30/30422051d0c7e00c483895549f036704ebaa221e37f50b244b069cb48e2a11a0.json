@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n9:19 am, Fri, 10 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T03:44:22.082860Z",
+  "id": "30422051d0c7e00c483895549f036704ebaa221e37f50b244b069cb48e2a11a0",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510466/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-10T03:39:47+00:00",
+            "datePublished": "2025-10-10T03:34:45+00:00",
+            "headline": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510466/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510466/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510466/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510466/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510466/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510466/#breadcrumb"
+            },
+            "dateModified": "2025-10-10T03:39:47+00:00",
+            "datePublished": "2025-10-10T03:34:45+00:00",
+            "description": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510466/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510466/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510466/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+            "url": "https://www.imagekhabar.com/news/510466/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510466/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510466/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । इजरायल र हमासबीच अमेरिकी पहलमा भएको युद्धविराम सम्झौता पश्चात् पहिलो चरणमा मुक्त गरिने २० जना युद्धबन्दीको सूची सार्वजनिक भए पनि नेपाली विद्यार्थी विपिन जोशीको नाम नरहेको पुष्टि भएको छ। यसले उनको अवस्थाबारे थप अन्योल सिर्जना गरेको छ। कञ्चनपुरका विपिन जोशी गत अक्टोबर ७ मा हमासद्वारा इजरायलको किबुत्ज क्षेत्रमा भएको आक्रमणमा बन्धक बनाइएका थिए। […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510466/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510466/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-10T03:39:47+00:00",
+              "datePublished": "2025-10-10T03:34:45+00:00",
+              "headline": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510466/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510466/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510466/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510466/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510466/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510466/#breadcrumb"
+              },
+              "dateModified": "2025-10-10T03:39:47+00:00",
+              "datePublished": "2025-10-10T03:34:45+00:00",
+              "description": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510466/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510466/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510466/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+              "url": "https://www.imagekhabar.com/news/510466/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510466/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510466/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । इजरायल र हमासबीच अमेरिकी पहलमा भएको युद्धविराम सम्झौता पश्चात् पहिलो चरणमा मुक्त गरिने २० जना युद्धबन्दीको सूची सार्वजनिक भए पनि नेपाली विद्यार्थी विपिन जोशीको नाम नरहेको पुष्टि भएको छ। यसले उनको अवस्थाबारे थप अन्योल सिर्जना गरेको छ। कञ्चनपुरका विपिन जोशी गत अक्टोबर ७ मा हमासद्वारा इजरायलको किबुत्ज क्षेत्रमा भएको आक्रमणमा बन्धक बनाइएका थिए। […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510466/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/bipin-.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T03:34:45Z",
+  "source": "Image Khabar",
+  "store_path": "_store/30/30422051d0c7e00c483895549f036704ebaa221e37f50b244b069cb48e2a11a0.json",
+  "title": "हमासद्वारा युद्धविराममा छुट्ने सूचीमा परेन विपिनको नाम, अवस्था अझै अज्ञात",
+  "url": "https://www.imagekhabar.com/news/510466/",
+  "version": 1
+}

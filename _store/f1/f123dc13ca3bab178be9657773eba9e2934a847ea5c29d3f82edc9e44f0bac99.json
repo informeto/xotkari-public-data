@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n12\nShares",
+  "description": "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T03:44:44.244112Z",
+  "id": "f123dc13ca3bab178be9657773eba9e2934a847ea5c29d3f82edc9e44f0bac99",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862486/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T03:36:27+00:00",
+            "datePublished": "2025-10-10T03:36:25+00:00",
+            "headline": "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862486/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862486/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862486/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+            "wordCount": 14
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862486/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T03:36:27+00:00",
+            "datePublished": "2025-10-10T03:36:25+00:00",
+            "description": "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862486/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862486/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862486/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+            "url": "https://khabarhub.com/2025/10/862486/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862486/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+            "height": 533,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+            "width": 800
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कञ्चनपुर– शुक्लाफाँटा नगरपालिका–८ फुलेलीस्थित वैजनाथ सामुदायिक वन उपभोक्ता समूहको वनका वन्यजन्तु र वन पैदावार चोरी–निकासीका घटना बढेका पाइएको छ ।  सामुदायिक वनका अध्यक्ष बहादुरसिंह महराका अनुसार राजनीतिक अस्थिरताको फाइदा उठाउँदै केही व्यक्तिहरू र समूहहरूले घरेलु हातहतियार, भरुवा बन्दुक र कुकुरको प्रयोग गरी वन्यजन्तु शिकारी तथा वन्यजन्तुका बच्चा समाउँदै आएका छन् ।  साथै उनीहरूले वन सिमानाका […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862486/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862486/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T03:36:27+00:00",
+              "datePublished": "2025-10-10T03:36:25+00:00",
+              "headline": "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862486/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862486/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862486/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+              "wordCount": 14
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862486/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T03:36:27+00:00",
+              "datePublished": "2025-10-10T03:36:25+00:00",
+              "description": "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862486/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862486/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862486/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+              "url": "https://khabarhub.com/2025/10/862486/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862486/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+              "height": 533,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg",
+              "width": 800
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कञ्चनपुर– शुक्लाफाँटा नगरपालिका–८ फुलेलीस्थित वैजनाथ सामुदायिक वन उपभोक्ता समूहको वनका वन्यजन्तु र वन पैदावार चोरी–निकासीका घटना बढेका पाइएको छ ।  सामुदायिक वनका अध्यक्ष बहादुरसिंह महराका अनुसार राजनीतिक अस्थिरताको फाइदा उठाउँदै केही व्यक्तिहरू र समूहहरूले घरेलु हातहतियार, भरुवा बन्दुक र कुकुरको प्रयोग गरी वन्यजन्तु शिकारी तथा वन्यजन्तुका बच्चा समाउँदै आएका छन् ।  साथै उनीहरूले वन सिमानाका […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862486/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/ban.jpeg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T03:36:25Z",
+  "source": "Khabarhub",
+  "store_path": "_store/f1/f123dc13ca3bab178be9657773eba9e2934a847ea5c29d3f82edc9e44f0bac99.json",
+  "title": "वन्यजन्तु संरक्षणमा चुनौती : शुक्लाफाँटामा चोरी–शिकारी रोकिएन",
+  "url": "https://khabarhub.com/2025/10/862486/",
+  "version": 1
+}
