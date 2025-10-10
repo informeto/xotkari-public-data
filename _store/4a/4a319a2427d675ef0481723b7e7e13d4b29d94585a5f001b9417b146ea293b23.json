@@ -1,0 +1,427 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n6:36 am, Fri, 10 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T02:06:09.969237Z",
+  "id": "4a319a2427d675ef0481723b7e7e13d4b29d94585a5f001b9417b146ea293b23",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510445/#article",
+            "@type": "Article",
+            "articleSection": [
+              "विश्व"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-10T00:56:54+00:00",
+            "datePublished": "2025-10-10T00:51:54+00:00",
+            "headline": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510445/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510445/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510445/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510445/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510445/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510445/#breadcrumb"
+            },
+            "dateModified": "2025-10-10T00:56:54+00:00",
+            "datePublished": "2025-10-10T00:51:54+00:00",
+            "description": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510445/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510445/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510445/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png",
+            "url": "https://www.imagekhabar.com/news/510445/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510445/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png",
+            "height": 689,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png",
+            "width": 1017
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510445/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडाैं । अफगानिस्तानमा केही सामाजिक सञ्जाल प्लेटफर्महरुका सामाग्रीमाथि प्रतिबन्ध लगाइएको छ । देशभर दुईदिनसम्म इन्टरनेट र दूरसञ्चार सेवा विच्छेद गरिएको एक सातापछि तालिबान सरकारले सामाजिक सञ्जाल प्लेटफर्मका सामाग्रीमाथि प्रतिबन्ध लगाएको हो । तालिबान सरकारको सञ्चार तथा सूचना प्रविधि मन्त्रालयका अनुसार फेसबुक, इन्स्टाग्राम र एक्समा आउने केही सामाग्रीमाथि प्रतिबन्ध लगाइएको छ । कस्ता किसिमका सामाग्रीको प्रतिबन्ध […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510445/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510445/#article",
+              "@type": "Article",
+              "articleSection": [
+                "विश्व"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-10T00:56:54+00:00",
+              "datePublished": "2025-10-10T00:51:54+00:00",
+              "headline": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510445/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510445/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510445/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510445/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510445/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510445/#breadcrumb"
+              },
+              "dateModified": "2025-10-10T00:56:54+00:00",
+              "datePublished": "2025-10-10T00:51:54+00:00",
+              "description": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510445/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510445/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510445/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png",
+              "url": "https://www.imagekhabar.com/news/510445/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510445/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png",
+              "height": 689,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png",
+              "width": 1017
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510445/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडाैं । अफगानिस्तानमा केही सामाजिक सञ्जाल प्लेटफर्महरुका सामाग्रीमाथि प्रतिबन्ध लगाइएको छ । देशभर दुईदिनसम्म इन्टरनेट र दूरसञ्चार सेवा विच्छेद गरिएको एक सातापछि तालिबान सरकारले सामाजिक सञ्जाल प्लेटफर्मका सामाग्रीमाथि प्रतिबन्ध लगाएको हो । तालिबान सरकारको सञ्चार तथा सूचना प्रविधि मन्त्रालयका अनुसार फेसबुक, इन्स्टाग्राम र एक्समा आउने केही सामाग्रीमाथि प्रतिबन्ध लगाइएको छ । कस्ता किसिमका सामाग्रीको प्रतिबन्ध […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510445/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/afghanistan.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T00:51:54Z",
+  "source": "Image Khabar",
+  "store_path": "_store/4a/4a319a2427d675ef0481723b7e7e13d4b29d94585a5f001b9417b146ea293b23.json",
+  "title": "अफगानिस्तानमा सामाजिक सञ्जालका प्लेटफर्महरुमाथि प्रतिबन्ध",
+  "url": "https://www.imagekhabar.com/news/510445/",
+  "version": 1
+}

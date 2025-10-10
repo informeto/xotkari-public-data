@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n6:24 am, Fri, 10 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T02:06:10.269299Z",
+  "id": "9fe7330be19fe12bccd5e75313cfaeead1d6dcfeeb123f48ed1b1362466b00ad",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510442/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-10T00:39:50+00:00",
+            "datePublished": "2025-10-10T00:39:09+00:00",
+            "headline": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510442/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510442/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510442/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510442/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg",
+            "wordCount": 12
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510442/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510442/#breadcrumb"
+            },
+            "dateModified": "2025-10-10T00:39:50+00:00",
+            "datePublished": "2025-10-10T00:39:09+00:00",
+            "description": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510442/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510442/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510442/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg",
+            "url": "https://www.imagekhabar.com/news/510442/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510442/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510442/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । सुदूरपश्चिम प्रदेश, कर्णाली प्रदेश लगायत लुम्बिनी प्रदेशको पश्चिमी भू-भागको धेरै स्थानहरू र गण्डकी प्रदेशको पश्चिमी भू-भागको थोरै स्थानहरूमा पश्चिमी वायूको प्रभाव तथा बाँकी भू-भागमा मनसुनी वायू तथा स्थानीय वायूको कमजोर प्रभाव रहेको माैसम पूर्वनुमान महाशाखाले जनाएकाे छ । महाशाखाका अनुसार आज दिउँसो कोशी प्रदेश लगायत देशका पहाडी भू-भागमा आंशिक बदली रही बाँकी भू-भागमा मुख्यतया […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510442/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510442/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-10T00:39:50+00:00",
+              "datePublished": "2025-10-10T00:39:09+00:00",
+              "headline": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510442/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510442/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510442/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510442/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg",
+              "wordCount": 12
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510442/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510442/#breadcrumb"
+              },
+              "dateModified": "2025-10-10T00:39:50+00:00",
+              "datePublished": "2025-10-10T00:39:09+00:00",
+              "description": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510442/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510442/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510442/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg",
+              "url": "https://www.imagekhabar.com/news/510442/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510442/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510442/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । सुदूरपश्चिम प्रदेश, कर्णाली प्रदेश लगायत लुम्बिनी प्रदेशको पश्चिमी भू-भागको धेरै स्थानहरू र गण्डकी प्रदेशको पश्चिमी भू-भागको थोरै स्थानहरूमा पश्चिमी वायूको प्रभाव तथा बाँकी भू-भागमा मनसुनी वायू तथा स्थानीय वायूको कमजोर प्रभाव रहेको माैसम पूर्वनुमान महाशाखाले जनाएकाे छ । महाशाखाका अनुसार आज दिउँसो कोशी प्रदेश लगायत देशका पहाडी भू-भागमा आंशिक बदली रही बाँकी भू-भागमा मुख्यतया […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510442/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/08/Weather-Mausam-Rain-Image-Channel.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T00:39:09Z",
+  "source": "Image Khabar",
+  "store_path": "_store/9f/9fe7330be19fe12bccd5e75313cfaeead1d6dcfeeb123f48ed1b1362466b00ad.json",
+  "title": "आजकाे माैसम: एक-दुई स्थान हल्का वर्षाको सम्भावना",
+  "url": "https://www.imagekhabar.com/news/510442/",
+  "version": 1
+}

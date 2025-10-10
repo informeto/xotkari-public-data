@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n24\nShares",
+  "description": "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T02:06:37.355343Z",
+  "id": "bd321a66195bbc62204561b7f1a489532f2f300621b0f93b9a994231ca204074",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862428/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T01:01:11+00:00",
+            "datePublished": "2025-10-10T01:01:08+00:00",
+            "headline": "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862428/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862428/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862428/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+            "wordCount": 9
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862428/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T01:01:11+00:00",
+            "datePublished": "2025-10-10T01:01:08+00:00",
+            "description": "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862428/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862428/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862428/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+            "url": "https://khabarhub.com/2025/10/862428/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862428/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+            "height": 691,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "खोटाङ– जिल्लाका एक युवा समूहले चाडपर्वलाई लक्षित गरेर सञ्चालन गरेको ‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा जिल्लाका चार सय ३६ जना छोरीचेलीले निःशुल्क यातायात सेवा दिएका छन् ।  नेपाल खेलकुद प्रतिष्ठानका अध्यक्ष सञ्जयकुमार राईको अगुवाइमा सञ्चालन गरिएको अभियानमा विभिन्न स्थानीय तहका युवाले आफ्नै मोटरसाइकलमार्फत निःशुल्क यातायात सेवा प्रदान गरेका हुन् । जिल्लाका दशवटै स्थानीय तहका युवाले आफ्नै […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862428/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862428/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T01:01:11+00:00",
+              "datePublished": "2025-10-10T01:01:08+00:00",
+              "headline": "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862428/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862428/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862428/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+              "wordCount": 9
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862428/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T01:01:11+00:00",
+              "datePublished": "2025-10-10T01:01:08+00:00",
+              "description": "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862428/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862428/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862428/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+              "url": "https://khabarhub.com/2025/10/862428/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862428/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+              "height": 691,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "खोटाङ– जिल्लाका एक युवा समूहले चाडपर्वलाई लक्षित गरेर सञ्चालन गरेको ‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा जिल्लाका चार सय ३६ जना छोरीचेलीले निःशुल्क यातायात सेवा दिएका छन् ।  नेपाल खेलकुद प्रतिष्ठानका अध्यक्ष सञ्जयकुमार राईको अगुवाइमा सञ्चालन गरिएको अभियानमा विभिन्न स्थानीय तहका युवाले आफ्नै मोटरसाइकलमार्फत निःशुल्क यातायात सेवा प्रदान गरेका हुन् । जिल्लाका दशवटै स्थानीय तहका युवाले आफ्नै […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862428/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/ride.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T01:01:08Z",
+  "source": "Khabarhub",
+  "store_path": "_store/bd/bd321a66195bbc62204561b7f1a489532f2f300621b0f93b9a994231ca204074.json",
+  "title": "‘दसैँ–तिहार, चेलीलाई उपहार’ अभियानमा ४३६ जनाले लिए निःशुल्क यातायात सेवा",
+  "url": "https://khabarhub.com/2025/10/862428/",
+  "version": 1
+}
