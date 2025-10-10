@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n8:44 am, Fri, 10 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T03:12:50.409994Z",
+  "id": "8fb0beadf354ad4d8f1f24fe9aa570cccfcb53de80ab981b3647c6f0ea514fd7",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510460/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "विश्व"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-10T02:59:57+00:00",
+            "datePublished": "2025-10-10T02:59:51+00:00",
+            "headline": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510460/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510460/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510460/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510460/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510460/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510460/#breadcrumb"
+            },
+            "dateModified": "2025-10-10T02:59:57+00:00",
+            "datePublished": "2025-10-10T02:59:51+00:00",
+            "description": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510460/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510460/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510460/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+            "url": "https://www.imagekhabar.com/news/510460/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510460/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510460/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "एजेन्सी । अमेरकिी राष्ट्रपति डोनाल्ड ट्रम्पले इजिप्टमा गाजा युद्धविराम सम्झौतामा हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्ने बताउनुभएको छ । सोमवार वा मंगलवार वन्धकहरूलाई फिर्ता ल्याउने बताउँदै त्यो खुशीको दिन हुने बताउनु भयो । युद्धविरामको प्रतिनिधिमुलक हस्ताक्षर भइसकेको भएपनि आधिकारिक हस्तक्षर अब हुने बताउनु भयो । इजरायल र हमासले सोमवार इजिप्टको रेड सी रिसोर्ट शहर शर्म […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510460/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510460/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "विश्व"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-10T02:59:57+00:00",
+              "datePublished": "2025-10-10T02:59:51+00:00",
+              "headline": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510460/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510460/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510460/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510460/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510460/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510460/#breadcrumb"
+              },
+              "dateModified": "2025-10-10T02:59:57+00:00",
+              "datePublished": "2025-10-10T02:59:51+00:00",
+              "description": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510460/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510460/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510460/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+              "url": "https://www.imagekhabar.com/news/510460/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510460/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510460/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "एजेन्सी । अमेरकिी राष्ट्रपति डोनाल्ड ट्रम्पले इजिप्टमा गाजा युद्धविराम सम्झौतामा हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्ने बताउनुभएको छ । सोमवार वा मंगलवार वन्धकहरूलाई फिर्ता ल्याउने बताउँदै त्यो खुशीको दिन हुने बताउनु भयो । युद्धविरामको प्रतिनिधिमुलक हस्ताक्षर भइसकेको भएपनि आधिकारिक हस्तक्षर अब हुने बताउनु भयो । इजरायल र हमासले सोमवार इजिप्टको रेड सी रिसोर्ट शहर शर्म […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510460/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/08/trump-1.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T02:59:51Z",
+  "source": "Image Khabar",
+  "store_path": "_store/8f/8fb0beadf354ad4d8f1f24fe9aa570cccfcb53de80ab981b3647c6f0ea514fd7.json",
+  "title": "गाजा युद्धविराम सम्झौता हस्ताक्षर समारोहमा उपस्थित हुन प्रयास गर्छुः ट्रम्प",
+  "url": "https://www.imagekhabar.com/news/510460/",
+  "version": 1
+}

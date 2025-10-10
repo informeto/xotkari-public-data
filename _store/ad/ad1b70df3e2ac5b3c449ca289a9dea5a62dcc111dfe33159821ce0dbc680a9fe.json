@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n0\nShares",
+  "description": "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T03:13:17.369945Z",
+  "id": "ad1b70df3e2ac5b3c449ca289a9dea5a62dcc111dfe33159821ce0dbc680a9fe",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862476/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T03:01:36+00:00",
+            "datePublished": "2025-10-10T03:01:34+00:00",
+            "headline": "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862476/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862476/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862476/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862476/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T03:01:36+00:00",
+            "datePublished": "2025-10-10T03:01:34+00:00",
+            "description": "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862476/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862476/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862476/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+            "url": "https://khabarhub.com/2025/10/862476/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862476/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+            "height": 603,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "देउखुरी– पछिल्लो समय दाङका महिला सामूहिक खेतीमा लागेका छन् । घोराही उपमहानगरपालिका–८ कटुकी सेवारमा रहेको जनचेतना महिला कृषक समूहले सामूहिक खेती गरेर मनग्य आम्दानी गरेका छन् ।  घोराही उपमहानगरपालिका–८ कटुकीका वसन्ती चौधरी समूहमा आबद्ध भएको दुई वर्ष भयो । उनी जनचेतना महिला कृषक समूहको कोषाध्यक्ष हुन् । समूहमा रहेका २० जनाले सामूहिक खेती गर्ने गरेको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862476/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862476/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T03:01:36+00:00",
+              "datePublished": "2025-10-10T03:01:34+00:00",
+              "headline": "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862476/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862476/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862476/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862476/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T03:01:36+00:00",
+              "datePublished": "2025-10-10T03:01:34+00:00",
+              "description": "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862476/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862476/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862476/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+              "url": "https://khabarhub.com/2025/10/862476/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862476/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+              "height": 603,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "देउखुरी– पछिल्लो समय दाङका महिला सामूहिक खेतीमा लागेका छन् । घोराही उपमहानगरपालिका–८ कटुकी सेवारमा रहेको जनचेतना महिला कृषक समूहले सामूहिक खेती गरेर मनग्य आम्दानी गरेका छन् ।  घोराही उपमहानगरपालिका–८ कटुकीका वसन्ती चौधरी समूहमा आबद्ध भएको दुई वर्ष भयो । उनी जनचेतना महिला कृषक समूहको कोषाध्यक्ष हुन् । समूहमा रहेका २० जनाले सामूहिक खेती गर्ने गरेको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862476/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/samuhik.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T03:01:34Z",
+  "source": "Khabarhub",
+  "store_path": "_store/ad/ad1b70df3e2ac5b3c449ca289a9dea5a62dcc111dfe33159821ce0dbc680a9fe.json",
+  "title": "सामूहिक खेतीबाट मनग्य आम्दानी गर्दै दाङका महिला",
+  "url": "https://khabarhub.com/2025/10/862476/",
+  "version": 1
+}
