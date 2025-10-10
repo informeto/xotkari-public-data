@@ -1,15 +1,16 @@
 {
   "author": "",
-  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n24\nShares",
   "description": "तिहारमा महानगरभित्र विदेशी फूल प्रतिबन्धित समाचार",
   "domain": "khabarhub.com",
   "enhanced": true,
-  "fetched_at": "2025-10-10T08:43:15.438256Z",
+  "fetched_at": "2025-10-10T09:36:50.320029Z",
   "id": "0f7be3fca84398413469e90bf5dc753a53bc87c005ac31a3073e7cc48cce2ae7",
   "images": [
-    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
     "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
-    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg"
   ],
   "language": "en",
   "metadata": {
@@ -27,9 +28,12 @@
               "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
               "name": "खबरहब"
             },
-            "dateModified": "2025-10-10T08:42:56+00:00",
+            "dateModified": "2025-10-10T08:43:31+00:00",
             "datePublished": "2025-10-10T08:41:45+00:00",
             "headline": "तिहारमा महानगरभित्र विदेशी फूल प्रतिबन्धित",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862639/#primaryimage"
+            },
             "inLanguage": "en-US",
             "isPartOf": {
               "@id": "https://khabarhub.com/2025/10/862639/"
@@ -40,14 +44,18 @@
             "publisher": {
               "@id": "https://khabarhub.com/#organization"
             },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg",
             "wordCount": 7
           },
           {
             "@id": "https://khabarhub.com/2025/10/862639/",
             "@type": "WebPage",
-            "dateModified": "2025-10-10T08:42:56+00:00",
+            "dateModified": "2025-10-10T08:43:31+00:00",
             "datePublished": "2025-10-10T08:41:45+00:00",
             "description": "तिहारमा महानगरभित्र विदेशी फूल प्रतिबन्धित समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862639/#primaryimage"
+            },
             "inLanguage": "en-US",
             "isPartOf": {
               "@id": "https://khabarhub.com/#website"
@@ -61,7 +69,20 @@
                 ]
               }
             ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862639/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg",
             "url": "https://khabarhub.com/2025/10/862639/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862639/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg",
+            "height": 1709,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg",
+            "width": 2560
           },
           {
             "@id": "https://khabarhub.com/#website",
@@ -157,7 +178,7 @@
           ],
           [
             "og:image",
-            "https://khabarhub.com/wp-content/themes/KhabarhubOfficial/img/logo.png"
+            "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg"
           ]
         ]
       }
@@ -177,9 +198,12 @@
                 "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
                 "name": "खबरहब"
               },
-              "dateModified": "2025-10-10T08:42:56+00:00",
+              "dateModified": "2025-10-10T08:43:31+00:00",
               "datePublished": "2025-10-10T08:41:45+00:00",
               "headline": "तिहारमा महानगरभित्र विदेशी फूल प्रतिबन्धित",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862639/#primaryimage"
+              },
               "inLanguage": "en-US",
               "isPartOf": {
                 "@id": "https://khabarhub.com/2025/10/862639/"
@@ -190,14 +214,18 @@
               "publisher": {
                 "@id": "https://khabarhub.com/#organization"
               },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg",
               "wordCount": 7
             },
             {
               "@id": "https://khabarhub.com/2025/10/862639/",
               "@type": "WebPage",
-              "dateModified": "2025-10-10T08:42:56+00:00",
+              "dateModified": "2025-10-10T08:43:31+00:00",
               "datePublished": "2025-10-10T08:41:45+00:00",
               "description": "तिहारमा महानगरभित्र विदेशी फूल प्रतिबन्धित समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862639/#primaryimage"
+              },
               "inLanguage": "en-US",
               "isPartOf": {
                 "@id": "https://khabarhub.com/#website"
@@ -211,7 +239,20 @@
                   ]
                 }
               ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862639/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg",
               "url": "https://khabarhub.com/2025/10/862639/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862639/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg",
+              "height": 1709,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg",
+              "width": 2560
             },
             {
               "@id": "https://khabarhub.com/#website",
@@ -307,7 +348,7 @@
             ],
             [
               "og:image",
-              "https://khabarhub.com/wp-content/themes/KhabarhubOfficial/img/logo.png"
+              "https://www.khabarhub.com/wp-content/uploads/2025/04/flowers-11-scaled.jpg"
             ]
           ]
         }

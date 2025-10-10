@@ -1,0 +1,374 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n396\nShares",
+  "description": "महानिरीक्षक खापुङ्गले 'ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु' नभनेको प्रहरीको प्रष्टोक्ति सुरक्षा",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T09:36:47.558876Z",
+  "id": "aef0be2c26819b50dfb0d35a564b776eb5080308f363b0572661b48a6da30908",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/561883399_1124798269782695_7421351084485152779_n-544x768.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862678/#article",
+            "@type": "Article",
+            "articleSection": [
+              "प्रहरी",
+              "समाचार",
+              "सुरक्षा"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T09:13:20+00:00",
+            "datePublished": "2025-10-10T09:13:17+00:00",
+            "headline": "महानिरीक्षक खापुङ्गले &#8216;ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु&#8217; नभनेको प्रहरीको प्रष्टोक्ति",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862678/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862678/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862678/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+            "wordCount": 3
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862678/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T09:13:20+00:00",
+            "datePublished": "2025-10-10T09:13:17+00:00",
+            "description": "महानिरीक्षक खापुङ्गले 'ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु' नभनेको प्रहरीको प्रष्टोक्ति सुरक्षा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862678/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "महानिरीक्षक खापुङ्गले 'ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु' नभनेको प्रहरीको प्रष्टोक्ति | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862678/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862678/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+            "url": "https://khabarhub.com/2025/10/862678/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862678/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "महानिरीक्षक खापुङ्गले ‘ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु’ नभनेको प्रहरीको प्रष्टोक्ति"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- नेपाल प्रहरीले महानिरीक्षक चन्द्रकुबेर खापुङ्गले ‘पूर्वप्रधानमन्त्री केपी शर्मा ओली र पूर्वगृहमन्त्री रमेश लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु’ नभनेको प्रष्ट पारेको छ । महानिरीक्षकको सचिवालयले शुक्रबार विज्ञप्ति जारी गर्दै केही दिनयता विभिन्न सञ्चार माध्यमहरूमा महानिरीक्षक खापुङ्गले यस्तै आशयको भनाइ राखेको भन्ने समाचार प्रकाशित भएकोमा गम्भीर ध्यानाकर्षण भएको जनाएको छ । विज्ञप्तिमा प्रहरी महानिरीक्षकले […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862678/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862678/#article",
+              "@type": "Article",
+              "articleSection": [
+                "प्रहरी",
+                "समाचार",
+                "सुरक्षा"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T09:13:20+00:00",
+              "datePublished": "2025-10-10T09:13:17+00:00",
+              "headline": "महानिरीक्षक खापुङ्गले &#8216;ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु&#8217; नभनेको प्रहरीको प्रष्टोक्ति",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862678/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862678/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862678/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+              "wordCount": 3
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862678/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T09:13:20+00:00",
+              "datePublished": "2025-10-10T09:13:17+00:00",
+              "description": "महानिरीक्षक खापुङ्गले 'ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु' नभनेको प्रहरीको प्रष्टोक्ति सुरक्षा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862678/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "महानिरीक्षक खापुङ्गले 'ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु' नभनेको प्रहरीको प्रष्टोक्ति | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862678/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862678/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+              "url": "https://khabarhub.com/2025/10/862678/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862678/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "महानिरीक्षक खापुङ्गले ‘ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु’ नभनेको प्रहरीको प्रष्टोक्ति"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- नेपाल प्रहरीले महानिरीक्षक चन्द्रकुबेर खापुङ्गले ‘पूर्वप्रधानमन्त्री केपी शर्मा ओली र पूर्वगृहमन्त्री रमेश लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु’ नभनेको प्रष्ट पारेको छ । महानिरीक्षकको सचिवालयले शुक्रबार विज्ञप्ति जारी गर्दै केही दिनयता विभिन्न सञ्चार माध्यमहरूमा महानिरीक्षक खापुङ्गले यस्तै आशयको भनाइ राखेको भन्ने समाचार प्रकाशित भएकोमा गम्भीर ध्यानाकर्षण भएको जनाएको छ । विज्ञप्तिमा प्रहरी महानिरीक्षकले […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862678/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/08/Chnadra-Kuber-Khapung-IGP.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T09:13:17Z",
+  "source": "Khabarhub",
+  "store_path": "_store/ae/aef0be2c26819b50dfb0d35a564b776eb5080308f363b0572661b48a6da30908.json",
+  "title": "महानिरीक्षक खापुङ्गले ‘ओली र लेखकलाई पक्राउ गर्न दबाब दिए राजीनामा दिन्छु’ नभनेको प्रहरीको प्रष्टोक्ति",
+  "url": "https://khabarhub.com/2025/10/862678/",
+  "version": 1
+}
