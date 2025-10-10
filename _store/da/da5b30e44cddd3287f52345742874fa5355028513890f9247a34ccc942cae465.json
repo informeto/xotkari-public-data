@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n39\nShares",
+  "description": "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T05:37:10.565300Z",
+  "id": "da5b30e44cddd3287f52345742874fa5355028513890f9247a34ccc942cae465",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862534/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T05:32:01+00:00",
+            "datePublished": "2025-10-10T05:31:58+00:00",
+            "headline": "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862534/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862534/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862534/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862534/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T05:32:01+00:00",
+            "datePublished": "2025-10-10T05:31:58+00:00",
+            "description": "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862534/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862534/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862534/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+            "url": "https://khabarhub.com/2025/10/862534/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862534/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल तस्बिर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+            "height": 568,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – राष्ट्रपति रामचन्द्र पौडेलले छलफलका लागि राजनीतिक दललाई राष्ट्रपति कार्यालयमा बोलाएका छन् । पौडेलले शुक्रबार दिउँसो ४ बजे छलफल गर्नेगरी सबै राजनीतिक दललाई बोलाएका हुन् । छलफल राष्ट्रपति कार्यालय शीतल निवासमा हुनेछ । एक मन्त्रीका अनुसार बिहीबार राष्ट्रपतिसँग भएको छलफलपछि सबै दललाई निर्वाचनको विषयमा छलफलका लागि राष्ट्रपतिले बोलाएका हुन् । बिहीबार प्रधानमन्त्री सुशीला कार्की […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862534/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862534/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T05:32:01+00:00",
+              "datePublished": "2025-10-10T05:31:58+00:00",
+              "headline": "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862534/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862534/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862534/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862534/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T05:32:01+00:00",
+              "datePublished": "2025-10-10T05:31:58+00:00",
+              "description": "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862534/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862534/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862534/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+              "url": "https://khabarhub.com/2025/10/862534/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862534/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल तस्बिर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+              "height": 568,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – राष्ट्रपति रामचन्द्र पौडेलले छलफलका लागि राजनीतिक दललाई राष्ट्रपति कार्यालयमा बोलाएका छन् । पौडेलले शुक्रबार दिउँसो ४ बजे छलफल गर्नेगरी सबै राजनीतिक दललाई बोलाएका हुन् । छलफल राष्ट्रपति कार्यालय शीतल निवासमा हुनेछ । एक मन्त्रीका अनुसार बिहीबार राष्ट्रपतिसँग भएको छलफलपछि सबै दललाई निर्वाचनको विषयमा छलफलका लागि राष्ट्रपतिले बोलाएका हुन् । बिहीबार प्रधानमन्त्री सुशीला कार्की […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862534/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/01/president-ramchandra-poudel.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T05:31:58Z",
+  "source": "Khabarhub",
+  "store_path": "_store/da/da5b30e44cddd3287f52345742874fa5355028513890f9247a34ccc942cae465.json",
+  "title": "राष्ट्रपति पौडेलले राजनीतिक दललाई छलफलका लागि बोलाए",
+  "url": "https://khabarhub.com/2025/10/862534/",
+  "version": 1
+}
