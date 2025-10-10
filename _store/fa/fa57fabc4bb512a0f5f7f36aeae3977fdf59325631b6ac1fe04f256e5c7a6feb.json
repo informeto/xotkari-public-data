@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n72\nShares",
+  "description": "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T11:31:30.335928Z",
+  "id": "fa57fabc4bb512a0f5f7f36aeae3977fdf59325631b6ac1fe04f256e5c7a6feb",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862743/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T10:42:16+00:00",
+            "datePublished": "2025-10-10T10:42:13+00:00",
+            "headline": "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862743/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862743/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862743/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862743/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T10:42:16+00:00",
+            "datePublished": "2025-10-10T10:42:13+00:00",
+            "description": "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862743/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862743/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862743/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+            "url": "https://khabarhub.com/2025/10/862743/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862743/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+            "height": 700,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– नेपाली कांग्रेस कार्यसम्पादन समितिको बैठक आजलाई सकिएको छ । महत्त्वपूर्ण विषयमा छलफल भइरहेको र सबै पदाधिकारी बोल्ने क्रम नसकिएकोले बैठक शनिबार ११ बजे फेरि बस्ने प्रवक्ता प्रकाशशरण महतले बताए । प्रवक्ता महतले अहिलेको चुनौतीपूर्ण अवस्थामा पार्टीलाई कसरी अगाडि बढाउने, सँगसँगै राष्ट्रिय राजनीतिमा अनुत्तरित प्रश्न खडा भएको यी विषयमा एउटा ठोस दृष्टिकोण बनाउने र विषयवस्तु […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862743/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862743/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T10:42:16+00:00",
+              "datePublished": "2025-10-10T10:42:13+00:00",
+              "headline": "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862743/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862743/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862743/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862743/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T10:42:16+00:00",
+              "datePublished": "2025-10-10T10:42:13+00:00",
+              "description": "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862743/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862743/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862743/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+              "url": "https://khabarhub.com/2025/10/862743/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862743/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+              "height": 700,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– नेपाली कांग्रेस कार्यसम्पादन समितिको बैठक आजलाई सकिएको छ । महत्त्वपूर्ण विषयमा छलफल भइरहेको र सबै पदाधिकारी बोल्ने क्रम नसकिएकोले बैठक शनिबार ११ बजे फेरि बस्ने प्रवक्ता प्रकाशशरण महतले बताए । प्रवक्ता महतले अहिलेको चुनौतीपूर्ण अवस्थामा पार्टीलाई कसरी अगाडि बढाउने, सँगसँगै राष्ट्रिय राजनीतिमा अनुत्तरित प्रश्न खडा भएको यी विषयमा एउटा ठोस दृष्टिकोण बनाउने र विषयवस्तु […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862743/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/prakeshsharan-mahat.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T10:42:13Z",
+  "source": "Khabarhub",
+  "store_path": "_store/fa/fa57fabc4bb512a0f5f7f36aeae3977fdf59325631b6ac1fe04f256e5c7a6feb.json",
+  "title": "कांग्रेस कार्यसम्पादन समितिको बैठक सकियो, भोलि ११ बजे फेरि बस्ने",
+  "url": "https://khabarhub.com/2025/10/862743/",
+  "version": 1
+}
