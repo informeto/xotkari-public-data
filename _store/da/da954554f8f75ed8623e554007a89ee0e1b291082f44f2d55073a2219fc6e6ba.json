@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२४ आश्विन २०८२, शुक्रबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n36\nShares",
+  "description": "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-10T06:51:53.428650Z",
+  "id": "da954554f8f75ed8623e554007a89ee0e1b291082f44f2d55073a2219fc6e6ba",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/08/800X100px-2.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/10/862571/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-10T06:23:00+00:00",
+            "datePublished": "2025-10-10T06:22:59+00:00",
+            "headline": "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862571/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/10/862571/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862571/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+            "wordCount": 10
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862571/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-10T06:23:00+00:00",
+            "datePublished": "2025-10-10T06:22:59+00:00",
+            "description": "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/10/862571/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/10/862571/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/10/862571/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+            "url": "https://khabarhub.com/2025/10/862571/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/10/862571/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+            "height": 582,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काभ्रेपलाञ्चोक– गत साताको बाढीले क्षतिग्रस्त बीपी राजमार्गको विभिन्न खण्डमा अस्थायी सडक बनाइ शनिबार बिहानदेखि सवारी सञ्चालनको तयारी गरिएको छ । हाल राजमार्गको काभ्रेपलाञ्चोकको सडकखण्डमा खोला फर्काएर ‘डाइभर्सन’ निर्माण भइरहेको छ ।  आज बिहानसम्मा राजमार्गअन्तर्गत काभ्रेपलाञ्चोकको नमोबुद्ध नगरपालिका–६ स्थित चौकीडाँडादेखि रोशी गाउँपालिकाको चिउरीबाससम्म ‘ट्रयाक’ खोली सकिएको डिभिजन सडक कार्यालय भक्तपुरका प्रमुख सिनियर डिभिजनल इन्जिनियर सुमान योगेशले […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/10/862571/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/10/862571/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-10T06:23:00+00:00",
+              "datePublished": "2025-10-10T06:22:59+00:00",
+              "headline": "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862571/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/10/862571/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862571/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+              "wordCount": 10
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862571/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-10T06:23:00+00:00",
+              "datePublished": "2025-10-10T06:22:59+00:00",
+              "description": "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/10/862571/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/10/862571/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/10/862571/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+              "url": "https://khabarhub.com/2025/10/862571/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/10/862571/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+              "height": 582,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काभ्रेपलाञ्चोक– गत साताको बाढीले क्षतिग्रस्त बीपी राजमार्गको विभिन्न खण्डमा अस्थायी सडक बनाइ शनिबार बिहानदेखि सवारी सञ्चालनको तयारी गरिएको छ । हाल राजमार्गको काभ्रेपलाञ्चोकको सडकखण्डमा खोला फर्काएर ‘डाइभर्सन’ निर्माण भइरहेको छ ।  आज बिहानसम्मा राजमार्गअन्तर्गत काभ्रेपलाञ्चोकको नमोबुद्ध नगरपालिका–६ स्थित चौकीडाँडादेखि रोशी गाउँपालिकाको चिउरीबाससम्म ‘ट्रयाक’ खोली सकिएको डिभिजन सडक कार्यालय भक्तपुरका प्रमुख सिनियर डिभिजनल इन्जिनियर सुमान योगेशले […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/10/862571/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/09/BP-rajmarga2.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-10T06:22:59Z",
+  "source": "Khabarhub",
+  "store_path": "_store/da/da954554f8f75ed8623e554007a89ee0e1b291082f44f2d55073a2219fc6e6ba.json",
+  "title": "बीपी राजमार्ग शनिबार बिहानदेखि सवारी खुलाइने",
+  "url": "https://khabarhub.com/2025/10/862571/",
+  "version": 1
+}
