@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n93\nShares",
+  "description": "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस् ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T12:57:45.596214Z",
+  "id": "f32b20852952f02cb41c299576eb02ddb8b8acd105a5db97e1b7b6adcd36722f",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/863117/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T12:20:59+00:00",
+            "datePublished": "2025-10-11T12:20:57+00:00",
+            "headline": "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस्",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863117/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/863117/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863117/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863117/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T12:20:59+00:00",
+            "datePublished": "2025-10-11T12:20:57+00:00",
+            "description": "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस् ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863117/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस् | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/863117/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863117/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+            "url": "https://khabarhub.com/2025/11/863117/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863117/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+            "height": 650,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस्"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– नेपाली काग्रेसका नेता डा.शशांक कोइरालाले कार्यवाहक सभापतिको जिम्मेवारी तोक्न पार्टी सभापति शेर बहादुर देउवालाई सुझाव दिएका छन् । शनिबार कांग्रेस पार्टी कार्यालय सानेपामा सञ्चारकर्मीसँग कुरा गर्दै कोइरालाले केन्द्रीय समिति विघटन गरेर महाधिवेशनका लागि एक जनालाई कार्यवाहक सभापति तोक्न देउवालाई सुझाव दिएका हुन् । कार्यवाहक सभापतिले नै नियमित महाधिवेशनको मिति तय गर्नुपर्ने आफ्नो व्यक्तिगत भावना […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/863117/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/863117/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T12:20:59+00:00",
+              "datePublished": "2025-10-11T12:20:57+00:00",
+              "headline": "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस्",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863117/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/863117/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863117/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863117/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T12:20:59+00:00",
+              "datePublished": "2025-10-11T12:20:57+00:00",
+              "description": "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस् ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863117/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस् | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/863117/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863117/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+              "url": "https://khabarhub.com/2025/11/863117/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863117/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+              "height": 650,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस्"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– नेपाली काग्रेसका नेता डा.शशांक कोइरालाले कार्यवाहक सभापतिको जिम्मेवारी तोक्न पार्टी सभापति शेर बहादुर देउवालाई सुझाव दिएका छन् । शनिबार कांग्रेस पार्टी कार्यालय सानेपामा सञ्चारकर्मीसँग कुरा गर्दै कोइरालाले केन्द्रीय समिति विघटन गरेर महाधिवेशनका लागि एक जनालाई कार्यवाहक सभापति तोक्न देउवालाई सुझाव दिएका हुन् । कार्यवाहक सभापतिले नै नियमित महाधिवेशनको मिति तय गर्नुपर्ने आफ्नो व्यक्तिगत भावना […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/863117/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/shasank-koirela.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T12:20:57Z",
+  "source": "Khabarhub",
+  "store_path": "_store/f3/f32b20852952f02cb41c299576eb02ddb8b8acd105a5db97e1b7b6adcd36722f.json",
+  "title": "देउवालाई शशांकको सुझाव- केन्द्रीय समिति विघटन गरेर कार्यवाहक सभापति तोक्नुस्",
+  "url": "https://khabarhub.com/2025/11/863117/",
+  "version": 1
+}

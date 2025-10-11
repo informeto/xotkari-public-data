@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n60\nShares",
+  "description": "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति अन्तर्राष्ट्रिय",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T12:57:46.581195Z",
+  "id": "5c02ce434596dbea5e63aca6211347271b4c1680ccf33b75d356823e3029d4d5",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/863118/#article",
+            "@type": "Article",
+            "articleSection": [
+              "अन्तर्राष्ट्रिय",
+              "अमेरिका / क्यानडा"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T12:09:25+00:00",
+            "datePublished": "2025-10-11T12:09:24+00:00",
+            "headline": "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863118/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/863118/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863118/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863118/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T12:09:25+00:00",
+            "datePublished": "2025-10-11T12:09:24+00:00",
+            "description": "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति अन्तर्राष्ट्रिय",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863118/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/863118/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863118/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+            "url": "https://khabarhub.com/2025/11/863118/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863118/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "वाशिङ्टन डीसी- अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले शुक्रबार चिनियाँ राष्ट्रपति सी जिनपिङसँगको आफ्नो नियोजित बैठक आधिकारिक रूपमा रद्द नगरेको भन्दै ‘सीलाई भेट्ने कुनै कारण छैन’ भन्ने आफ्नो हालैको टिप्पणी स्पष्ट पारेका छन् । म्पले चीनले दुर्लभ पृथ्वी तत्व (खनिज तत्व) हरूको निर्यातमा इजाजतपत्र अनिवार्य गर्ने नयाँ नीति ल्याएकोमा आश्चर्य व्यक्त गर्दै यस कदमलाई ‘अप्रत्याशित’ भने । […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/863118/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/863118/#article",
+              "@type": "Article",
+              "articleSection": [
+                "अन्तर्राष्ट्रिय",
+                "अमेरिका / क्यानडा"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T12:09:25+00:00",
+              "datePublished": "2025-10-11T12:09:24+00:00",
+              "headline": "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863118/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/863118/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863118/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863118/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T12:09:25+00:00",
+              "datePublished": "2025-10-11T12:09:24+00:00",
+              "description": "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति अन्तर्राष्ट्रिय",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863118/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/863118/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863118/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+              "url": "https://khabarhub.com/2025/11/863118/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863118/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "वाशिङ्टन डीसी- अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्पले शुक्रबार चिनियाँ राष्ट्रपति सी जिनपिङसँगको आफ्नो नियोजित बैठक आधिकारिक रूपमा रद्द नगरेको भन्दै ‘सीलाई भेट्ने कुनै कारण छैन’ भन्ने आफ्नो हालैको टिप्पणी स्पष्ट पारेका छन् । म्पले चीनले दुर्लभ पृथ्वी तत्व (खनिज तत्व) हरूको निर्यातमा इजाजतपत्र अनिवार्य गर्ने नयाँ नीति ल्याएकोमा आश्चर्य व्यक्त गर्दै यस कदमलाई ‘अप्रत्याशित’ भने । […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/863118/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2019/11/Trump-Xi.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T12:09:24Z",
+  "source": "Khabarhub",
+  "store_path": "_store/5c/5c02ce434596dbea5e63aca6211347271b4c1680ccf33b75d356823e3029d4d5.json",
+  "title": "सीसँगको बैठक रद्द नगरेको ट्रम्पको स्पष्टोक्ति",
+  "url": "https://khabarhub.com/2025/11/863118/",
+  "version": 1
+}

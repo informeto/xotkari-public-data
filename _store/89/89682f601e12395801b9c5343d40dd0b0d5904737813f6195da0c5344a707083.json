@@ -1,0 +1,377 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n57\nShares",
+  "description": "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू) मनोरञ्जन",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T12:57:47.826983Z",
+  "id": "89682f601e12395801b9c5343d40dd0b0d5904737813f6195da0c5344a707083",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal-768x416.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal-book-2-768x416.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal-book-768x416.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal-1-768x416.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal-book-3-768x416.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal-book-1-768x416.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal-3-768x416.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal-2-768x416.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/863102/#article",
+            "@type": "Article",
+            "articleSection": [
+              "मनोरञ्जन"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T11:41:20+00:00",
+            "datePublished": "2025-10-11T11:41:19+00:00",
+            "headline": "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू)",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863102/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/863102/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863102/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863102/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T11:41:20+00:00",
+            "datePublished": "2025-10-11T11:41:19+00:00",
+            "description": "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू) मनोरञ्जन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863102/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू) | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/863102/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863102/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+            "url": "https://khabarhub.com/2025/11/863102/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863102/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+            "height": 650,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू)"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– अभिनेता राजेश हमालको पुस्तक युगदेखि युगसम्म सार्वजनिक भएको छ ।  शनिबार काठमाडौंको कमलादीस्थित नेपाल प्रज्ञा–प्रतिष्ठानको डबलीमा विशेष कार्यक्रमबीच पुस्तक विमोचन भएको छ । पत्रकार तथा लेखक यज्ञशसँगको संवादमा तयार भएको पुस्तकमा जीवनयात्रा, चलचित्र जीवनसँग जोडिएका अनुभव, संस्मरण तथा सामाजिक र व्यक्तिगत विचारहरू समेटिएको अभिनेता हमालले जानकारी दिए । राजनीति, धर्म, केही मनोविज्ञानका कुरासमेत पुस्तकमा समेटिएको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/863102/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/863102/#article",
+              "@type": "Article",
+              "articleSection": [
+                "मनोरञ्जन"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T11:41:20+00:00",
+              "datePublished": "2025-10-11T11:41:19+00:00",
+              "headline": "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू)",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863102/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/863102/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863102/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863102/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T11:41:20+00:00",
+              "datePublished": "2025-10-11T11:41:19+00:00",
+              "description": "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू) मनोरञ्जन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863102/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू) | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/863102/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863102/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+              "url": "https://khabarhub.com/2025/11/863102/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863102/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+              "height": 650,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू)"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– अभिनेता राजेश हमालको पुस्तक युगदेखि युगसम्म सार्वजनिक भएको छ ।  शनिबार काठमाडौंको कमलादीस्थित नेपाल प्रज्ञा–प्रतिष्ठानको डबलीमा विशेष कार्यक्रमबीच पुस्तक विमोचन भएको छ । पत्रकार तथा लेखक यज्ञशसँगको संवादमा तयार भएको पुस्तकमा जीवनयात्रा, चलचित्र जीवनसँग जोडिएका अनुभव, संस्मरण तथा सामाजिक र व्यक्तिगत विचारहरू समेटिएको अभिनेता हमालले जानकारी दिए । राजनीति, धर्म, केही मनोविज्ञानका कुरासमेत पुस्तकमा समेटिएको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/863102/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/rajesh-hamal.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T11:41:19Z",
+  "source": "Khabarhub",
+  "store_path": "_store/89/89682f601e12395801b9c5343d40dd0b0d5904737813f6195da0c5344a707083.json",
+  "title": "राजेश हमालको पुस्तक विमोचन समारोह यस्तो देखियो (तस्बिरहरू)",
+  "url": "https://khabarhub.com/2025/11/863102/",
+  "version": 1
+}

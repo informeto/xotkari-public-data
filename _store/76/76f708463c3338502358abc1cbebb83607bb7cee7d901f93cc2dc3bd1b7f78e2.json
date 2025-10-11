@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n132\nShares",
+  "description": "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T12:57:47.046103Z",
+  "id": "76f708463c3338502358abc1cbebb83607bb7cee7d901f93cc2dc3bd1b7f78e2",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/863112/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T11:44:23+00:00",
+            "datePublished": "2025-10-11T11:43:44+00:00",
+            "headline": "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863112/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/863112/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863112/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863112/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T11:44:23+00:00",
+            "datePublished": "2025-10-11T11:43:44+00:00",
+            "description": "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863112/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/863112/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863112/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+            "url": "https://khabarhub.com/2025/11/863112/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863112/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+            "height": 720,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- जेन-जी आन्दोलनका प्रतिनिधिहरुले आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनमा भाग लिन राजनीतिक दललगायत सबै तह र तप्कालाई आह्वान गरेका छन् । राष्ट्रपति भवन शितलनिवासमा प्रधानमन्त्री सुशीला कार्की र मन्त्रिपरिषद्का सदस्यहरुसँग छलफलपछि सञ्चारकर्मीसँग कुराकानी गर्दै उनीहरुले निर्वाचनमा सबै दललाई भाग लिन आग्रह गरेका हुन् । संसदीय अभ्यासमा रहेका पूराना दलहरु निर्वाचनमा भाग नलिए […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/863112/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/863112/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T11:44:23+00:00",
+              "datePublished": "2025-10-11T11:43:44+00:00",
+              "headline": "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863112/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/863112/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863112/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863112/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T11:44:23+00:00",
+              "datePublished": "2025-10-11T11:43:44+00:00",
+              "description": "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863112/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/863112/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863112/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+              "url": "https://khabarhub.com/2025/11/863112/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863112/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+              "height": 720,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- जेन-जी आन्दोलनका प्रतिनिधिहरुले आगामी फागुन २१ गते हुने प्रतिनिधिसभा सदस्य निर्वाचनमा भाग लिन राजनीतिक दललगायत सबै तह र तप्कालाई आह्वान गरेका छन् । राष्ट्रपति भवन शितलनिवासमा प्रधानमन्त्री सुशीला कार्की र मन्त्रिपरिषद्का सदस्यहरुसँग छलफलपछि सञ्चारकर्मीसँग कुराकानी गर्दै उनीहरुले निर्वाचनमा सबै दललाई भाग लिन आग्रह गरेका हुन् । संसदीय अभ्यासमा रहेका पूराना दलहरु निर्वाचनमा भाग नलिए […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/863112/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/IMG-20251011-WA0004.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T11:43:44Z",
+  "source": "Khabarhub",
+  "store_path": "_store/76/76f708463c3338502358abc1cbebb83607bb7cee7d901f93cc2dc3bd1b7f78e2.json",
+  "title": "चुनावमा भाग लिन जेन-जी प्रतिनिधिको आह्वान",
+  "url": "https://khabarhub.com/2025/11/863112/",
+  "version": 1
+}
