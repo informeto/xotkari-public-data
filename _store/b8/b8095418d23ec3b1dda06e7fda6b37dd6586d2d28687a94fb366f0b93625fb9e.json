@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n21\nShares",
+  "description": "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T06:45:39.403411Z",
+  "id": "b8095418d23ec3b1dda06e7fda6b37dd6586d2d28687a94fb366f0b93625fb9e",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/862994/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T06:29:26+00:00",
+            "datePublished": "2025-10-11T06:29:23+00:00",
+            "headline": "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/862994/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/862994/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/862994/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/862994/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T06:29:26+00:00",
+            "datePublished": "2025-10-11T06:29:23+00:00",
+            "description": "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/862994/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/862994/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/862994/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+            "url": "https://khabarhub.com/2025/11/862994/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/862994/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "सांकेतिक तस्बिर",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "खोटाङ- जेनजी आन्दोलनपछि बनेको वर्तमान सरकारले आगामी फागुन २१ गतेका लागि प्रतिनिधिसभा सदस्यको निर्वाचन घोषणा गरेसँगै खोटाङमा पनि फोटोसहितको मतदाता नामावली दर्ता तथा अद्यावधिक गर्ने/गराउने युवाको चहलपहल बढेको छ । गत भदौ २३ र २४ गते भएको जेनजी आन्दोलनपछि गठन भएको प्रधानमन्त्री सुशीला कार्की नेतृत्वको सरकारले निर्वाचन आयोगलाई दिएको निर्देशनअनुसार प्रतिनिधिसभा सदस्यको निर्वाचन गर्न यही […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/862994/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/862994/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T06:29:26+00:00",
+              "datePublished": "2025-10-11T06:29:23+00:00",
+              "headline": "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/862994/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/862994/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/862994/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/862994/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T06:29:26+00:00",
+              "datePublished": "2025-10-11T06:29:23+00:00",
+              "description": "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/862994/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/862994/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/862994/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+              "url": "https://khabarhub.com/2025/11/862994/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/862994/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "सांकेतिक तस्बिर",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "खोटाङ- जेनजी आन्दोलनपछि बनेको वर्तमान सरकारले आगामी फागुन २१ गतेका लागि प्रतिनिधिसभा सदस्यको निर्वाचन घोषणा गरेसँगै खोटाङमा पनि फोटोसहितको मतदाता नामावली दर्ता तथा अद्यावधिक गर्ने/गराउने युवाको चहलपहल बढेको छ । गत भदौ २३ र २४ गते भएको जेनजी आन्दोलनपछि गठन भएको प्रधानमन्त्री सुशीला कार्की नेतृत्वको सरकारले निर्वाचन आयोगलाई दिएको निर्देशनअनुसार प्रतिनिधिसभा सदस्यको निर्वाचन गर्न यही […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/862994/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2022/02/matadata-namawali.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T06:29:23Z",
+  "source": "Khabarhub",
+  "store_path": "_store/b8/b8095418d23ec3b1dda06e7fda6b37dd6586d2d28687a94fb366f0b93625fb9e.json",
+  "title": "खोटाङमा मतदाता नामावली दर्ता तथा अद्यावधिक गर्नेको चहलपहल बढ्यो",
+  "url": "https://khabarhub.com/2025/11/862994/",
+  "version": 1
+}
