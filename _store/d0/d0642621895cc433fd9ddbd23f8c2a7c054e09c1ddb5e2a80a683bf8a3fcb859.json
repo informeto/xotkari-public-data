@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n45\nShares",
+  "description": "पर्सामा आइतबारदेखि हैजाको खोप दिइने स्वास्थ्य",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T17:31:00.238097Z",
+  "id": "d0642621895cc433fd9ddbd23f8c2a7c054e09c1ddb5e2a80a683bf8a3fcb859",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/863184/#article",
+            "@type": "Article",
+            "articleSection": [
+              "स्वास्थ्य"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T16:46:23+00:00",
+            "datePublished": "2025-10-11T16:43:50+00:00",
+            "headline": "पर्सामा आइतबारदेखि हैजाको खोप दिइने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863184/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/863184/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863184/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863184/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T16:46:23+00:00",
+            "datePublished": "2025-10-11T16:43:50+00:00",
+            "description": "पर्सामा आइतबारदेखि हैजाको खोप दिइने स्वास्थ्य",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863184/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "पर्सामा आइतबारदेखि हैजाको खोप दिइने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/863184/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863184/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+            "url": "https://khabarhub.com/2025/11/863184/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863184/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+            "height": 506,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+            "width": 900
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "पर्सामा आइतबारदेखि हैजाको खोप दिइने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "पर्सा – पर्साका १४ वटै स्थानीय तहमा आइतबारदेखि हैजाविरुद्धको खोप अभियान सञ्चालन गरिने भएको छ । पर्सामा गत भदौको पहिलो साता हैजाको सङ्क्रमणका बिरामी देखा परेका थिए । स्वास्थ्य कार्यालय पर्साले आज यहाँ आयोजित हैजाविरुद्ध प्रतिकार्य खोप अभियान सञ्चालनबारे जिल्लास्तरीय सरोकारवाला निकायको अभिमुखीकरण कार्यक्रममा पर्साका १४ वटै पालिकामा असोज २६ देखि आगामी कात्तिक २ गतेसम्म […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/863184/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/863184/#article",
+              "@type": "Article",
+              "articleSection": [
+                "स्वास्थ्य"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T16:46:23+00:00",
+              "datePublished": "2025-10-11T16:43:50+00:00",
+              "headline": "पर्सामा आइतबारदेखि हैजाको खोप दिइने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863184/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/863184/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863184/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863184/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T16:46:23+00:00",
+              "datePublished": "2025-10-11T16:43:50+00:00",
+              "description": "पर्सामा आइतबारदेखि हैजाको खोप दिइने स्वास्थ्य",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863184/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "पर्सामा आइतबारदेखि हैजाको खोप दिइने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/863184/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863184/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+              "url": "https://khabarhub.com/2025/11/863184/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863184/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+              "height": 506,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif",
+              "width": 900
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "पर्सामा आइतबारदेखि हैजाको खोप दिइने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "पर्सा – पर्साका १४ वटै स्थानीय तहमा आइतबारदेखि हैजाविरुद्धको खोप अभियान सञ्चालन गरिने भएको छ । पर्सामा गत भदौको पहिलो साता हैजाको सङ्क्रमणका बिरामी देखा परेका थिए । स्वास्थ्य कार्यालय पर्साले आज यहाँ आयोजित हैजाविरुद्ध प्रतिकार्य खोप अभियान सञ्चालनबारे जिल्लास्तरीय सरोकारवाला निकायको अभिमुखीकरण कार्यक्रममा पर्साका १४ वटै पालिकामा असोज २६ देखि आगामी कात्तिक २ गतेसम्म […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/863184/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2022/06/haija-cholera.gif"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T16:43:50Z",
+  "source": "Khabarhub",
+  "store_path": "_store/d0/d0642621895cc433fd9ddbd23f8c2a7c054e09c1ddb5e2a80a683bf8a3fcb859.json",
+  "title": "पर्सामा आइतबारदेखि हैजाको खोप दिइने",
+  "url": "https://khabarhub.com/2025/11/863184/",
+  "version": 1
+}
