@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n24\nShares",
+  "description": "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T02:02:17.645130Z",
+  "id": "290f50a8d1307f0c39fb6723e6234edff27226c68b5f42b004ed84d16f73c253",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/862924/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T01:22:27+00:00",
+            "datePublished": "2025-10-11T01:21:50+00:00",
+            "headline": "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/862924/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/862924/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/862924/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/862924/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T01:22:27+00:00",
+            "datePublished": "2025-10-11T01:21:50+00:00",
+            "description": "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/862924/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/862924/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/862924/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+            "url": "https://khabarhub.com/2025/11/862924/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/862924/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+            "height": 650,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– नेपाली कांग्रेसको पदाधिकारी बैठक आज पनि बस्दैछ ।  बैठक दिउँसो १ बजे पार्टी केन्द्रीय कार्यालय सानेपामा बस्नेछ । बैठकले भोलिदेखि सुरु हुने केन्द्रीय कार्यसमिति बैठकका एजेण्डा टुंगो लगाउने छ ।  गत बिहीबारदेखि पार्टी उपसभापति पूर्णबहादुर खड्काको सभापतित्वमा सुरु भएको बैठकमा पदाधिकारी तथा पूर्वपदाधिकारीहरूले आ–आफ्नो धारणा राखिरहेका छन् । बैठकमा नेताहरूले पार्टी अधिवेशन, सरकारले घोषणा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/862924/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/862924/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T01:22:27+00:00",
+              "datePublished": "2025-10-11T01:21:50+00:00",
+              "headline": "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/862924/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/862924/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/862924/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/862924/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T01:22:27+00:00",
+              "datePublished": "2025-10-11T01:21:50+00:00",
+              "description": "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/862924/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/862924/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/862924/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+              "url": "https://khabarhub.com/2025/11/862924/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/862924/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+              "height": 650,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– नेपाली कांग्रेसको पदाधिकारी बैठक आज पनि बस्दैछ ।  बैठक दिउँसो १ बजे पार्टी केन्द्रीय कार्यालय सानेपामा बस्नेछ । बैठकले भोलिदेखि सुरु हुने केन्द्रीय कार्यसमिति बैठकका एजेण्डा टुंगो लगाउने छ ।  गत बिहीबारदेखि पार्टी उपसभापति पूर्णबहादुर खड्काको सभापतित्वमा सुरु भएको बैठकमा पदाधिकारी तथा पूर्वपदाधिकारीहरूले आ–आफ्नो धारणा राखिरहेका छन् । बैठकमा नेताहरूले पार्टी अधिवेशन, सरकारले घोषणा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/862924/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/congress-metting-2.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T01:21:50Z",
+  "source": "Khabarhub",
+  "store_path": "_store/29/290f50a8d1307f0c39fb6723e6234edff27226c68b5f42b004ed84d16f73c253.json",
+  "title": "कांग्रेस पदाधिकारी बैठक आज पनि बस्दै, केन्द्रीय समितिका एजेण्डा टुङ्गो लगाउने",
+  "url": "https://khabarhub.com/2025/11/862924/",
+  "version": 1
+}
