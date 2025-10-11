@@ -1,22 +1,244 @@
 {
-  "author": "",
+  "author": "रासस",
   "content": "",
-  "description": "घोडाघोडी – कैलालीको घोडाघोडी-८ की अस्मिता थापाको अनुहार पीडाले थिचिएको...",
+  "description": "घोडाघोडी – कैलालीको घोडाघोडी-८ की अस्मिता थापाको अनुहार पीडाले थिचिएको छ। घर वरिपरी सन्नाटा छाएको छ। हाँसो गुञ्जिने आँगनमा अहिले रुवाबासी चलेको छ।",
   "domain": "deshsanchar.com",
   "enhanced": true,
-  "fetched_at": "2025-10-11T15:30:28.910752Z",
+  "fetched_at": "2025-10-11T16:37:11.814703Z",
   "id": "3c24a6635ad98954092325251995e746c572770bf051ff8ba2aa98664eb75dad",
   "images": [],
   "language": "en",
   "metadata": {
-    "json_ld": [],
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://deshsanchar.com/2025/10/11/1103421/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार",
+              "समाज"
+            ],
+            "author": {
+              "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+              "name": "रासस"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-11T14:28:18+00:00",
+            "datePublished": "2025-10-11T14:26:31+00:00",
+            "headline": "&#8216;भारत जाने तयारीमा थिए केशर, नफर्कने गरी अस्ताए&#8217;",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://deshsanchar.com/2025/10/11/1103421/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/11/1103421/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/#breadcrumb"
+            },
+            "dateModified": "2025-10-11T14:28:18+00:00",
+            "datePublished": "2025-10-11T14:26:31+00:00",
+            "description": "घोडाघोडी – कैलालीको घोडाघोडी-८ की अस्मिता थापाको अनुहार पीडाले थिचिएको छ। घर वरिपरी सन्नाटा छाएको छ। हाँसो गुञ्जिने आँगनमा अहिले रुवाबासी चलेको छ।",
+            "image": {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://deshsanchar.com/#website"
+            },
+            "name": "'भारत जाने तयारीमा थिए केशर, नफर्कने गरी अस्ताए'",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://deshsanchar.com/2025/10/11/1103421/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/#primaryimage"
+            },
+            "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png",
+            "url": "https://deshsanchar.com/2025/10/11/1103421/"
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/11/1103421/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png",
+            "height": 720,
+            "inLanguage": "en-US",
+            "url": "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png",
+            "width": 1280
+          },
+          {
+            "@id": "https://deshsanchar.com/2025/10/11/1103421/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://deshsanchar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "&#8216;भारत जाने तयारीमा थिए केशर, नफर्कने गरी अस्ताए&#8217;",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://deshsanchar.com/#website",
+            "@type": "WebSite",
+            "description": "जवाफदेही पत्रकारिता",
+            "inLanguage": "en-US",
+            "name": "देशसञ्चार",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://deshsanchar.com/#organization"
+            },
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://deshsanchar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Deshsanchar Pvt. Ltd.",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "height": 308,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+              "width": 600
+            },
+            "name": "Deshsanchar Pvt. Ltd.",
+            "sameAs": [
+              "https://www.facebook.com/deshsanchar1/",
+              "https://x.com/deshsanchar1",
+              "https://www.instagram.com/deshsanchar/",
+              "https://www.linkedin.com/company/31130905",
+              "https://www.pinterest.com/deshsanchar/",
+              "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+            ],
+            "url": "https://deshsanchar.com/"
+          },
+          {
+            "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+            "@type": "Person",
+            "image": {
+              "@id": "https://deshsanchar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "रासस",
+              "contentUrl": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g"
+            },
+            "name": "रासस",
+            "url": "https://deshsanchar.com/author/rasasa/"
+          }
+        ]
+      }
+    ],
     "microdata": [],
     "opengraph": [
       {
         "namespace": {
+          "article": "http://ogp.me/ns/article#",
           "og": "http://ogp.me/ns#"
         },
         "properties": [
+          [
+            "og:locale",
+            "en_US"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:title",
+            "'भारत जाने तयारीमा थिए केशर, नफर्कने गरी अस्ताए'"
+          ],
+          [
+            "og:description",
+            "घोडाघोडी – कैलालीको घोडाघोडी-८ की अस्मिता थापाको अनुहार पीडाले थिचिएको छ। घर वरिपरी सन्नाटा छाएको छ। हाँसो गुञ्जिने आँगनमा अहिले रुवाबासी चलेको छ।"
+          ],
+          [
+            "og:url",
+            "https://deshsanchar.com/2025/10/11/1103421/"
+          ],
+          [
+            "og:site_name",
+            "देशसञ्चार"
+          ],
+          [
+            "article:publisher",
+            "https://www.facebook.com/deshsanchar1/"
+          ],
+          [
+            "article:published_time",
+            "2025-10-11T14:26:31+00:00"
+          ],
+          [
+            "article:modified_time",
+            "2025-10-11T14:28:18+00:00"
+          ],
+          [
+            "og:image",
+            "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png"
+          ],
+          [
+            "og:image:width",
+            "1280"
+          ],
+          [
+            "og:image:height",
+            "720"
+          ],
+          [
+            "og:image:type",
+            "image/png"
+          ],
           [
             "og:site_name",
             "देशसञ्चार"
@@ -45,14 +267,236 @@
       }
     ],
     "raw": {
-      "json-ld": [],
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार",
+                "समाज"
+              ],
+              "author": {
+                "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+                "name": "रासस"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-11T14:28:18+00:00",
+              "datePublished": "2025-10-11T14:26:31+00:00",
+              "headline": "&#8216;भारत जाने तयारीमा थिए केशर, नफर्कने गरी अस्ताए&#8217;",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/11/1103421/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/2025/10/11/1103421/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/11/1103421/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/11/1103421/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://deshsanchar.com/2025/10/11/1103421/#breadcrumb"
+              },
+              "dateModified": "2025-10-11T14:28:18+00:00",
+              "datePublished": "2025-10-11T14:26:31+00:00",
+              "description": "घोडाघोडी – कैलालीको घोडाघोडी-८ की अस्मिता थापाको अनुहार पीडाले थिचिएको छ। घर वरिपरी सन्नाटा छाएको छ। हाँसो गुञ्जिने आँगनमा अहिले रुवाबासी चलेको छ।",
+              "image": {
+                "@id": "https://deshsanchar.com/2025/10/11/1103421/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://deshsanchar.com/#website"
+              },
+              "name": "'भारत जाने तयारीमा थिए केशर, नफर्कने गरी अस्ताए'",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://deshsanchar.com/2025/10/11/1103421/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://deshsanchar.com/2025/10/11/1103421/#primaryimage"
+              },
+              "thumbnailUrl": "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png",
+              "url": "https://deshsanchar.com/2025/10/11/1103421/"
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png",
+              "height": 720,
+              "inLanguage": "en-US",
+              "url": "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png",
+              "width": 1280
+            },
+            {
+              "@id": "https://deshsanchar.com/2025/10/11/1103421/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://deshsanchar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "&#8216;भारत जाने तयारीमा थिए केशर, नफर्कने गरी अस्ताए&#8217;",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://deshsanchar.com/#website",
+              "@type": "WebSite",
+              "description": "जवाफदेही पत्रकारिता",
+              "inLanguage": "en-US",
+              "name": "देशसञ्चार",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://deshsanchar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://deshsanchar.com/#organization"
+              },
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://deshsanchar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Deshsanchar Pvt. Ltd.",
+                "contentUrl": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "height": 308,
+                "inLanguage": "en-US",
+                "url": "https://assets.deshsanchar.com/wp-content/uploads/2022/06/04094921/deshsanchar.png",
+                "width": 600
+              },
+              "name": "Deshsanchar Pvt. Ltd.",
+              "sameAs": [
+                "https://www.facebook.com/deshsanchar1/",
+                "https://x.com/deshsanchar1",
+                "https://www.instagram.com/deshsanchar/",
+                "https://www.linkedin.com/company/31130905",
+                "https://www.pinterest.com/deshsanchar/",
+                "https://www.youtube.com/channel/UCbj1uYp-Z_YjyU4fQ0OYDCg/featured"
+              ],
+              "url": "https://deshsanchar.com/"
+            },
+            {
+              "@id": "https://deshsanchar.com/#/schema/person/4128407c82cba2626f275694bb2b9f25",
+              "@type": "Person",
+              "image": {
+                "@id": "https://deshsanchar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "रासस",
+                "contentUrl": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/2edd2bffc6376842b12386a3b8589cc05bf2481ef377d8f96d5b658817af43c1?s=96&d=mm&r=g"
+              },
+              "name": "रासस",
+              "url": "https://deshsanchar.com/author/rasasa/"
+            }
+          ]
+        }
+      ],
       "microdata": [],
       "opengraph": [
         {
           "namespace": {
+            "article": "http://ogp.me/ns/article#",
             "og": "http://ogp.me/ns#"
           },
           "properties": [
+            [
+              "og:locale",
+              "en_US"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:title",
+              "'भारत जाने तयारीमा थिए केशर, नफर्कने गरी अस्ताए'"
+            ],
+            [
+              "og:description",
+              "घोडाघोडी – कैलालीको घोडाघोडी-८ की अस्मिता थापाको अनुहार पीडाले थिचिएको छ। घर वरिपरी सन्नाटा छाएको छ। हाँसो गुञ्जिने आँगनमा अहिले रुवाबासी चलेको छ।"
+            ],
+            [
+              "og:url",
+              "https://deshsanchar.com/2025/10/11/1103421/"
+            ],
+            [
+              "og:site_name",
+              "देशसञ्चार"
+            ],
+            [
+              "article:publisher",
+              "https://www.facebook.com/deshsanchar1/"
+            ],
+            [
+              "article:published_time",
+              "2025-10-11T14:26:31+00:00"
+            ],
+            [
+              "article:modified_time",
+              "2025-10-11T14:28:18+00:00"
+            ],
+            [
+              "og:image",
+              "https://assets.deshsanchar.com/wp-content/uploads/2024/07/14131922/deshsanchar-logo.png"
+            ],
+            [
+              "og:image:width",
+              "1280"
+            ],
+            [
+              "og:image:height",
+              "720"
+            ],
+            [
+              "og:image:type",
+              "image/png"
+            ],
             [
               "og:site_name",
               "देशसञ्चार"
