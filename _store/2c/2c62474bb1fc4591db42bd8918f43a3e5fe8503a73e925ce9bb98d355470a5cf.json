@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n42\nShares",
+  "description": "'सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो' ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T04:38:20.364734Z",
+  "id": "2c62474bb1fc4591db42bd8918f43a3e5fe8503a73e925ce9bb98d355470a5cf",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/862953/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T04:22:51+00:00",
+            "datePublished": "2025-10-11T04:18:59+00:00",
+            "headline": "&#8216;सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो&#8217;",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/862953/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/862953/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/862953/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/862953/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T04:22:51+00:00",
+            "datePublished": "2025-10-11T04:18:59+00:00",
+            "description": "'सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो' ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/862953/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "'सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो' | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/862953/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/862953/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg",
+            "url": "https://khabarhub.com/2025/11/862953/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/862953/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "‘सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो’"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– नेकपा एमालेका महासचिव शंकर पोखरेलले भूमि आयोग खारेज गरेर सरकारले लाखौँ भूमिहीनको जग्गा पाउने मौलिक हक पनि खारेज गरेको टिप्पणी गरेका छन् । आज बिहान सामाजिक सञ्जाल फेसबुकमार्फत उनले अघिल्लो सरकारको नीति, कार्यक्रम, बजेट स्वीकार्य हुने तर त्यसै अन्तर्गत बनेको भूमि आयोग किन अस्वीकार्य भनेर प्रश्न समेत गरेका छन् । पोखरेलले आयोग खारेज गरेर […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/862953/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/862953/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T04:22:51+00:00",
+              "datePublished": "2025-10-11T04:18:59+00:00",
+              "headline": "&#8216;सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो&#8217;",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/862953/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/862953/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/862953/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/862953/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T04:22:51+00:00",
+              "datePublished": "2025-10-11T04:18:59+00:00",
+              "description": "'सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो' ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/862953/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "'सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो' | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/862953/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/862953/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg",
+              "url": "https://khabarhub.com/2025/11/862953/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/862953/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "‘सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो’"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– नेकपा एमालेका महासचिव शंकर पोखरेलले भूमि आयोग खारेज गरेर सरकारले लाखौँ भूमिहीनको जग्गा पाउने मौलिक हक पनि खारेज गरेको टिप्पणी गरेका छन् । आज बिहान सामाजिक सञ्जाल फेसबुकमार्फत उनले अघिल्लो सरकारको नीति, कार्यक्रम, बजेट स्वीकार्य हुने तर त्यसै अन्तर्गत बनेको भूमि आयोग किन अस्वीकार्य भनेर प्रश्न समेत गरेका छन् । पोखरेलले आयोग खारेज गरेर […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/862953/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/07/shankar-pokhrel-3.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T04:18:59Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2c/2c62474bb1fc4591db42bd8918f43a3e5fe8503a73e925ce9bb98d355470a5cf.json",
+  "title": "‘सरकारले भूमिहीनको जग्गा पाउने मौलिक हक खोस्यो’",
+  "url": "https://khabarhub.com/2025/11/862953/",
+  "version": 1
+}
