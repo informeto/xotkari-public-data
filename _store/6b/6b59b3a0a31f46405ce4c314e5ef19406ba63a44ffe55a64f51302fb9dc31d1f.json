@@ -1,0 +1,370 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n60\nShares",
+  "description": "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T10:37:47.851258Z",
+  "id": "6b59b3a0a31f46405ce4c314e5ef19406ba63a44ffe55a64f51302fb9dc31d1f",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/553148746_1506335687080057_353971611982132010_n-567x768.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/863048/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T10:01:32+00:00",
+            "datePublished": "2025-10-11T09:59:11+00:00",
+            "headline": "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863048/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/863048/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863048/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863048/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T10:01:32+00:00",
+            "datePublished": "2025-10-11T09:59:11+00:00",
+            "description": "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863048/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/863048/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863048/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+            "url": "https://khabarhub.com/2025/11/863048/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863048/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+            "height": 475,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+            "width": 1000
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– राष्ट्रपति रामचन्द्र पौडेलको स्वास्थ्यमा समस्या देखिएपछि शनिबार दिउँसो त्रिभुवन विश्वविद्यालय अन्तर्गत मनमोहन कार्डियोथोरासिक भास्कुलर तथा ट्रान्सप्लान्ट सेन्टर, महाराजगञ्जमा भर्ना गरिएको छ । राष्ट्रपतिलाई भर्ना गरिएपछि सेन्टरले जारी गरेको विज्ञप्तिअनुसार अवस्था सामान्य छ । अहिले स्वास्थ्य परीक्षण भइरहेको छ, हाल उनको स्वास्थ्य अवस्था सामान्य रहेको अस्पतालले जानकारी दिएको छ । उपचार प्रक्रियाबारे जानकारी दिँदै सेन्टरका […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/863048/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/863048/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T10:01:32+00:00",
+              "datePublished": "2025-10-11T09:59:11+00:00",
+              "headline": "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863048/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/863048/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863048/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863048/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T10:01:32+00:00",
+              "datePublished": "2025-10-11T09:59:11+00:00",
+              "description": "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863048/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/863048/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863048/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+              "url": "https://khabarhub.com/2025/11/863048/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863048/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+              "height": 475,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg",
+              "width": 1000
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– राष्ट्रपति रामचन्द्र पौडेलको स्वास्थ्यमा समस्या देखिएपछि शनिबार दिउँसो त्रिभुवन विश्वविद्यालय अन्तर्गत मनमोहन कार्डियोथोरासिक भास्कुलर तथा ट्रान्सप्लान्ट सेन्टर, महाराजगञ्जमा भर्ना गरिएको छ । राष्ट्रपतिलाई भर्ना गरिएपछि सेन्टरले जारी गरेको विज्ञप्तिअनुसार अवस्था सामान्य छ । अहिले स्वास्थ्य परीक्षण भइरहेको छ, हाल उनको स्वास्थ्य अवस्था सामान्य रहेको अस्पतालले जानकारी दिएको छ । उपचार प्रक्रियाबारे जानकारी दिँदै सेन्टरका […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/863048/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/06/Ramchandra.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T09:59:11Z",
+  "source": "Khabarhub",
+  "store_path": "_store/6b/6b59b3a0a31f46405ce4c314e5ef19406ba63a44ffe55a64f51302fb9dc31d1f.json",
+  "title": "राष्ट्रपति पौडेलको स्वास्थ्य परीक्षण हुँदै, अवस्था सामान्य",
+  "url": "https://khabarhub.com/2025/11/863048/",
+  "version": 1
+}

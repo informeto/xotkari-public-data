@@ -1,0 +1,373 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n21\nShares",
+  "description": "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T10:37:46.660880Z",
+  "id": "670f9eaf08e46432005ce3f3560b37b4d9f1706abd5e7de2ec1207fa2b63b77b",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/863057/#article",
+            "@type": "Article",
+            "articleSection": [
+              "ट्राभल",
+              "पर्यटन",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T10:16:26+00:00",
+            "datePublished": "2025-10-11T10:16:23+00:00",
+            "headline": "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863057/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/863057/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863057/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+            "wordCount": 1
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863057/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T10:16:26+00:00",
+            "datePublished": "2025-10-11T10:16:23+00:00",
+            "description": "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863057/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/863057/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863057/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+            "url": "https://khabarhub.com/2025/11/863057/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863057/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+            "height": 611,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "दमौली (तनहुँ)- आँबुखैरेनी गाउँपालिकाको प्रमुख पर्यटकीय गन्तव्यस्थल ऐनापहराबाट एक वर्षमा ६० लाख रुपैयाँ आम्दानी भएको छ । आँबुखैरेनी–२ र ४ को सीमानामा अवस्थित ऐनापहराबाट गाउँपालिकाले गत आर्थिक वर्ष आन्तरिक राजस्वतर्फ रु ६० लाख आम्दानी गरेको हो । ऐनापहरामा पर्यटक आकर्षित गर्न पार्क निर्माण गरिएको छ । पार्क प्रवेश गर्नेसँग टिकट लिने गरिएको गाउँपालिकाका अध्यक्ष शुक्र […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/863057/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/863057/#article",
+              "@type": "Article",
+              "articleSection": [
+                "ट्राभल",
+                "पर्यटन",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T10:16:26+00:00",
+              "datePublished": "2025-10-11T10:16:23+00:00",
+              "headline": "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863057/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/863057/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863057/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+              "wordCount": 1
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863057/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T10:16:26+00:00",
+              "datePublished": "2025-10-11T10:16:23+00:00",
+              "description": "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863057/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/863057/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863057/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+              "url": "https://khabarhub.com/2025/11/863057/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863057/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+              "height": 611,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "दमौली (तनहुँ)- आँबुखैरेनी गाउँपालिकाको प्रमुख पर्यटकीय गन्तव्यस्थल ऐनापहराबाट एक वर्षमा ६० लाख रुपैयाँ आम्दानी भएको छ । आँबुखैरेनी–२ र ४ को सीमानामा अवस्थित ऐनापहराबाट गाउँपालिकाले गत आर्थिक वर्ष आन्तरिक राजस्वतर्फ रु ६० लाख आम्दानी गरेको हो । ऐनापहरामा पर्यटक आकर्षित गर्न पार्क निर्माण गरिएको छ । पार्क प्रवेश गर्नेसँग टिकट लिने गरिएको गाउँपालिकाका अध्यक्ष शुक्र […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/863057/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/03/aina-pahara-tanahu.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T10:16:23Z",
+  "source": "Khabarhub",
+  "store_path": "_store/67/670f9eaf08e46432005ce3f3560b37b4d9f1706abd5e7de2ec1207fa2b63b77b.json",
+  "title": "ऐनापहरा पार्कबाट ६० लाख रुपैयाँ आम्दानी",
+  "url": "https://khabarhub.com/2025/11/863057/",
+  "version": 1
+}

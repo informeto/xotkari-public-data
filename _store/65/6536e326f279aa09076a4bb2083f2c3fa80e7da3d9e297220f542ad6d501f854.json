@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n4:00 pm, Sat, 11 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T10:37:28.228330Z",
+  "id": "6536e326f279aa09076a4bb2083f2c3fa80e7da3d9e297220f542ad6d501f854",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510620/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-11T10:15:59+00:00",
+            "datePublished": "2025-10-11T10:15:54+00:00",
+            "headline": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510620/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510620/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510620/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510620/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510620/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510620/#breadcrumb"
+            },
+            "dateModified": "2025-10-11T10:15:59+00:00",
+            "datePublished": "2025-10-11T10:15:54+00:00",
+            "description": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510620/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस् - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510620/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510620/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png",
+            "url": "https://www.imagekhabar.com/news/510620/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510620/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png",
+            "height": 300,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png",
+            "width": 700
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510620/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । नेपाली काँग्रेसका नेता डा.शशांक कोइरालाले केन्द्रिय कार्य समिति तत्काल विघटन गर्न पार्टी सभापति शेरबहादुर देउवालाई आग्रह गर्नुभएको छ । शनिवार पार्टी मुख्यालय सानेपामा सञ्चारकर्मीहरुले राखेका जिज्ञासाको जवाफ दिने क्रममा उहाँले सभापति देउवालाई कार्यबहाक सभापतिको जिम्मेवारी तोक्न पनि सुझाव दिनुभयो । नेता कोइरालाले आगामी मंसिरमा पार्टीको नियमित महाधिवेशन गर्नुपर्ने भएकाले देउवाले कार्यवाहक सभापतिको जिम्मेवारी […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510620/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510620/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-11T10:15:59+00:00",
+              "datePublished": "2025-10-11T10:15:54+00:00",
+              "headline": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510620/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510620/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510620/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510620/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510620/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510620/#breadcrumb"
+              },
+              "dateModified": "2025-10-11T10:15:59+00:00",
+              "datePublished": "2025-10-11T10:15:54+00:00",
+              "description": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510620/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस् - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510620/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510620/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png",
+              "url": "https://www.imagekhabar.com/news/510620/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510620/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png",
+              "height": 300,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png",
+              "width": 700
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510620/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । नेपाली काँग्रेसका नेता डा.शशांक कोइरालाले केन्द्रिय कार्य समिति तत्काल विघटन गर्न पार्टी सभापति शेरबहादुर देउवालाई आग्रह गर्नुभएको छ । शनिवार पार्टी मुख्यालय सानेपामा सञ्चारकर्मीहरुले राखेका जिज्ञासाको जवाफ दिने क्रममा उहाँले सभापति देउवालाई कार्यबहाक सभापतिको जिम्मेवारी तोक्न पनि सुझाव दिनुभयो । नेता कोइरालाले आगामी मंसिरमा पार्टीको नियमित महाधिवेशन गर्नुपर्ने भएकाले देउवाले कार्यवाहक सभापतिको जिम्मेवारी […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510620/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/sashanka_koirala.png"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T10:15:54Z",
+  "source": "Image Khabar",
+  "store_path": "_store/65/6536e326f279aa09076a4bb2083f2c3fa80e7da3d9e297220f542ad6d501f854.json",
+  "title": "शशांक कोइरालाले देउवालाई भन्नुभयो: तत्काल कार्यवाहक सभापति तोक्नुस्",
+  "url": "https://www.imagekhabar.com/news/510620/",
+  "version": 1
+}
