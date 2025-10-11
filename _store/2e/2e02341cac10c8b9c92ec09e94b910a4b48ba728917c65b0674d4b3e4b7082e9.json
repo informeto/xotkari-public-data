@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२५ आश्विन २०८२, शनिबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n123\nShares",
+  "description": "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-11T08:39:20.805164Z",
+  "id": "2e02341cac10c8b9c92ec09e94b910a4b48ba728917c65b0674d4b3e4b7082e9",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/11/863009/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-11T07:49:46+00:00",
+            "datePublished": "2025-10-11T07:49:43+00:00",
+            "headline": "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863009/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/11/863009/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863009/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863009/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-11T07:49:46+00:00",
+            "datePublished": "2025-10-11T07:49:43+00:00",
+            "description": "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/11/863009/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/11/863009/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/11/863009/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+            "url": "https://khabarhub.com/2025/11/863009/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/11/863009/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+            "height": 861,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+            "width": 1536
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौँ – नेपाल कम्युनिस्ट पार्टीको स्थायी समिति बैठक सुरु भएको छ । पार्टी केन्द्रीय कार्यालय कपिलबस्तुमा सुरु भएको बैठकमा महासचिव विप्लव सीले राजनीति प्रस्ताव पेस गरेका छन् । बिहानबाट सुरु भएको बैठकमा महासचिव विप्लवले ‘विशिष्ट परिस्थितिको विशेष कार्यभार’ शीर्षकको प्रस्ताव पेस गरेको नेकपा स्थायी समिति सदस्य अनिल सीले बताए । ८ पृष्ठ लामो प्रस्तावमा जेनजी […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/11/863009/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/11/863009/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-11T07:49:46+00:00",
+              "datePublished": "2025-10-11T07:49:43+00:00",
+              "headline": "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863009/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/11/863009/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863009/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863009/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-11T07:49:46+00:00",
+              "datePublished": "2025-10-11T07:49:43+00:00",
+              "description": "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/11/863009/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/11/863009/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/11/863009/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+              "url": "https://khabarhub.com/2025/11/863009/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/11/863009/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+              "height": 861,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg",
+              "width": 1536
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौँ – नेपाल कम्युनिस्ट पार्टीको स्थायी समिति बैठक सुरु भएको छ । पार्टी केन्द्रीय कार्यालय कपिलबस्तुमा सुरु भएको बैठकमा महासचिव विप्लव सीले राजनीति प्रस्ताव पेस गरेका छन् । बिहानबाट सुरु भएको बैठकमा महासचिव विप्लवले ‘विशिष्ट परिस्थितिको विशेष कार्यभार’ शीर्षकको प्रस्ताव पेस गरेको नेकपा स्थायी समिति सदस्य अनिल सीले बताए । ८ पृष्ठ लामो प्रस्तावमा जेनजी […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/11/863009/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/biplav-si.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-11T07:49:43Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2e/2e02341cac10c8b9c92ec09e94b910a4b48ba728917c65b0674d4b3e4b7082e9.json",
+  "title": "नेकपा स्थायी समिति बैठक सुरु, विप्लवको राजनीतिक प्रस्ताव पेस",
+  "url": "https://khabarhub.com/2025/11/863009/",
+  "version": 1
+}
