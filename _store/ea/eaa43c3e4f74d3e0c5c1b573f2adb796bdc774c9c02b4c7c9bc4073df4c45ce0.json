@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n45\nShares",
+  "description": "धानबालीमा फड्के कीराको सङ्क्रमण   समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T09:33:45.570169Z",
+  "id": "eaa43c3e4f74d3e0c5c1b573f2adb796bdc774c9c02b4c7c9bc4073df4c45ce0",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863413/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T08:45:06+00:00",
+            "datePublished": "2025-10-12T08:45:04+00:00",
+            "headline": "धानबालीमा फड्के कीराको सङ्क्रमण  ",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863413/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863413/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863413/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863413/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T08:45:06+00:00",
+            "datePublished": "2025-10-12T08:45:04+00:00",
+            "description": "धानबालीमा फड्के कीराको सङ्क्रमण   समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863413/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "धानबालीमा फड्के कीराको सङ्क्रमण   | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863413/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863413/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg",
+            "url": "https://khabarhub.com/2025/12/863413/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863413/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg",
+            "height": 960,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "धानबालीमा फड्के कीराको सङ्क्रमण  "
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "पर्वत– जिल्लाको पैँयु र विहादी गाउँपालिकाका विभिन्न वडामा धानबालीमा फड्के कीराको सङ्क्रमण तीव्र रूपमा फैलिएको छ ।  धान फलेर पाक्ने बेलामा फड्के कीराको सङ्क्रमण बढेपछि कृषक चिन्तित बनेका छन् । कृषि ज्ञान केन्द्रका अनुसार कृषि प्राविधिकको स्थलगत अनुगमनका क्रममा ती क्षेत्रमा कीराको आक्रमणका कारण धानबालीमा व्यापक क्षति पुगेको पाइएको छ ।  फड्के कीराको बयस्क र बच्चा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863413/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863413/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T08:45:06+00:00",
+              "datePublished": "2025-10-12T08:45:04+00:00",
+              "headline": "धानबालीमा फड्के कीराको सङ्क्रमण  ",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863413/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863413/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863413/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863413/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T08:45:06+00:00",
+              "datePublished": "2025-10-12T08:45:04+00:00",
+              "description": "धानबालीमा फड्के कीराको सङ्क्रमण   समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863413/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "धानबालीमा फड्के कीराको सङ्क्रमण   | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863413/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863413/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg",
+              "url": "https://khabarhub.com/2025/12/863413/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863413/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg",
+              "height": 960,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "धानबालीमा फड्के कीराको सङ्क्रमण  "
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "पर्वत– जिल्लाको पैँयु र विहादी गाउँपालिकाका विभिन्न वडामा धानबालीमा फड्के कीराको सङ्क्रमण तीव्र रूपमा फैलिएको छ ।  धान फलेर पाक्ने बेलामा फड्के कीराको सङ्क्रमण बढेपछि कृषक चिन्तित बनेका छन् । कृषि ज्ञान केन्द्रका अनुसार कृषि प्राविधिकको स्थलगत अनुगमनका क्रममा ती क्षेत्रमा कीराको आक्रमणका कारण धानबालीमा व्यापक क्षति पुगेको पाइएको छ ।  फड्के कीराको बयस्क र बच्चा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863413/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/dhanbali.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T08:45:04Z",
+  "source": "Khabarhub",
+  "store_path": "_store/ea/eaa43c3e4f74d3e0c5c1b573f2adb796bdc774c9c02b4c7c9bc4073df4c45ce0.json",
+  "title": "धानबालीमा फड्के कीराको सङ्क्रमण",
+  "url": "https://khabarhub.com/2025/12/863413/",
+  "version": 1
+}

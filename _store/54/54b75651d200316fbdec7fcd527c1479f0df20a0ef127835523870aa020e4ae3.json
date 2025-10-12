@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n2:28 pm, Sun, 12 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T09:31:47.486193Z",
+  "id": "54b75651d200316fbdec7fcd527c1479f0df20a0ef127835523870aa020e4ae3",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png",
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510703/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-12T08:43:13+00:00",
+            "datePublished": "2025-10-12T08:43:08+00:00",
+            "headline": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510703/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510703/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510703/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510703/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510703/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510703/#breadcrumb"
+            },
+            "dateModified": "2025-10-12T08:43:13+00:00",
+            "datePublished": "2025-10-12T08:43:08+00:00",
+            "description": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510703/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510703/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510703/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg",
+            "url": "https://www.imagekhabar.com/news/510703/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510703/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg",
+            "height": 720,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg",
+            "width": 1280
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510703/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं । सञ्चार तथा सूचना प्रविधिमन्त्री जगदीश खरेलले सामाजिक सञ्जालमा फैलिरहेको गलत सूचना र फेकन्यूजको नियन्त्रणका लागि ऐन तथा कानुनमा व्यापक संशोधन आवश्यक रहेको बताएका छन् । प्रेस काउन्सिल नेपालसँगको छलफलमा बोल्दै उनले हाल सञ्चालित करिब २० हजार सामाजिक सञ्जाल प्लेटफर्ममध्ये धेरैजसो सञ्चारमाध्यमको नाममा भए पनि ‘आउट अफ ट्रयाक’ गएको जस्तो देखिएको उल्लेख गरे । […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510703/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510703/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-12T08:43:13+00:00",
+              "datePublished": "2025-10-12T08:43:08+00:00",
+              "headline": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510703/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510703/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510703/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510703/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510703/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510703/#breadcrumb"
+              },
+              "dateModified": "2025-10-12T08:43:13+00:00",
+              "datePublished": "2025-10-12T08:43:08+00:00",
+              "description": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510703/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510703/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510703/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg",
+              "url": "https://www.imagekhabar.com/news/510703/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510703/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg",
+              "height": 720,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg",
+              "width": 1280
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510703/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं । सञ्चार तथा सूचना प्रविधिमन्त्री जगदीश खरेलले सामाजिक सञ्जालमा फैलिरहेको गलत सूचना र फेकन्यूजको नियन्त्रणका लागि ऐन तथा कानुनमा व्यापक संशोधन आवश्यक रहेको बताएका छन् । प्रेस काउन्सिल नेपालसँगको छलफलमा बोल्दै उनले हाल सञ्चालित करिब २० हजार सामाजिक सञ्जाल प्लेटफर्ममध्ये धेरैजसो सञ्चारमाध्यमको नाममा भए पनि ‘आउट अफ ट्रयाक’ गएको जस्तो देखिएको उल्लेख गरे । […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510703/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/jagadis-kharel.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T08:43:08Z",
+  "source": "Image Khabar",
+  "store_path": "_store/54/54b75651d200316fbdec7fcd527c1479f0df20a0ef127835523870aa020e4ae3.json",
+  "title": "सामाजिक सञ्जालको विकृति रोक्न ऐन संशोधन जरुरी : मन्त्री खरेल",
+  "url": "https://www.imagekhabar.com/news/510703/",
+  "version": 1
+}
