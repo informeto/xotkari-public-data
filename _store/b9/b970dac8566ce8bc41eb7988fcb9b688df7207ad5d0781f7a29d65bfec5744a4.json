@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T11:29:42.625748Z",
+  "id": "b970dac8566ce8bc41eb7988fcb9b688df7207ad5d0781f7a29d65bfec5744a4",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863504/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T11:18:58+00:00",
+            "datePublished": "2025-10-12T11:18:39+00:00",
+            "headline": "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863504/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863504/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863504/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg",
+            "wordCount": 9
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863504/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T11:18:58+00:00",
+            "datePublished": "2025-10-12T11:18:39+00:00",
+            "description": "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863504/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863504/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863504/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg",
+            "url": "https://khabarhub.com/2025/12/863504/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863504/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg",
+            "height": 5334,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg",
+            "width": 9144
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– सञ्चार तथा सूचना प्रविधिमन्त्री जगदीश खरेलले प्राप्त जिम्मेवारीअनुसार आगामी फागुन २१ गते निर्वाचन गराउने प्रतिबद्धतासहित सरकार अघि बढेको बताएका छन् ।   नेपाल पत्रकार महासङ्घले आज आयोजना गरेको स्वागत कार्यक्रमलाई सम्बोधन गर्दै सञ्चरमन्त्री खरेलले फागुन २१ गते प्रतिनिधिसभाको निर्वाचन गराउने ‘म्याण्डेट’ रहेकाले सोहीअनुसार निर्वाचन गराउनेतर्फ सरकार केन्द्रित भएको स्पष्ट गरे ।   सरकारको प्रमुख प्राथमिकता भनेको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863504/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863504/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T11:18:58+00:00",
+              "datePublished": "2025-10-12T11:18:39+00:00",
+              "headline": "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863504/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863504/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863504/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg",
+              "wordCount": 9
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863504/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T11:18:58+00:00",
+              "datePublished": "2025-10-12T11:18:39+00:00",
+              "description": "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863504/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863504/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863504/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg",
+              "url": "https://khabarhub.com/2025/12/863504/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863504/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg",
+              "height": 5334,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg",
+              "width": 9144
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– सञ्चार तथा सूचना प्रविधिमन्त्री जगदीश खरेलले प्राप्त जिम्मेवारीअनुसार आगामी फागुन २१ गते निर्वाचन गराउने प्रतिबद्धतासहित सरकार अघि बढेको बताएका छन् ।   नेपाल पत्रकार महासङ्घले आज आयोजना गरेको स्वागत कार्यक्रमलाई सम्बोधन गर्दै सञ्चरमन्त्री खरेलले फागुन २१ गते प्रतिनिधिसभाको निर्वाचन गराउने ‘म्याण्डेट’ रहेकाले सोहीअनुसार निर्वाचन गराउनेतर्फ सरकार केन्द्रित भएको स्पष्ट गरे ।   सरकारको प्रमुख प्राथमिकता भनेको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863504/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/nirmala-sharma-jagdish-kharel.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T11:18:39Z",
+  "source": "Khabarhub",
+  "store_path": "_store/b9/b970dac8566ce8bc41eb7988fcb9b688df7207ad5d0781f7a29d65bfec5744a4.json",
+  "title": "हाम्रो ‘म्याण्डेड’ चुनाव गराउने हो, फागुन २१ गते निर्वाचन हुन्छ : मन्त्री खरेल",
+  "url": "https://khabarhub.com/2025/12/863504/",
+  "version": 1
+}

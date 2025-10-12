@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n0\nShares",
+  "description": "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T11:29:44.038413Z",
+  "id": "2f48eb641ec028d3ff3684a03e4e2a818a9f362ca59da1e49a42e2611ef915bf",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863485/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T11:08:38+00:00",
+            "datePublished": "2025-10-12T11:08:32+00:00",
+            "headline": "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863485/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863485/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863485/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "wordCount": 5
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863485/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T11:08:38+00:00",
+            "datePublished": "2025-10-12T11:08:32+00:00",
+            "description": "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863485/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863485/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863485/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "url": "https://khabarhub.com/2025/12/863485/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863485/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– दसैँको घटस्थापनादेखि आजसम्म काठमाडौं उपत्यकामा १७५ सवारीसाधन दुर्घटनामा परी नौ जनाले ज्यान गुमाएका छन् । दसैँको घटनस्थापनादेखि आजसम्म उपत्यकामा १७५ सवारीसाधन दुर्घटना भएका र उक्त दुर्घटनामा परी १८८ जना गम्भीर घाइते भएका काठमाडौं उपत्यका ट्राफिक कार्यालयका प्रवक्ता एवं प्रहरी उपरीक्षक नरेशराज सुवेदीले जानकारी दिए । उनका अनुसार अधिकांश घटना रातिको समयमा दुर्घटना भएका छन् […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863485/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863485/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T11:08:38+00:00",
+              "datePublished": "2025-10-12T11:08:32+00:00",
+              "headline": "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863485/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863485/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863485/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "wordCount": 5
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863485/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T11:08:38+00:00",
+              "datePublished": "2025-10-12T11:08:32+00:00",
+              "description": "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863485/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863485/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863485/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "url": "https://khabarhub.com/2025/12/863485/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863485/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– दसैँको घटस्थापनादेखि आजसम्म काठमाडौं उपत्यकामा १७५ सवारीसाधन दुर्घटनामा परी नौ जनाले ज्यान गुमाएका छन् । दसैँको घटनस्थापनादेखि आजसम्म उपत्यकामा १७५ सवारीसाधन दुर्घटना भएका र उक्त दुर्घटनामा परी १८८ जना गम्भीर घाइते भएका काठमाडौं उपत्यका ट्राफिक कार्यालयका प्रवक्ता एवं प्रहरी उपरीक्षक नरेशराज सुवेदीले जानकारी दिए । उनका अनुसार अधिकांश घटना रातिको समयमा दुर्घटना भएका छन् […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863485/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2022/07/Khabar-Hub-News_Accident_1200px-630X-px-Final_2021.01.21-Upload.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T11:08:32Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2f/2f48eb641ec028d3ff3684a03e4e2a818a9f362ca59da1e49a42e2611ef915bf.json",
+  "title": "घटस्थापनायता काठमाडौंमा १७५ दुर्घटना, नौ जनाको मृत्यु",
+  "url": "https://khabarhub.com/2025/12/863485/",
+  "version": 1
+}
