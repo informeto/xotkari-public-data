@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n462\nShares",
+  "description": "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T06:42:52.918873Z",
+  "id": "c5f7a653e02fc895719bfb8613ecaa6de6462996bc38f1c0cfc85da796bb6a2d",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863262/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T05:37:27+00:00",
+            "datePublished": "2025-10-12T05:37:25+00:00",
+            "headline": "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863262/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863262/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863262/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "wordCount": 2
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863262/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T05:37:27+00:00",
+            "datePublished": "2025-10-12T05:37:25+00:00",
+            "description": "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863262/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863262/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863262/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "url": "https://khabarhub.com/2025/12/863262/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863262/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "height": 710,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं- नेकपा (माओवादी केन्द्र) ले पार्टी संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ र उनका परिवारका सदस्यहरूलाई लक्षित गरी केही सञ्चारमाध्यम र सामाजिक सञ्जालहरूमा गरिएको प्रचारको कडा विरोध गरेको छ। संयोजक प्रचण्डको सचिवालयका तर्फबाट गोविन्द आचार्यले जारी गरेको विज्ञप्तिमा पछिल्ला दिनमा विभिन्न माध्यममार्फत् चरित्रहत्या र भ्रम फैलाउने प्रयास भएको भन्दै गम्भीर ध्यानाकर्षण गरिएको उल्लेख छ। विज्ञप्तिमा भनिएको छ, […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863262/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863262/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T05:37:27+00:00",
+              "datePublished": "2025-10-12T05:37:25+00:00",
+              "headline": "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863262/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863262/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863262/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "wordCount": 2
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863262/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T05:37:27+00:00",
+              "datePublished": "2025-10-12T05:37:25+00:00",
+              "description": "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863262/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863262/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863262/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "url": "https://khabarhub.com/2025/12/863262/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863262/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "height": 710,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं- नेकपा (माओवादी केन्द्र) ले पार्टी संयोजक पुष्पकमल दाहाल ‘प्रचण्ड’ र उनका परिवारका सदस्यहरूलाई लक्षित गरी केही सञ्चारमाध्यम र सामाजिक सञ्जालहरूमा गरिएको प्रचारको कडा विरोध गरेको छ। संयोजक प्रचण्डको सचिवालयका तर्फबाट गोविन्द आचार्यले जारी गरेको विज्ञप्तिमा पछिल्ला दिनमा विभिन्न माध्यममार्फत् चरित्रहत्या र भ्रम फैलाउने प्रयास भएको भन्दै गम्भीर ध्यानाकर्षण गरिएको उल्लेख छ। विज्ञप्तिमा भनिएको छ, […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863262/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/09/prachanda-7.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T05:37:25Z",
+  "source": "Khabarhub",
+  "store_path": "_store/c5/c5f7a653e02fc895719bfb8613ecaa6de6462996bc38f1c0cfc85da796bb6a2d.json",
+  "title": "प्रचण्डको सचिवालयको चुनौती- निवासबाट ट्रकमा दुई करोड रुपैयाँ लगेको पुष्टि गर्नू",
+  "url": "https://khabarhub.com/2025/12/863262/",
+  "version": 1
+}
