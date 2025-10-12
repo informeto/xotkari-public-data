@@ -1,10 +1,367 @@
 {
-  "content": "",
-  "description": "हुम्ला– हुम्लाको हिल्सा हुँदै मानसरोवर कैलाश दर्शन गर्न जाने भारतीय तीर्थयात्रीको यस वर्षको यात्रा सकिएको छ । चिसो बढ्दै जाँदा भारतीय तीर्थयात्रीको यस वर्षको मानसरोवर कैलाश यात्राको याम सकिएको होटल व्यवसायी मिम लामाले जानकारी दिए । काठमाडौं, नेपालगञ्ज हुँदै हुम्लाको हिल्सा भएर मानसरोवर जाने तीर्थयात्रीको यस वर्षको यात्रा सकिएको उनले बताए । कोरोना सङ्क्रमणपछि भारतीय […]",
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n18\nShares",
+  "description": "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि पर्यटन",
   "domain": "khabarhub.com",
-  "fetched_at": "2025-10-12T04:39:54.321394Z",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T05:34:44.183229Z",
   "id": "15d0ca91e25b4c2fcb0276b85b829ae1cb8962c730c48b7c0e7203655e13e02c",
-  "images": [],
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863244/#article",
+            "@type": "Article",
+            "articleSection": [
+              "पर्यटन",
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T04:16:59+00:00",
+            "datePublished": "2025-10-12T04:16:52+00:00",
+            "headline": "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863244/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863244/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863244/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863244/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T04:16:59+00:00",
+            "datePublished": "2025-10-12T04:16:52+00:00",
+            "description": "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि पर्यटन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863244/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863244/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863244/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+            "url": "https://khabarhub.com/2025/12/863244/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863244/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+            "height": 526,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "हुम्ला– हुम्लाको हिल्सा हुँदै मानसरोवर कैलाश दर्शन गर्न जाने भारतीय तीर्थयात्रीको यस वर्षको यात्रा सकिएको छ । चिसो बढ्दै जाँदा भारतीय तीर्थयात्रीको यस वर्षको मानसरोवर कैलाश यात्राको याम सकिएको होटल व्यवसायी मिम लामाले जानकारी दिए । काठमाडौं, नेपालगञ्ज हुँदै हुम्लाको हिल्सा भएर मानसरोवर जाने तीर्थयात्रीको यस वर्षको यात्रा सकिएको उनले बताए । कोरोना सङ्क्रमणपछि भारतीय […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863244/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863244/#article",
+              "@type": "Article",
+              "articleSection": [
+                "पर्यटन",
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T04:16:59+00:00",
+              "datePublished": "2025-10-12T04:16:52+00:00",
+              "headline": "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863244/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863244/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863244/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863244/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T04:16:59+00:00",
+              "datePublished": "2025-10-12T04:16:52+00:00",
+              "description": "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि पर्यटन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863244/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863244/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863244/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+              "url": "https://khabarhub.com/2025/12/863244/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863244/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+              "height": 526,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हिल्सा हुँदै मानसरोवर जाने तीर्थयात्रीको सङ्ख्या वृद्धि"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "हुम्ला– हुम्लाको हिल्सा हुँदै मानसरोवर कैलाश दर्शन गर्न जाने भारतीय तीर्थयात्रीको यस वर्षको यात्रा सकिएको छ । चिसो बढ्दै जाँदा भारतीय तीर्थयात्रीको यस वर्षको मानसरोवर कैलाश यात्राको याम सकिएको होटल व्यवसायी मिम लामाले जानकारी दिए । काठमाडौं, नेपालगञ्ज हुँदै हुम्लाको हिल्सा भएर मानसरोवर जाने तीर्थयात्रीको यस वर्षको यात्रा सकिएको उनले बताए । कोरोना सङ्क्रमणपछि भारतीय […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863244/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/hilsa.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
   "published_at": "2025-10-12T04:16:52Z",
   "source": "Khabarhub",
   "store_path": "_store/15/15d0ca91e25b4c2fcb0276b85b829ae1cb8962c730c48b7c0e7203655e13e02c.json",
