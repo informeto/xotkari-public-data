@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n9:18 am, Sun, 12 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T03:44:59.334716Z",
+  "id": "a5195d3a6af7a01aa4d79842249ffab5ed3dec87e5294ea887c0a49bf1397f70",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510665/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-12T03:33:49+00:00",
+            "datePublished": "2025-10-12T03:33:38+00:00",
+            "headline": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510665/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510665/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510665/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510665/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+            "wordCount": 7
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510665/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510665/#breadcrumb"
+            },
+            "dateModified": "2025-10-12T03:33:49+00:00",
+            "datePublished": "2025-10-12T03:33:38+00:00",
+            "description": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510665/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510665/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510665/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+            "url": "https://www.imagekhabar.com/news/510665/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510665/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510665/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमडौं । शिक्षा मन्त्री महावीर पुनले जेनजीहरूलाई राष्ट्रिय हितका लागि गुटबन्दी र खुट्टा तानातान नगर्न ६ बुँदामा सुझाव दिएका छन्। उनले सामाजिक सञ्जालमार्फत इतिहासबाट सिकेर गुटबन्दीले नेपाली जनतालाई धेरै दुःख दिएको उल्लेख गर्नुभयो। उनले जेनजीलाई मातृभूमिको अस्तित्वका लागि गुटबन्दी नदोहऱ्याउन विनम्र अनुरोध गर्नुभयो। उहाँले सामाजिक संञ्जालमा यस्ताे लेख्नुभएकाे छ : राष्ट्रिय हितको लागि गुटबन्दी र […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510665/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510665/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-12T03:33:49+00:00",
+              "datePublished": "2025-10-12T03:33:38+00:00",
+              "headline": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510665/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510665/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510665/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510665/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+              "wordCount": 7
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510665/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510665/#breadcrumb"
+              },
+              "dateModified": "2025-10-12T03:33:49+00:00",
+              "datePublished": "2025-10-12T03:33:38+00:00",
+              "description": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510665/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510665/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510665/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+              "url": "https://www.imagekhabar.com/news/510665/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510665/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510665/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमडौं । शिक्षा मन्त्री महावीर पुनले जेनजीहरूलाई राष्ट्रिय हितका लागि गुटबन्दी र खुट्टा तानातान नगर्न ६ बुँदामा सुझाव दिएका छन्। उनले सामाजिक सञ्जालमार्फत इतिहासबाट सिकेर गुटबन्दीले नेपाली जनतालाई धेरै दुःख दिएको उल्लेख गर्नुभयो। उनले जेनजीलाई मातृभूमिको अस्तित्वका लागि गुटबन्दी नदोहऱ्याउन विनम्र अनुरोध गर्नुभयो। उहाँले सामाजिक संञ्जालमा यस्ताे लेख्नुभएकाे छ : राष्ट्रिय हितको लागि गुटबन्दी र […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510665/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/mahabir-pun-.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T03:33:38Z",
+  "source": "Image Khabar",
+  "store_path": "_store/a5/a5195d3a6af7a01aa4d79842249ffab5ed3dec87e5294ea887c0a49bf1397f70.json",
+  "title": "जेनजीलाई गुटबन्दी र खुट्टा तानातान नगर्न शिक्षामन्त्री पुनकाे ६ बुँदे सुझाव",
+  "url": "https://www.imagekhabar.com/news/510665/",
+  "version": 1
+}
