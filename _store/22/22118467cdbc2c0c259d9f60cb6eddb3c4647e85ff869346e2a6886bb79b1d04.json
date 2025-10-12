@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n18\nShares",
+  "description": "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T07:30:59.451311Z",
+  "id": "22118467cdbc2c0c259d9f60cb6eddb3c4647e85ff869346e2a6886bb79b1d04",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863322/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T06:42:56+00:00",
+            "datePublished": "2025-10-12T06:42:53+00:00",
+            "headline": "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863322/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863322/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863322/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863322/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T06:42:56+00:00",
+            "datePublished": "2025-10-12T06:42:53+00:00",
+            "description": "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863322/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863322/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863322/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+            "url": "https://khabarhub.com/2025/12/863322/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863322/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+            "height": 799,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "कर्णाली- कर्णाली प्रदेश सरकारका मुख्यमन्त्री यामलाल कँडेलले हरेक काम जनतासँग जोडिएर गर्नुपर्ने बताएका छन् । सुर्खेतको वीरेन्द्रनगरमा आइतबार नेपाल कम्युनिष्ट पार्टी (एमाले) नगर कमिटी र निर्वाचित जनप्रतिनिधिसँगको छलफल कार्यक्रममा उनले आफूलाई राम्रो लाग्ने काम नभई जनताको जीवनमा सकारात्मक प्रभाव पार्ने काममा ध्यान केन्द्रित गर्न आग्रह गरे ।  उनले भने, ‘जनताले समर्थन गर्ने काम गर्नुस्, जनताको […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863322/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863322/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T06:42:56+00:00",
+              "datePublished": "2025-10-12T06:42:53+00:00",
+              "headline": "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863322/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863322/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863322/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863322/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T06:42:56+00:00",
+              "datePublished": "2025-10-12T06:42:53+00:00",
+              "description": "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863322/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863322/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863322/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+              "url": "https://khabarhub.com/2025/12/863322/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863322/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+              "height": 799,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "कर्णाली- कर्णाली प्रदेश सरकारका मुख्यमन्त्री यामलाल कँडेलले हरेक काम जनतासँग जोडिएर गर्नुपर्ने बताएका छन् । सुर्खेतको वीरेन्द्रनगरमा आइतबार नेपाल कम्युनिष्ट पार्टी (एमाले) नगर कमिटी र निर्वाचित जनप्रतिनिधिसँगको छलफल कार्यक्रममा उनले आफूलाई राम्रो लाग्ने काम नभई जनताको जीवनमा सकारात्मक प्रभाव पार्ने काममा ध्यान केन्द्रित गर्न आग्रह गरे ।  उनले भने, ‘जनताले समर्थन गर्ने काम गर्नुस्, जनताको […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863322/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/05/yamlal.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T06:42:53Z",
+  "source": "Khabarhub",
+  "store_path": "_store/22/22118467cdbc2c0c259d9f60cb6eddb3c4647e85ff869346e2a6886bb79b1d04.json",
+  "title": "हरेक काम जनतासँग जोडिएर गर्न मुख्यमन्त्री कँडेलको आग्रह",
+  "url": "https://khabarhub.com/2025/12/863322/",
+  "version": 1
+}

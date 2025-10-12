@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n12\nShares",
+  "description": "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T07:30:55.738399Z",
+  "id": "a509326511bfa0203282395d3f822bf33a09cd1ae7d754f79e0fa91d93bb7818",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863360/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T07:16:41+00:00",
+            "datePublished": "2025-10-12T07:16:38+00:00",
+            "headline": "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863360/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863360/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863360/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+            "wordCount": 4
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863360/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T07:16:41+00:00",
+            "datePublished": "2025-10-12T07:16:38+00:00",
+            "description": "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863360/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863360/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863360/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+            "url": "https://khabarhub.com/2025/12/863360/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863360/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+            "height": 431,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+            "width": 827
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "दमौली– यहाँको म्याग्दे गाउँपालिकाले चालु आर्थिक वर्षमा आर्थिक रूपमा विपन्न वर्गलाई १२ वटा नमुना आवास निर्माण गर्ने भएको छ । म्याग्देले कूल ६० नमुना आवास निर्माण गर्ने घोषणा गरेबमोजिम गत आवसम्म ४८ घर निर्माण गरी लाभग्राहीलाई हस्तान्तरण गरिसकेको छ ।  सोही योजनाबमोजिम चालु आवमा १२ वटा घर निर्माण गर्न लागिएको प्रमुख प्रशासकीय अधिकृत नारायणप्रसाद अधिकारीले […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863360/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863360/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T07:16:41+00:00",
+              "datePublished": "2025-10-12T07:16:38+00:00",
+              "headline": "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863360/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863360/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863360/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+              "wordCount": 4
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863360/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T07:16:41+00:00",
+              "datePublished": "2025-10-12T07:16:38+00:00",
+              "description": "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863360/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863360/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863360/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+              "url": "https://khabarhub.com/2025/12/863360/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863360/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+              "height": 431,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg",
+              "width": 827
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "दमौली– यहाँको म्याग्दे गाउँपालिकाले चालु आर्थिक वर्षमा आर्थिक रूपमा विपन्न वर्गलाई १२ वटा नमुना आवास निर्माण गर्ने भएको छ । म्याग्देले कूल ६० नमुना आवास निर्माण गर्ने घोषणा गरेबमोजिम गत आवसम्म ४८ घर निर्माण गरी लाभग्राहीलाई हस्तान्तरण गरिसकेको छ ।  सोही योजनाबमोजिम चालु आवमा १२ वटा घर निर्माण गर्न लागिएको प्रमुख प्रशासकीय अधिकृत नारायणप्रसाद अधिकारीले […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863360/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2024/01/Myagde-Gaupalika.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T07:16:38Z",
+  "source": "Khabarhub",
+  "store_path": "_store/a5/a509326511bfa0203282395d3f822bf33a09cd1ae7d754f79e0fa91d93bb7818.json",
+  "title": "म्याग्दे गाउँपालिकाले विपन्नका लागि घर बनाइदिने",
+  "url": "https://khabarhub.com/2025/12/863360/",
+  "version": 1
+}
