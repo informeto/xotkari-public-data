@@ -1,0 +1,376 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n180\nShares",
+  "description": "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल ब्रेकिङ स्टोरी",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T02:14:04.935524Z",
+  "id": "2faf9feb4f56ee43b61ce35c5673c5f568d4f8eb5d7a662e3669452ea6d6a076",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Nepali-cricket-2-768x512.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863207/#article",
+            "@type": "Article",
+            "articleSection": [
+              "क्रिकेट",
+              "खेलकुद",
+              "ब्रेकिङ स्टोरी"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T00:57:18+00:00",
+            "datePublished": "2025-10-12T00:52:04+00:00",
+            "headline": "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863207/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863207/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863207/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863207/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T00:57:18+00:00",
+            "datePublished": "2025-10-12T00:52:04+00:00",
+            "description": "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल ब्रेकिङ स्टोरी",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863207/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863207/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863207/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+            "url": "https://khabarhub.com/2025/12/863207/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863207/#primaryimage",
+            "@type": "ImageObject",
+            "caption": "फाइल तस्बिर क्यान",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+            "height": 675,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+            "width": 1200
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं – आईसीसी टी–२० विश्वकप एसिया र इस्ट एसिया प्यासिफिक छनोटको सुपर सिक्समा आज नेपालले यूएईसँग प्रतिस्पर्धा गर्दैछ । समूह ‘बी’को समूह विजेता बनेको नेपालले समूह ‘ए’को विजेता यूएईसँगको भेट पक्का गरेको हो । शुक्रबार सम्पन्न समूह ‘बी’को अन्तिम खेलमा नेपालले जापानमाथि ५ विकेटको जित निकालेको थियो । समूह चरणको पहिलो खेलमा नेपालले कुवेतलाई ५८ […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863207/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863207/#article",
+              "@type": "Article",
+              "articleSection": [
+                "क्रिकेट",
+                "खेलकुद",
+                "ब्रेकिङ स्टोरी"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T00:57:18+00:00",
+              "datePublished": "2025-10-12T00:52:04+00:00",
+              "headline": "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863207/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863207/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863207/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863207/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T00:57:18+00:00",
+              "datePublished": "2025-10-12T00:52:04+00:00",
+              "description": "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल ब्रेकिङ स्टोरी",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863207/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863207/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863207/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+              "url": "https://khabarhub.com/2025/12/863207/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863207/#primaryimage",
+              "@type": "ImageObject",
+              "caption": "फाइल तस्बिर क्यान",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+              "height": 675,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg",
+              "width": 1200
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं – आईसीसी टी–२० विश्वकप एसिया र इस्ट एसिया प्यासिफिक छनोटको सुपर सिक्समा आज नेपालले यूएईसँग प्रतिस्पर्धा गर्दैछ । समूह ‘बी’को समूह विजेता बनेको नेपालले समूह ‘ए’को विजेता यूएईसँगको भेट पक्का गरेको हो । शुक्रबार सम्पन्न समूह ‘बी’को अन्तिम खेलमा नेपालले जापानमाथि ५ विकेटको जित निकालेको थियो । समूह चरणको पहिलो खेलमा नेपालले कुवेतलाई ५८ […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863207/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/nepali-cricket-team.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T00:52:04Z",
+  "source": "Khabarhub",
+  "store_path": "_store/2f/2faf9feb4f56ee43b61ce35c5673c5f568d4f8eb5d7a662e3669452ea6d6a076.json",
+  "title": "विश्वकप छनोट : सुपर सिक्सको पहिलो खेलमा आज यूएईसँग भिड्दै नेपाल",
+  "url": "https://khabarhub.com/2025/12/863207/",
+  "version": 1
+}
