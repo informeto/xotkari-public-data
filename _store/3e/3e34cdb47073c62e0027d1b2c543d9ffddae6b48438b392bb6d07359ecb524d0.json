@@ -1,0 +1,371 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n< 1\nमिनेट\n84\nShares",
+  "description": "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा मनोरञ्जन",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T08:43:17.840690Z",
+  "id": "3e34cdb47073c62e0027d1b2c543d9ffddae6b48438b392bb6d07359ecb524d0",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863394/#article",
+            "@type": "Article",
+            "articleSection": [
+              "बलिउड/हलिउड",
+              "मनोरञ्जन"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T08:17:44+00:00",
+            "datePublished": "2025-10-12T08:17:43+00:00",
+            "headline": "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863394/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863394/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863394/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+            "wordCount": 6
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863394/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T08:17:44+00:00",
+            "datePublished": "2025-10-12T08:17:43+00:00",
+            "description": "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा मनोरञ्जन",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863394/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863394/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863394/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+            "url": "https://khabarhub.com/2025/12/863394/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863394/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+            "height": 494,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+            "width": 868
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं– बलिउडका दिग्गज अभिनेता धर्मेन्द्रको जीवन केवल पर्दामा होइन, पर्दा पछाडी पनि नाटकीय कथाले भरिएको छ । पंजाबबाट फिल्मी दुनियाँको खोजीमा मुम्बई आएका धर्मेन्द्र त्यसबेला पहिले नै विवाहित थिए । उनको जीवनमा पहिलो साथी बनेकी थिइन् प्रकाश कौर, जससँग उनले सन् १९५४ मा विवाह गरेका थिए, जब धर्मेन्द्र मात्र १९ वर्षका थिए । समय बित्दै […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863394/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863394/#article",
+              "@type": "Article",
+              "articleSection": [
+                "बलिउड/हलिउड",
+                "मनोरञ्जन"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T08:17:44+00:00",
+              "datePublished": "2025-10-12T08:17:43+00:00",
+              "headline": "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863394/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863394/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863394/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+              "wordCount": 6
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863394/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T08:17:44+00:00",
+              "datePublished": "2025-10-12T08:17:43+00:00",
+              "description": "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा मनोरञ्जन",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863394/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863394/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863394/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+              "url": "https://khabarhub.com/2025/12/863394/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863394/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+              "height": 494,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg",
+              "width": 868
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं– बलिउडका दिग्गज अभिनेता धर्मेन्द्रको जीवन केवल पर्दामा होइन, पर्दा पछाडी पनि नाटकीय कथाले भरिएको छ । पंजाबबाट फिल्मी दुनियाँको खोजीमा मुम्बई आएका धर्मेन्द्र त्यसबेला पहिले नै विवाहित थिए । उनको जीवनमा पहिलो साथी बनेकी थिइन् प्रकाश कौर, जससँग उनले सन् १९५४ मा विवाह गरेका थिए, जब धर्मेन्द्र मात्र १९ वर्षका थिए । समय बित्दै […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863394/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/prakesh.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T08:17:43Z",
+  "source": "Khabarhub",
+  "store_path": "_store/3e/3e34cdb47073c62e0027d1b2c543d9ffddae6b48438b392bb6d07359ecb524d0.json",
+  "title": "धर्मेन्द्र र प्रकाश कौरसँगै, हेमा मालिनी अलग बंग्लोमा",
+  "url": "https://khabarhub.com/2025/12/863394/",
+  "version": 1
+}

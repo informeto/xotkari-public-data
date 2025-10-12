@@ -1,0 +1,429 @@
+{
+  "author": "",
+  "content": "ईमेजखबर\n1:15 pm, Sun, 12 October 25",
+  "description": "Image Khabar is launched by image group of companies. The first private Sector Owned Broadcasting channel in Nepal to transmit entertainment, infotainment programs and news.",
+  "domain": "imagekhabar.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T08:42:55.443393Z",
+  "id": "6a2755b8f2869bbd8fc82d3962be0a98e79c6a012ece17415eeeee430b87784e",
+  "images": [
+    "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+    "https://www.imagekhabar.com/wp-content/uploads/2021/09/Imaga-HD-Logo-150x150.png"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://www.imagekhabar.com/news/510700/#article",
+            "@type": "Article",
+            "articleSection": [
+              "BREAKING",
+              "राजनीति"
+            ],
+            "author": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "name": "ईमेजखबर"
+            },
+            "commentCount": 0,
+            "dateModified": "2025-10-12T07:30:57+00:00",
+            "datePublished": "2025-10-12T07:30:52+00:00",
+            "headline": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510700/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/news/510700/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510700/"
+            },
+            "potentialAction": [
+              {
+                "@type": "CommentAction",
+                "name": "Comment",
+                "target": [
+                  "https://www.imagekhabar.com/news/510700/#respond"
+                ]
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+            "wordCount": 0
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510700/",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://www.imagekhabar.com/news/510700/#breadcrumb"
+            },
+            "dateModified": "2025-10-12T07:30:57+00:00",
+            "datePublished": "2025-10-12T07:30:52+00:00",
+            "description": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी",
+            "image": {
+              "@id": "https://www.imagekhabar.com/news/510700/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://www.imagekhabar.com/#website"
+            },
+            "name": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी - Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://www.imagekhabar.com/news/510700/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://www.imagekhabar.com/news/510700/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+            "url": "https://www.imagekhabar.com/news/510700/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510700/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+            "height": 630,
+            "inLanguage": "en-US",
+            "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+            "width": 1200
+          },
+          {
+            "@id": "https://www.imagekhabar.com/news/510700/#breadcrumb",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "item": "https://www.imagekhabar.com/",
+                "name": "Home",
+                "position": 1
+              },
+              {
+                "@type": "ListItem",
+                "name": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी",
+                "position": 2
+              }
+            ]
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#website",
+            "@type": "WebSite",
+            "description": "Imagekhabar - Online News Portal in Nepal",
+            "inLanguage": "en-US",
+            "name": "Imagekhabar - Online News Portal of Nepal",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://www.imagekhabar.com/#organization"
+            },
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "ImageKhabar and Image Group of Companies",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "height": 480,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+              "width": 800
+            },
+            "name": "ImageKhabar and Image Group of Companies",
+            "sameAs": [
+              "https://www.facebook.com/imagekhabar.com.np",
+              "https://x.com/imagekhabar"
+            ],
+            "url": "https://www.imagekhabar.com/"
+          },
+          {
+            "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+            "@type": "Person",
+            "image": {
+              "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "ईमेजखबर",
+              "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+              "inLanguage": "en-US",
+              "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+            },
+            "name": "ईमेजखबर",
+            "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "काठमाडौं ।काठमाडौं महानगरपालिकाका प्रमुख बालेन्द्र शाह र हामी नेपाल संस्थाका संयोजक सुदन गुरुङविरुद्ध प्रहरीमा उजुरी दिएको छ । नेपाली कांग्रेसको विद्यार्थी संगठन नेविसंघले गत भदौ २३ र २४ भएको जेनजी युवा आन्दोलनमा भएको अप्रिय घटनामा उनीहरुमाथि अनुसन्धानको माग गर्दै जिल्ला प्रहरी परिसर काठमाडौं र ललितपुरमा उजुरी दिएको हो । विद्यार्थीहरुलाई आन्दोलनमा आउन उक्साएको, आगजनी र […]"
+          ],
+          [
+            "og:url",
+            "https://www.imagekhabar.com/news/510700/"
+          ],
+          [
+            "og:site_name",
+            "Imagekhabar - Online News Portal of Nepal"
+          ],
+          [
+            "og:image",
+            "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://www.imagekhabar.com/news/510700/#article",
+              "@type": "Article",
+              "articleSection": [
+                "BREAKING",
+                "राजनीति"
+              ],
+              "author": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+                "name": "ईमेजखबर"
+              },
+              "commentCount": 0,
+              "dateModified": "2025-10-12T07:30:57+00:00",
+              "datePublished": "2025-10-12T07:30:52+00:00",
+              "headline": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510700/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/news/510700/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510700/"
+              },
+              "potentialAction": [
+                {
+                  "@type": "CommentAction",
+                  "name": "Comment",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510700/#respond"
+                  ]
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+              "wordCount": 0
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510700/",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://www.imagekhabar.com/news/510700/#breadcrumb"
+              },
+              "dateModified": "2025-10-12T07:30:57+00:00",
+              "datePublished": "2025-10-12T07:30:52+00:00",
+              "description": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी",
+              "image": {
+                "@id": "https://www.imagekhabar.com/news/510700/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://www.imagekhabar.com/#website"
+              },
+              "name": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी - Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://www.imagekhabar.com/news/510700/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://www.imagekhabar.com/news/510700/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+              "url": "https://www.imagekhabar.com/news/510700/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510700/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+              "height": 630,
+              "inLanguage": "en-US",
+              "url": "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp",
+              "width": 1200
+            },
+            {
+              "@id": "https://www.imagekhabar.com/news/510700/#breadcrumb",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "item": "https://www.imagekhabar.com/",
+                  "name": "Home",
+                  "position": 1
+                },
+                {
+                  "@type": "ListItem",
+                  "name": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी",
+                  "position": 2
+                }
+              ]
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#website",
+              "@type": "WebSite",
+              "description": "Imagekhabar - Online News Portal in Nepal",
+              "inLanguage": "en-US",
+              "name": "Imagekhabar - Online News Portal of Nepal",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.imagekhabar.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://www.imagekhabar.com/#organization"
+              },
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://www.imagekhabar.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "ImageKhabar and Image Group of Companies",
+                "contentUrl": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "height": 480,
+                "inLanguage": "en-US",
+                "url": "https://www.imagekhabar.com/wp-content/uploads/2020/06/ALPHA-LOGO.png",
+                "width": 800
+              },
+              "name": "ImageKhabar and Image Group of Companies",
+              "sameAs": [
+                "https://www.facebook.com/imagekhabar.com.np",
+                "https://x.com/imagekhabar"
+              ],
+              "url": "https://www.imagekhabar.com/"
+            },
+            {
+              "@id": "https://www.imagekhabar.com/#/schema/person/ee9851c3d2d5186ca0847ef88adbaf98",
+              "@type": "Person",
+              "image": {
+                "@id": "https://www.imagekhabar.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "ईमेजखबर",
+                "contentUrl": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g",
+                "inLanguage": "en-US",
+                "url": "https://secure.gravatar.com/avatar/4c4c9582d9ac8f79354cae597731dc26?s=96&d=mm&r=g"
+              },
+              "name": "ईमेजखबर",
+              "url": "https://www.imagekhabar.com/news/author/saraswati-sunar/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "काठमाडौं ।काठमाडौं महानगरपालिकाका प्रमुख बालेन्द्र शाह र हामी नेपाल संस्थाका संयोजक सुदन गुरुङविरुद्ध प्रहरीमा उजुरी दिएको छ । नेपाली कांग्रेसको विद्यार्थी संगठन नेविसंघले गत भदौ २३ र २४ भएको जेनजी युवा आन्दोलनमा भएको अप्रिय घटनामा उनीहरुमाथि अनुसन्धानको माग गर्दै जिल्ला प्रहरी परिसर काठमाडौं र ललितपुरमा उजुरी दिएको हो । विद्यार्थीहरुलाई आन्दोलनमा आउन उक्साएको, आगजनी र […]"
+            ],
+            [
+              "og:url",
+              "https://www.imagekhabar.com/news/510700/"
+            ],
+            [
+              "og:site_name",
+              "Imagekhabar - Online News Portal of Nepal"
+            ],
+            [
+              "og:image",
+              "https://www.imagekhabar.com/wp-content/uploads/2025/10/balen-sudhan-.webp"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T07:30:52Z",
+  "source": "Image Khabar",
+  "store_path": "_store/6a/6a2755b8f2869bbd8fc82d3962be0a98e79c6a012ece17415eeeee430b87784e.json",
+  "title": "बालेन्द्र शाह र सुदन गुरुङविरुद्ध प्रहरीमा उजुरी",
+  "url": "https://www.imagekhabar.com/news/510700/",
+  "version": 1
+}

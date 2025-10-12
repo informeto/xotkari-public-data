@@ -1,0 +1,369 @@
+{
+  "author": "",
+  "content": "खबरहब\n२६ आश्विन २०८२, आइतबार\nपढ्न लाग्ने समय :\n2\nमिनेट\n15\nShares",
+  "description": "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा समाचार",
+  "domain": "khabarhub.com",
+  "enhanced": true,
+  "fetched_at": "2025-10-12T08:43:18.750764Z",
+  "id": "68816a55ea4c86bed88b70ed9e44c4a5e7497f6b3e5201ed63f7b458e69bf00a",
+  "images": [
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/Dhanteras_800X100px-01-1536x192.jpg",
+    "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-150x150.png",
+    "https://www.khabarhub.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-31-at-2.34.58-PM.jpeg",
+    "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg"
+  ],
+  "language": "en",
+  "metadata": {
+    "json_ld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://khabarhub.com/2025/12/863391/#article",
+            "@type": "Article",
+            "articleSection": [
+              "समाचार"
+            ],
+            "author": {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "name": "खबरहब"
+            },
+            "dateModified": "2025-10-12T07:59:09+00:00",
+            "datePublished": "2025-10-12T07:59:07+00:00",
+            "headline": "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863391/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/2025/12/863391/"
+            },
+            "mainEntityOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863391/"
+            },
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg",
+            "wordCount": 13
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863391/",
+            "@type": "WebPage",
+            "dateModified": "2025-10-12T07:59:09+00:00",
+            "datePublished": "2025-10-12T07:59:07+00:00",
+            "description": "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा समाचार",
+            "image": {
+              "@id": "https://khabarhub.com/2025/12/863391/#primaryimage"
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://khabarhub.com/#website"
+            },
+            "name": "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा | Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "ReadAction",
+                "target": [
+                  "https://khabarhub.com/2025/12/863391/"
+                ]
+              }
+            ],
+            "primaryImageOfPage": {
+              "@id": "https://khabarhub.com/2025/12/863391/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg",
+            "url": "https://khabarhub.com/2025/12/863391/"
+          },
+          {
+            "@id": "https://khabarhub.com/2025/12/863391/#primaryimage",
+            "@type": "ImageObject",
+            "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg",
+            "height": 1152,
+            "inLanguage": "en-US",
+            "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg",
+            "width": 2560
+          },
+          {
+            "@id": "https://khabarhub.com/#website",
+            "@type": "WebSite",
+            "description": "Nepal&#039;s Trusted News Source",
+            "inLanguage": "en-US",
+            "name": "Khabarhub",
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueName": "search_term_string",
+                  "valueRequired": true
+                },
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                }
+              }
+            ],
+            "publisher": {
+              "@id": "https://khabarhub.com/#organization"
+            },
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#organization",
+            "@type": "Organization",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/"
+            },
+            "logo": {
+              "@id": "https://khabarhub.com/#/schema/logo/image/",
+              "@type": "ImageObject",
+              "caption": "Khabarhub.com",
+              "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "height": 80,
+              "inLanguage": "en-US",
+              "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+              "width": 339
+            },
+            "name": "Khabarhub.com",
+            "sameAs": [
+              "https://www.facebook.com/khabarhubonline/",
+              "https://x.com/khabarhubonline"
+            ],
+            "url": "https://khabarhub.com/"
+          },
+          {
+            "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+            "@type": "Person",
+            "image": {
+              "@id": "https://khabarhub.com/#/schema/person/image/",
+              "@type": "ImageObject",
+              "caption": "खबरहब",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+            },
+            "name": "खबरहब",
+            "url": "https://khabarhub.com/author/newsadmin/"
+          }
+        ]
+      }
+    ],
+    "microdata": [],
+    "opengraph": [
+      {
+        "namespace": {
+          "og": "http://ogp.me/ns#"
+        },
+        "properties": [
+          [
+            "og:title",
+            "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा"
+          ],
+          [
+            "og:type",
+            "article"
+          ],
+          [
+            "og:description",
+            "दोधारा चाँदनी- शुक्लाफाँटा नगरपालिकामा आधुनिक एकीकृत फोहरमैला व्यवस्थापन केन्द्र सञ्चालनमा आएको छ ।  बजार तथा ग्रामीण क्षेत्रमा उत्सर्जन हुने फोहरमैला सङ्कलन गरेर केन्द्रमा ल्याइन्छ । केन्द्रमा रहेका सफाइकर्मीले कुहिने, नकुहिने र पुनः प्रयोग हुने फोहरलाई छुट्याएर राख्छन् ।  केन्द्रमा सङ्कलित फोहरलाई वर्गीकरण गरेपछि कुहिने फोहरबाट कम्पोस्ट मल उत्पादन गरिन्छ भने पुनः प्रयोग गर्न सकिने फोहरलाई कवाडीमा […]"
+          ],
+          [
+            "og:url",
+            "https://khabarhub.com/2025/12/863391/"
+          ],
+          [
+            "og:site_name",
+            "Khabarhub"
+          ],
+          [
+            "og:image",
+            "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg"
+          ]
+        ]
+      }
+    ],
+    "raw": {
+      "json-ld": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://khabarhub.com/2025/12/863391/#article",
+              "@type": "Article",
+              "articleSection": [
+                "समाचार"
+              ],
+              "author": {
+                "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+                "name": "खबरहब"
+              },
+              "dateModified": "2025-10-12T07:59:09+00:00",
+              "datePublished": "2025-10-12T07:59:07+00:00",
+              "headline": "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863391/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/2025/12/863391/"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863391/"
+              },
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg",
+              "wordCount": 13
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863391/",
+              "@type": "WebPage",
+              "dateModified": "2025-10-12T07:59:09+00:00",
+              "datePublished": "2025-10-12T07:59:07+00:00",
+              "description": "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा समाचार",
+              "image": {
+                "@id": "https://khabarhub.com/2025/12/863391/#primaryimage"
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://khabarhub.com/#website"
+              },
+              "name": "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा | Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "ReadAction",
+                  "target": [
+                    "https://khabarhub.com/2025/12/863391/"
+                  ]
+                }
+              ],
+              "primaryImageOfPage": {
+                "@id": "https://khabarhub.com/2025/12/863391/#primaryimage"
+              },
+              "thumbnailUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg",
+              "url": "https://khabarhub.com/2025/12/863391/"
+            },
+            {
+              "@id": "https://khabarhub.com/2025/12/863391/#primaryimage",
+              "@type": "ImageObject",
+              "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg",
+              "height": 1152,
+              "inLanguage": "en-US",
+              "url": "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg",
+              "width": 2560
+            },
+            {
+              "@id": "https://khabarhub.com/#website",
+              "@type": "WebSite",
+              "description": "Nepal&#039;s Trusted News Source",
+              "inLanguage": "en-US",
+              "name": "Khabarhub",
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueName": "search_term_string",
+                    "valueRequired": true
+                  },
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://khabarhub.com/?s={search_term_string}"
+                  }
+                }
+              ],
+              "publisher": {
+                "@id": "https://khabarhub.com/#organization"
+              },
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#organization",
+              "@type": "Organization",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/"
+              },
+              "logo": {
+                "@id": "https://khabarhub.com/#/schema/logo/image/",
+                "@type": "ImageObject",
+                "caption": "Khabarhub.com",
+                "contentUrl": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "height": 80,
+                "inLanguage": "en-US",
+                "url": "https://i0.wp.com/www.khabarhub.com/wp-content/uploads/2019/02/logo.png?fit=339%2C80&ssl=1",
+                "width": 339
+              },
+              "name": "Khabarhub.com",
+              "sameAs": [
+                "https://www.facebook.com/khabarhubonline/",
+                "https://x.com/khabarhubonline"
+              ],
+              "url": "https://khabarhub.com/"
+            },
+            {
+              "@id": "https://khabarhub.com/#/schema/person/e7150f557f77c19e3e9e088ccc9a3327",
+              "@type": "Person",
+              "image": {
+                "@id": "https://khabarhub.com/#/schema/person/image/",
+                "@type": "ImageObject",
+                "caption": "खबरहब",
+                "contentUrl": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png",
+                "inLanguage": "en-US",
+                "url": "https://www.khabarhub.com/wp-content/uploads/2019/01/logo-96x96.png"
+              },
+              "name": "खबरहब",
+              "url": "https://khabarhub.com/author/newsadmin/"
+            }
+          ]
+        }
+      ],
+      "microdata": [],
+      "opengraph": [
+        {
+          "namespace": {
+            "og": "http://ogp.me/ns#"
+          },
+          "properties": [
+            [
+              "og:title",
+              "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा"
+            ],
+            [
+              "og:type",
+              "article"
+            ],
+            [
+              "og:description",
+              "दोधारा चाँदनी- शुक्लाफाँटा नगरपालिकामा आधुनिक एकीकृत फोहरमैला व्यवस्थापन केन्द्र सञ्चालनमा आएको छ ।  बजार तथा ग्रामीण क्षेत्रमा उत्सर्जन हुने फोहरमैला सङ्कलन गरेर केन्द्रमा ल्याइन्छ । केन्द्रमा रहेका सफाइकर्मीले कुहिने, नकुहिने र पुनः प्रयोग हुने फोहरलाई छुट्याएर राख्छन् ।  केन्द्रमा सङ्कलित फोहरलाई वर्गीकरण गरेपछि कुहिने फोहरबाट कम्पोस्ट मल उत्पादन गरिन्छ भने पुनः प्रयोग गर्न सकिने फोहरलाई कवाडीमा […]"
+            ],
+            [
+              "og:url",
+              "https://khabarhub.com/2025/12/863391/"
+            ],
+            [
+              "og:site_name",
+              "Khabarhub"
+            ],
+            [
+              "og:image",
+              "https://www.khabarhub.com/wp-content/uploads/2025/10/foor-scaled.jpg"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "og_description": "",
+  "og_image": "",
+  "og_site_name": "",
+  "og_title": "",
+  "og_type": "",
+  "published_at": "2025-10-12T07:59:07Z",
+  "source": "Khabarhub",
+  "store_path": "_store/68/68816a55ea4c86bed88b70ed9e44c4a5e7497f6b3e5201ed63f7b458e69bf00a.json",
+  "title": "शुक्लाफाँटामा आधुनिक फोहर व्यवस्थापन केन्द्र सञ्चालनमा",
+  "url": "https://khabarhub.com/2025/12/863391/",
+  "version": 1
+}
